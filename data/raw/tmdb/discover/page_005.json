@@ -1,0 +1,406 @@
+{
+  "page": 5,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/86vpf0kTFk0epGRJpyemNNQbWmS.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1016848,
+      "title": "The Front Room",
+      "original_language": "en",
+      "original_title": "The Front Room",
+      "overview": "Everything goes to hell for newly-pregnant Belinda after her mother-in-law moves in. As the diabolical guest tries to get her claws on the child, Belinda must draw the line somewhere.",
+      "popularity": 2.912,
+      "poster_path": "/zjkU6mZH9dMbQK2B622MlsRT8uw.jpg",
+      "release_date": "2024-09-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.061,
+      "vote_count": 140
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/crF6INgzwVsbuFqzszjntvCP3TC.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 951029,
+      "title": "Look into My Eyes",
+      "original_language": "en",
+      "original_title": "Look into My Eyes",
+      "overview": "A group of New York City psychics conduct deeply intimate readings for their clients, revealing a kaleidoscope of loneliness, connection, and healing.",
+      "popularity": 0.707,
+      "poster_path": "/mp1UYL6Z8A5aMbQQKxyWPWwNJkU.jpg",
+      "release_date": "2024-09-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZhgYcM1Df4KScSac9BryKtC9PN.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1036573,
+      "title": "The Last of the Sea Women",
+      "original_language": "en",
+      "original_title": "The Last of the Sea Women",
+      "overview": "On the shores of Jeju Island, a fierce group of South Korean divers fight to save their vanishing culture from looming threats.",
+      "popularity": 1.3455,
+      "poster_path": "/4a75Q8ebNNqAQ8Mm4n863Gl9dOS.jpg",
+      "release_date": "2024-09-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.173,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Sl9oyD2rrFKbCWvWiHQifwOoTn.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1234597,
+      "title": "Architecton",
+      "original_language": "en",
+      "original_title": "Architecton",
+      "overview": "An extraordinary journey through the material that makes up our habitat: concrete and its ancestor, stone. Victor Kossakovsky raises a fundamental question: how do we inhabit the world of tomorrow?",
+      "popularity": 1.1259,
+      "poster_path": "/ko5fY3Y05u3rRFQUXNGyRybnxqT.jpg",
+      "release_date": "2024-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.022,
+      "vote_count": 23
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 1138194,
+      "title": "Heretic",
+      "original_language": "en",
+      "original_title": "Heretic",
+      "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+      "popularity": 6.6967,
+      "poster_path": "/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+      "release_date": "2024-10-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.977,
+      "vote_count": 2713
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/47bsGWAEtJNWMcd3oNS7TELmi6v.jpg",
+      "genre_ids": [
+        878,
+        27,
+        35
+      ],
+      "id": 1094274,
+      "title": "Y2K",
+      "original_language": "en",
+      "original_title": "Y2K",
+      "overview": "Two high school nobodies make the decision to crash the last major celebration before the new millennium on New Year's Eve 1999. The night becomes even crazier than they could have ever dreamed when the clock strikes midnight.",
+      "popularity": 3.5074,
+      "poster_path": "/qndubIQalyxBJI5EBNZKGXEX74q.jpg",
+      "release_date": "2024-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.139,
+      "vote_count": 295
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f2sHokGVEOcJI1Fkgdf21XYhok.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1082938,
+      "title": "On Becoming a Guinea Fowl",
+      "original_language": "en",
+      "original_title": "On Becoming a Guinea Fowl",
+      "overview": "On an empty road in the middle of the night, Shula stumbles across the body of her uncle. As funeral proceedings begin around them, she and her cousins bring to light the buried secrets of their middle-class Zambian family.",
+      "popularity": 0.9008,
+      "poster_path": "/6lMOpD8XVLKaB5uCsJXt1Fo7XNh.jpg",
+      "release_date": "2024-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.634,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
+      "genre_ids": [
+        10749,
+        53
+      ],
+      "id": 1097549,
+      "title": "Babygirl",
+      "original_language": "en",
+      "original_title": "Babygirl",
+      "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+      "popularity": 13.2298,
+      "poster_path": "/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+      "release_date": "2024-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.711,
+      "vote_count": 1241
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 1202479,
+      "title": "Opus",
+      "original_language": "en",
+      "original_title": "Opus",
+      "overview": "A young writer is invited to the remote compound of a legendary pop star who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.",
+      "popularity": 1.6745,
+      "poster_path": "/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+      "release_date": "2025-03-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.687,
+      "vote_count": 238
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4rLaMBcCJ1pMq72vCulBMPsbAyh.jpg",
+      "genre_ids": [
+        27,
+        14,
+        35
+      ],
+      "id": 1153714,
+      "title": "Death of a Unicorn",
+      "original_language": "en",
+      "original_title": "Death of a Unicorn",
+      "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+      "popularity": 7.8692,
+      "poster_path": "/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
+      "release_date": "2025-03-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.397,
+      "vote_count": 862
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/30jbD8Er4aB7FbfUbyZLORMDnJN.jpg",
+      "genre_ids": [
+        10752,
+        28
+      ],
+      "id": 1241436,
+      "title": "Warfare",
+      "original_language": "en",
+      "original_title": "Warfare",
+      "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+      "popularity": 6.5783,
+      "poster_path": "/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+      "release_date": "2025-04-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.081,
+      "vote_count": 1507
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        12
+      ],
+      "id": 896536,
+      "title": "The Legend of Ochi",
+      "original_language": "en",
+      "original_title": "The Legend of Ochi",
+      "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+      "popularity": 3.4614,
+      "poster_path": "/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
+      "release_date": "2025-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.157,
+      "vote_count": 325
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/28kzQaJIpF2HcXS4lcWLShZiihJ.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1229705,
+      "title": "My Mercury",
+      "original_language": "en",
+      "original_title": "My Mercury",
+      "overview": "A passionate conservationist makes a cruel pact to save endangered seabirds from extinction on an inhospitable island, alone. In the end, it's a victory for the birds, but at what price?",
+      "popularity": 0.9297,
+      "poster_path": "/1AJwxLPagG2S08j9NJlwbwMHaQ3.jpg",
+      "release_date": "2025-05-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1151031,
+      "title": "Bring Her Back",
+      "original_language": "en",
+      "original_title": "Bring Her Back",
+      "overview": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+      "popularity": 8.5591,
+      "poster_path": "/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+      "release_date": "2025-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.351,
+      "vote_count": 1778
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1136867,
+      "title": "Materialists",
+      "original_language": "en",
+      "original_title": "Materialists",
+      "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+      "popularity": 5.3849,
+      "poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "release_date": "2025-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.276,
+      "vote_count": 1361
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5PJkK2iVXRO1ydrtgwuJdevmnOe.jpg",
+      "genre_ids": [
+        37,
+        35,
+        80
+      ],
+      "id": 648878,
+      "title": "Eddington",
+      "original_language": "en",
+      "original_title": "Eddington",
+      "overview": "In May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
+      "popularity": 6.0933,
+      "poster_path": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "release_date": "2025-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.451,
+      "vote_count": 855
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/saErQCTkKbqiggCJbSltBMDD4oy.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 1242434,
+      "title": "Highest 2 Lowest",
+      "original_language": "en",
+      "original_title": "Highest 2 Lowest",
+      "overview": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
+      "popularity": 3.6851,
+      "poster_path": "/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
+      "release_date": "2025-08-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.494,
+      "vote_count": 494
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hTCr9dDf0EcBGZSUaY0YCeBjBr5.jpg",
+      "genre_ids": [
+        18,
+        36,
+        28
+      ],
+      "id": 760329,
+      "title": "The Smashing Machine",
+      "original_language": "en",
+      "original_title": "The Smashing Machine",
+      "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
+      "popularity": 4.1797,
+      "poster_path": "/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
+      "release_date": "2025-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.382,
+      "vote_count": 652
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1160360,
+      "title": "If I Had Legs I'd Kick You",
+      "original_language": "en",
+      "original_title": "If I Had Legs I'd Kick You",
+      "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
+      "popularity": 3.0017,
+      "poster_path": "/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
+      "release_date": "2025-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.339,
+      "vote_count": 363
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/51i81hCgJNTSckW6xADmaQBD48S.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1593893,
+      "title": "Made in Eddington",
+      "original_language": "en",
+      "original_title": "Made in Eddington",
+      "overview": "Made in Eddington gives a behind the scenes look at the making of Ari Aster's modern political nightmare.",
+      "popularity": 0.9554,
+      "poster_path": "/9W5JYgNTrJt3ax8QLUjVxEmXFTq.jpg",
+      "release_date": "2025-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 9,
+  "total_results": 172
+}

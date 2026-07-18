@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fcm21Y2a5XfnsNsHiP1qGRY4IBt.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 124461,
+      "title": "A Glimpse Inside the Mind of Charles Swan III",
+      "original_language": "en",
+      "original_title": "A Glimpse Inside the Mind of Charles Swan III",
+      "overview": "Charles Swan III, a successful graphic designer, has it all: fame, money and devilish charm that have provided him with a seemingly perfect life. But when a perplexing beauty named Ivana suddenly ends their relationship, Charles is left heartbroken. With the support of his loyal intimates - Kirby, Saul, and his sister, Izzy – Charles begins a delirious journey of self-reflection to try and come to terms with a life without Ivana. \"A Glimpse Inside the Mind of Charles Swan III\" is an unconventional melodrama told in a bold and playful style.",
+      "popularity": 1.0885,
+      "poster_path": "/bFI9LR2Bw0R57aobRLiN08rWtpn.jpg",
+      "release_date": "2013-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.146,
+      "vote_count": 106
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

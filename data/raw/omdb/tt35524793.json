@@ -1,0 +1,36 @@
+{
+  "Title": "The Moment",
+  "Year": "2026",
+  "Rated": "R",
+  "Released": "06 Feb 2026",
+  "Runtime": "103 min",
+  "Genre": "Comedy, Drama, Thriller",
+  "Director": "Aidan Zamiri",
+  "Writer": "Aidan Zamiri, Bertie Brandes, Charli XCX",
+  "Actors": "Charli XCX, Francesca Faridany, Errol Barnett",
+  "Plot": "A rising pop star navigates the complexities of fame and industry pressure while preparing for her arena tour debut.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjQ4Y2QzOTgtODQ5MS00ZjVkLWEwOGUtNDZhYzJjODIzOTIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "6.1",
+  "imdbVotes": "3,960",
+  "imdbID": "tt35524793",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$3,917,782",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

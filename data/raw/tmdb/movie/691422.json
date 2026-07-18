@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/sx8dsHlsZAoT1BbWDwFGDgWAOlZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://a24films.com/films/when-you-finish-saving-the-world",
+  "id": 691422,
+  "imdb_id": "tt12121582",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "When You Finish Saving the World",
+  "overview": "Evelyn and her oblivious son Ziggy seek out replacements for each other. As Evelyn tries to parent an unassuming teenager at her shelter, Ziggy fumbles through his pursuit of a brilliant young woman at school.",
+  "popularity": 1.664,
+  "poster_path": "/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",
+  "production_companies": [
+    {
+      "id": 138287,
+      "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+      "name": "Fruit Tree",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-01-20",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "When You Finish Saving the World",
+  "video": false,
+  "vote_average": 5.807,
+  "vote_count": 137,
+  "external_ids": {
+    "imdb_id": "tt12121582",
+    "wikidata_id": "Q105438429",
+    "facebook_id": "whenyoufinishsavingtheworld",
+    "instagram_id": "whenyoufinishsavingtheworld",
+    "twitter_id": "savingtheworld"
+  }
+}

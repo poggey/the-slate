@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/eFpSaFzmP916Vf0QdEJSE9M0uOO.jpg",
+      "genre_ids": [
+        18,
+        36,
+        37
+      ],
+      "id": 396373,
+      "title": "Woman Walks Ahead",
+      "original_language": "en",
+      "original_title": "Woman Walks Ahead",
+      "overview": "Based on a true story, this riveting western follows a headstrong New York widow as she journeys west to meet Sioux chief Sitting Bull, facing off with an army officer intent on war with Native Americans.",
+      "popularity": 1.8507,
+      "poster_path": "/qI5NcQHR0nsykPqlG2qnfFyMgW6.jpg",
+      "release_date": "2018-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.754,
+      "vote_count": 207
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

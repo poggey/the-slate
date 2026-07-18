@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/2Yy6GdTEJAmVeXf1GApD70nrZq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://mubi.com/films/medusa-deluxe",
+  "id": 935903,
+  "imdb_id": "tt14773478",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Medusa Deluxe",
+  "overview": "Talented and cutthroat hairstylists at a competition find one of their own murdered before judging can begin. Winding through neon-lit halls, competitors unspool long-simmering resentments and lies as they search for the killer among them.",
+  "popularity": 1.1053,
+  "poster_path": "/hcuNu3dXNHjWOtcy0WtKU1rSW3Y.jpg",
+  "production_companies": [
+    {
+      "id": 74063,
+      "logo_path": "/xnsCQCEwUhofmWgBMzzPqhxJOhT.png",
+      "name": "EMU Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 178336,
+      "logo_path": "/mx7KbHOYeb1fECkaYwF8kuPGZ1.png",
+      "name": "Time Based Arts",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-06-08",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Murder. Obsession. Hairdressing.",
+  "title": "Medusa Deluxe",
+  "video": false,
+  "vote_average": 6.091,
+  "vote_count": 55,
+  "external_ids": {
+    "imdb_id": "tt14773478",
+    "wikidata_id": "Q116214218",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

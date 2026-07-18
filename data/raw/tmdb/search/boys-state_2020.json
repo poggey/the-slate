@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pQfqBfO1UIXz3rSOJN6WbyDW4k4.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 653723,
+      "title": "Boys State",
+      "original_language": "en",
+      "original_title": "Boys State",
+      "overview": "This raucous journey into the heart of democracy captures an unusual rite of passage: 1,100 teenage boys from across Texas coming together to build a representative government from the ground up.",
+      "popularity": 0.9142,
+      "poster_path": "/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg",
+      "release_date": "2020-01-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.085,
+      "vote_count": 112
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

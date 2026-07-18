@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/xl1qwCGckM7lCYcCenYnuvZr2J1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/iplayer/episode/m000l442/strasbourg-1518",
+  "id": 722815,
+  "imdb_id": "tt12748016",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Strasbourg 1518",
+  "overview": "Inspired by a powerful involuntary mania which took hold of citizens in the city of Strasbourg just over five hundred years ago, this film is a collaboration in isolation with some of the greatest dancers working today.",
+  "popularity": 0.2597,
+  "poster_path": "/uMKUZOtfjcWqOzWSJZoK24kctg.jpg",
+  "production_companies": [
+    {
+      "id": 54030,
+      "logo_path": "/xByssKLJXiLHX5QJl7icVqCeG8r.png",
+      "name": "Academy Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12935,
+      "logo_path": "/rml1bBbFJ33HE0rTrkNpuFVfpAQ.png",
+      "name": "BBC Arts",
+      "origin_country": "GB"
+    },
+    {
+      "id": 22302,
+      "logo_path": null,
+      "name": "Artangel Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2020-07-20",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The minds of the choreomaniacs were drawn inwards, tossed about on the violent seas of their deepest fears.",
+  "title": "Strasbourg 1518",
+  "video": false,
+  "vote_average": 5.735,
+  "vote_count": 34,
+  "external_ids": {
+    "imdb_id": "tt12748016",
+    "wikidata_id": "Q99263973",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

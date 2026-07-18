@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/eEPR1HjWQEPzvrqGtSCxmzlsmin.jpg",
+  "belongs_to_collection": {
+    "id": 583369,
+    "name": "The Souvenir Collection",
+    "poster_path": "/miSViZgs73x0ABeSgjRtR828Sh2.jpg",
+    "backdrop_path": "/qyuQO7rqQYzwJoXgBTIBWhN0cuP.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://a24films.com/films/the-eternal-daughter",
+  "id": 790867,
+  "imdb_id": "tt13874422",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Eternal Daughter",
+  "overview": "An artist and her elderly mother confront long-buried secrets when they return to a former family home, now a hotel haunted by its mysterious past.",
+  "popularity": 1.1698,
+  "poster_path": "/kyv8tPXx3mKchYzVmA3VckKoJDi.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 103727,
+      "logo_path": null,
+      "name": "JWH Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3353,
+      "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+      "name": "Element Pictures",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-12-02",
+  "revenue": 568330,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An exquisite ghost story.",
+  "title": "The Eternal Daughter",
+  "video": false,
+  "vote_average": 5.948,
+  "vote_count": 134,
+  "external_ids": {
+    "imdb_id": "tt13874422",
+    "wikidata_id": "Q105227223",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

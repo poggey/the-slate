@@ -1,0 +1,40 @@
+{
+  "Title": "Slice",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "11 Sep 2018",
+  "Runtime": "83 min",
+  "Genre": "Comedy, Crime, Fantasy",
+  "Director": "Austin Vesely",
+  "Writer": "Austin Vesely",
+  "Actors": "Zazie Beetz, Chance the Rapper, Rae Gray",
+  "Plot": "When a pizza delivery driver is murdered on the job, the city searches for someone to blame: Ghosts? Drug dealers? A disgraced werewolf?",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 2 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1MTA0NzAwNF5BMl5BanBnXkFtZTgwNDE2MzEzNjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "52%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Metascore": "61",
+  "imdbRating": "4.5",
+  "imdbVotes": "4,117",
+  "imdbID": "tt4411234",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

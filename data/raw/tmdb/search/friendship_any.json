@@ -1,0 +1,396 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/c4gD4bwVRpDhyQfxcsavx5JuvqT.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 35217,
+      "title": "Friendship!",
+      "original_language": "de",
+      "original_title": "Friendship!",
+      "overview": "A young man from East Germany travels to San Francisco to search for his father, who fled 12 years ago. Together with his best friend, he starts the journey from New York with no money and the only word they ever learned in english-lessons: \"friendship\".",
+      "popularity": 1.3148,
+      "poster_path": "/a9wd9gJyEHrUVT4FuLfCADhmDzw.jpg",
+      "release_date": "2010-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.266,
+      "vote_count": 139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1239655,
+      "title": "Friendship",
+      "original_language": "en",
+      "original_title": "Friendship",
+      "overview": "Suburban dad Craig falls hard for his charismatic new neighbor Austin, and his attempts to make an adult male friend threatens to ruin both of their lives.",
+      "popularity": 1.3615,
+      "poster_path": "/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+      "release_date": "2025-05-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.396,
+      "vote_count": 298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ekZ7j7ElSFurRgqSalcP622YGrE.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 296360,
+      "title": "Love & Friendship",
+      "original_language": "en",
+      "original_title": "Love & Friendship",
+      "overview": "From Jane Austen’s novella, the beautiful and cunning Lady Susan Vernon visits the estate of her in-laws to wait out colorful rumors of her dalliances and to find husbands for herself and her daughter. Two young men, handsome Reginald DeCourcy and wealthy Sir James Martin, severely complicate her plans.",
+      "popularity": 1.0205,
+      "poster_path": "/ptpdUQiRjeHgE1dmpCd38N64ENV.jpg",
+      "release_date": "2016-05-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.054,
+      "vote_count": 597
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 422997,
+      "title": "Friendship",
+      "original_language": "ja",
+      "original_title": "友情 -Friendship-",
+      "overview": "Fourteen-year old student Ayumi has leukemia and starts losing hair. She becomes depressed but receives overwhelming support from her classmates when they all shave their heads for her.",
+      "popularity": 0.4198,
+      "poster_path": "/orPDC2nvytEoJahFzqO3eWqDyg.jpg",
+      "release_date": "1998-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 1150674,
+      "title": "Friendship",
+      "original_language": "zh",
+      "original_title": "江湖之义字当先",
+      "overview": "",
+      "popularity": 0.1398,
+      "poster_path": "/ocU26F4NUq3H5UVyGe5S3UO3jo0.jpg",
+      "release_date": "2016-08-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 105610,
+      "title": "Friendship",
+      "original_language": "de",
+      "original_title": "Freundschaft",
+      "overview": "After the death of the legendary trade unionist and red veteran Peppi Schober, his bereaved family members, a steadfast father and his ideology-free son, finally clear the table and settle accounts: with fifty years of political, contemporary and family history, with ideologies, illusions - and above all with each other.",
+      "popularity": 0.9488,
+      "poster_path": null,
+      "release_date": "2006-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1472110,
+      "title": "Friendship",
+      "original_language": "ja",
+      "original_title": "友情",
+      "overview": "This is a story about the emotional connection between a young man with no clear purpose and a middle-aged man who abandoned his wife, children, and hometown but is hiding his pain inside.",
+      "popularity": 0.1447,
+      "poster_path": "/lGZ388NikdGmC7RRSmW2MKkUQHE.jpg",
+      "release_date": "1975-11-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        18,
+        53,
+        10770
+      ],
+      "id": 1026276,
+      "title": "Fatal Friendship",
+      "original_language": "en",
+      "original_title": "Fatal Friendship",
+      "overview": "A man begins suspecting that his best friend may be involved in an international crime ring.",
+      "popularity": 0.666,
+      "poster_path": "/1q9P0jpzs4R7O11X20sxB6rezE7.jpg",
+      "release_date": "1991-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wLDtXgRy0e9oU000YnjgG1V8jHj.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 66956,
+      "title": "This Special Friendship",
+      "original_language": "fr",
+      "original_title": "Les Amitiés particulières",
+      "overview": "A tale of the tender relationship between a twelve-year-old boy and the fourteen-year-old upperclassman who is the object of his desire, all set within the rigid atmosphere of a Jesuit-run school.",
+      "popularity": 2.2738,
+      "poster_path": "/c46p1ZHudea0jJ0Fl1BlsUKbME4.jpg",
+      "release_date": "1964-09-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 82
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 1173528,
+      "title": "Friendship",
+      "original_language": "en",
+      "original_title": "Friendship",
+      "overview": "Friendship is the story of two childhood friends who bond together despite their different personalities and ethnicities. The short film spans their lifelong journey and portrays how they sustain their connection through challenges, celebrations, and the test of time.",
+      "popularity": 0.2314,
+      "poster_path": "/wgGgVJW3vxg32f1EqyFDwSlzqg2.jpg",
+      "release_date": "2022-10-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rBcou70OBT0F9s1O5gVh7wCZUKl.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 255681,
+      "title": "Accidental Friendship",
+      "original_language": "en",
+      "original_title": "Accidental Friendship",
+      "overview": "Homeless woman Yvonne Caldwell is a woman with good reason to be bitter: she has lost everything except her two beloved dogs, Bebe and Man-Man. With her one friend, Wes, Caldwell lives the daily struggle of being homeless in Los Angeles until a chance encounter caused by her dogs leads to a friendship with LAPD officer Tami Baumann, and hope for a better life begins in earnest for Yvonne.",
+      "popularity": 0.3568,
+      "poster_path": "/bW6S9ludpTcvQiFqXFsgpY58NRB.jpg",
+      "release_date": "2008-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 305110,
+      "title": "Friendship",
+      "original_language": "en",
+      "original_title": "Friendship",
+      "overview": "A short drama film Directed by Eugene Walter to publicize the new talkie craze.",
+      "popularity": 0.1418,
+      "poster_path": null,
+      "release_date": "1929-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y8bExPnbhthpLfG89OcgKKNzIlW.jpg",
+      "genre_ids": [],
+      "id": 899318,
+      "title": "Friendship",
+      "original_language": "hi",
+      "original_title": "यारी हो तो ऐसी Friendship",
+      "overview": "Set in college, Friendship is an emotional saga where two friends go out of their way to help a girl get justice, who is sexually abused and killed by goons. Will they succeed? After all, justice delayed is justice denied.",
+      "popularity": 0.0913,
+      "poster_path": "/sUvKyEV2UCzR9mIAg8EUP2veJNh.jpg",
+      "release_date": "2021-11-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zjkhse5DnX3jta2BNzOMcGsfEur.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 96586,
+      "title": "Friendship",
+      "original_language": "nl",
+      "original_title": "De Vriendschap",
+      "overview": "Two friends meet again in the autumn of their lives. They have not seen each other for years, but soon find their renewed friendship put to the test when one of them falls ill and the other loses his newfound love.",
+      "popularity": 0.2969,
+      "poster_path": "/xGYmW5REGiGB58eykhQJfqJNBjI.jpg",
+      "release_date": "2001-07-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1xi4P2uBTwOdP4qpZl0EDZKzscl.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1614083,
+      "title": "Friendship",
+      "original_language": "it",
+      "original_title": "Friendship",
+      "overview": "Two girls become friends while waiting for the bus.",
+      "popularity": 0.0476,
+      "poster_path": "/26rb3eaVgpQ4Z94xG2Rl3XPBXSt.jpg",
+      "release_date": "2025-07-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8K0dyYEr2xwoEbsKLuq1xz7Q9vx.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 72743,
+      "title": "Friendship",
+      "original_language": "th",
+      "original_title": "เฟรนด์ชิพ เธอกับฉัน",
+      "overview": "Adult Singha receives a call from Jack, a friend from school. Jack sets up a high school reunion where young Singha meets with the rest of his buddies from back in the day.",
+      "popularity": 0.2738,
+      "poster_path": "/iqvrN06eV8ruogGjULN3IAjLKtH.jpg",
+      "release_date": "2008-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1451210,
+      "title": "friendship",
+      "original_language": "en",
+      "original_title": "friendship",
+      "overview": "The collective farmers of the village of Shromya host a delegation of Ukrainian collective farmers who have arrived to conclude an agreement on a socialist competition. A cordial friendship is established between them. Later, Georgian collective farmers also visit Ukraine. The competition increases the labor activity of the collective farmers, and both collective farms receive a high harvest. The celebration of labor is also accompanied by a wedding between a Georgian young man and a Ukrainian girl, who have long liked each other.",
+      "popularity": 0.0256,
+      "poster_path": "/x6XY9xObCWtBOl1aZZKDvHr4WmZ.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1077175,
+      "title": "Friendship",
+      "original_language": "en",
+      "original_title": "Friendship",
+      "overview": "A story of love in the time of COVID.",
+      "popularity": 0.0301,
+      "poster_path": "/g5m7DI2qziczHRmy6a8NnSpeTih.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 1382415,
+      "title": "Friendship",
+      "original_language": "ka",
+      "original_title": "მეგობრობა",
+      "overview": "The film vividly tells us about the socialist competition between the Georgian and Ukrainian Kolmeurnei, which will grow into a cordial friendship and rise through hard work. In this solemn situation, the marriage of a Georgian young man and a Ukrainian girl, who have liked each other for a long time, is also celebrated.",
+      "popularity": 1.0217,
+      "poster_path": "/x6XY9xObCWtBOl1aZZKDvHr4WmZ.jpg",
+      "release_date": "1941-03-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1039725,
+      "title": "Friendship Bracelet",
+      "original_language": "en",
+      "original_title": "Friendship Bracelet",
+      "overview": "Lonely Julie goes to deadly lengths to make two popular girls at school her best friends.",
+      "popularity": 0.5904,
+      "poster_path": "/w1Zop4jtf5NvqVQvT84Sxq6Tq5K.jpg",
+      "release_date": "2018-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 5
+    }
+  ],
+  "total_pages": 16,
+  "total_results": 303
+}

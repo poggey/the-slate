@@ -1,0 +1,40 @@
+{
+  "Title": "A Different Man",
+  "Year": "2024",
+  "Rated": "R",
+  "Released": "04 Oct 2024",
+  "Runtime": "112 min",
+  "Genre": "Drama, Thriller",
+  "Director": "Aaron Schimberg",
+  "Writer": "Aaron Schimberg",
+  "Actors": "Sebastian Stan, Renate Reinsve, Adam Pearson",
+  "Plot": "An aspiring actor undergoes a radical medical procedure to drastically transform his appearance, but his new dream face quickly turns into a nightmare.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 9 wins & 58 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "6.9",
+  "imdbVotes": "36,893",
+  "imdbID": "tt21097228",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$654,254",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/h5HzPvqOwLksuBC8JoG15ZaRfGd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://a24films.com/films/morris-from-america",
+  "id": 352890,
+  "imdb_id": "tt3652862",
+  "origin_country": [
+    "DE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Morris from America",
+  "overview": "13-year-old Morris Gentry has just relocated with his single father, Curtis to Heidelberg, Germany. Morris, who fancies himself the next Notorious B.I.G., is a complete fish-out-of-water—a budding hip-hop star in an EDM world. To complicate matters further, Morris quickly falls hard for his cool, rebellious, 15-year-old classmate Katrin. Morris sets out against all odds to take the hip-hop world by storm and win the girl of his dreams.",
+  "popularity": 0.6486,
+  "poster_path": "/i3mFOlegdIaeZY8qHvZEtcYd8Te.jpg",
+  "production_companies": [
+    {
+      "id": 56403,
+      "logo_path": "/uXT3YDtWe3lvMullnwk51l4UikF.png",
+      "name": "Beachside Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 65803,
+      "logo_path": null,
+      "name": "Lichtblick Media",
+      "origin_country": "DE"
+    },
+    {
+      "id": 41653,
+      "logo_path": "/xUpb9kIB7024PW0PW55NHmfAV6D.png",
+      "name": "INDI FILM",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2016-08-19",
+  "revenue": 91151,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nothing rhymes with Germany",
+  "title": "Morris from America",
+  "video": false,
+  "vote_average": 6.165,
+  "vote_count": 118,
+  "external_ids": {
+    "imdb_id": "tt3652862",
+    "wikidata_id": "Q22166603",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

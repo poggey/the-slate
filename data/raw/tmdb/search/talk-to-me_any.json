@@ -1,0 +1,379 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1008042,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+      "popularity": 9.5432,
+      "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+      "release_date": "2023-07-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.142,
+      "vote_count": 3816
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 567201,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "Richard, a successful New York accountant, has a chronic stuttering problem that causes great exhaustion and personal strife for him. After trying a number of different therapies to alleviate his condition, Richard travels to Roanoke, Virginia, where he enters the Hollins Institute, a treatment center devoted to the research and cure for stuttering. Here, Richard's painful memories form the core of this poignant drama.",
+      "popularity": 0.5384,
+      "poster_path": "/5rUgQbx2pIJjLiiwAFe8P80qOKP.jpg",
+      "release_date": "1984-01-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7v7NGRbRcih7vItQluyjBOGQsz7.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 6535,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "The story of Washington D.C. radio personality Ralph \"Petey\" Greene, an ex-con who became a popular talk show host and community activist in the 1960s.",
+      "popularity": 0.7749,
+      "poster_path": "/pT5BkLuOXhUXB2W1mOhQFVj3yB5.jpg",
+      "release_date": "2007-07-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.832,
+      "vote_count": 134
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/T7IEvwtzfD3vEJxj8aXnAw4B2v.jpg",
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 220161,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "An idealistic talk show producer clashes with her ratings obsessed boss on a story involving a young prostitute.",
+      "popularity": 0.4626,
+      "poster_path": "/A6AIKsq5P1U94tTgxMcyEGfC8UV.jpg",
+      "release_date": "1996-10-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/teR6KWAmoNizWAK5jDn8kQJgg9W.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 567539,
+      "title": "Talk to Me, Dicky",
+      "original_language": "cn",
+      "original_title": "細佬識講野!",
+      "overview": "A policeman learns to talk to his penis (which can talk to other men's penises) and his penis helps him investigate a rape case.",
+      "popularity": 1.7246,
+      "poster_path": "/gM5YDIYJ4gpoewVe9IoB27dFKYt.jpg",
+      "release_date": "1992-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1330345,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "Matthew and his wife are deeply suspicious of psychoanalysis. It's not their sort of thing at all.",
+      "popularity": 0.2165,
+      "poster_path": "/aUKyLVLxlikvL0UlbyjuThGes9u.jpg",
+      "release_date": "1984-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/x0YPGUXhdqMpndZRrEKasBYaPrZ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1463098,
+      "title": "Talk to Me in Silence",
+      "original_language": "en",
+      "original_title": "Talk to Me in Silence",
+      "overview": "A nostalgic woman confronts a stranger in her house, one who ultimately reveals their shared history and the love they have for one another.",
+      "popularity": 0.7607,
+      "poster_path": "/b6vxUKagunUdeLvtQvqQ3Mjx6CM.jpg",
+      "release_date": "2023-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 790498,
+      "title": "Talk To Me",
+      "original_language": "en",
+      "original_title": "Talk To Me",
+      "overview": "In 1985, Mark Craig bought an answer machine. He then kept every message it recorded - for 20 years",
+      "popularity": 0.1107,
+      "poster_path": "/dml4Y6drmzq33PsvRLEwf9TsTNC.jpg",
+      "release_date": "2006-08-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1401598,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "A short film that touches on the phenomena around the belief that plants can feel, hear and respond to different forms of communication. This film explores the theory of plant communication and the inter-connectedness some feel to plant life and it’s sense of place within our world; a world where signs of life are usually attributed to timely motion and auditory responses.",
+      "popularity": 0.0892,
+      "poster_path": "/vfSY507JrItDfsNho1HmVbuTR0X.jpg",
+      "release_date": "2024-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 466628,
+      "title": "Talk to me",
+      "original_language": "en",
+      "original_title": "Talk to me",
+      "overview": "A dark, clear fountain reveals insights to colorful sediments of data.  Continuously drifting, weaving and organizing, each stone carries  memories of encounters filled with joy, sadness and fear.",
+      "popularity": 0.0875,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1327763,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Talk to Me",
+      "overview": "A group of friends learns the secret of conjuring spirits. Using an embalmed hand, the group is hooked on this new thrilling pastime that seems like spooky fun but nothing more. Using their terrifying totem, each member of the group is briefly possessed by a spirit before it is banished again. But when one of the group holds on for too long, an unidentified supernatural force is unleashed causing horrifying consequences.",
+      "popularity": 0.0168,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 87286,
+      "title": "Talk To Me",
+      "original_language": "en",
+      "original_title": "Talk To Me",
+      "overview": "",
+      "popularity": 0.1997,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1283717,
+      "title": "Talk to Me",
+      "original_language": "ja",
+      "original_title": "Talk to Me",
+      "overview": "Fumi lives alone in a big city, longing for connection. Unexpectedly, a call from a sad stranger changes both their worlds.",
+      "popularity": 0.0292,
+      "poster_path": "/nh9OY7TLjRdjs0LoON1EgH5QMLF.jpg",
+      "release_date": "2023-10-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AnV8SUecu2AHf0moME3qWpk59NS.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1118584,
+      "title": "Talk to Me",
+      "original_language": "ar",
+      "original_title": "ABWAB (أبواب)",
+      "overview": "Farid, who works abroad, locks himself on the last day of his stay in Beirut in his son Rawad's room, to find what he is hiding there. Separated by a locked door, the dysfunctional dynamic between them intensifies, and the past resurfaces.",
+      "popularity": 0.4147,
+      "poster_path": "/9t7gUKSxXjvQpgHdC7VUhJ1BTBK.jpg",
+      "release_date": "2022-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1035088,
+      "title": "Talk to Me",
+      "original_language": "ru",
+      "original_title": "Поговори со мной",
+      "overview": "",
+      "popularity": 0.0338,
+      "poster_path": null,
+      "release_date": "2022-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1hXOaNpqPHC0K1eR56JdIwttEGT.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 986259,
+      "title": "Talk to Me",
+      "original_language": "de",
+      "original_title": "Sprich mit mir",
+      "overview": "Karo is freshly separated and is struggling with her nonexistent relationship with her father. When her mother wants to go on vacation with her to Rügen, Karo suspects there is again some failed love affair behind it.",
+      "popularity": 0.3107,
+      "poster_path": "/hR8a04UqKM99ZMTiL9d7yNNcpQR.jpg",
+      "release_date": "2023-10-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.625,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 898346,
+      "title": "Talk Nerdy to Me",
+      "original_language": "en",
+      "original_title": "Talk Nerdy to Me",
+      "overview": "Talk Nerdy to Me is a comedy that has real life issues teenagers deal with today. Bullying, homosexuality, teen pregnancy, betrayal, and more.",
+      "popularity": 0.5379,
+      "poster_path": "/fjS00V6GdxlYunhr6dqkgTpXyno.jpg",
+      "release_date": "2016-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1668602,
+      "title": "Come Talk To ME",
+      "original_language": "en",
+      "original_title": "Come Talk To ME",
+      "overview": "Imagine you have a disease likely to leave you unable to talk or write. “Come Talk To ME” shows Parkinson's disease (PD) activist Jackie Christensen, husband Paul and friends with PD reflecting on how it has affected their own  speech and relationships.",
+      "popularity": 0.0434,
+      "poster_path": null,
+      "release_date": "2026-04-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1534479,
+      "title": "Talk to Me",
+      "original_language": "en",
+      "original_title": "Говори зі мною",
+      "overview": "Serhiy talks to his father almost every day, but only on the phone. They haven't seen each other for seven years. The main character refuses to take the first step and waits for his father to do so. However, upon learning that his father is seriously ill, he overcomes his principles and goes to his father for support. But there, an unexpected blow awaits him. Based on the novel by Yaroslav Melnyk.",
+      "popularity": 0.1652,
+      "poster_path": "/zlv2puXfd4UPEXWpRoST46MxBcO.jpg",
+      "release_date": "2018-02-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 1556508,
+      "title": "Talk to Me",
+      "original_language": "pl",
+      "original_title": "Mów do mnie",
+      "overview": "A stop-motion animated film created by a Ukrainian artist living in Poland. Based on her own picture book of the same title, it addresses the difficult theme of depression in the family, told from a child’s perspective. The protagonists are a child and a mother struggling with depression. The child notices changes in the mother’s behavior, tries to understand what is happening, looks for ways to help, and at times takes on responsibility.",
+      "popularity": 0.0306,
+      "poster_path": null,
+      "release_date": "2025-11-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 3,
+  "total_results": 46
+}

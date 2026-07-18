@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://a24films.com/films/the-moment",
+  "id": 1422562,
+  "imdb_id": "tt35524793",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Moment",
+  "overview": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground culture into mainstream success.",
+  "popularity": 2.6648,
+  "poster_path": "/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+  "production_companies": [
+    {
+      "id": 251194,
+      "logo_path": "/7nVN7amzP6W7G4wXekGzxwT83SI.png",
+      "name": "Studio365",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 65827,
+      "logo_path": "/ztmpPuqN85InzAin8A3u0woCvbk.png",
+      "name": "Atlantic Records",
+      "origin_country": "US"
+    },
+    {
+      "id": 280955,
+      "logo_path": "/b7EkdDavF2Q1TN08mgapQ7zgvzx.png",
+      "name": "Good World",
+      "origin_country": "US"
+    },
+    {
+      "id": 158407,
+      "logo_path": "/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png",
+      "name": "2AM",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-30",
+  "revenue": 5168044,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "and it's a movie about brat and charli and a tour but none of it happened but maybe some of it did.",
+  "title": "The Moment",
+  "video": false,
+  "vote_average": 6.287,
+  "vote_count": 68,
+  "external_ids": {
+    "imdb_id": "tt35524793",
+    "wikidata_id": "Q133341560",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

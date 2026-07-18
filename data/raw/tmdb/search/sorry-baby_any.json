@@ -1,0 +1,119 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nVHEjkA8vuEGJLfNUOmVW5md6yn.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1205515,
+      "title": "Sorry, Baby",
+      "original_language": "en",
+      "original_title": "Sorry, Baby",
+      "overview": "Agnes feels stuck. Unlike her best friend, Lydie, who’s moved to New York and is now expecting a baby, Agnes still lives in the New England house they once shared as graduate students, now working as a professor at her alma mater. A ‘bad thing’ happened to Agnes a few years ago and, since then, despite her best efforts, life hasn’t gotten back on track.",
+      "popularity": 2.4046,
+      "poster_path": "/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg",
+      "release_date": "2025-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.804,
+      "vote_count": 313
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wBFdG5oNZIT2YBtn5NZhwiUTgSl.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 77099,
+      "title": "Sorry Baby",
+      "original_language": "zh",
+      "original_title": "没完没了",
+      "overview": "The film tells of the attempts made by a Beijing van driver to obtain his wage arrears from travel agency boss even to the point of kidnapping the latter's Singaporean girlfriend (Jacklyn Wu).",
+      "popularity": 1.1777,
+      "poster_path": "/p5fNcoCcBBCdpaFTvGjerV1wXtg.jpg",
+      "release_date": "1999-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1177530,
+      "title": "Sorry, Baby",
+      "original_language": "zh",
+      "original_title": "宝贝，对不起",
+      "overview": "",
+      "popularity": 0.2474,
+      "poster_path": "/ywKGajs4X5pEvzP211WdSclT4qC.jpg",
+      "release_date": "2015-01-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 868712,
+      "title": "Stefano Keizers: Sorry Baby",
+      "original_language": "nl",
+      "original_title": "Stefano Keizers: Sorry Baby",
+      "overview": "Video registration of the second comedy special by the Dutch comedian Stefano Keizers. In Keizers' own words, 'Sorry Baby' is 'an art performance that tries to approach a regular comedy special as closely as possible'.",
+      "popularity": 0.5225,
+      "poster_path": "/n7PtGR225ImbRFeUS03afu3FqLY.jpg",
+      "release_date": "2021-08-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1078427,
+      "title": "I'm Sorry Baby!",
+      "original_language": "en",
+      "original_title": "I'm Sorry Baby!",
+      "overview": "A couple finds happiness in northeast Ohio.",
+      "popularity": 0.0025,
+      "poster_path": null,
+      "release_date": "2014-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1352388,
+      "title": "I’m So Sorry Baby",
+      "original_language": "en",
+      "original_title": "I’m So Sorry Baby",
+      "overview": "The film centers Mars, a trans black person who is struggling to come to terms with their identity within their relationship. The film explores themes of transness, heartbreak, identity, and discovering a new reflection.",
+      "popularity": 0.1879,
+      "poster_path": "/hf57dLYI9GyB2y41Sx4kA6wBFKQ.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 6
+}

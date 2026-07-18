@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/rBYrtkAy9YtRuFpX1g6JbcjRT8h.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 1287141,
+      "title": "Pillion",
+      "original_language": "en",
+      "original_title": "Pillion",
+      "overview": "Colin, a timid gay man, is swept off his feet when Ray, an enigmatic and impossibly handsome biker, takes him on as his submissive in a crazy and erotic BDSM-focused relationship.",
+      "popularity": 16.5697,
+      "poster_path": "/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
+      "release_date": "2025-11-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.424,
+      "vote_count": 269
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10770
+      ],
+      "id": 1216180,
+      "title": "Pillion",
+      "original_language": "en",
+      "original_title": "Pillion",
+      "overview": "Developed by Paul Copley from his own 1977 stage play, Pillion tells the story of motorbike enthusiast Fenton and his friends, meeting in a rural shed. Recorded in the first half of 1979 for the BBC's Play for Today, the finished play was never broadcast.",
+      "popularity": 0.8716,
+      "poster_path": "/3fJwchkdpePQGGU3p3FyhgBns7F.jpg",
+      "release_date": "1979-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

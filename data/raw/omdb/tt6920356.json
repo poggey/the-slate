@@ -1,0 +1,40 @@
+{
+  "Title": "The Souvenir",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "07 Jun 2019",
+  "Runtime": "120 min",
+  "Genre": "Drama, Romance",
+  "Director": "Joanna Hogg",
+  "Writer": "Joanna Hogg",
+  "Actors": "Tom Burke, Tilda Swinton, Frankie Wilson",
+  "Plot": "A young film student in the early '80s becomes romantically involved with a complicated and untrustworthy man.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "7 wins & 38 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NjY3NDYzN15BMl5BanBnXkFtZTgwOTUxNzg0NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "Metascore": "92",
+  "imdbRating": "6.4",
+  "imdbVotes": "15,283",
+  "imdbID": "tt6920356",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,036,737",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

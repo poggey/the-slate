@@ -1,0 +1,397 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/kIu6aYaUxBUUfJ0l0sLNW1qh45u.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 473019,
+      "title": "The Souvenir",
+      "original_language": "en",
+      "original_title": "The Souvenir",
+      "overview": "A shy but ambitious film student falls into an intense, emotionally fraught relationship with a charismatic but untrustworthy older man.",
+      "popularity": 3.604,
+      "poster_path": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "release_date": "2019-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.068,
+      "vote_count": 285
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jyXmcVTExHdtAmil5nldFMGlJd0.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 473021,
+      "title": "The Souvenir: Part II",
+      "original_language": "en",
+      "original_title": "The Souvenir: Part II",
+      "overview": "In the aftermath of her tumultuous relationship with a charismatic and manipulative older man, Julie begins to untangle her fraught love for him in making her graduation film, sorting fact from his elaborately constructed fiction.",
+      "popularity": 1.9385,
+      "poster_path": "/fYNvmZ1vW7bNcUhrAzYjUBgKJWP.jpg",
+      "release_date": "2021-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.439,
+      "vote_count": 99
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        36
+      ],
+      "id": 568111,
+      "title": "The Souvenir",
+      "original_language": "en",
+      "original_title": "The Souvenir",
+      "overview": "Produced for Glass Eye Pix as part of their 2008 Creepy Christmas Online Film Festival, in which each short was inspired by the inhabitants of a Christmas diorama advent calendar. Each filmmaker was assigned a specific date and given the props that were used in that window to use in their short. This is the twelfth film in the series.",
+      "popularity": 0.1974,
+      "poster_path": "/aCUSJYRYdQDs8Q9xflAkfI4wUaN.jpg",
+      "release_date": "2008-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1309570,
+      "title": "The Souvenir",
+      "original_language": "fa",
+      "original_title": "یادگاری",
+      "overview": "The story of a girl's life that has been destroyed due to the death of her mother. But her mother's death is not the main reason, and the external roots of the problem are slowly emerging...",
+      "popularity": 0.0229,
+      "poster_path": "/fXoZGxQ36mxceZCwH2OszXpq12M.jpg",
+      "release_date": "2024-05-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        14,
+        18
+      ],
+      "id": 1197270,
+      "title": "The Souvenir Shop",
+      "original_language": "ja",
+      "original_title": "想い出を売る店",
+      "overview": "In a small Normandy village overlooking the English Channel, an elderly shopkeeper runs the enigmatic “Shop That Sells Memories,” offering customers tiny floating bubbles that reveal their deepest past experiences. When a troubled young glassblower named Tom returns after years abroad, he and his long‑lost love Marie rediscover each other through the shop’s magic, ultimately reuniting and prompting the shop to vanish forever.",
+      "popularity": 0.086,
+      "poster_path": "/mCAJZLq9WlXV2DEXzJvkP3EF580.jpg",
+      "release_date": "1985-10-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1189380,
+      "title": "The Souvenir: Reality / Fiction / Confusion / Inspiration",
+      "original_language": "en",
+      "original_title": "The Souvenir: Reality / Fiction / Confusion / Inspiration",
+      "overview": "Making of documentary on The Souvenir & The Souvenir Part II.",
+      "popularity": 0.3726,
+      "poster_path": "/4ooc0XCN17qjbIkT2pgIG21gCGD.jpg",
+      "release_date": "2022-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5oNyrrKkREd2Vc441czJKpyWH6M.jpg",
+      "genre_ids": [
+        9648,
+        80
+      ],
+      "id": 397202,
+      "title": "Souvenir for the Prosecutor",
+      "original_language": "ru",
+      "original_title": "Сувенир для прокурора",
+      "overview": "A seemingly ordinary car accident turns out to be a murder investigation...",
+      "popularity": 0.2095,
+      "poster_path": "/v30tFmtkaUMmfuyTIBEPJeOrUD4.jpg",
+      "release_date": "1989-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 1010953,
+      "title": "Souvenir: The Story of OMD",
+      "original_language": "en",
+      "original_title": "Souvenir: The Story of OMD",
+      "overview": "",
+      "popularity": 0.4197,
+      "poster_path": null,
+      "release_date": "2007-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1253829,
+      "title": "Truth and Dare: Memories of The Blade",
+      "original_language": "en",
+      "original_title": "Action et Vérité: Souvenirs de The Blade",
+      "overview": "This documentary consists of testimonies from Tsui Hark, Koan Hui (co-writer and assistant director) and Hung Yan Yan (actor and choreographer). All three of them look back on their memories of filming and give us a large number of anecdotes.",
+      "popularity": 0.2195,
+      "poster_path": "/hNnBm251ADiq3jXn99mm8W014TW.jpg",
+      "release_date": "2006-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 1388737,
+      "title": "The Cheryl Ladd Special: Souvenirs",
+      "original_language": "en",
+      "original_title": "The Cheryl Ladd Special: Souvenirs",
+      "overview": "Cheryl Ladd's second variety special featuring Jeff Conway, Joyce Dewitt and Charlie Daniels.",
+      "popularity": 0.1956,
+      "poster_path": "/54024TgmrUo0u5c8ienMGiCXMXa.jpg",
+      "release_date": "1980-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 913798,
+      "title": "The Church: Goldfish (Jokes, Magic and Souvenirs)",
+      "original_language": "en",
+      "original_title": "The Church: Goldfish (Jokes, Magic and Souvenirs)",
+      "overview": "Australian Exclusive! The long-awaited DVD release of The Church's 1990 video collection! a compilation of clips ranging from early touchstones like 'The Unguarded Moment' and 'Electric Lash' through their hit 'Under the Milky Way', 'Metropolis' & 'You're Still Beautiful'. Also includes home video clips and more! 18 total tracks.",
+      "popularity": 0.0919,
+      "poster_path": null,
+      "release_date": "2006-08-28",
+      "softcore": false,
+      "video": true,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xTsVHnE9zptHGacf13bJSuhIgKZ.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 688606,
+      "title": "The Souvenirs of Mr. X",
+      "original_language": "de",
+      "original_title": "Die Souvenirs des Herrn X",
+      "overview": "A filmmaker finds 2 boxes of Super-8 films of an unknown amateur at a flea market. He goes on an investigative journey to find this person and dives into the wonderful, obsessive universe of amateur film with its own rules, competitions and the passionate love for the moving images.",
+      "popularity": 0.8081,
+      "poster_path": "/bSTyIqBgdmDU3SDbQW912oLPxAb.jpg",
+      "release_date": "2004-03-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 940185,
+      "title": "Remembering the Ashes: Incendies Through Their Eyes",
+      "original_language": "fr",
+      "original_title": "Se souvenir des cendres - Regards sur Incendies",
+      "overview": "In Jordan, in the heart of the Middle East, Iraqi, Palestinian and Lebanese refugees are working on the filming of \"Incendies\", an adaptation of Wajdi Mouawad's play. Whether extras or onlookers, these exiles once experienced scenes very similar to the ones depicted in Denis Villeneuve's movie. \"Remembering the Ashes: Incendies Through Their Eyes\" explores their views on the vicious war and cycle of violence being recreated before their eyes, and by their own efforts.",
+      "popularity": 0.2689,
+      "poster_path": "/aA2u8ofcnWieNASFuQQbJliySLE.jpg",
+      "release_date": "2010-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5bCdc0p7V9kxLMfqhVIDKzX98Z5.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 155049,
+      "title": "Beyond the Years",
+      "original_language": "ko",
+      "original_title": "천년학",
+      "overview": "A drama centered on brother-and-sister musicians trained to perform the epic Korean poems known as pansori.",
+      "popularity": 0.2715,
+      "poster_path": "/sAuUkv2IKN9jm4Lr4D5raHrXMQY.jpg",
+      "release_date": "2007-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7lwo8VLHD8Va49DKuszabpm41V9.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 10637,
+      "title": "Remember the Titans",
+      "original_language": "en",
+      "original_title": "Remember the Titans",
+      "overview": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone – tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+      "popularity": 3.5968,
+      "poster_path": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "release_date": "2000-09-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.658,
+      "vote_count": 2990
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zhhzzUDglCAnZc2YahDcir14mAe.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 186019,
+      "title": "Sandow: The Strong Man",
+      "original_language": "xx",
+      "original_title": "Sandow: The Strong Man",
+      "overview": "Eugen Sandow, who claims to be the strongest man in the world, appears in the Edison Company's film studio.",
+      "popularity": 0.2039,
+      "poster_path": "/beaxxBLlDpafl1nrYZrPvhr7FbV.jpg",
+      "release_date": "1894-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.152,
+      "vote_count": 46
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hKG98fujFdjhiwkZCLdu13ikLhh.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10751
+      ],
+      "id": 111693,
+      "title": "The Long Way Home",
+      "original_language": "en",
+      "original_title": "The Long Way Home",
+      "overview": "A retired widower wanders away from his daughter's home, hooks up with a free-spirited young woman, and goes on a cross-country odyssey to look up an old flame he's recently heard from after 55 years.",
+      "popularity": 0.8574,
+      "poster_path": "/ds2fd9eRXQLcLlouRJ1QDk8OaCf.jpg",
+      "release_date": "1998-03-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.393,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hHwTS5XLIZGOiQjM8qmnT1sQwOS.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 149712,
+      "title": "In Memory of the Day Passed By",
+      "original_language": "lt",
+      "original_title": "Praejusios Dienos Atminimui",
+      "overview": "The film is a day in the life that passes by, even if it seems neverending. In the morning the streets are alive with people, pedestrians and cars, with loud and exultant noise. Such sounds accompany the restless walk of a woman and her child across a dusty street, while Bartas’ gaze wanders through many different perspectives.",
+      "popularity": 0.1352,
+      "poster_path": "/rmAllkKPnYRdYEi4DI7yWpNNS0Q.jpg",
+      "release_date": "1990-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.579,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10402
+      ],
+      "id": 891584,
+      "title": "The History of Sound",
+      "original_language": "en",
+      "original_title": "The History of Sound",
+      "overview": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
+      "popularity": 3.8903,
+      "poster_path": "/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
+      "release_date": "2025-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.791,
+      "vote_count": 122
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t9KlvwFzX8oCNzz4ncLplvVanyW.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1496142,
+      "title": "The Scent of Things Remembered",
+      "original_language": "pt",
+      "original_title": "A Memória do Cheiro das Coisas",
+      "overview": "An intimate drama about an aging war veteran forced into a retirement home, where he confronts the ghosts of his past and forms an unexpected bond with his Black caregiver.",
+      "popularity": 0.3383,
+      "poster_path": "/wPirHtiZfOW8vkGWguTd2KpWfE2.jpg",
+      "release_date": "2025-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 4
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 36
+}

@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/7FQHLt4iNh2TZ58cAAYrZK0xogg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://tv.apple.com/movie/umc.cmc.1mydlea6wicrm013138speg6m",
+  "id": 575417,
+  "imdb_id": "tt9606374",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "On the Rocks",
+  "overview": "Faced with sudden doubts about her marriage, a young New York mother teams up with her larger-than-life playboy father to tail her husband.",
+  "popularity": 1.6524,
+  "poster_path": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+  "production_companies": [
+    {
+      "id": 70,
+      "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-10-02",
+  "revenue": 992103,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love, suspicion, and one very opinionated father.",
+  "title": "On the Rocks",
+  "video": false,
+  "vote_average": 6.089,
+  "vote_count": 805,
+  "external_ids": {
+    "imdb_id": "tt9606374",
+    "wikidata_id": "Q64787973",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

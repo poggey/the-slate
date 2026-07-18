@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/tOfJuyfEbUMSSyBK24CAehphKwD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://a24films.com/films/stars-at-noon",
+  "id": 603204,
+  "imdb_id": "tt10354106",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Stars at Noon",
+  "overview": "In present-day Nicaragua, a headstrong American journalist and a mysterious English businessman strike up a romance as they become embroiled in a dangerous labyrinth of lies and conspiracies and are forced to try and escape the country.",
+  "popularity": 1.2757,
+  "poster_path": "/viR50oQCs8ObciADFGWHUyChexZ.jpg",
+  "production_companies": [
+    {
+      "id": 77552,
+      "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
+      "name": "Curiosa Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 33279,
+      "logo_path": "/4cWgpF6cLunSrG4fSdBPT2gF8ie.png",
+      "name": "Ad Vitam Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2022-10-14",
+  "revenue": 0,
+  "runtime": 138,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A sumptuous tale of romance and espionage.",
+  "title": "Stars at Noon",
+  "video": false,
+  "vote_average": 5.826,
+  "vote_count": 141,
+  "external_ids": {
+    "imdb_id": "tt10354106",
+    "wikidata_id": "Q110982493",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

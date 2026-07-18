@@ -1,0 +1,40 @@
+{
+  "Title": "I Saw the TV Glow",
+  "Year": "2024",
+  "Rated": "PG-13",
+  "Released": "17 May 2024",
+  "Runtime": "100 min",
+  "Genre": "Drama, Horror, Mystery",
+  "Director": "Jane Schoenbrun",
+  "Writer": "Jane Schoenbrun",
+  "Actors": "Justice Smith, Jack Haven, Ian Foreman",
+  "Plot": "A teenager just trying to make it through life in the suburbs is introduced by a classmate to a mysterious late-night TV show.",
+  "Language": "English",
+  "Country": "United States, United Kingdom",
+  "Awards": "12 wins & 92 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTA2MGM5M2ItNDBjYi00OWJhLTk1MTMtMGIzMDZlYzg1N2Q3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "5.8",
+  "imdbVotes": "41,895",
+  "imdbID": "tt15574270",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,017,817",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

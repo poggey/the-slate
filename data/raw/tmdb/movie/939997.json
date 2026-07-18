@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/4aOdox7on2CuHJaEdUAV6L2fQUS.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://a24films.com/films/dicks-the-musical",
+  "id": 939997,
+  "imdb_id": "tt7130916",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dicks: The Musical",
+  "overview": "Two self-obsessed businessmen discover they're long-lost identical twins and come together to plot the reunion of their eccentric divorced parents.",
+  "popularity": 1.8485,
+  "poster_path": "/8yVGumeBFefa1Yk4Ha5TiR6Fpac.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 7076,
+      "logo_path": "/8BFxn9NUWSgp0ndih569Gm62xiC.png",
+      "name": "Chernin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-06",
+  "revenue": 1472114,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We’re Identical Fucking Twins!",
+  "title": "Dicks: The Musical",
+  "video": false,
+  "vote_average": 4.347,
+  "vote_count": 62,
+  "external_ids": {
+    "imdb_id": "tt7130916",
+    "wikidata_id": "Q121133837",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

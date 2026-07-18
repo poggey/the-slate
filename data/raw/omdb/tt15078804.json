@@ -1,0 +1,40 @@
+{
+  "Title": "Problemista",
+  "Year": "2023",
+  "Rated": "R",
+  "Released": "22 Mar 2024",
+  "Runtime": "104 min",
+  "Genre": "Comedy",
+  "Director": "Julio Torres",
+  "Writer": "Julio Torres",
+  "Actors": "Julio Torres, Tilda Swinton, RZA",
+  "Plot": "Alejandro is an aspiring toy designer from El Salvador struggling to bring his unusual ideas to life in NY. As time runs out on his work visa, a job assisting an erratic art-world outcast becomes his only hope to stay in the country.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "2 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjNlNzBlN2EtZDhhNC00ZDg0LTljODgtMTAzNDI2MTRmMjZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "Metascore": "68",
+  "imdbRating": "6.7",
+  "imdbVotes": "9,426",
+  "imdbID": "tt15078804",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$2,503,154",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

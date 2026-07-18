@@ -1,0 +1,142 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/8YiAnbmo8ARHNVt25Cp5fVt4rNd.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 331781,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "A documentary on the life of Amy Winehouse, the immensely talented yet doomed songstress. We see her from her teen years, where she already showed her singing abilities, to her finding success and then her downward spiral into alcoholism and drugs.",
+      "popularity": 1.1147,
+      "poster_path": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "release_date": "2015-07-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.573,
+      "vote_count": 1323
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bYYQW0zF4jzk3WlT5p8nVz39gg4.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 377080,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "A pair of ex-lovers spend a spontaneous afternoon together that could either lead to rekindled love or further heartbreak.",
+      "popularity": 1.1168,
+      "poster_path": "/qBUM1eatfS6ldhdGlDw8K5yi5hX.jpg",
+      "release_date": "2015-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53
+      ],
+      "id": 490842,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "AMY is short film directed by Rithin Joseph with editing & VFX by Jobin Joseph of Petrova Films.",
+      "popularity": 0.0362,
+      "poster_path": "/7IQ6YAjSw2Ksz18d89YOfNiViBy.jpg",
+      "release_date": "2015-06-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dx2NWxUYIgCJ2vU4T9dtbvKxylY.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 355178,
+      "title": "Amy Schumer: Live at the Apollo",
+      "original_language": "en",
+      "original_title": "Amy Schumer: Live at the Apollo",
+      "overview": "With her unique blend of honesty and unapologetic humor, Amy Schumer is one of the funniest, freshest faces in the industry today. This October, Schumer's provocative and hilariously wicked mind will be on full display as she headlines her first HBO stand-up comedy special: 'Amy Schumer: Live at the Apollo.' Directed by Chris Rock, the one-hour special features the comedian talking about her life and was taped before a live audience at New York’s iconic Apollo Theater.",
+      "popularity": 0.8892,
+      "poster_path": "/bZji0NPuue5QkO9K5ypvb4CoRnj.jpg",
+      "release_date": "2015-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.926,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p9PmDFLJ7LSaXAJQuKMIPeRU7vY.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 482794,
+      "title": "Amy Winehouse: In Her Own Words",
+      "original_language": "en",
+      "original_title": "Amy Winehouse: In Her Own Words",
+      "overview": "A portrait of Amy Winehouse the artist threaded together from extracts from interviews she gave to the BBC for a variety of documentary projects including the Jazz and Soul Britannia series on FOUR, much of which material is previously unbroadcast, blended with performances from across her career, including some which are also previously unbroadcast and unseen.",
+      "popularity": 0.0512,
+      "poster_path": "/ws0XX8gsJ1LvfPMRmGAWCTEdM87.jpg",
+      "release_date": "2015-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1264898,
+      "title": "いけながあいみ ミスプレミア2015-2016~遅咲きAmy満開Body",
+      "original_language": "ja",
+      "original_title": "いけながあいみ ミスプレミア2015-2016~遅咲きAmy満開Body",
+      "overview": "",
+      "popularity": 0.071,
+      "poster_path": "/3FtSffkJMPgwnqzL6J5nQYut5hz.jpg",
+      "release_date": "2015-09-20",
+      "softcore": false,
+      "video": true,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9O6pLFE630h7IxslegYR9CV64aE.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 271718,
+      "title": "Trainwreck",
+      "original_language": "en",
+      "original_title": "Trainwreck",
+      "overview": "Ever since her father drilled into her head that monogamy isn't realistic, magazine writer Amy has made promiscuity her credo. As much as she enjoys an uninhibited life free of commitment, Amy is really in a rut. While writing a profile about charming and successful sports doctor Aaron Conners, she finds herself actually falling in love for the first time -- and what's more, Aaron seems to really like her too. Amy starts to wonder if it's time to clean up her act and face her fears.",
+      "popularity": 2.2296,
+      "poster_path": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
+      "release_date": "2015-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.784,
+      "vote_count": 2735
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 7
+}

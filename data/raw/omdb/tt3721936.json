@@ -1,0 +1,40 @@
+{
+  "Title": "American Honey",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "14 Oct 2016",
+  "Runtime": "163 min",
+  "Genre": "Adventure, Drama, Romance",
+  "Director": "Andrea Arnold",
+  "Writer": "Andrea Arnold, Ian Urbina",
+  "Actors": "Sasha Lane, Shia LaBeouf, Riley Keough",
+  "Plot": "A teenage girl with nothing to lose joins a traveling magazine sales crew, and gets caught up in a whirlwind of hard partying, law bending and young love as she criss-crosses the Midwest with a band of misfits.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "Nominated for 1 BAFTA Award13 wins & 43 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1MDQxNDQzMV5BMl5BanBnXkFtZTgwNDY1MDQ3OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "Metascore": "80",
+  "imdbRating": "7.0",
+  "imdbVotes": "48,833",
+  "imdbID": "tt3721936",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$663,246",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

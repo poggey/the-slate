@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/9qnMdti0Iw5mk1i0EfE19jaEw0s.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://problemista.movie",
+  "id": 852247,
+  "imdb_id": "tt15078804",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Problemista",
+  "overview": "Alejandro is an aspiring toy designer from El Salvador, struggling to bring his unusual ideas to life in New York City. As time on his work visa runs out, a job assisting an erratic art-world outcast becomes his only hope to stay in the country and realize his dream.",
+  "popularity": 0.7346,
+  "poster_path": "/8R5s0optPNlTncP876bK8gWGkRK.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 138287,
+      "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+      "name": "Fruit Tree",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-01",
+  "revenue": 2503154,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Problemista",
+  "video": false,
+  "vote_average": 6.724,
+  "vote_count": 165,
+  "external_ids": {
+    "imdb_id": "tt15078804",
+    "wikidata_id": "Q116692764",
+    "facebook_id": "problemista",
+    "instagram_id": "problemista",
+    "twitter_id": "problemista"
+  }
+}

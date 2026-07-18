@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/grVKCMGxeQlungQskzxEWQq8VE9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 355254,
+  "imdb_id": "tt1683048",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "De Palma",
+  "overview": "An intimate conversation between filmmakers, chronicling De Palma’s 55-year career, his life, and his filmmaking process, with revealing anecdotes and, of course, a wealth of film clips.",
+  "popularity": 0.5152,
+  "poster_path": "/uYYxSGwKWrnN86Uyuk0NyDzCLwh.jpg",
+  "production_companies": [
+    {
+      "id": 85187,
+      "logo_path": null,
+      "name": "Boxmotion",
+      "origin_country": ""
+    },
+    {
+      "id": 75609,
+      "logo_path": null,
+      "name": "Empire Ward",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-06-10",
+  "revenue": 0,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Being a director is being a watcher",
+  "title": "De Palma",
+  "video": false,
+  "vote_average": 7.029,
+  "vote_count": 174,
+  "external_ids": {
+    "imdb_id": "tt1683048",
+    "wikidata_id": "Q25136504",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

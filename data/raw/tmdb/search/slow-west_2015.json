@@ -1,0 +1,49 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/HQES024QzKwPBO8YcKPCrgbF3Z.jpg",
+      "genre_ids": [
+        37,
+        18,
+        12,
+        10749,
+        53
+      ],
+      "id": 223485,
+      "title": "Slow West",
+      "original_language": "en",
+      "original_title": "Slow West",
+      "overview": "In the Old West, a 17-year-old Scottish boy teams up with a mysterious gunman to find the woman with whom he is infatuated.",
+      "popularity": 1.0818,
+      "poster_path": "/j3PmbRZvf5KpNbapSjn8b0CpD6a.jpg",
+      "release_date": "2015-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.689,
+      "vote_count": 1061
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 627362,
+      "title": "SLOW WEST in SUPER EIGHT",
+      "original_language": "en",
+      "original_title": "SLOW WEST in SUPER EIGHT",
+      "overview": "Footage from the making of the film 'Slow West'",
+      "popularity": 0.2676,
+      "poster_path": null,
+      "release_date": "2015-11-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

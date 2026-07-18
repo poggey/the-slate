@@ -1,0 +1,67 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+      "genre_ids": [
+        35,
+        53
+      ],
+      "id": 467905,
+      "title": "How to Make a Killing",
+      "original_language": "en",
+      "original_title": "How to Make a Killing",
+      "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+      "popularity": 10.6785,
+      "poster_path": "/kw7x5mSmHhoeeqwXLwXTBsofD1N.jpg",
+      "release_date": "2026-02-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.937,
+      "vote_count": 562
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s7xmwFJQj99lICSGQkr8sQ7G9IA.jpg",
+      "genre_ids": [
+        35,
+        53,
+        80
+      ],
+      "id": 1210732,
+      "title": "How to Make a Killing",
+      "original_language": "fr",
+      "original_title": "Un ours dans le Jura",
+      "overview": "Michel and Cathy, wed for longer than they can remember, lead a quiet but monotonous life in the mountains. When a bear bursts out in front of Michel’s car, accidentally killing two drug dealers and revealing a €2 million loot in the process, their life takes an unpredictable turn, especially when they decide to cover up the incident and keep the money! But their plan leads them to stumble upon an unexplained trail of dead bodies. More used to being honest than crooked, Michel and Cathy’s clumsy cover-up efforts soon put an interfering inspector hot on their trail.",
+      "popularity": 2.1891,
+      "poster_path": "/oovadj4TsgCuAGfd5LhDP19ZCYD.jpg",
+      "release_date": "2025-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.444,
+      "vote_count": 381
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zBTjsVd0H0CSPKdxLxoGCwwSWNR.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "id": 1648645,
+      "title": "How to Make a Killing",
+      "original_language": "en",
+      "original_title": "How to Make a Killing",
+      "overview": "Assigned to their first case, a pair of young detectives set out to solve a high profile murder in a hotel.",
+      "popularity": 0.5301,
+      "poster_path": "/yQvI9kPdO7CogXGFcyyIaneNrzn.jpg",
+      "release_date": "2022-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}

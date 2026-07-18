@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nVHEjkA8vuEGJLfNUOmVW5md6yn.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1205515,
+      "title": "Sorry, Baby",
+      "original_language": "en",
+      "original_title": "Sorry, Baby",
+      "overview": "Agnes feels stuck. Unlike her best friend, Lydie, who’s moved to New York and is now expecting a baby, Agnes still lives in the New England house they once shared as graduate students, now working as a professor at her alma mater. A ‘bad thing’ happened to Agnes a few years ago and, since then, despite her best efforts, life hasn’t gotten back on track.",
+      "popularity": 3.4719,
+      "poster_path": "/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg",
+      "release_date": "2025-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.804,
+      "vote_count": 313
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

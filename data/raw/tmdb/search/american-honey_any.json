@@ -1,0 +1,45 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fLvgZEMv012AHZk2PAxMyG8WROt.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 340485,
+      "title": "American Honey",
+      "original_language": "en",
+      "original_title": "American Honey",
+      "overview": "A restless teenager escapes her troubled home and joins a traveling crew of young drifters selling magazines across the American Midwest. Immersed in a world of reckless partying, risky hustles, and fleeting romances, she searches for freedom and belonging on the open road.",
+      "popularity": 1.4839,
+      "poster_path": "/41SVO0AElBAl7zks9dFhJ0OjHni.jpg",
+      "release_date": "2016-09-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.792,
+      "vote_count": 935
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 530456,
+      "title": "All American Honeymoon",
+      "original_language": "en",
+      "original_title": "All American Honeymoon",
+      "overview": "New York newlyweds Lou and Mary look to spend their post-nuptials at Lou’s swinging brother Tony’s pad, but anything and everything gets in the way of them actually consummating their marriage.",
+      "popularity": 0.0802,
+      "poster_path": "/lNIQ4pZouqFB1sQ1UjbCUwxdCM2.jpg",
+      "release_date": "1969-05-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

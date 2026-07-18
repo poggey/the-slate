@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Sl9oyD2rrFKbCWvWiHQifwOoTn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://a24films.com/docs/architecton",
+  "id": 1234597,
+  "imdb_id": "tt18346498",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Architecton",
+  "overview": "An extraordinary journey through the material that makes up our habitat: concrete and its ancestor, stone. Victor Kossakovsky raises a fundamental question: how do we inhabit the world of tomorrow?",
+  "popularity": 1.1259,
+  "poster_path": "/ko5fY3Y05u3rRFQUXNGyRybnxqT.jpg",
+  "production_companies": [
+    {
+      "id": 12340,
+      "logo_path": "/2tgY95Di4hQhR4JUkejJWx2sN2z.png",
+      "name": "ma.ja.de. FilmProduktions",
+      "origin_country": "DE"
+    },
+    {
+      "id": 86197,
+      "logo_path": "/gUTZ1JDzJOytALYfXtPJKI1MqGp.png",
+      "name": "Point du Jour",
+      "origin_country": "FR"
+    },
+    {
+      "id": 20618,
+      "logo_path": "/yGDXyW0kQUMpraYo3f1egJSkxh4.png",
+      "name": "Les Films du Balibari",
+      "origin_country": "FR"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 154207,
+      "logo_path": "/4WNhIRsOM6YGIzYMPAVKjgv76ab.png",
+      "name": "Hailstone Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-03",
+  "revenue": 66823,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Architecton",
+  "video": false,
+  "vote_average": 6.022,
+  "vote_count": 23,
+  "external_ids": {
+    "imdb_id": "tt18346498",
+    "wikidata_id": "Q124339152",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

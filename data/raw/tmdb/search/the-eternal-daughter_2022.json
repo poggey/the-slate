@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/eEPR1HjWQEPzvrqGtSCxmzlsmin.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 790867,
+      "title": "The Eternal Daughter",
+      "original_language": "en",
+      "original_title": "The Eternal Daughter",
+      "overview": "An artist and her elderly mother confront long-buried secrets when they return to a former family home, now a hotel haunted by its mysterious past.",
+      "popularity": 1.1698,
+      "poster_path": "/kyv8tPXx3mKchYzVmA3VckKoJDi.jpg",
+      "release_date": "2022-12-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.948,
+      "vote_count": 134
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

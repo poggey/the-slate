@@ -1,0 +1,263 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1239655,
+      "title": "Friendship",
+      "original_language": "en",
+      "original_title": "Friendship",
+      "overview": "Suburban dad Craig falls hard for his charismatic new neighbor Austin, and his attempts to make an adult male friend threatens to ruin both of their lives.",
+      "popularity": 1.3615,
+      "poster_path": "/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+      "release_date": "2025-05-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.396,
+      "vote_count": 298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1xi4P2uBTwOdP4qpZl0EDZKzscl.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1614083,
+      "title": "Friendship",
+      "original_language": "it",
+      "original_title": "Friendship",
+      "overview": "Two girls become friends while waiting for the bus.",
+      "popularity": 0.0476,
+      "poster_path": "/26rb3eaVgpQ4Z94xG2Rl3XPBXSt.jpg",
+      "release_date": "2025-07-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wa7p2RCcOy4GCFkelDYytZzQ98B.jpg",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 1576910,
+      "title": "Operation Friendship",
+      "original_language": "en",
+      "original_title": "Operation Friendship",
+      "overview": "A young boy and his friends are bullied by a kid who takes the toy army of anyone that challenges him, amassing a virtually undefeatable force. With the help of his grandfather who served in World War II, his loyal friends, and his love of history, he'll take the battle to the bully and learn the importance of teamwork, family, and friendship to claim victory.",
+      "popularity": 0.8245,
+      "poster_path": "/kQLGuan09kbYdWFofglAOv3Y0Xg.jpg",
+      "release_date": "2025-08-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h15XEgzm7Nhbbhencni1KHojR1d.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1390776,
+      "title": "F Friendship",
+      "original_language": "en",
+      "original_title": "F Friendship",
+      "overview": "\"F Friendships\" is a poignant exploration of the complexities of human connection, highlighting the fragility of friendship and the resilience of the human spirit.",
+      "popularity": 0.0614,
+      "poster_path": "/4atzhSyorjYw3djpK2nZqUbo4dl.jpg",
+      "release_date": "2025-02-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbMUbtT7WHUEzrxJgSIEVEz5ACE.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 1425816,
+      "title": "Barbie & Teresa: Recipe for Friendship",
+      "original_language": "en",
+      "original_title": "Barbie & Teresa: Recipe for Friendship",
+      "overview": "Barbie \"Brooklyn\" Roberts, Barbie \"Malibu\" Roberts, and best friends Teresa and Nikki head to the Big Apple for spring break to help with the launch of Teresa's cousin’s new restaurant. Taking inspiration from her family recipes, Teresa and her friends learn about her Mexican heritage as they prepare for the big opening. Along the way, they'll embark on thrilling adventures, explore delicious family recipes, and learn valuable lessons about the power of friendship.",
+      "popularity": 0.5349,
+      "poster_path": "/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg",
+      "release_date": "2025-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/joyBbOBOviOYKndrphR9Ryclk6M.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1590782,
+      "title": "Friendship love",
+      "original_language": "tr",
+      "original_title": "Sev Arkadaş",
+      "overview": "Friendship love",
+      "popularity": 1.4301,
+      "poster_path": "/7oJh0ifYnIMQkIOOM2Xbj1yYSSg.jpg",
+      "release_date": "2025-11-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i3aj1LzFnKDpevz1B9qd0nTNLa4.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1476712,
+      "title": "A Story of Friendship",
+      "original_language": "en",
+      "original_title": "A Story of Friendship",
+      "overview": "Daniel has had 30 operations to remove a large cyst from his face that kept growing back.This is the story of a Father's Unconditional love, the friendship of a total stranger and the bravery of a heroic young man.",
+      "popularity": 0.0965,
+      "poster_path": "/wtvj7ccZulUZzYiZ0v4W8072GEt.jpg",
+      "release_date": "2025-04-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zymElPa1GuNxmSCuCNUtGRplfwl.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 1412287,
+      "title": "Manee Mana: Friendship",
+      "original_language": "th",
+      "original_title": "มานี มานะ มิตรภาพ ระหว่างเพื่อน",
+      "overview": "The story begins in Lamsonthi District, a town known for its peace, simplicity, and self-sufficient way of life. The people are kind, and the children go to school happily. However, peace is rarely everlasting, especially when modernization arrives. With progress comes both good and bad, and when something harmful like drugs starts creeping into the community, trouble follows. This marks the beginning of an unavoidable mission for five children—Manee, Mana, Piti, Chujai, and Veera—who must face the growing threat and uncover the truth behind it.",
+      "popularity": 0.398,
+      "poster_path": "/tEQgioZTLRx2RIJnDycNUiHh9zG.jpg",
+      "release_date": "2025-02-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mEDexLItFl2R1P1yleISzVddYjX.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1537498,
+      "title": "Reminders of Our Friendship",
+      "original_language": "en",
+      "original_title": "Reminders of Our Friendship",
+      "overview": "Spending the evening alone with his favourite films, a teen boy Jamie is pulled back into the memories of a lost friendship — and takes the first step to rebuild it.",
+      "popularity": 0.0336,
+      "poster_path": "/1nQCC8c1bZ1jXQjmVYM7OjmV7I4.jpg",
+      "release_date": "2025-08-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wHlVNRWTQwK4hyvkWaR0tr723l5.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 1601598,
+      "title": "a friendship worth listening to",
+      "original_language": "en",
+      "original_title": "a friendship worth listening to",
+      "overview": "a coming-of-age documentary about teenagers tryna take music seriously. remind me why a british kid is telling me this story?",
+      "popularity": 0.0456,
+      "poster_path": "/dyiL36dnaCDDht46cMsMeiE20dd.jpg",
+      "release_date": "2025-06-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1428441,
+      "title": "Gaddafi in Rome: Anatomy of a Friendship",
+      "original_language": "en",
+      "original_title": "Gaddafi in Rome: Anatomy of a Friendship",
+      "overview": "Alessandra Ferrini examines a photograph from an official visit by Gaddafi to Italy during the Berlusconi era. The film delves into the connections between Italy’s colonial past and its contemporary politics.",
+      "popularity": 1.8464,
+      "poster_path": "/75RibDUov85RHdQj1e7ouRPto2Q.jpg",
+      "release_date": "2025-02-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A6YiicZfyYxp00kvg3OZtBmyqvm.jpg",
+      "genre_ids": [
+        99,
+        35
+      ],
+      "id": 1576012,
+      "title": "The Golden Girls: 40 Years of Laughter and Friendship - A Special Edition of 20/20",
+      "original_language": "en",
+      "original_title": "The Golden Girls: 40 Years of Laughter and Friendship - A Special Edition of 20/20",
+      "overview": "The special celebrates the 40th anniversary of the beloved sitcom and features interviews with the series creator Susan Harris, executive producer Tony Thomas, original writers, and superfans like Kelly Ripa, Sheryl Lee Ralph, and Mario Lopez. It explores the show's enduring appeal and lasting influence on pop culture.",
+      "popularity": 0.9976,
+      "poster_path": "/xbFyDxgw3S7Ll1Vao216FOKZQ09.jpg",
+      "release_date": "2025-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 1560998,
+      "title": "France and the GDR - Friendship During the Cold War",
+      "original_language": "de",
+      "original_title": "Amour fou im Kalten Krieg – Frankreich und die DDR",
+      "overview": "From the end of the Second World War to the fall of the Berlin Wall, France and East Germany maintained links despite the Cold War. As early as 1959, towns in the two countries were twinned and thousands of French workers' children went on holiday camps in the GDR.",
+      "popularity": 0.0473,
+      "poster_path": "/mGEQd8gvLp4P2hw3e1l5bhKTg9.jpg",
+      "release_date": "2025-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 13
+}

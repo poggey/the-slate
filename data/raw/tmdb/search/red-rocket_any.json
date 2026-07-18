@@ -1,0 +1,88 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 763329,
+      "title": "Red Rocket",
+      "original_language": "en",
+      "original_title": "Red Rocket",
+      "overview": "After hitting rock bottom in Los Angeles, former porn star Mikey Saber returns to his hometown in Texas to stay with his estranged wife and mother-in-law. Just as tensions begin to ease, he becomes infatuated with a young doughnut shop worker named Strawberry.",
+      "popularity": 0.9953,
+      "poster_path": "/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+      "release_date": "2021-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.797,
+      "vote_count": 640
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iTvhjXBN8dOfmJuy3AvXqbJ94cG.jpg",
+      "genre_ids": [
+        12
+      ],
+      "id": 465608,
+      "title": "Red Rocket",
+      "original_language": "sl",
+      "original_title": "Rdeča raketa",
+      "overview": "A young car enthusiast who has issues with parents and surroundings decides to create his own vehicle and run away with friends from his everyday problems.",
+      "popularity": 0.9651,
+      "poster_path": "/m23pX6QxHw5u6o06botnOXlUJzM.jpg",
+      "release_date": "2015-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        18,
+        10751,
+        10770
+      ],
+      "id": 28777,
+      "title": "Rocket's Red Glare",
+      "original_language": "en",
+      "original_title": "Rocket's Red Glare",
+      "overview": "A troubled 17-year-old Todd Baker restores a Mercury Redstone rocket as a science project with the help of his ex-astronaut grandfather. When a NASA emergency leaves a space shuttle and its crew in danger, Todd's rocket is the only one ready for immediate launch.",
+      "popularity": 0.946,
+      "poster_path": "/pdrMAp6zwiWTF1ruCDMOvBc4vjZ.jpg",
+      "release_date": "2000-08-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1047691,
+      "title": "Rockets' Red Glare",
+      "original_language": "en",
+      "original_title": "Rockets' Red Glare",
+      "overview": "The story of a Vietnam vet forced into the dark world of the Mob in order to support his handicapped brother.",
+      "popularity": 0.4603,
+      "poster_path": "/iBCSFlIsl9tulLOAo5sjYvloQW1.jpg",
+      "release_date": "2002-04-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

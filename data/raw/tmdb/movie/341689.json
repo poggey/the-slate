@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/jtYhUNYtx4LXdCUiFFjUL9yDzSd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://a24films.com/films/how-to-talk-to-girls-at-parties",
+  "id": 341689,
+  "imdb_id": "tt3859310",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "How to Talk to Girls at Parties",
+  "overview": "In 1970s London, a teenage outsider named Enn falls in love with a rebellious alien girl named Zan, who has come to Earth for a party. Together, they navigate the complexities of intergalactic culture and the trials of first love.",
+  "popularity": 1.4503,
+  "poster_path": "/v6mPfyGshwXd1R6kQlMEyZ8Zu2s.jpg",
+  "production_companies": [
+    {
+      "id": 7217,
+      "logo_path": "/vFbexaF70wSMUHRA6Fy6UcuA1ju.png",
+      "name": "See-Saw Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 82010,
+      "logo_path": null,
+      "name": "Little Punk",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-10-06",
+  "revenue": 0,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some girls are out of this world.",
+  "title": "How to Talk to Girls at Parties",
+  "video": false,
+  "vote_average": 5.993,
+  "vote_count": 430,
+  "external_ids": {
+    "imdb_id": "tt3859310",
+    "wikidata_id": "Q21592501",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2y2aqaScd7jsUee0ddI1iRNgwGq.jpg",
+      "genre_ids": [
+        18,
+        14,
+        10749
+      ],
+      "id": 428449,
+      "title": "A Ghost Story",
+      "original_language": "en",
+      "original_title": "A Ghost Story",
+      "overview": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
+      "popularity": 3.4465,
+      "poster_path": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+      "release_date": "2017-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.063,
+      "vote_count": 2517
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 694908,
+      "title": "Leo: A Ghost Story",
+      "original_language": "en",
+      "original_title": "Leo: A Ghost Story",
+      "overview": "Leo likes to draw. He makes delicious snacks. But most people can't even see him...because Leo is a ghost. When a new family moves into his home, Leo decides it is time to leave and see the world. That is how he meets Jane. And that is how their adventures begin.",
+      "popularity": 0.0713,
+      "poster_path": "/A1dflhCTwTDSZp1e6ixYY4yLkzz.jpg",
+      "release_date": "2017-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xpsMAtzJ04PAZD29QnMUZ5se6RS.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 571284,
+      "title": "A Ghost Story: Xiang Yun Temple",
+      "original_language": "zh",
+      "original_title": "鬼话怪谈·祥云寺",
+      "overview": "",
+      "popularity": 0.4927,
+      "poster_path": "/5Wvjz6TTpw1SRCtje3eFC9InNjt.jpg",
+      "release_date": "2017-02-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}

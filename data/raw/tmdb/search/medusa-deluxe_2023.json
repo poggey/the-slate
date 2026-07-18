@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2Yy6GdTEJAmVeXf1GApD70nrZq.jpg",
+      "genre_ids": [
+        35,
+        9648,
+        53,
+        18
+      ],
+      "id": 935903,
+      "title": "Medusa Deluxe",
+      "original_language": "en",
+      "original_title": "Medusa Deluxe",
+      "overview": "Talented and cutthroat hairstylists at a competition find one of their own murdered before judging can begin. Winding through neon-lit halls, competitors unspool long-simmering resentments and lies as they search for the killer among them.",
+      "popularity": 1.1053,
+      "poster_path": "/hcuNu3dXNHjWOtcy0WtKU1rSW3Y.jpg",
+      "release_date": "2023-06-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.091,
+      "vote_count": 55
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

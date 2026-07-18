@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/the-florida-project",
+  "id": 394117,
+  "imdb_id": "tt5649144",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Florida Project",
+  "overview": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+  "popularity": 4.6094,
+  "poster_path": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+  "production_companies": [
+    {
+      "id": 88152,
+      "logo_path": "/zm1yRe17jzOgEzXrNj6hd8gl89O.png",
+      "name": "Cre Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 17731,
+      "logo_path": "/5g3YMbcDXJKQvnYU1irjw5T8y7Z.png",
+      "name": "Freestyle Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 76901,
+      "logo_path": "/l6LNuKdl51PmyO130Kzmc9FKosI.png",
+      "name": "June Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-10-06",
+  "revenue": 11303040,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Find your kingdom.",
+  "title": "The Florida Project",
+  "video": false,
+  "vote_average": 7.427,
+  "vote_count": 3121,
+  "external_ids": {
+    "imdb_id": "tt5649144",
+    "wikidata_id": "Q29514872",
+    "facebook_id": "TheFloridaProject",
+    "instagram_id": "thefloridaproject",
+    "twitter_id": "FloridaProject"
+  }
+}

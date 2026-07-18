@@ -1,0 +1,40 @@
+{
+  "Title": "The Inspection",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "02 Dec 2022",
+  "Runtime": "95 min",
+  "Genre": "Drama",
+  "Director": "Elegance Bratton",
+  "Writer": "Elegance Bratton",
+  "Actors": "Jeremy Pope, Gabrielle Union, Bokeem Woodbine",
+  "Plot": "A young, gay Black man, rejected by his mother and with few options for his future, decides to join the Marines, doing whatever it takes to succeed in a system that would cast him aside.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "12 wins & 31 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmFhMTM5OTUtMmQ0ZC00NTMyLWE2OTYtMTM1N2QyMTA3MzA2XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "6.7",
+  "imdbVotes": "5,657",
+  "imdbID": "tt13495458",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$390,429",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

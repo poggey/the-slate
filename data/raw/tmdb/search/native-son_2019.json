@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/ar6swJk6O4kfevpk6ky76Ast7ys.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 512199,
+      "title": "Native Son",
+      "original_language": "en",
+      "original_title": "Native Son",
+      "overview": "A young black man named Bigger Thomas takes a job working for a highly influential Chicago family, a decision that will change the course of his life forever.",
+      "popularity": 1.2622,
+      "poster_path": "/vVF6CnjXLqAjK2crI1ielma18TW.jpg",
+      "release_date": "2019-01-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.462,
+      "vote_count": 92
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

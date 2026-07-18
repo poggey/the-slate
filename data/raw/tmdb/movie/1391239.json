@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/the-debut",
+  "id": 1391239,
+  "imdb_id": "tt34718200",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Debut",
+  "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineering director.",
+  "popularity": 5.245,
+  "poster_path": "/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+  "production_companies": [
+    {
+      "id": 99366,
+      "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+      "name": "Topic Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 138287,
+      "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+      "name": "Fruit Tree",
+      "origin_country": "US"
+    },
+    {
+      "id": 218445,
+      "logo_path": null,
+      "name": "Rego Park",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-12-11",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "There's a method to the madness.",
+  "title": "The Debut",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt34718200",
+    "wikidata_id": "Q133885802",
+    "facebook_id": null,
+    "instagram_id": "thedebutmovie",
+    "twitter_id": null
+  }
+}

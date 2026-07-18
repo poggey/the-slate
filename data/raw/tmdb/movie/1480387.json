@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://a24films.com/films/undertone",
+  "id": 1480387,
+  "imdb_id": "tt35892608",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "undertone",
+  "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+  "popularity": 18.9711,
+  "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+  "production_companies": [
+    {
+      "id": 9315,
+      "logo_path": "/uKmSLeRvSmbf156Q6mRl81qWf9D.png",
+      "name": "Black Fawn Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 262195,
+      "logo_path": null,
+      "name": "Slaterverse Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 262196,
+      "logo_path": null,
+      "name": "KINO Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 169906,
+      "logo_path": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
+      "name": "Spooky Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 270846,
+      "logo_path": "/oBxigI3CRctXSwtiyKrqUjlT4od.png",
+      "name": "DimensionGate",
+      "origin_country": "CA"
+    },
+    {
+      "id": 270848,
+      "logo_path": null,
+      "name": "Feel Everything Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-12",
+  "revenue": 21610797,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It wants to be heard.",
+  "title": "undertone",
+  "video": false,
+  "vote_average": 6.141,
+  "vote_count": 340,
+  "external_ids": {
+    "imdb_id": "tt35892608",
+    "wikidata_id": "Q135668448",
+    "facebook_id": null,
+    "instagram_id": "theundertonefilm",
+    "twitter_id": null
+  }
+}

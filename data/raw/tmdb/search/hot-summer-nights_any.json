@@ -1,0 +1,44 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/cUp74WEOfyiJS2Q8oZs8wP5IzSr.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 347866,
+      "title": "Hot Summer Nights",
+      "original_language": "en",
+      "original_title": "Hot Summer Nights",
+      "overview": "In 1991, a sheltered teenager comes of age during a wild summer on Cape Cod, getting rich from selling pot to gangsters, falling in love for the first time, partying, and eventually realizing that he's in way over his head.",
+      "popularity": 2.0163,
+      "poster_path": "/kPfNAax3PbHj5pAYiO9mc9jDvzt.jpg",
+      "release_date": "2018-07-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.599,
+      "vote_count": 816
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1038998,
+      "title": "SHIMMER Volume 14: Hot Summer Nights",
+      "original_language": "en",
+      "original_title": "SHIMMER Volume 14: Hot Summer Nights",
+      "overview": "SHIMMER Women Athletes present SHIMMER Volume 14: Hot Summer Nights took place on July 1, 2007 at the Citrus County Auditorium in Inverness, Florida. This was the first SHIMMER event not to be held in the usual Eagles Club in Berwyn, Illinois.",
+      "popularity": 0.3737,
+      "poster_path": "/sGyb2eXNXBb4MNP8XzWrfkePqy8.jpg",
+      "release_date": "2007-07-01",
+      "softcore": false,
+      "video": true,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

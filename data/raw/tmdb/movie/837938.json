@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/lLaeFLQNsZ11zG3LTSczD3YNLad.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/inspection",
+  "id": 837938,
+  "imdb_id": "tt13495458",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Inspection",
+  "overview": "Ellis French is a young, gay Black man, rejected by his mother and with few options for his future, decides to join the Marines, doing whatever it takes to succeed in a system that would cast him aside. But even as he battles deep-seated prejudice and the grueling routines of basic training, he finds unexpected camaraderie, strength, and support in this new community, giving him a hard-earned sense of belonging that will shape his identity and forever change his life.",
+  "popularity": 0.9249,
+  "poster_path": "/w7m962Crc1p4C4gM6ZJBArAikM9.jpg",
+  "production_companies": [
+    {
+      "id": 158453,
+      "logo_path": null,
+      "name": "Freedom Principle",
+      "origin_country": "US"
+    },
+    {
+      "id": 35562,
+      "logo_path": "/wE4mjcC6MWffVY5Xo2Lpjt3wyAF.png",
+      "name": "Gamechanger Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-18",
+  "revenue": 270613,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Inspection",
+  "video": false,
+  "vote_average": 6.215,
+  "vote_count": 86,
+  "external_ids": {
+    "imdb_id": "tt13495458",
+    "wikidata_id": "Q112030155",
+    "facebook_id": "TheInspectionMovie",
+    "instagram_id": "TheInspectionMovie",
+    "twitter_id": "TheInspection"
+  }
+}

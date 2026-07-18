@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/wnpd7yVf632G1RWB7OnSbx2Rpxw.jpg",
+      "genre_ids": [
+        53,
+        28,
+        12
+      ],
+      "id": 237584,
+      "title": "Mojave",
+      "original_language": "en",
+      "original_title": "Mojave",
+      "overview": "A suicidal artist goes into the desert, where he finds his doppelgänger, a homicidal drifter.",
+      "popularity": 0.6665,
+      "poster_path": "/eZLpBNG84wAI5c9XCQBa7w78ElX.jpg",
+      "release_date": "2016-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.023,
+      "vote_count": 150
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

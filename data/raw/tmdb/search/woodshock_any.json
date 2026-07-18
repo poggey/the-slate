@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/mCDtYK962oCEqNBZ7nWkheBXCIj.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 396777,
+      "title": "Woodshock",
+      "original_language": "en",
+      "original_title": "Woodshock",
+      "overview": "Theresa, a haunted young woman spiraling in the wake of profound loss, is torn between her fractured emotional state and the reality-altering effects of a potent cannabinoid drug.",
+      "popularity": 1.6883,
+      "poster_path": "/oXbgY04zMSqMKdNLTcSMP6m5sSF.jpg",
+      "release_date": "2017-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.357,
+      "vote_count": 77
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8C0FJrTvvQOh8NstHlYYsigbrZd.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 201304,
+      "title": "Woodshock",
+      "original_language": "en",
+      "original_title": "Woodshock",
+      "overview": "It's just a simple stretch of interviews and images capturing the people who camp out, dope up, drink up, sometimes get naked, and jump into a nearby waterfall, whilst listening to musicians like Daniel Johnston.",
+      "popularity": 0.4057,
+      "poster_path": "/uNKaGQ1VZAOucnJOh46QDXs3Yb4.jpg",
+      "release_date": "1985-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 13
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

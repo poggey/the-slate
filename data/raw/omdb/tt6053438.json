@@ -1,0 +1,40 @@
+{
+  "Title": "First Reformed",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "08 Jun 2018",
+  "Runtime": "113 min",
+  "Genre": "Drama, Mystery, Thriller",
+  "Director": "Paul Schrader",
+  "Writer": "Paul Schrader",
+  "Actors": "Ethan Hawke, Amanda Seyfried, Cedric The Entertainer",
+  "Plot": "A minister of a small congregation in upstate New York grapples with mounting despair brought on by tragedy, worldly concerns and a tormented past.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Australia",
+  "Awards": "Nominated for 1 Oscar. 62 wins & 108 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkOTUxZDItNDU0OC00ODQzLWJkMWEtYjBiODViNGMyYjhjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "7.1",
+  "imdbVotes": "65,739",
+  "imdbID": "tt6053438",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$3,448,256",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

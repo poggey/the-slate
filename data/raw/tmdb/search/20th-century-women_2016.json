@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 342737,
+      "title": "20th Century Women",
+      "original_language": "en",
+      "original_title": "20th Century Women",
+      "overview": "In 1979 Santa Barbara, California, Dorothea Fields is a determined single mother in her mid-50s who is raising her adolescent son, Jamie, at a moment brimming with cultural change and rebellion. Dorothea enlists the help of two younger women – Abbie, a free-spirited punk artist living as a boarder in the Fields' home and Julie, a savvy and provocative teenage neighbour – to help with Jamie's upbringing.",
+      "popularity": 1.7703,
+      "poster_path": "/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
+      "release_date": "2016-12-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.314,
+      "vote_count": 1242
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

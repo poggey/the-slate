@@ -1,0 +1,421 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 310131,
+      "title": "The Witch",
+      "original_language": "en",
+      "original_title": "The Witch",
+      "overview": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.",
+      "popularity": 6.4147,
+      "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "release_date": "2016-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 7722
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mXmvN6drkdU1PWFF92AGklEVIa3.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 274854,
+      "title": "The Last Witch Hunter",
+      "original_language": "en",
+      "original_title": "The Last Witch Hunter",
+      "overview": "The modern world holds many secrets, but by far the most astounding is that witches still live among us; vicious supernatural creatures intent on unleashing the Black Death upon the world and putting an end to the human race once and for all. Armies of witch hunters have battled this unnatural enemy for centuries, including Kaulder, a valiant warrior who many years ago slayed the all-powerful Witch Queen, decimating her followers in the process. In the moments right before her death, the Queen cursed Kaulder with immortality, forever separating him from his beloved wife and daughter. Today, Kaulder is the last living hunter who has spent his immortal life tracking down rogue witches, all the while yearning for his long-lost family.",
+      "popularity": 3.8226,
+      "poster_path": "/dS9YdnJkxtKE2PKCSsxTaO7Jpf5.jpg",
+      "release_date": "2015-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.016,
+      "vote_count": 3875
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1JnemtgRmn3vcVE4GEzUkJVuL8B.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 2667,
+      "title": "The Blair Witch Project",
+      "original_language": "en",
+      "original_title": "The Blair Witch Project",
+      "overview": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
+      "popularity": 4.5869,
+      "poster_path": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "release_date": "1999-07-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.366,
+      "vote_count": 5510
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tuDhEdza074bA497bO9WFEPs6O6.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "original_language": "en",
+      "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+      "popularity": 11.5391,
+      "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+      "release_date": "2005-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.138,
+      "vote_count": 11597
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zPzJ3DAUjpJoiBm4jODt50QEEr3.jpg",
+      "genre_ids": [
+        27,
+        35,
+        10749,
+        14
+      ],
+      "id": 374052,
+      "title": "The Love Witch",
+      "original_language": "en",
+      "original_title": "The Love Witch",
+      "overview": "A modern-day witch uses spells and magic to get men to fall in love with her, with deadly consequences.",
+      "popularity": 2.4128,
+      "poster_path": "/q6mZjCwGn9KCTrStTRM88pui0is.jpg",
+      "release_date": "2016-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.419,
+      "vote_count": 631
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Lm94WVtV4HPxr7NWNlwkhLKSeH.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 23047,
+      "title": "Season of the Witch",
+      "original_language": "en",
+      "original_title": "Season of the Witch",
+      "overview": "A 14th century Crusader returns with his comrade to a homeland devastated by the Black Plague. The Church commands the two knights to transport a witch to a remote abbey, where monks will perform a ritual in hopes of ending the pestilence.",
+      "popularity": 2.6627,
+      "poster_path": "/dNVqi8EsBtnnwfR6TgiWM51JOuS.jpg",
+      "release_date": "2011-01-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.531,
+      "vote_count": 2678
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ldxDpPupheGVa6FXYDWx3jk6mDB.jpg",
+      "genre_ids": [
+        27,
+        14,
+        10752,
+        18
+      ],
+      "id": 1231828,
+      "title": "The Witch. Revenge",
+      "original_language": "uk",
+      "original_title": "Конотопська відьма",
+      "overview": "The tale unfolds around an ancient witch from the Ukrainian town of Konotop, who  long ago abandoned her extraordinary powers after falling in love with a mortal man. However, tragedy strikes when her beloved is brutally murdered by the russian soldiers as they occupy Konotop in February 2022. Fueled by grief and a thirst for revenge, she reclaims her supernatural abilities, embarking on a blood-soaked quest to mete out justice to her fiancé's killers.",
+      "popularity": 3.729,
+      "poster_path": "/4Y9BXbNJ5vgIXhKpGpJXxTygngD.jpg",
+      "release_date": "2024-08-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aFqLp6XfmzrYNSVlyKoQU7WT1PX.jpg",
+      "genre_ids": [
+        53,
+        27,
+        18
+      ],
+      "id": 1475490,
+      "title": "The Calling Witch",
+      "original_language": "en",
+      "original_title": "The Calling Witch",
+      "overview": "A brother and sister are terrorized by what seems to be their late-author mother's most sinister literary creation - The Calling Witch.",
+      "popularity": 2.1153,
+      "poster_path": "/q8o2NzIH4ze28NAVs1eRkejAJIk.jpg",
+      "release_date": "2026-01-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        53,
+        878
+      ],
+      "id": 615173,
+      "title": "The Witch: Part 2. The Other One",
+      "original_language": "ko",
+      "original_title": "마녀 2",
+      "overview": "A girl wakes up in a huge secret laboratory, then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.",
+      "popularity": 6.1818,
+      "poster_path": "/9YTuscJXmr9Iua62amCgGSU8PDW.jpg",
+      "release_date": "2022-06-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.417,
+      "vote_count": 456
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f8ng3EDMLkuTMupe4TjgiJS1r0S.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 530254,
+      "title": "The Witch: Part 1. The Subversion",
+      "original_language": "ko",
+      "original_title": "마녀",
+      "overview": "Ja-yoon is a high school student who struggles with memory loss after she endured some unknown trauma during her childhood. While trying to uncover the truth, she is unwittingly dragged into a world of crime and finds herself on a journey that will awaken many secrets hidden deep within.",
+      "popularity": 3.7332,
+      "poster_path": "/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg",
+      "release_date": "2018-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.918,
+      "vote_count": 764
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kxLqciqYnCpeO9XlatsX7YB4bWh.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 1160901,
+      "title": "Burn the Witch",
+      "original_language": "ja",
+      "original_title": "BURN THE WITCH",
+      "overview": "Noel Niihashi and Ninny Spangcole are witch and protection agents for Wing Bind an organization for dragon conservation and management. Their mission is to protect and manage the dragons within London on behalf of the people.",
+      "popularity": 0.3209,
+      "poster_path": "/xlgwbEQMj1ssm91I1r4N1K8yOaM.jpg",
+      "release_date": "2020-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bjOcXuI5FrWldzkAx7CTesEHVWW.jpg",
+      "genre_ids": [
+        27,
+        18
+      ],
+      "id": 1286493,
+      "title": "The Witch",
+      "original_language": "en",
+      "original_title": "The Witch",
+      "overview": "A young woman uses her hypnotic powers to destroy the potential marriage of her crush.",
+      "popularity": 0.1066,
+      "poster_path": "/Ao9XRgIzjwXH1FiE2U8W5nuInuS.jpg",
+      "release_date": "1916-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        14,
+        10751
+      ],
+      "id": 422841,
+      "title": "The Wickedest Witch",
+      "original_language": "en",
+      "original_title": "The Wickedest Witch",
+      "overview": "Avarissa, a witch so evil that she was banished to an underground kingdom, attempts to trick a human child into committing a despicable act so that she can switch places with him and escape.",
+      "popularity": 1.4417,
+      "poster_path": "/wPfqVbklJFLLXgI85ppEr1G6JUx.jpg",
+      "release_date": "1989-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.333,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6W5zmMhUO9yHuVbsYQTJnjLFQnT.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        18,
+        10770
+      ],
+      "id": 32790,
+      "title": "The Good Witch",
+      "original_language": "en",
+      "original_title": "The Good Witch",
+      "overview": "A mysterious woman comes in to town and inhabits the local haunted mansion, making everyone wonder if she's a witch or \"The Grey Lady\".",
+      "popularity": 0.7245,
+      "poster_path": "/nZVOeGCbhLzIfCOB7BCvIrE2TaY.jpg",
+      "release_date": "2008-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 155
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eu2v50vBAd7H46p6sFjtX0vkloW.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 100671,
+      "title": "The Naked Witch",
+      "original_language": "en",
+      "original_title": "The Naked Witch",
+      "overview": "A psychic researcher and his assistants investigate a series of murders of beautiful young women.",
+      "popularity": 1.6267,
+      "poster_path": "/bvLQXm9gkaw35nMepDXHK8CQjxK.jpg",
+      "release_date": "1969-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aaPPyLUQC1KkYjEPLqc8jBImZY5.jpg",
+      "genre_ids": [
+        10770,
+        10751,
+        35,
+        14,
+        10402
+      ],
+      "id": 24054,
+      "title": "The Worst Witch",
+      "original_language": "en",
+      "original_title": "The Worst Witch",
+      "overview": "Mildred is one of the young girls at a prestigious witch academy. She can't seem to do anything right and is picked on by classmates and teachers. The headmistress of the school, Miss Cackle, has an evil twin sister who plans to destroy the school. Can Mildred foil the plan before the Grand Wizard comes to the Academy for a Halloween celebration you'll never forget?!!",
+      "popularity": 0.867,
+      "poster_path": "/ph6U11FTmfxFlkl32riyAyytqgZ.jpg",
+      "release_date": "1986-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.111,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dWvOP3iQAjdqH28FycQsJiUGxea.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1032664,
+      "title": "The Winter Witch",
+      "original_language": "en",
+      "original_title": "The Winter Witch",
+      "overview": "At the behest of her boss, journalist Ingrid returns to her ancestral home when several children are found slaughtered in nearby woodland. With the village suspecting the infamous Winter Witch, together with daughter Eleanor and estranged grandmother Omi, Ingrid must uncover the truth and stop the curse of Frau Perchta once and for all.",
+      "popularity": 0.5612,
+      "poster_path": "/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg",
+      "release_date": "2022-12-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.857,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zhAVM8t0m7OQ6p1KZXnocjB0eJM.jpg",
+      "genre_ids": [
+        27,
+        10770
+      ],
+      "id": 480157,
+      "title": "House of the Witch",
+      "original_language": "en",
+      "original_title": "House of the Witch",
+      "overview": "A group of high-school kids set out to play a Halloween prank at an abandoned house, but once they enter they become victims of a demonic witch who has set her wrath upon them.",
+      "popularity": 2.2727,
+      "poster_path": "/fSvhp22gCoHgFMDSnyhrmlo3M0k.jpg",
+      "release_date": "2017-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.673,
+      "vote_count": 139
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        14,
+        27
+      ],
+      "id": 804617,
+      "title": "The Witch & the Woodsman",
+      "original_language": "en",
+      "original_title": "The Witch & the Woodsman",
+      "overview": "A woodsman must rescue his young daughter from an evil witch.",
+      "popularity": 0.2837,
+      "poster_path": null,
+      "release_date": "2010-06-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eeGTJKXZDw3wOKRsqPtYXvmwcn2.jpg",
+      "genre_ids": [
+        27,
+        18
+      ],
+      "id": 1352445,
+      "title": "Inherit the Witch",
+      "original_language": "en",
+      "original_title": "Inherit the Witch",
+      "overview": "In 1984 a family throws a 14th-birthday party. 30 years later, they re-unite at two isolated houses in a forest, where horrific truths are uncovered about the family's occult pact with an ancient evil that's enabled their wealth and power.",
+      "popularity": 0.8403,
+      "poster_path": "/BTkcOikAvHCC7an9iLRwlxX94E.jpg",
+      "release_date": "2024-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 33,
+  "total_results": 641
+}

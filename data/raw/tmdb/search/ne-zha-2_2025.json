@@ -1,0 +1,48 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        12
+      ],
+      "id": 980477,
+      "title": "Ne Zha 2",
+      "original_language": "zh",
+      "original_title": "哪吒之魔童闹海",
+      "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+      "popularity": 43.5182,
+      "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+      "release_date": "2025-01-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.141,
+      "vote_count": 752
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5cYBmQjlrl0NNW291Z8qhIQO6VB.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1432009,
+      "title": "Destruction Before Construction: The Making of Ne Zha 2",
+      "original_language": "zh",
+      "original_title": "不破不立：哪吒之魔童闹海幕后纪录片",
+      "overview": "The documentary reveals the behind-the-scenes production process of the film “Ne Zha 2”, telling the story of director Jiaozi and more than 4,000 animators across the country striving to push the boundaries of creativity. Through moments of work and lighthearted interactions among the production team, the film showcases the relentless spirit, optimism, and boundless imagination of Chinese animation filmmakers as they continuously break through creative limits and personal barriers, embodying the philosophy that “life has no limits.”",
+      "popularity": 0.3662,
+      "poster_path": "/sCqkdPYtk4sPYubb176GGMlrkEX.jpg",
+      "release_date": "2025-02-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 3
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

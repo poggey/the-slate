@@ -1,0 +1,388 @@
+{
+  "page": 7,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28
+      ],
+      "id": 1653986,
+      "title": "Bloodsport",
+      "original_language": "en",
+      "original_title": "Bloodsport",
+      "overview": "A reimagining of the 1988 film. Plot TBA.",
+      "popularity": 0.8159,
+      "poster_path": "/YvXnUYsotDkwHDEAv3tw2fSMtm.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 1618607,
+      "title": "Schiller Park",
+      "original_language": "en",
+      "original_title": "Schiller Park",
+      "overview": "A man tries to not hit rock bottom on a road trip from Youngstown, Ohio to Gurnee, Illinois.",
+      "popularity": 0.9855,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1616347,
+      "title": "Please",
+      "original_language": "en",
+      "original_title": "Please",
+      "overview": "In 1870s, Long Island, a woman's urgent attempt to cure her hidden infertility leads to an unexpected revelation: she never wanted children at all. Armed with this truth, she must challenge her husband to claim her independence.",
+      "popularity": 2.2262,
+      "poster_path": "/umyZQo2bGqjVED6Fgfm7LHSxtUH.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1591591,
+      "title": "Stages",
+      "original_language": "en",
+      "original_title": "Stages",
+      "overview": "Details of the project remain under wraps, but the film is said to be inspired by Mizuno’s own dance background.",
+      "popularity": 0.9607,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1583250,
+      "title": "Untitled A24 Horror Film",
+      "original_language": "en",
+      "original_title": "Untitled A24 Horror Film",
+      "overview": "A bachelor party spirals into terror.",
+      "popularity": 1.4077,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1536926,
+      "title": "Untitled Ramy Youssef Film",
+      "original_language": "en",
+      "original_title": "Untitled Ramy Youssef Film",
+      "overview": "Plot TBA.",
+      "popularity": 0.3086,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10752,
+        36
+      ],
+      "id": 1532099,
+      "title": "Airman",
+      "original_language": "en",
+      "original_title": "Airman",
+      "overview": "The incredible true story of Arthur Meyerowitz, an American turret-gunner whose B-24 bomber was shot down over Vichy France in 1943.",
+      "popularity": 0.5215,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1523135,
+      "title": "The Chaperones",
+      "original_language": "en",
+      "original_title": "The Chaperones",
+      "overview": "Three slacker friends are hired to transport a troubled teen across the country.",
+      "popularity": 2.1791,
+      "poster_path": "/cerSsamrPF0rlyu835sjCMddd5s.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        9648,
+        53
+      ],
+      "id": 1517860,
+      "title": "Hotel Hotel Hotel Hotel",
+      "original_language": "en",
+      "original_title": "Hotel Hotel Hotel Hotel",
+      "overview": "A man wakes up trapped in a mysterious hotel room, all alone in a mind-bending prison, his only chance for escape is through teamwork… with himself.",
+      "popularity": 1.0045,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 1513849,
+      "title": "The Goblin",
+      "original_language": "en",
+      "original_title": "The Goblin",
+      "overview": "Plot TBA. Being described as Ted meets E.T.",
+      "popularity": 1.5234,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749
+      ],
+      "id": 1495535,
+      "title": "Dennis",
+      "original_language": "en",
+      "original_title": "Dennis",
+      "overview": "A British student and a Muscovite poet fall in love in the 1990s.",
+      "popularity": 1.4788,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1492306,
+      "title": "Creature",
+      "original_language": "en",
+      "original_title": "Creature",
+      "overview": "Plot TBA.",
+      "popularity": 0.9427,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1486321,
+      "title": "Deathmatch",
+      "original_language": "en",
+      "original_title": "Deathmatch",
+      "overview": "A documentary based on the world of deathmatch wrestling.",
+      "popularity": 0.4917,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53
+      ],
+      "id": 1485094,
+      "title": "Breakthrough",
+      "original_language": "en",
+      "original_title": "Breakthrough",
+      "overview": "An alienated young man comes under the influence of a motivational guru, whose intoxicating charm masks his morally questionable methods of manipulation and his own concealed darkness.",
+      "popularity": 0.4693,
+      "poster_path": "/tzd0TZeGAZ26lDJtsp52Ov8BxDY.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1476845,
+      "title": "Better Run",
+      "original_language": "en",
+      "original_title": "Better Run",
+      "overview": "",
+      "popularity": 0.2783,
+      "poster_path": "/n4QX4oBi5EOlXQpomzx124tIXJo.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1472297,
+      "title": "The Peasant",
+      "original_language": "en",
+      "original_title": "The Peasant",
+      "overview": "A shepherd in the 1300s embarks on a rage-fueled campaign against a group of mercenary knights who ransacked his community.",
+      "popularity": 1.971,
+      "poster_path": "/8AKumT7CAaFLzTM5TXoTfxfT8y8.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 1461670,
+      "title": "Untitled Raunchy Teen Comedy",
+      "original_language": "en",
+      "original_title": "Untitled Raunchy Teen Comedy",
+      "overview": "Delaney Pitts, a nerdy, teenage virgin has a secret online life as an erotic fan fiction author.",
+      "popularity": 0.7281,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1453197,
+      "title": "Enemies",
+      "original_language": "en",
+      "original_title": "Enemies",
+      "overview": "A solitary hitman's new job catches a detective's attention, leading both to discover unexpected similarities between them.",
+      "popularity": 0.6598,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1452181,
+      "title": "Untitled Texas Chainsaw Massacre Film",
+      "original_language": "en",
+      "original_title": "Untitled Texas Chainsaw Massacre Film",
+      "overview": "The tenth installment in the Texas Chainsaw Massacre franchise. Plot details TBA.",
+      "popularity": 1.5149,
+      "poster_path": "/iH2dwaYfIYnfQ2zGJ1xyO92QSOz.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1447111,
+      "title": "Untitled Simon Rex Short Film",
+      "original_language": "en",
+      "original_title": "Untitled Simon Rex Short Film",
+      "overview": "Short film produced by A24, filmed at San Quentin State Prison, starring Simon Rex.",
+      "popularity": 0.1726,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 9,
+  "total_results": 172
+}

@@ -1,0 +1,87 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/wXI4ljoRVDBp2vHRoXKb2jPlmAj.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 157845,
+      "title": "The Rover",
+      "original_language": "en",
+      "original_title": "The Rover",
+      "overview": "Ten years after a severe economic collapse in the western world, lawlessness reigns and life is cheap. Eric is a lone drifter, and his car is his only possession. When a gang steals it, Eric comes across the injured Rey, left behind by the car thieves. The pair form an unlikely and uneasy alliance.",
+      "popularity": 2.6303,
+      "poster_path": "/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
+      "release_date": "2014-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.264,
+      "vote_count": 1066
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 641617,
+      "title": "Something Elemental: Making 'The Rover'",
+      "original_language": "en",
+      "original_title": "Something Elemental: Making 'The Rover'",
+      "overview": "Behind the scenes look at David Michôd's 2014 film 'The Rover'.",
+      "popularity": 0.4907,
+      "poster_path": "/9aSUfObaiLjChJgZGjUA1uv4CY2.jpg",
+      "release_date": "2014-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 251005,
+      "title": "Rover (or Beyond Human: The Venusian Future and the Return of the Next Level)",
+      "original_language": "en",
+      "original_title": "Rover (or Beyond Human: The Venusian Future and the Return of the Next Level)",
+      "overview": "In their dilapidated church headquarters, a dispirited cult awaits the sign to off themselves. Their hapless leader, Dave, concocts a plan: to quell infighting and give them purpose in life, he fakes a prophecy instructing them to make a movie and share their story with the world. They don't know the first thing about film production, but in making the movie the cult members find a uniting purpose. Then, just as they hit their stride, Dave receives a true prophecy. It's time for them to \"exit.\"",
+      "popularity": 0.1873,
+      "poster_path": "/p2T0ttF3nPXcN04rDofW4l0UFcr.jpg",
+      "release_date": "2014-01-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/70TJlL3EtLt5tvVf8NNSgthQfEy.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 278769,
+      "title": "Bamse and the Thief City",
+      "original_language": "sv",
+      "original_title": "Bamse och tjuvstaden",
+      "overview": "Bamse, Lille Skutt and Skalman embark on an adventure that takes them through the Troll Forest to the City of Thieves to save Grandma from the villainous fox Reinard.",
+      "popularity": 0.6838,
+      "poster_path": "/tAECqhkveOdOvlERm9jCDCUXaTz.jpg",
+      "release_date": "2014-01-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 16
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

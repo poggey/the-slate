@@ -1,0 +1,40 @@
+{
+  "Title": "Showing Up",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "03 May 2023",
+  "Runtime": "107 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Kelly Reichardt",
+  "Writer": "Jonathan Raymond, Kelly Reichardt",
+  "Actors": "Michelle Williams, Hong Chau, André 3000",
+  "Plot": "A sculptor preparing to open a new show tries to work amidst the daily dramas of family and friends.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "5 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzNhNDNmMWUtMjQyMi00OTdkLWI2YWItMzUyNzI4ZDY0NmMxXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "6.3",
+  "imdbVotes": "6,876",
+  "imdbID": "tt13923216",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$754,483",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

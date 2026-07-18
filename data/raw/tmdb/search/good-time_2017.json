@@ -1,0 +1,86 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 429200,
+      "title": "Good Time",
+      "original_language": "en",
+      "original_title": "Good Time",
+      "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+      "popularity": 4.4368,
+      "poster_path": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "release_date": "2017-08-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.209,
+      "vote_count": 3151
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/io0Ali1AwSZPY7cPI5BFlSIqinM.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 469192,
+      "title": "The Good Time Girls",
+      "original_language": "en",
+      "original_title": "The Good Time Girls",
+      "overview": "A group of women band together as they go to war against a pack of men who have done them wrong at every turn.",
+      "popularity": 0.8315,
+      "poster_path": "/zxjJJ9baW4FUI6YQc1IkGmkYLKu.jpg",
+      "release_date": "2017-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.458,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 483057,
+      "title": "For a Good Time, Call...",
+      "original_language": "en",
+      "original_title": "For a Good Time, Call...",
+      "overview": "Revenge is only the beginning.",
+      "popularity": 0.1723,
+      "poster_path": "/gXJm7wDN3zvVkxV3e9wIrAwCzHx.jpg",
+      "release_date": "2017-04-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 635764,
+      "title": "For the Good Times",
+      "original_language": "es",
+      "original_title": "For the Good Times",
+      "overview": "On the birthday of the patriarch of the family, one of his sons decides to come out of the closet and test the tolerance of his nearest and dearest. But the surprises that he has up his sleeve do not end there.",
+      "popularity": 0.2959,
+      "poster_path": "/zdLefY8OKLKFSvEjO9IVvBuOvPt.jpg",
+      "release_date": "2017-10-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

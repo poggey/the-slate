@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        878,
+        53
+      ],
+      "id": 431002,
+      "title": "The Lobster Circle",
+      "original_language": "en",
+      "original_title": "The Lobster Circle",
+      "overview": "A teen named Brian Gregaraki is suffering delusions of grandeur. Meanwhile, his friends Doug and Tom discover that the VCR they just bought for 5 bucks can summon objects from films into the real world.",
+      "popularity": 0.3755,
+      "poster_path": "/jepgQp7PYpgruyfhd55bmbdJDJA.jpg",
+      "release_date": "2016-11-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iPWb0K2sUhuj8GZ2r3MgtwHgHGb.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 451745,
+      "title": "Dolphinman Battles the Sex Lobsters",
+      "original_language": "en",
+      "original_title": "Dolphinman Battles the Sex Lobsters",
+      "overview": "Sgt. Kabukiman NYPD contracts a deadly new STD, The Sex Lobsters, and unknowingly spreads it around town while visiting Tromaville's best orgy spots. Only Dolphinman can find the cure and save the day!",
+      "popularity": 0.4645,
+      "poster_path": "/kAlfjlydcW3zHoIUHMDrOTeAlGv.jpg",
+      "release_date": "2016-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

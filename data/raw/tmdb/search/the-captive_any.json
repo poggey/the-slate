@@ -1,0 +1,407 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fD4Q03vX0xqumc6iuDt6SujrlxI.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 244761,
+      "title": "The Captive",
+      "original_language": "en",
+      "original_title": "The Captive",
+      "overview": "Eight years after their daughter Cassandra's abduction tore them apart, an estranged couple discover disturbing clues that indicate that she is still alive.",
+      "popularity": 3.3559,
+      "poster_path": "/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg",
+      "release_date": "2014-09-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.845,
+      "vote_count": 1178
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sBEM8U5l7jq0BH7XiC7Zzs4d8e2.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1238188,
+      "title": "The Captive",
+      "original_language": "es",
+      "original_title": "El cautivo",
+      "overview": "In 1575, the young soldier Miguel de Cervantes is captured on the high seas by Barbary pirates and taken to Algiers as a hostage. Aware that a cruel death awaits him if his family does not pay his ransom soon, he finds refuge in his passion for storytelling.",
+      "popularity": 1.9385,
+      "poster_path": "/aI9XOKEXN6J3uwZ84wwBaKzqcMw.jpg",
+      "release_date": "2025-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.534,
+      "vote_count": 73
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5ymEorWPYxGza0a1R1fVTJcqQes.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        10749
+      ],
+      "id": 415021,
+      "title": "The Captive",
+      "original_language": "en",
+      "original_title": "The Captive",
+      "overview": "During the Balkan Wars, Sonia is a young woman living in Montenegro and left to care for her younger brother Milos and the family farm while elder brother Marko goes off to battle. Unable to handle the daily tasks following her brother’s tragic death, help comes in the form of Mahmud Hassan, a captured Turk nobleman, now a prisoner of war. Tasked with helping Sonia, their initial frosty relationship soon melts into romance. As the war rages on Sonia, Mahmud and Milos will face near-insurmountable obstacles in their quest for a better life amidst the hell of war.",
+      "popularity": 0.4444,
+      "poster_path": "/ekKbg2mVsAs8vYzLzFewzNWeB3y.jpg",
+      "release_date": "1915-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7vE0d4PEtGB030VPMy4BqurJGFl.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 62006,
+      "title": "The Captive City",
+      "original_language": "en",
+      "original_title": "The Captive City",
+      "overview": "A small-town newspaper editor defies threats to expose the mob.",
+      "popularity": 0.5987,
+      "poster_path": "/qL0PE0B6klruRntPfuZmQywCOxL.jpg",
+      "release_date": "1952-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.143,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A73L43TlR4ISUn4B9b6EGcoEcpm.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 47244,
+      "title": "The Captive",
+      "original_language": "fr",
+      "original_title": "La Captive",
+      "overview": "Ariane lives with Simon in his large Paris flat. Simon is obsessed with her: he wants to know everything about her, secretly follows her when she goes out, asks questions all the time, even in the most intimate moments. Ariane seems to take it all in stride, but Simon realises that she's hiding something.",
+      "popularity": 0.7853,
+      "poster_path": "/h7M7jy1tzLR5Il0jZptEYw0ECnt.jpg",
+      "release_date": "2000-09-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.713,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1tUsZIldVtVhJNvGNwtdY9vRlRM.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 82819,
+      "title": "The Captive Heart",
+      "original_language": "en",
+      "original_title": "The Captive Heart",
+      "overview": "A series of stories about the lives and loves of men in a Prisoner of War camp over five years. The main story is of Hasek (Redgrave) a Czech soldier who needs to keep his identity a secret from the Nazis. To do this, he poses as a dead English Officer and corresponds with the man's wife. Other inmates’ stories are also revealed. Location shooting in the British occupied part of Germany adds believability.",
+      "popularity": 0.6695,
+      "poster_path": "/5g9d9RYuTp7TDzsi3AKniQkVngG.jpg",
+      "release_date": "1946-04-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.365,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/krR4fuIqySsf0QAje9TVRy5EHHC.jpg",
+      "genre_ids": [
+        16,
+        14
+      ],
+      "id": 116350,
+      "title": "The Captive",
+      "original_language": "fr",
+      "original_title": "La prisonnière",
+      "overview": "Two kids travel to a city where silence is kept sacred.",
+      "popularity": 0.3986,
+      "poster_path": "/tRohkDKLIK4DIXzU4BpeLHyMKcW.jpg",
+      "release_date": "1985-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fqUzTDbINRXZHem92gKlbMDZhFs.jpg",
+      "genre_ids": [
+        53,
+        10770,
+        9648
+      ],
+      "id": 711550,
+      "title": "The Captive Nanny",
+      "original_language": "en",
+      "original_title": "The Captive Nanny",
+      "overview": "A live-in nanny thinks she’s found the perfect family to work for until she learns they have a dark secret.",
+      "popularity": 0.366,
+      "poster_path": "/wXTMQeJtnbGEyDAMmQiRpyHxnrx.jpg",
+      "release_date": "2020-05-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wHcmbwTdnRGMDWUqr9hA06bQhs2.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 84711,
+      "title": "The Jungle Captive",
+      "original_language": "en",
+      "original_title": "The Jungle Captive",
+      "overview": "Once again Paula the ape woman is brought back to life, this time by a mad doctor and his disfigured assistant, who also kidnaps a nurse in order to have a female blood donor.",
+      "popularity": 1.082,
+      "poster_path": "/ixraVEU6w5UgdKoVI8X1hwkbAZ6.jpg",
+      "release_date": "1945-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.611,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ltPTrvZuXOLekmayReo1Mx02fGR.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 1004863,
+      "title": "The Captive: The Longest Drive 2",
+      "original_language": "en",
+      "original_title": "The Captive: The Longest Drive 2",
+      "overview": "During a Cavalry massacre at an Indian village, two brothers, searching for their captured sister, rescue a white woman long ago kidnapped by the Cheyenne. They ride for their lives, haunted by the chant of the tribal Death Song.",
+      "popularity": 0.824,
+      "poster_path": "/5vmWoM5aGV6JBSOsx9z22bDeIG7.jpg",
+      "release_date": "1976-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1302429,
+      "title": "The Captive",
+      "original_language": "en",
+      "original_title": "The Captive",
+      "overview": "Two men Simon and Dennis meet online for a real time hook-up. What happens blurs the lines between desire and manipulation, as events fold into a dangerous baiting struggle.",
+      "popularity": 0.0277,
+      "poster_path": "/rmnx5lzFtADdYRvsX11yBUMecZS.jpg",
+      "release_date": "2024-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 848223,
+      "title": "The Captive",
+      "original_language": "it",
+      "original_title": "The Captive",
+      "overview": "",
+      "popularity": 0.0286,
+      "poster_path": "/5Kj7QttgBbqdI8dJF3f8qJAo8sG.jpg",
+      "release_date": "2015-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 1605342,
+      "title": "The Love Captive",
+      "original_language": "en",
+      "original_title": "The Love Captive",
+      "overview": "A hypnotist huckster is accused of casting spells on the minds of his female patients Eventually a woman and her fiancé exact their revenge on him.",
+      "popularity": 0.9207,
+      "poster_path": "/ieVKQ1FI60p5pV3ck0q4FWGRkgg.jpg",
+      "release_date": "1934-06-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 94537,
+      "title": "The Blonde Captive",
+      "original_language": "en",
+      "original_title": "The Blonde Captive",
+      "overview": "An expedition is sent into the rugged Australian outback to search for a lost white woman.",
+      "popularity": 0.4103,
+      "poster_path": "/eDq5fCMxDgQoKya1SFshC7IG7p6.jpg",
+      "release_date": "1931-12-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1229229,
+      "title": "Captive TORIKO The Body",
+      "original_language": "ja",
+      "original_title": "虜　ＴＯＲＩＫＯ　ザ・ボディ",
+      "overview": "The third Toriko film. Shiho Fukano, who worked for a major trading company, was about to marry Akihiro Katsuki. To those around her, she seemed like a woman on the verge of finding happiness. However, Shiho didn't show up for the final wedding planning meeting, instead heading to see Isao Toyomura, whom Akihiro had introduced her to previously. Shiho had lent Toyomura all of her wedding funds, and that day was the due date for repayment. Determined to do something before Akihiro noticed, Shiho arrived at the man's shop, only to find it empty. But then a car stopped. Standing before Shiho were cold-blooded debt collectors...",
+      "popularity": 0.2089,
+      "poster_path": "/34eA4Xkc8SMVBw4FSjF3X8Mcejr.jpg",
+      "release_date": "1995-07-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 561969,
+      "title": "The Captive",
+      "original_language": "fr",
+      "original_title": "Le Captif",
+      "overview": "Two gun runners, Le Doc and Rougier, save and tend the only survivor of a plane crash into the Vietnamese jungle. When they realize the man named Hamelin is a renowned electronics engineer, they decide to keep him hostage and to release him in exchange for a high ransom. Things get complicated with the coming of Sylvie, Hamelin's wife in search of her missing husband. To make matters worse, Wong,a Chinese gang leader and former ally of the traffickers, turns against them and attacks them with his men.",
+      "popularity": 0.6398,
+      "poster_path": "/pUPQlI6FRgWHgTUWQa5mULyKYvX.jpg",
+      "release_date": "1962-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        12
+      ],
+      "id": 279583,
+      "title": "A Captive in the Land",
+      "original_language": "en",
+      "original_title": "A Captive in the Land",
+      "overview": "An American meteorologist attempts to rescue an injured Soviet airman. A killer storm soon maroons them both and the unlikely duo must learn to overcome their differences in order to survive the real life terrors of the Arctic.",
+      "popularity": 1.0273,
+      "poster_path": "/g5gDTv4fA3LpypfEHD8lyuHVNXa.jpg",
+      "release_date": "1990-01-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lMZFDUDw40vwqeqQvvTLUT5D5R6.jpg",
+      "genre_ids": [
+        12,
+        36
+      ],
+      "id": 378740,
+      "title": "The Captive God",
+      "original_language": "en",
+      "original_title": "The Captive God",
+      "overview": "A Spanish boy is shipwrecked and cast ashore in Mexico in the sixteenth century. He is raised as a god by the Tehuan tribe, who have never before seen a white man, and is named Chiapa. Then at manhood he rules the Tehuans. Chiapa loves the priestess Tecolote but she is kidnapped by the Aztec warrior Mexitli, so he follows in the hopes of rescuing her.",
+      "popularity": 0.2429,
+      "poster_path": "/mlMxzTXmkW2Qilr4VSynXcFXDcG.jpg",
+      "release_date": "1916-07-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        10749,
+        53,
+        27
+      ],
+      "id": 405568,
+      "title": "The Love Captive",
+      "original_language": "en",
+      "original_title": "The Love Captive",
+      "overview": "Pinpoint-accurate period portrait of late-'60's Greenwich Village detailing the lives and loves of the denizens of a run down downtown hotel and chamber-of-horrors peepshow. Wayfaring platinum souls, crooked cops practicing mind control, a vampire queen atop Dracula's coffin being slobbermauled by a werewolf in the shadow of Houdini's straitjacket and plenty of underpants sex.",
+      "popularity": 0.1742,
+      "poster_path": "/to4y1M4tNkhoDbTjnOsnsiAlLL.jpg",
+      "release_date": "1969-08-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        28
+      ],
+      "id": 876194,
+      "title": "The Captive",
+      "original_language": "ar",
+      "original_title": "الأسيرة",
+      "overview": "",
+      "popularity": 0.5267,
+      "poster_path": "/12VtyCQDPoCfKh9UwKOa8TiC3h8.jpg",
+      "release_date": "1973-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 69
+}

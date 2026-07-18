@@ -1,0 +1,408 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/thYgTJfMO2HG7OJTVIAbbuHCx2D.jpg",
+      "genre_ids": [
+        35,
+        28,
+        14
+      ],
+      "id": 13509,
+      "title": "The Monster Squad",
+      "original_language": "en",
+      "original_title": "The Monster Squad",
+      "overview": "Count Dracula returns to the world of humans accompanied by Frankenstein's Monster, the Wolfman, the Mummy, and the Gillman. The uglies are in search of a powerful amulet that will grant them the ability to rule the world. A group of horror-loving heroes are the only ones daring to stand in their way.",
+      "popularity": 1.6302,
+      "poster_path": "/8EVuqCcqFzQvc7X8E3fx3w4B5Td.jpg",
+      "release_date": "1987-08-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 652
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ioYtzheqeyVvZE2P1Xw2gFvet4D.jpg",
+      "genre_ids": [
+        27,
+        18
+      ],
+      "id": 340103,
+      "title": "The Monster",
+      "original_language": "en",
+      "original_title": "The Monster",
+      "overview": "Stranded on a desolate road at night, a troubled mother and her daughter are stalked by a terrifying woodland creature while confronting the trauma of their fractured relationship.",
+      "popularity": 1.1519,
+      "poster_path": "/daQg6pnZj10Ir25uMZ0lMacHKOP.jpg",
+      "release_date": "2016-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.508,
+      "vote_count": 607
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/94Tw82saLN9sNaYetsGqwsnm66R.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1166599,
+      "title": "Love Is the Monster",
+      "original_language": "en",
+      "original_title": "Love Is the Monster",
+      "overview": "A couple, Ana and Justin, rocked by infidelity, attend an exclusive couples retreat in Finland, under the golden rays of the summer’s midnight sun. They join other couples from other parts of the world to experience the transformative teachings of the shaman and healer, Tiina, inspired by the ancient Finnish goddess of love and fertility, Lempo. But the idyllic setting soon takes a turn...",
+      "popularity": 0.5624,
+      "poster_path": "/94Y2I0LtJMuhThumYU4n22muE2e.jpg",
+      "release_date": "2025-10-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3PqF057dHrqqzcJIBG7z9eFBcaA.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 110980,
+      "title": "The Mad Monster",
+      "original_language": "en",
+      "original_title": "The Mad Monster",
+      "overview": "A mad scientist changes his simple-minded handyman into a werewolf in order to prove his supposedly crazy scientific theories - and exact revenge.",
+      "popularity": 1.2028,
+      "poster_path": "/2Mhd2VXiTu1jmkmCbw6L96n40Ba.jpg",
+      "release_date": "1942-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.408,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/izUQSU7tCcx0k4xU3VARcKqy3pn.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 22826,
+      "title": "The Monster",
+      "original_language": "it",
+      "original_title": "Il mostro",
+      "overview": "A vicious serial sex killer is on the loose, and landscape gardener and shop-window outfitter Loris is the prime suspect, thanks to his unfortunate habit of getting caught in compromising situations (for which there is always a totally innocent explanation that the police fail to spot). Undercover policewoman Jessica is assigned by eccentric police psychologist Taccone to follow Loris.",
+      "popularity": 1.1159,
+      "poster_path": "/6h6ahipPd84QcyFbnsEikLt7w3Z.jpg",
+      "release_date": "1994-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.962,
+      "vote_count": 661
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9pPBXYHq0iH6Z71YwQIqV2y9h4x.jpg",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 44692,
+      "title": "The Magnetic Monster",
+      "original_language": "en",
+      "original_title": "The Magnetic Monster",
+      "overview": "The Office of Scientific Investigations tracks down the source of increased magnetism and radioactivity in Los Angeles, and discovers that a man-made isotope is consuming available energy from nearby mass every few hours,  doubling its size in the process.  Although microscopic, it will soon become big enough to destroy Earth; and how to stop it is yet to be determined.  The film's Deltatron special effects footage is taken from the 1934 German sci-fi film GOLD.",
+      "popularity": 0.8772,
+      "poster_path": "/eIV85xjg61orfVQnQykTSNGKTVj.jpg",
+      "release_date": "1953-02-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.59,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        27
+      ],
+      "id": 715461,
+      "title": "The Monster",
+      "original_language": "en",
+      "original_title": "The Monster",
+      "overview": "1997. Ed is a 13 year old boy living with his father. Terrified by the idea of talking to the girl he loves, one night's events will change the way he sees things.",
+      "popularity": 0.1998,
+      "poster_path": "/6aVNxNal7hEUuu8I8sohLYHtt4y.jpg",
+      "release_date": "2018-01-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        14
+      ],
+      "id": 1407887,
+      "title": "The Monster Tale",
+      "original_language": "ko",
+      "original_title": "The Monster Tale",
+      "overview": "A warring group of three infamous East Asian monsters must unite to defeat a menacing invasion by a monster from across the seas in Europe.",
+      "popularity": 0.3506,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wrFvTM1A7YHNFMgzsPw0sTc9Xq2.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 39578,
+      "title": "The Monster Club",
+      "original_language": "en",
+      "original_title": "The Monster Club",
+      "overview": "A vampire attacks a horror author on the street and then invites him to a nearby club as a gesture of gratitude, which turns out to be a meeting place for assorted creatures of the night. The vampire then regales him with three stories, each interspersed with musical performances at the club.",
+      "popularity": 0.9143,
+      "poster_path": "/AnNIp3GDXX95nljypGPhcZnEGts.jpg",
+      "release_date": "1981-04-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.827,
+      "vote_count": 124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3zupV75TmdODZB8N95KlZ2OY5ho.jpg",
+      "genre_ids": [
+        878,
+        27,
+        80
+      ],
+      "id": 106296,
+      "title": "The Monster and the Girl",
+      "original_language": "en",
+      "original_title": "The Monster and the Girl",
+      "overview": "After a young woman is coerced into prostitution and her brother framed for murder by an organized crime syndicate, retribution in the form of an ape visits the mobsters.",
+      "popularity": 0.7377,
+      "poster_path": "/ns0wNnQG4PdfF4aidBNgCWSwrSb.jpg",
+      "release_date": "1941-02-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.766,
+      "vote_count": 32
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ztM695T5nCr2DlGeZ1Akij8XqN6.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 14383,
+      "title": "The Sex Monster",
+      "original_language": "en",
+      "original_title": "The Sex Monster",
+      "overview": "A neurotic L.A. building contractor pushes his reluctant wife into having a threesome. Unfortunately for him, his wife gets more out of it than he does and begins seducing every female she meets, including the contractor's secretary.",
+      "popularity": 0.8779,
+      "poster_path": "/u3otrY7hETbYjId7gzJnuGEyzSU.jpg",
+      "release_date": "1999-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.153,
+      "vote_count": 62
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AozphW6uU4aOU4tptTrOAfHUBAs.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 108382,
+      "title": "The Monster Maker",
+      "original_language": "en",
+      "original_title": "The Monster Maker",
+      "overview": "Mad scientist injects his enemies with acromegaly virus, causing them to become hideously deformed.",
+      "popularity": 0.4358,
+      "poster_path": "/8jJPN5D52XZX4JwRILETQ7RejUF.jpg",
+      "release_date": "1944-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.161,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10770,
+        18,
+        27
+      ],
+      "id": 168248,
+      "title": "The Henderson Monster",
+      "original_language": "en",
+      "original_title": "The Henderson Monster",
+      "overview": "A small town becomes gripped by an ethical debate when the community discovers a moody, egotistical scientist is experimenting with DNA and the creation of new life.",
+      "popularity": 0.6673,
+      "poster_path": "/2NhYUQ3OIG9fYe8R3yrHe3AQgSG.jpg",
+      "release_date": "1980-05-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lpByVKyDvEaMJAFn7cADocSZJ7c.jpg",
+      "genre_ids": [
+        28,
+        27
+      ],
+      "id": 462036,
+      "title": "The Monster Project",
+      "original_language": "en",
+      "original_title": "The Monster Project",
+      "overview": "A group of aspiring filmmakers interview three individuals who claim to be monsters. However, unique incidents start to occur when they start filming.",
+      "popularity": 1.9487,
+      "poster_path": "/1E0JW9zqFwOO7w0HiuEPo6N7HBl.jpg",
+      "release_date": "2017-08-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.131,
+      "vote_count": 175
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 904417,
+      "title": "The Monster",
+      "original_language": "en",
+      "original_title": "The Monster",
+      "overview": "After finding her car trashed, Cindy is stalked by a demonic giant with a hammer named The Tenderizer. She flees into an abandoned warehouse to avoid her would be murderer only to stumble unto a visage much more terrifying.",
+      "popularity": 0.4875,
+      "poster_path": null,
+      "release_date": "2008-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Q9gdybCB4ckPUcNUoAlEIMF86t.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1461745,
+      "title": "The Monster",
+      "original_language": "en",
+      "original_title": "The Monster",
+      "overview": "One warm day in April, Edye Dunn decides to venture out into the forests of the canyon below RASOTA. She meets her fate at the cruel hands of the mysterious Monster who has haunted the canyon for centuries, taking the lives of innocent bypassers anytime he gets the chance.",
+      "popularity": 0.1217,
+      "poster_path": "/ony16PI9cFTDjQ0fJDk5IcN6ueV.jpg",
+      "release_date": "2025-04-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/99wklPc31J1jVsPUUxpAQRQHx5I.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35,
+        12
+      ],
+      "id": 335795,
+      "title": "Monster High: The Movie",
+      "original_language": "en",
+      "original_title": "Monster High: The Movie",
+      "overview": "Clawdeen Wolf, half human and half werewolf, has recently started attending Monster High, a school for monsters in all forms. After quickly befriending her classmates Frankie Stein and Draculaura, Clawdeen feels like she has finally found a place where she can truly be herself, or so she thinks. Soon, a devious plan to destroy Monster High threatens to reveal her real identity and Clawdeen must learn to embrace her true monster heart before it's too late.",
+      "popularity": 1.2562,
+      "poster_path": "/768OBP28OA4mjavOUAIRlVo14Xu.jpg",
+      "release_date": "2022-10-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.743,
+      "vote_count": 306
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pQymralrVwqatSF0lg9C9LMKa5c.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80,
+        27
+      ],
+      "id": 1137142,
+      "title": "Lumberjack the Monster",
+      "original_language": "ja",
+      "original_title": "怪物の木こり",
+      "overview": "A self-proclaimed psychopath, coldblooded lawyer Ninomiya becomes obsessed with stopping an ax-wielding serial killer who's made him their next target.",
+      "popularity": 0.4529,
+      "poster_path": "/w4JykK8lELrPMq4yqkIoZ6xDMe7.jpg",
+      "release_date": "2023-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.404,
+      "vote_count": 52
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1tH0vGiJbhYqufFsIotSbDQYAEl.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 3217,
+      "title": "Monster Mash: The Movie",
+      "original_language": "en",
+      "original_title": "Monster Mash: The Movie",
+      "overview": "Young couple Scott and Mary are on their way to a Halloween party when their car breaks down, and they encounter a creepy castle where Dr. Frankenstein seeks to put Scott's brain in his monstrous creation. As for Mary, Count Dracula wants her for his mistress.",
+      "popularity": 1.3598,
+      "poster_path": "/eZASPeHvmMxV6WmvoOZURSLYo6E.jpg",
+      "release_date": "1995-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.867,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 109218,
+      "title": "The Monster Hunter",
+      "original_language": "en",
+      "original_title": "The Monster Hunter",
+      "overview": "Residents of an East Texas town react strangely when a serial killer invades their small town world.",
+      "popularity": 1.07,
+      "poster_path": "/d2gRthHhgdLxZjAe5vXToeGpW3J.jpg",
+      "release_date": "1999-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 10
+    }
+  ],
+  "total_pages": 46,
+  "total_results": 908
+}

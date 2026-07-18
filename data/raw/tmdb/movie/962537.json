@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/w2kzNhdET87IrGA2ciRDQsNuEdV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 962537,
+  "imdb_id": "tt11764342",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jerry Lee Lewis: Trouble in Mind",
+  "overview": "An electrifying glimpse into the complex life and thrilling, unparalleled performances of rock and roll's first and wildest practitioner: Jerry Lee Lewis.",
+  "popularity": 0.2503,
+  "poster_path": "/A5rLX2MgUMAsdpT0Jbd7c1JiSM8.jpg",
+  "production_companies": [
+    {
+      "id": 81368,
+      "logo_path": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png",
+      "name": "Live Nation Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 2265,
+      "logo_path": "/Pt0geXD3kQs2H5WSTreYV8MzRe.png",
+      "name": "Shangri-La Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 27319,
+      "logo_path": null,
+      "name": "Jagged Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 63642,
+      "logo_path": null,
+      "name": "Inaudible Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-05-22",
+  "revenue": 0,
+  "runtime": 74,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jerry Lee Lewis: Trouble in Mind",
+  "video": false,
+  "vote_average": 6.714,
+  "vote_count": 7,
+  "external_ids": {
+    "imdb_id": "tt11764342",
+    "wikidata_id": "Q113952565",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

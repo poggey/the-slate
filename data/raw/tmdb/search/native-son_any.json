@@ -1,0 +1,270 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2SRb0uB2U7paW6xVThSiBiNqdOo.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 108312,
+      "title": "Native Son",
+      "original_language": "en",
+      "original_title": "Native Son",
+      "overview": "In 1940s Chicago, a young black man takes a job as a chauffeur to a white family, which takes a turn for the worse when he accidentally kills the teenage daughter of the couple and then tries to cover it up.",
+      "popularity": 1.1807,
+      "poster_path": "/5HNYDlnI145RJWA5BWeomtVZ4JM.jpg",
+      "release_date": "1986-12-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.25,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qFvg1M5zr0Q5xIXuAHbB5iUMDPu.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 151435,
+      "title": "Native Son",
+      "original_language": "en",
+      "original_title": "Native Son",
+      "overview": "In 1940s Chicago, a young black man takes a job as a chauffeur to a white family, which takes a turn for the worse when he accidentally kills the teenage daughter of the couple and then tries to cover it up.",
+      "popularity": 0.7453,
+      "poster_path": "/ah4FStCZc4NIdt0jST8VYybGw4Q.jpg",
+      "release_date": "1951-03-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.533,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ar6swJk6O4kfevpk6ky76Ast7ys.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 512199,
+      "title": "Native Son",
+      "original_language": "en",
+      "original_title": "Native Son",
+      "overview": "A young black man named Bigger Thomas takes a job working for a highly influential Chicago family, a decision that will change the course of his life forever.",
+      "popularity": 0.9921,
+      "poster_path": "/vVF6CnjXLqAjK2crI1ielma18TW.jpg",
+      "release_date": "2019-01-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.462,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        27
+      ],
+      "id": 516776,
+      "title": "Native Son",
+      "original_language": "en",
+      "original_title": "Native Son",
+      "overview": "John, lives in a remote area of Scotland. The primary industry is potato farming and John is a picker who lives for the harvests; it is all he has in his life. He yearns for a life that he does not know how to make for himself - a home and family. John exhibits all the signs of someone who has suffered unknown tragedies in his life, but those reasons are hidden from the viewer. While driving back to town on a dark and isolated road, John comes upon a car stopped up ahead. He immediately can see a hose attached to the exhaust pipe. He has come upon a suicide. Suddenly, headlights appear in the opposite direction and John's immediate reaction is to hide, though he has done nothing wrong. That choice leads John to take the body of the dead young woman to a shed in the woods.",
+      "popularity": 0.1657,
+      "poster_path": "/tyGVYx1B28oYpbh5rQCy2N93V4Y.jpg",
+      "release_date": "2010-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 294206,
+      "title": "Native Son",
+      "original_language": "en",
+      "original_title": "Native Son",
+      "overview": "The film documents the making of the seven-foot tall “Tupelo Elvis” bronze statue by sculptor Bill Beckwith, modeled on Elvis’ pose in the Roger Marshutz photograph shot at the 1956 Tupelo Fair and slated to be unveiled at Fairpark in Tupelo on August 9.",
+      "popularity": 0.1856,
+      "poster_path": null,
+      "release_date": "2014-03-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 685895,
+      "title": "French Man, Native Son",
+      "original_language": "en",
+      "original_title": "French Man, Native Son",
+      "overview": "When 16-year-old Jean-Luc Battuz met Lonnie and Theresa Selam's family on the Yakima Reservation in Washington State, he immediately felt he was where he belonged. Over a decade later they would adopt him as their son, and he would move to British Columbia in order to live near them. Though he is white and European, Jean-Luc's affinity with the spiritual values of North American Native cultures drew him into a relationship with the Selam family. French Man, Native Son recounts the unique exchange between Jean-Luc, now 28, and his adoptive parents. He will always retain his original heritage, even while actively participating in the life, responsibilities, and traditions of the family who have welcomed him into their lives.",
+      "popularity": 0.0393,
+      "poster_path": "/lInAknk09YWU2O0tYx7EPjnjzNM.jpg",
+      "release_date": "1997-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1256334,
+      "title": "Reflections of A Native Son",
+      "original_language": "en",
+      "original_title": "Reflections of A Native Son",
+      "overview": "a vivid look at the teenage subculture of South Bronx.",
+      "popularity": 0.5138,
+      "poster_path": null,
+      "release_date": "1989-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jriJVjVtqeKwCKXIuLHibotT2aX.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 534974,
+      "title": "The Son of Native Land",
+      "original_language": "az",
+      "original_title": "Vətən Oğlu",
+      "overview": "The film is about Kamal Gasimov's heroic fighting at the front.",
+      "popularity": 0.3196,
+      "poster_path": "/zN2Q6h48bByo57PsQkSCx57GYMh.jpg",
+      "release_date": "1941-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 456744,
+      "title": "Richard Wright: Native Son, Author and Activist",
+      "original_language": "en",
+      "original_title": "Richard Wright: Native Son, Author and Activist",
+      "overview": "RICHARD WRIGHT was an African-American author of novels, short stories and non-fiction that dealt with powerful themes and controversial topics. Much of his works concerned racial themes that helped redefine discussions of race relations in America in the mid-20th century. Born on a plantation in Mississippi, Wright was a descendent of the first slaves who arrived in Jamestown Massachusetts. This program follows his arduous path from sharecropper to literary giant. Through authors like H.L. Menken, Sinclair Lewis, Theodore Dreiser, he discovered that literature could be used as a catalyst for social change. In 1937 Wright moved to New York and his work began to garner national attention for it's political and social commentary. Much of Wright's writing focused on the African American community and experience; his novel Native Son won him a Guggenheim Fellowship and was adapted to the Broadway stage with Orson Welles directing in 1941.",
+      "popularity": 0.3614,
+      "poster_path": "/vxbMIUOtMWbQHMPcKHb7EBymqBz.jpg",
+      "release_date": "2009-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 608399,
+      "title": "Bill Pope: Portrait of a Native Son",
+      "original_language": "en",
+      "original_title": "Bill Pope: Portrait of a Native Son",
+      "overview": "An autobiographical account by a gay San Franciscan covering his childhood in the city, his memories of the 60's, and experiences in the Peace Corps in Latin America, as well as his response to being diagnosed with ARC and what he has been doing since that time.",
+      "popularity": 0.0486,
+      "poster_path": null,
+      "release_date": "1985-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 657873,
+      "title": "Native Sons: Palestinians In Exile",
+      "original_language": "en",
+      "original_title": "Native Sons: Palestinians In Exile",
+      "overview": "Martin Sheen narrates this examination of the lives of three Palestinian families who fled their homes in 1948 and have lived as refugees in Lebanon ever since. Utilizing archive footage dating from as early as 1935, Native Sons probes the roots of the Palestine/Israel conflict through lives of individual people.",
+      "popularity": 0.2123,
+      "poster_path": "/5TbDARV5qmaSyNVHK8c5T08LVKa.jpg",
+      "release_date": "1985-03-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1629058,
+      "title": "Los Lobos Native Sons",
+      "original_language": "en",
+      "original_title": "Los Lobos Native Sons",
+      "overview": "Los Lobos Native Sons is the definitive chronicle of the global Latin rock ’n’ roll legends Los Lobos, offering an unparalleled 50-year musical journey through exclusive access to the band’s personal archives and extraordinary legacy.",
+      "popularity": 0.2319,
+      "poster_path": "/flw9bwtzX1bc407AiZG4WnzYPA7.jpg",
+      "release_date": "2026-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 987020,
+      "title": "Melodies of Byelorussia",
+      "original_language": "en",
+      "original_title": "Rodn'ye Napev'",
+      "overview": "A filmed concert of song and/or dance numbers filmed largely in natural, exterior locations.",
+      "popularity": 0.2465,
+      "poster_path": null,
+      "release_date": "1948-11-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 222241,
+      "title": "Let's Go Native",
+      "original_language": "en",
+      "original_title": "Töchter der Sonne",
+      "overview": "The adventures of three tourists in a nudist camp in Corsica.",
+      "popularity": 0.119,
+      "poster_path": null,
+      "release_date": "1964-02-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 14
+}

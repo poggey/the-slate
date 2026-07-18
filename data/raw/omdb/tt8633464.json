@@ -1,0 +1,40 @@
+{
+  "Title": "After Yang",
+  "Year": "2021",
+  "Rated": "PG",
+  "Released": "04 Mar 2022",
+  "Runtime": "96 min",
+  "Genre": "Drama, Sci-Fi",
+  "Director": "Kogonada",
+  "Writer": "Alexander Weinstein, Kogonada",
+  "Actors": "Colin Farrell, Jodie Turner-Smith, Malea Emma Tjandrawidjaja",
+  "Plot": "In a near future, a family reckons with questions of love, connection, and loss after their A.I. helper unexpectedly breaks down.",
+  "Language": "English, Mandarin",
+  "Country": "United States",
+  "Awards": "13 wins & 31 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWM2MDBkMTQtYWUxNS00NmI3LTg2ZGUtNjI4MzdiM2U1NTYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "6.6",
+  "imdbVotes": "26,137",
+  "imdbID": "tt8633464",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$46,872",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

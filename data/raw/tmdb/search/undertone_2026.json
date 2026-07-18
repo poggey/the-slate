@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1480387,
+      "title": "undertone",
+      "original_language": "en",
+      "original_title": "undertone",
+      "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+      "popularity": 18.9711,
+      "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+      "release_date": "2026-03-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.141,
+      "vote_count": 340
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

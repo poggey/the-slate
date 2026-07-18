@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 950028,
+      "title": "The Invite",
+      "original_language": "en",
+      "original_title": "The Invite",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+      "popularity": 33.8488,
+      "poster_path": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "release_date": "2026-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.615,
+      "vote_count": 61
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

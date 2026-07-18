@@ -1,0 +1,64 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2a0enNwRzuDOv3np3xD3QSPw3xw.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 467936,
+      "title": "The Children Act",
+      "original_language": "en",
+      "original_title": "The Children Act",
+      "overview": "In the midst of a marital crisis, a High Court judge must decide if she should order a life-saving blood transfusion for a teen with cancer despite his family's refusal to accept medical treatment for religious reasons.",
+      "popularity": 1.9074,
+      "poster_path": "/uWwmYzdLReu3Yn4YKuX9idDReaz.jpg",
+      "release_date": "2018-08-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.583,
+      "vote_count": 654
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q7PF80PVrwSBSqlXZlagFvyJotZ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 194020,
+      "title": "The Actor's Children",
+      "original_language": "en",
+      "original_title": "The Actor's Children",
+      "overview": "When his play closes down, an actor returns home to find that his children are gone. He's then notified that a wealthy relative has died and left him a substantial amount of money.  Preserved by the Academy Film Archive in 2007.",
+      "popularity": 0.4119,
+      "poster_path": "/4DuTBuY29MdVCQjnwpKQa6LkZXd.jpg",
+      "release_date": "1910-03-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1724536,
+      "title": "World in Action: These Children Are Mine",
+      "original_language": "en",
+      "original_title": "World in Action: These Children Are Mine",
+      "overview": "In 1981, Granada TV aired a documentary on the Anwar Ditta Defence Campaign and their immigration case. The documentary tells the story of how British-born Anwar and her husband Shuja Ud Din successfully fought the Home Office after being wrongfully separated from three of their children in Pakistan.",
+      "popularity": 0.2312,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}

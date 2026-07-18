@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/caLrzb3caYgvRuSa0RDwqiZMzO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80115673",
+  "id": 429126,
+  "imdb_id": "tt5861260",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Reggie Watts: Spatial",
+  "overview": "The comic innovator delivers a surreal set blending experimental songs, jokes about grits, guns and drugs, and other improvised comedy adventures.",
+  "popularity": 0.5835,
+  "poster_path": "/qijBsmr2rsP4Jad8IyDu1wtZ1ua.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 136016,
+      "logo_path": null,
+      "name": "Sunset Rose Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-12-06",
+  "revenue": 0,
+  "runtime": 61,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Turn it up. We're going down.",
+  "title": "Reggie Watts: Spatial",
+  "video": false,
+  "vote_average": 5.731,
+  "vote_count": 26,
+  "external_ids": {
+    "imdb_id": "tt5861260",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

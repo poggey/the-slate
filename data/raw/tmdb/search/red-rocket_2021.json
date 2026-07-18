@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 763329,
+      "title": "Red Rocket",
+      "original_language": "en",
+      "original_title": "Red Rocket",
+      "overview": "After hitting rock bottom in Los Angeles, former porn star Mikey Saber returns to his hometown in Texas to stay with his estranged wife and mother-in-law. Just as tensions begin to ease, he becomes infatuated with a young doughnut shop worker named Strawberry.",
+      "popularity": 1.492,
+      "poster_path": "/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+      "release_date": "2021-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.797,
+      "vote_count": 640
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

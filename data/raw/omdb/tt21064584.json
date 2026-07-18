@@ -1,0 +1,40 @@
+{
+  "Title": "The Iron Claw",
+  "Year": "2023",
+  "Rated": "R",
+  "Released": "22 Dec 2023",
+  "Runtime": "132 min",
+  "Genre": "Biography, Drama, Sport",
+  "Director": "Sean Durkin",
+  "Writer": "Sean Durkin",
+  "Actors": "Zac Efron, Jeremy Allen White, Harris Dickinson",
+  "Plot": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "4 wins & 42 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjZDc5YTUtYTc4My00Yzc2LTkwMGUtOTg3ODIwYzJkYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "7.6",
+  "imdbVotes": "114,811",
+  "imdbID": "tt21064584",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$35,070,296",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

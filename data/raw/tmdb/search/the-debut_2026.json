@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
+      "genre_ids": [
+        10402,
+        35,
+        18
+      ],
+      "id": 1391239,
+      "title": "The Debut",
+      "original_language": "en",
+      "original_title": "The Debut",
+      "overview": "When Mona Friedman is cast in a bit part at a small community theater, she transforms from a shy, unassuming housewife into a zealous method actor willing to do anything to protect the artistic integrity of her marginal role—even if it means waging war against the show’s domineering director.",
+      "popularity": 5.0059,
+      "poster_path": "/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "release_date": "2026-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 1731305,
+      "title": "Maldoror: The Live Performance",
+      "original_language": "en",
+      "original_title": "Maldoror: The Live Performance",
+      "overview": "Filmed and witnessed live at The Hold contained in the Shipping Forecast. The four members of Maldoror held their bands debut featuring a wide mixture of genres with both covers and originals.",
+      "popularity": 0.0536,
+      "poster_path": null,
+      "release_date": "2026-06-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

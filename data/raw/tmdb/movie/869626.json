@@ -1,0 +1,107 @@
+{
+  "adult": false,
+  "backdrop_path": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://a24films.com/films/marcel-the-shell-with-shoes-on",
+  "id": 869626,
+  "imdb_id": "tt15339456",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Marcel the Shell with Shoes On",
+  "overview": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+  "popularity": 2.0969,
+  "poster_path": "/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+  "production_companies": [
+    {
+      "id": 12219,
+      "logo_path": "/brOqEF7bpecJ4Jn1EmcRgoJTMZz.png",
+      "name": "Cinereach",
+      "origin_country": "US"
+    },
+    {
+      "id": 3173,
+      "logo_path": "/jukiDO8dDAQJAE2MIrcDmnjWjFq.png",
+      "name": "Chiodo Bros. Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 169139,
+      "logo_path": null,
+      "name": "You Want I Should",
+      "origin_country": "US"
+    },
+    {
+      "id": 173277,
+      "logo_path": null,
+      "name": "Human Woman",
+      "origin_country": "US"
+    },
+    {
+      "id": 187404,
+      "logo_path": null,
+      "name": "Sunbeam TV & Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-06-24",
+  "revenue": 6909209,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everybody loves Marcel.",
+  "title": "Marcel the Shell with Shoes On",
+  "video": false,
+  "vote_average": 7.622,
+  "vote_count": 710,
+  "external_ids": {
+    "imdb_id": "tt15339456",
+    "wikidata_id": "Q109447163",
+    "facebook_id": "marcelthemovie",
+    "instagram_id": "marcelthemovie",
+    "twitter_id": "marcelthemovie"
+  }
+}

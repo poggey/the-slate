@@ -1,0 +1,40 @@
+{
+  "Title": "Eighth Grade",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "03 Aug 2018",
+  "Runtime": "93 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Bo Burnham",
+  "Writer": "Bo Burnham",
+  "Actors": "Elsie Fisher, Josh Hamilton, Emily Robinson",
+  "Plot": "An introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "60 wins & 91 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyYzNiZTQtZGEwYi00ZjdiLTk5ZjctYTAxZTY3YmY0OThlXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "7.3",
+  "imdbVotes": "86,006",
+  "imdbID": "tt7014006",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$13,539,709",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

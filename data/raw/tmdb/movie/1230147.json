@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/jcemCvJPIqEEBaNvFeaGCCOBu2Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0C6WYBVNP",
+  "id": 1230147,
+  "imdb_id": "tt30841122",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jenny Slate: Seasoned Professional",
+  "overview": "Jenny Slate proves that being brave for love is worth it—even when it comes to pushing out a baby, stalking your therapist, or trusting your partner to not destroy you.",
+  "popularity": 0.2624,
+  "poster_path": "/vQx7kF78GDEgjJtCCqsGU2vaUwN.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-02-22",
+  "revenue": 0,
+  "runtime": 64,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jenny Slate: Seasoned Professional",
+  "video": false,
+  "vote_average": 4.844,
+  "vote_count": 16,
+  "external_ids": {
+    "imdb_id": "tt30841122",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

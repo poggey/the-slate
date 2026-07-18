@@ -1,0 +1,40 @@
+{
+  "Title": "The Rover",
+  "Year": "2014",
+  "Rated": "R",
+  "Released": "20 Jun 2014",
+  "Runtime": "103 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "David Michôd",
+  "Writer": "David Michôd, Joel Edgerton",
+  "Actors": "Guy Pearce, Robert Pattinson, Scoot McNairy",
+  "Plot": "10 years after a global economic collapse, a hardened loner pursues the men who stole his only possession, his car. Along the way, he captures one of the thieves' brother, and the duo form an uneasy bond during the dangerous journey.",
+  "Language": "English, Chinese",
+  "Country": "Australia, United States",
+  "Awards": "3 wins & 19 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4MTc1MzMxN15BMl5BanBnXkFtZTgwMzc4NDA4MTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "67%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "6.4",
+  "imdbVotes": "54,091",
+  "imdbID": "tt2345737",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,114,423",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

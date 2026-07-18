@@ -1,0 +1,40 @@
+{
+  "Title": "Pillion",
+  "Year": "2026",
+  "Rated": "Unrated",
+  "Released": "27 Feb 2026",
+  "Runtime": "106 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Harry Lighton",
+  "Writer": "Harry Lighton, Adam Mars-Jones",
+  "Actors": "Harry Melling, Alexander Skarsgård, Douglas Hodge",
+  "Plot": "A directionless man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive.",
+  "Language": "English",
+  "Country": "Ireland, United Kingdom",
+  "Awards": "Nominated for 3 BAFTA Awards. 17 wins & 34 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWEyNTlhYjQtYzNkYi00NTI0LWIzNTYtNjI2Mjg1OGRlMjgxXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "6.9",
+  "imdbVotes": "15,259",
+  "imdbID": "tt32321317",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$3,792,923",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

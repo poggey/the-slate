@@ -1,0 +1,390 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg",
+      "genre_ids": [
+        27,
+        18,
+        9648
+      ],
+      "id": 530385,
+      "title": "Midsommar",
+      "original_language": "en",
+      "original_title": "Midsommar",
+      "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+      "popularity": 9.4736,
+      "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "release_date": "2019-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 8190
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lTh88KHRLxkJOEvTXoLYFXyCjpg.jpg",
+      "genre_ids": [],
+      "id": 1257822,
+      "title": "Midsommar Stories",
+      "original_language": "de",
+      "original_title": "Midsommar-Stories",
+      "overview": "Tells the stories of a few people who are driven by different dreams, needs, and fears. At some point or another in their lives, IKEA plays a fateful role - in a comical or tragic way.",
+      "popularity": 0.2858,
+      "poster_path": "/5bs09pLZIyyKPi2wtcErexzvgnR.jpg",
+      "release_date": "1999-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.333,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iRsNcq3hcfTS93f6UFPE1FXRb7n.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 36565,
+      "title": "A Swedish Midsummer Sex Comedy",
+      "original_language": "sv",
+      "original_title": "Äntligen midsommar!",
+      "overview": "A beautiful waterfront house, a Swedish flag fluttering in the wind. A sailboat tied to the wooden deck below. This is the setting of the friends' annual Midsummer celebrations. The friends are gathered at Emil's family house and the herring lunch, sauna, games and compulsory skinny dipping are as always prepared. Expectations are set - Micke worries about his highly pregnant wife and the fastest way to the nearest hospital. Eva is looking for some distraction from her recent split with Patrick and Sam. Emil's college buddy from the States arrives with his own expectations of Swedish sin. Wannabe singer-songwriter Anders hasn't told his wannabe pregnant girlfriend Maria about his low sperm count and hopes to solve the problem over the weekend. To top it off Emil's surprise seems to lift the party to unprecedented heights. If everything had gone according to plan that is.",
+      "popularity": 1.8382,
+      "poster_path": "/8u1U773yEqabCMvGknumME3kkbD.jpg",
+      "release_date": "2009-10-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.9,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pYFaQyE33kC5RbgVH54ZgE4vdKn.jpg",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 726424,
+      "title": "Sune - Mission: Midsummer",
+      "original_language": "sv",
+      "original_title": "Sune - Uppdrag midsommar",
+      "overview": "The Andersson family and the Blixt family is going to Karin's aunt Hulda to celebrate Midsummer. But just before they leave, Sophie breaks up with Sune! The disaster is gigantic.  Sune decides to win Sophie back by celebrating a truly romantic midsummer with her - just like mom and dad did 20 years ago.  But the question is whether Sune thinks too much about everything being good in his way, and forgets that not everyone thinks like him ...",
+      "popularity": 0.123,
+      "poster_path": "/zQC0L0WxDLSNTTqD26WsyWt1Nds.jpg",
+      "release_date": "2021-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1311911,
+      "title": "Midsommar med Snoddas",
+      "original_language": "sv",
+      "original_title": "Midsommar med Snoddas",
+      "overview": "Snoddas performs at a midsummer gathering.",
+      "popularity": 0.0143,
+      "poster_path": null,
+      "release_date": "1952-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1664323,
+      "title": "Echoes of Midsommar",
+      "original_language": "fr",
+      "original_title": "Echoes of Midsommar",
+      "overview": "",
+      "popularity": 0.1448,
+      "poster_path": "/q9aFNKCJL5Uqq5zih7itWj6D3qC.jpg",
+      "release_date": "2026-03-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 873358,
+      "title": "Wavture Pleasure Midsommar",
+      "original_language": "en",
+      "original_title": "Wavture Pleasure Midsommar",
+      "overview": "An experimental short commentary about the film Midsommar (2019) made by Ari Aster, uses of bright colours and effects to add onto the idea the director had for the story.",
+      "popularity": 0.0577,
+      "poster_path": "/1iwHSEctisZOiL1owfzVl3AFxsf.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1396544,
+      "title": "Ingen midsommar utan",
+      "original_language": "en",
+      "original_title": "Ingen midsommar utan",
+      "overview": "A group of friends gather to celebrate Midsummer. The potatoes flow!",
+      "popularity": 0.0786,
+      "poster_path": "/4kxuLxffbIWUQqMD8UOfEd3w9yA.jpg",
+      "release_date": "2024-09-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1717438,
+      "title": "Midsommar med Ernst",
+      "original_language": "sv",
+      "original_title": "Midsommar med Ernst",
+      "overview": "Ernst celebrates Midsummer and prepares delicious small dishes, a lovely strawberry dessert and a summery potato salad. There will also be summery crafts on the table.",
+      "popularity": 0.141,
+      "poster_path": "/eZ1VC2Pmb0iNcWCHBXtTwez4OTv.jpg",
+      "release_date": "2025-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tLF57KOkfkpuQvXDwjxUXD18kDl.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1284571,
+      "title": "Let the Festivities Begin: Manifesting Midsommar",
+      "original_language": "en",
+      "original_title": "Let the Festivities Begin: Manifesting Midsommar",
+      "overview": "A featurette where Ari Aster and the cast break down the story and give us a behind the scenes look at the making of the film. It gives a fascinating look inside Ari Aster’s mind, and the detail put into production.",
+      "popularity": 0.1997,
+      "poster_path": "/pKT8XwEWVa4j5xTJKRQu5LvOmlE.jpg",
+      "release_date": "2019-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xZQ4cxPj38jEuuO1zmUWneXJ9eC.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1505217,
+      "title": "A Real Swedish Midsommar",
+      "original_language": "sv",
+      "original_title": "Myggor & salta pinnar",
+      "overview": "Change is coming to the midsummer party at Barnens ö. There's a rumour that Joey Tempest has moved in next door. Meanwhile the family's youngest member, Alba, has just learned to walk and takes every opportunity to escape from the ever drunker adults.",
+      "popularity": 1.2161,
+      "poster_path": "/lENjoIcJvWpFezHRZHDYptjVpdK.jpg",
+      "release_date": "2025-06-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lJsm9K3U8swgvsv1CjWq71fgGlS.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1305683,
+      "title": "Midsommar Night at Aavasaksa",
+      "original_language": "fi",
+      "original_title": "Juhannusyö Aavasaksalla",
+      "overview": "A short documentary documenting Midsummer in Ylitornio.",
+      "popularity": 0.0472,
+      "poster_path": null,
+      "release_date": "1946-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 441496,
+      "title": "Vi bryr oss egentligen inte om midsommar",
+      "original_language": "sv",
+      "original_title": "Vi bryr oss egentligen inte om midsommar",
+      "overview": "A close look at the people in the populist rightwing party Sverigedemokraterna (Sweden Democrats).",
+      "popularity": 0.0967,
+      "poster_path": "/lMBOecTqNbxGFS2xRNP5bE7R2gl.jpg",
+      "release_date": "2010-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 539540,
+      "title": "Midsommardröm i fattighuset",
+      "original_language": "sv",
+      "original_title": "Midsommardröm i fattighuset",
+      "overview": "A Swedish TV play about a workhouse in Småland, Sweden. Midsummer's Dream in the Workhouse is written by Pär Lagerkvist.",
+      "popularity": 0.3256,
+      "poster_path": "/tgpoV0ykofXKulb3lpaR0eFR80w.jpg",
+      "release_date": "1959-01-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10770,
+        80
+      ],
+      "id": 329257,
+      "title": "Arne Dahl - A Midsummer Night's Dream",
+      "original_language": "sv",
+      "original_title": "Arne Dahl: En midsommarnattsdröm",
+      "overview": "A series of brutal murders of Polish women who secretly hiding in Sweden becomes the new A - team first case. The victims prove to be key witnesses in a major lawsuit against the Polish mafia . Three of them have been found murdered in the space of a few days , two missing and the hope is that they are still alive. Detective Kerstin Holm get command when the hunt for a ruthless killer and his shady victim begins.",
+      "popularity": 0.1828,
+      "poster_path": "/ghnqZyIYabn7nMNY40YWozEfaO6.jpg",
+      "release_date": "2015-02-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.4,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9ELWPutC8bK9puoVbXpsC8srFqV.jpg",
+      "genre_ids": [
+        99,
+        18
+      ],
+      "id": 391483,
+      "title": "Fyra dagar som skakade Sverige - Midsommarkrisen 1941",
+      "original_language": "sv",
+      "original_title": "Fyra dagar som skakade Sverige - Midsommarkrisen 1941",
+      "overview": "At dawn on June 22, 1941, Germany invaded the Soviet Union. On the same morning, Germany demanded permission from the Swedish government to transport 18,000 German soldiers from Norway to Finland across Sweden by railway. This was a difficult problem for the Swedish government. On one hand remaining friendly with Germany at the height of its power, on the other maintaining a strict neutrality.  The Swedish cabinet meet in Stockholm to decide upon the best reply to the German demands.",
+      "popularity": 0.182,
+      "poster_path": "/pGdmK2waLo4E1MAw7Said4Eekhh.jpg",
+      "release_date": "1988-01-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.25,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 483360,
+      "title": "Midsommardansen",
+      "original_language": "sv",
+      "original_title": "Midsommardansen",
+      "overview": "A group of young people gathered on the countryside to celebrate midsummer dancing, drinking and romancing. And some fighting too. Followed by more violence, jealousy and guilt. On the journey home one of the cars the travel in collides with a bus.",
+      "popularity": 0.1646,
+      "poster_path": "/3bmPdMZqrO08aUBoMPYtUL0S4Dt.jpg",
+      "release_date": "1971-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zgeqPZncMs5cOV7mzh2om9eibeN.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1111380,
+      "title": "En midsommarnattsmardröm",
+      "original_language": "sv",
+      "original_title": "En midsommarnattsmardröm",
+      "overview": "A dark and funny celebration of midsummer where a bunch of old friends get together.",
+      "popularity": 0.1214,
+      "poster_path": "/8e9qagmNVAaQOeFNlMEQMUxs9uK.jpg",
+      "release_date": "2022-09-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 1082986,
+      "title": "Midsommardröm i fattighuset",
+      "original_language": "sv",
+      "original_title": "Midsommardröm i fattighuset",
+      "overview": "Blind-Jonas is in a poorhouse dreaming about his past, in contrast the young girl Cecilia shows up dreaming about her future.",
+      "popularity": 0.0938,
+      "poster_path": "/ljHqtzzjdW4egOXmh3Ek3yMw19q.jpg",
+      "release_date": "1980-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 633623,
+      "title": "Midsommarvaka",
+      "original_language": "xx",
+      "original_title": "Midsommarvaka",
+      "overview": "Midsummer celebration with dance and courtship in the idyllic Swedish landscape.",
+      "popularity": 0.4548,
+      "poster_path": "/f7qUCXTHgZs6ATshHlg2rR6AgyK.jpg",
+      "release_date": "1947-12-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 30
+}

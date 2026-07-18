@@ -1,0 +1,412 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
+      "genre_ids": [
+        99,
+        80
+      ],
+      "id": 1699155,
+      "title": "Maternal Instinct",
+      "original_language": "en",
+      "original_title": "Maternal Instinct",
+      "overview": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+      "popularity": 6.5566,
+      "poster_path": "/dOWWCLSwXS1MBtGEFeItbloiUEN.jpg",
+      "release_date": "2026-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.16,
+      "vote_count": 100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FRraud59N3s10bbf9bfYjvwx3v.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 402,
+      "title": "Basic Instinct",
+      "original_language": "en",
+      "original_title": "Basic Instinct",
+      "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+      "popularity": 7.9218,
+      "poster_path": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "release_date": "1992-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.948,
+      "vote_count": 4422
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2ak94bJfXxHR5vBxwrpkycwOKv3.jpg",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 758679,
+      "title": "Mothers' Instinct",
+      "original_language": "en",
+      "original_title": "Mothers' Instinct",
+      "overview": "Housewives Alice and Celine are best friends and neighbours who seem to have it all. However, when a tragic accident shatters the harmony of their lives, guilt, suspicion and paranoia begin to unravel their sisterly bond.",
+      "popularity": 2.3699,
+      "poster_path": "/6EtPToJlGpjyuIxkIoztnBXYFgJ.jpg",
+      "release_date": "2024-01-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.842,
+      "vote_count": 683
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uqa2PKpMzNMm5nkW2Xwio7TVIli.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 12117,
+      "title": "Instinct",
+      "original_language": "en",
+      "original_title": "Instinct",
+      "overview": "In a prison for the criminally insane, deranged anthropologist Ethan Powell is set to be examined by a bright young psychiatrist, Theo Caulder. Driven by ambition and a hunger for the truth, Caulder will eventually risk everything—even put his very life on the line—in a harrowing attempt to understand the bizarre actions of this madman.",
+      "popularity": 5.7084,
+      "poster_path": "/8EKmzia6awjsqFxgBk5a82aTmb6.jpg",
+      "release_date": "1999-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.489,
+      "vote_count": 660
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5LaDTSQ8It5NPxTO8pmgDGGnpbz.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 530743,
+      "title": "Instinct",
+      "original_language": "nl",
+      "original_title": "Instinct",
+      "overview": "Nicoline, a criminal psychologist, begins work at a prison where one of her new cases, Idris — an apparently reformed sex offender — is preparing for release after five years of confinement. Despite her professional misgivings, she becomes infatuated with her charismatic, manipulative patient.",
+      "popularity": 2.6024,
+      "poster_path": "/i5Ai5Sr8UIHq4IbVnO45fm2RpVf.jpg",
+      "release_date": "2019-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.049,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1gwn0oV7Z7LupvJuyr2e2TN91xP.jpg",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "id": 360227,
+      "title": "Evil Instinct",
+      "original_language": "cn",
+      "original_title": "極度獸性",
+      "overview": "Penny and Wendy originally are co-workers and best friends until Wendy is promoted. Penny feels that she is getting old and can't compete with Wendy, she leaves Hong Kong, takes snake blood to cleanse herself, and then returns to Hong Kong for revenge.",
+      "popularity": 1.3796,
+      "poster_path": "/uyaPkz0AHFSEd8ODIwLY0wLkJJZ.jpg",
+      "release_date": "1996-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.833,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g03rOxKeJJbgR3Lvzrcdii55dm8.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 3093,
+      "title": "Basic Instinct 2",
+      "original_language": "en",
+      "original_title": "Basic Instinct 2",
+      "overview": "Novelist Catherine Tramell is once again in trouble with the law, and Scotland Yard appoints psychiatrist Dr. Michael Glass to evaluate her. Though, like Detective Nick Curran before him, Glass is entranced by Tramell and lured into a seductive game.",
+      "popularity": 3.474,
+      "poster_path": "/yNRSbx6AhOlW673t2073Wr2iH4U.jpg",
+      "release_date": "2006-03-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.969,
+      "vote_count": 844
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mTJHunR5Fr62OsPcTrPrw3YWTAS.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 26141,
+      "title": "Fatal Instinct",
+      "original_language": "en",
+      "original_title": "Fatal Instinct",
+      "overview": "Ned Ravine is a police officer and lawyer who occasionally defends the delinquents he arrests. He crosses paths with seductive Lola Cain during an assignment and promptly begins an affair with her. Meanwhile, Ned's wife, Lana, is deep in an affair of her own. Lana and her lover are planning to murder Ned in an elaborate fashion so they can collect on his triple indemnity life insurance policy.",
+      "popularity": 0.9601,
+      "poster_path": "/syewFnehGbbya5BdxoHLzrcm5Ne.jpg",
+      "release_date": "1993-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 174
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53
+      ],
+      "id": 345089,
+      "title": "Instinct",
+      "original_language": "en",
+      "original_title": "Sul filo del rasoio",
+      "overview": "Giallo about a woman who rents a house where a murder occurred, and begins an affair with a gigolo who also seduced her sister.",
+      "popularity": 0.1195,
+      "poster_path": "/rj08ATCcC2XpfkLSwdHs5FcDBgt.jpg",
+      "release_date": "1992-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/71EJRotMYQ7fF1TsWm2J7q1ngsT.jpg",
+      "genre_ids": [],
+      "id": 45340,
+      "title": "Naked Instinct",
+      "original_language": "en",
+      "original_title": "Naked Instinct",
+      "overview": "A woman is in therapy because of her uncontrollable desire for young men. She recounts stories of her sordid past, including seducing a rich kid when his parents are away, and giving a fraternity boy a good time. The therapist tells her about another of his patients who has virtually the same problem, and tells of this patient's encounters with a pool cleaner, a hot tub repairman, a football jock, and a young army recruit. Eventually patient and therapist get to know each other better.",
+      "popularity": 0.858,
+      "poster_path": "/wcKEEzgaiWFQMaa8euUaw5J9v4e.jpg",
+      "release_date": "1993-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yU1AdEn6sikhaTJCf7NDZdpWpFD.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 290772,
+      "title": "Fatal Instinct",
+      "original_language": "en",
+      "original_title": "Fatal Instinct",
+      "overview": "A police detective follows a trail of evidence that eventually seems to lead to his trusted partner's ex-con brother who he helped put in prison years ago.",
+      "popularity": 0.7289,
+      "poster_path": "/4o95oEXU6kCMBaqBWynyJ3nd47p.jpg",
+      "release_date": "2014-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cnasRXctD5QzmaZWXPvseH3prs2.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 66065,
+      "title": "Naughty Instinct",
+      "original_language": "ja",
+      "original_title": "妹の本能",
+      "overview": "Episode 1: Atsushi and his sister Naomi live under the same roof. Despite her strong love to her brother, Naomi buries her real emotion deep in her heart, and she can only express her feeling in the virtual computer domain. Meanwhile, Naomi’s college friend pursues her strongly, but she still cannot forget her brother. To heal her broken heart, Naomi decides to run away to America… Episode 2: Kumiko is currently living with her brother Tatsuya who is back from overseas. Kumiko has always hidden her feeling from her brother, but she can hold it back against her passion no more when the two grown-ups live together once again. One day, Tatsuya discovers his sister’s secret accidentally from her blog and therefore decides to disclose his secrets to Kumiko too. Since then the situation is only getting uncontrollable…",
+      "popularity": 0.5909,
+      "poster_path": "/js3uHgRxLlrKNIIcRk7LFIl4A2x.jpg",
+      "release_date": "2007-07-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pDSYkymHnUvPIS7icDgXqvFG2NV.jpg",
+      "genre_ids": [
+        28,
+        18,
+        27,
+        16
+      ],
+      "id": 1020999,
+      "title": "Instinct",
+      "original_language": "xx",
+      "original_title": "Instinct",
+      "overview": "After a diving excursion in the middle of the ocean, Lindsey is viciously sexually assaulted by Bruce, her instructor. She fends him of and they fall overboard into the water. Bruce grabs her and sinks her to the depths of the ocean. In this spiral of violence, she has no way to breathe.",
+      "popularity": 0.1845,
+      "poster_path": "/pWYNacFYwWm81IxmwzXPHbAmlWB.jpg",
+      "release_date": "2022-09-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6RXTlN3SoRtsuIgPSm20yvgUb1y.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        53
+      ],
+      "id": 41379,
+      "title": "Instinct to Kill",
+      "original_language": "en",
+      "original_title": "Instinct to Kill",
+      "overview": "Escaped serial killer James Becket, who killed his own father whose expectations he never fulfilled, but now especially targets his wife Theresa 'Tess' and her family, is too good at disguising himself and other deceit for detective Diffs task force. Only one man proves able to fight back in his league: former cop J.T. Dillon, who was already training Tess in self-defense and becomes her lover. Becket decides to find hiding place by kidnapping Diffs wife, and thus enforce a final show-down.",
+      "popularity": 1.2603,
+      "poster_path": "/1w3VpS8Ho1LqLrTpzT8vgji3ZBI.jpg",
+      "release_date": "2001-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nnSjkUOJGfKTy4bnVPsbl4pyL0x.jpg",
+      "genre_ids": [
+        18,
+        28,
+        53,
+        80
+      ],
+      "id": 13635,
+      "title": "Mesrine: Killer Instinct",
+      "original_language": "fr",
+      "original_title": "L'Instinct de mort",
+      "overview": "Jacques Mesrine, a loyal son and dedicated soldier, is back home and living with his parents after serving in the Algerian War. Soon he is seduced by the neon glamour of sixties Paris and the easy money it presents. Mentored by Guido, Mesrine turns his back on middle class law-abiding and soon moves swiftly up the criminal ladder.",
+      "popularity": 1.7504,
+      "poster_path": "/zCyuiyIhbhgEOZde81qTgXbO0pw.jpg",
+      "release_date": "2008-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.307,
+      "vote_count": 1010
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r3m4vR6NSZc0DlRLjeaXTJu9lil.jpg",
+      "genre_ids": [
+        80,
+        53,
+        27
+      ],
+      "id": 131967,
+      "title": "Killer Instinct",
+      "original_language": "en",
+      "original_title": "Killer Instinct",
+      "overview": "An up and coming lawyer gets turned over for a case he'd been working on for a long while. The D.A.'s niece then decides to help the young lawyer by first blackmailing, then eventually plotting the murder of the D.A., all the while seducing the young attorney. It then becomes the attorney job to cover up the murder he believes he committed, while finding out the truth about the D.A.'s \"niece\".",
+      "popularity": 0.5905,
+      "poster_path": "/ws7wgnpf9eq926RTfx2vYUstseZ.jpg",
+      "release_date": "1992-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9OvUTijN2TEbwvxkgiDAjlwkGEQ.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 91534,
+      "title": "To Kill For",
+      "original_language": "en",
+      "original_title": "Fatal Instinct",
+      "overview": "A homicide detective (Michael Madsen) falls for a resort owner (Laura Johnson) suspected of slaying a playboy developer.",
+      "popularity": 0.5276,
+      "poster_path": "/82HA5CmfmJLaBry4DpT5D4UiFNR.jpg",
+      "release_date": "1992-09-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8AT6fpbnscMkbZKQz8yQIbMLu5D.jpg",
+      "genre_ids": [
+        80,
+        10770
+      ],
+      "id": 488023,
+      "title": "Maternal Instinct",
+      "original_language": "en",
+      "original_title": "Maternal Instinct",
+      "overview": "A teenage girl who sees her mother shot goes into hiding with a police detective who grows attached to her as she protects her from the killer who is hunting the girl. Laura Mennell, Karin Konoval, Marcus Rosner star.",
+      "popularity": 0.9654,
+      "poster_path": "/An0LGWZ1jmnHlHeVzRcHXcqhkDF.jpg",
+      "release_date": "2017-11-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 143508,
+      "title": "Killer Instinct",
+      "original_language": "en",
+      "original_title": "Killer Instinct",
+      "overview": "A series of unsolved crimes from the past prove to be the common thread in three stories that intertwine to reveal big problems in a small town.",
+      "popularity": 0.8087,
+      "poster_path": "/covjH7b1Xg7f7k7Xw55dg2kmuFR.jpg",
+      "release_date": "2001-01-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qZajFk7WFpyWGbUfZ6vAUz429iQ.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18,
+        9648,
+        10770
+      ],
+      "id": 892442,
+      "title": "The Female Instinct",
+      "original_language": "en",
+      "original_title": "The Female Instinct",
+      "overview": "A spinster and her widowed sister, both authors of murder mystery novels, try to track down the killer of a former movie star. Pilot to TV series The Snoop Sisters.",
+      "popularity": 2.1311,
+      "poster_path": "/f2NIqKqEhFZz6weg0grazC0yOiQ.jpg",
+      "release_date": "1972-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 10,
+  "total_results": 183
+}

@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://a24films.com/films/the-invite",
+  "id": 950028,
+  "imdb_id": "tt14173636",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Invite",
+  "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+  "popularity": 33.8488,
+  "poster_path": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+  "production_companies": [
+    {
+      "id": 13184,
+      "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+      "name": "Annapurna Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7493,
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 455,
+      "logo_path": null,
+      "name": "Permut Presentations",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-06-25",
+  "revenue": 15161567,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It'll be fun.",
+  "title": "The Invite",
+  "video": false,
+  "vote_average": 7.637,
+  "vote_count": 62,
+  "external_ids": {
+    "imdb_id": "tt14173636",
+    "wikidata_id": "Q134083296",
+    "facebook_id": "theinvitemovie",
+    "instagram_id": "theinvitemov",
+    "twitter_id": null
+  }
+}

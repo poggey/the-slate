@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/jwBiY1kE5089i2WpfS1MHDYp3VO.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 391713,
+      "title": "Lady Bird",
+      "original_language": "en",
+      "original_title": "Lady Bird",
+      "overview": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+      "popularity": 8.4527,
+      "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "release_date": "2017-09-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 9070
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

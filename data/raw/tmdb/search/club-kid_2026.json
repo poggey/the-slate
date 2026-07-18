@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xPs2mKGLcU7FpYJsMxFCYN8lroH.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1585239,
+      "title": "Club Kid",
+      "original_language": "en",
+      "original_title": "Club Kid",
+      "overview": "A hard-partying New York City club promoter sees his whirlwind lifestyle upended by the arrival of the 10-year-old son he never knew he had.",
+      "popularity": 3.3426,
+      "poster_path": "/6vAp5qyxvgh1g937AqXi30Rt9UE.jpg",
+      "release_date": "2026-11-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

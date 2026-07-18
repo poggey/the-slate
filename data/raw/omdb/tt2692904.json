@@ -1,0 +1,40 @@
+{
+  "Title": "Locke",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "18 Apr 2014",
+  "Runtime": "85 min",
+  "Genre": "Drama",
+  "Director": "Steven Knight",
+  "Writer": "Steven Knight",
+  "Actors": "Tom Hardy, Olivia Colman, Ruth Wilson",
+  "Plot": "Ivan Locke, a dedicated family man and successful construction manager, receives a phone call that sets in motion a series of events that threaten his carefully cultivated existence.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "7 wins & 33 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjE5MzU2M15BMl5BanBnXkFtZTgwNzE4OTMzMTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.1",
+  "imdbVotes": "167,206",
+  "imdbID": "tt2692904",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,375,769",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

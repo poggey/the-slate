@@ -1,0 +1,49 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+      "genre_ids": [
+        12,
+        18,
+        53,
+        28
+      ],
+      "id": 1284465,
+      "title": "The Death of Robin Hood",
+      "original_language": "en",
+      "original_title": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "popularity": 16.997,
+      "poster_path": "/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "release_date": "2026-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.76,
+      "vote_count": 77
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lw5HdgozS0j9rwqHWyDycgAa3GJ.jpg",
+      "genre_ids": [
+        12,
+        10749
+      ],
+      "id": 10786,
+      "title": "Robin and Marian",
+      "original_language": "en",
+      "original_title": "Robin and Marian",
+      "overview": "Robin Hood, aging none too gracefully, returns exhausted from the Crusades to woo and win Maid Marian one last time.",
+      "popularity": 0.8963,
+      "poster_path": "/y2UlVt6U8mFeegVL42rZjD5y6c7.jpg",
+      "release_date": "1976-03-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 272
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

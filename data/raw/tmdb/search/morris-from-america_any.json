@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/h5HzPvqOwLksuBC8JoG15ZaRfGd.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 352890,
+      "title": "Morris from America",
+      "original_language": "en",
+      "original_title": "Morris from America",
+      "overview": "13-year-old Morris Gentry has just relocated with his single father, Curtis to Heidelberg, Germany. Morris, who fancies himself the next Notorious B.I.G., is a complete fish-out-of-water—a budding hip-hop star in an EDM world. To complicate matters further, Morris quickly falls hard for his cool, rebellious, 15-year-old classmate Katrin. Morris sets out against all odds to take the hip-hop world by storm and win the girl of his dreams.",
+      "popularity": 0.6486,
+      "poster_path": "/i3mFOlegdIaeZY8qHvZEtcYd8Te.jpg",
+      "release_date": "2016-08-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.165,
+      "vote_count": 118
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

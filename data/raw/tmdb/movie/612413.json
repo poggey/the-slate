@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/ikYI8Gh5E6x4T7mjnHORjyGXzIA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.hbo.com/specials/ramy-youssef-feelings",
+  "id": 612413,
+  "imdb_id": "tt10432620",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ramy Youssef: Feelings",
+  "overview": "In his first HBO stand-up comedy special, Ramy Youssef shares candid anecdotes about his life as an Egyptian-American comedian, writer, actor and director.",
+  "popularity": 0.1823,
+  "poster_path": "/6KeiYGcYT9ordNslVvLJ9pMebXM.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 191137,
+      "logo_path": null,
+      "name": "Cairo Cowboy",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-06-29",
+  "revenue": 0,
+  "runtime": 54,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Feeling yourself?",
+  "title": "Ramy Youssef: Feelings",
+  "video": false,
+  "vote_average": 5.875,
+  "vote_count": 20,
+  "external_ids": {
+    "imdb_id": "tt10432620",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

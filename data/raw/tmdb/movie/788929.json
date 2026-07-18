@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/96uOMED23ZLBtb0HQQ5Urr3qMRp.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://a24films.com/films/lamb",
+  "id": 788929,
+  "imdb_id": "tt9812474",
+  "origin_country": [
+    "IS"
+  ],
+  "original_language": "is",
+  "original_title": "Dýrið",
+  "overview": "An Icelandic couple live with their herd of sheep on a beautiful but remote farm. When they discover a mysterious newborn on their land, they decide to keep it and raise it as their own. This unexpected development and the prospects of a new family brings them much joy before ultimately destroying them.",
+  "popularity": 1.5784,
+  "poster_path": "/gP9yviboTGWGolqUZKIB1UkF1C2.jpg",
+  "production_companies": [
+    {
+      "id": 157143,
+      "logo_path": null,
+      "name": "Go to Sheep",
+      "origin_country": "IS"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 3555,
+      "logo_path": "/5vgxuOmB1UX3t6tPv6TChQCbyXf.png",
+      "name": "Chimney Sweden",
+      "origin_country": "SE"
+    },
+    {
+      "id": 94865,
+      "logo_path": null,
+      "name": "Chimney Poland",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IS",
+      "name": "Iceland"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2021-08-12",
+  "revenue": 3200000,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "Íslenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mother. Nature.",
+  "title": "Lamb",
+  "video": false,
+  "vote_average": 6.428,
+  "vote_count": 1058,
+  "external_ids": {
+    "imdb_id": "tt9812474",
+    "wikidata_id": "Q106371709",
+    "facebook_id": null,
+    "instagram_id": "lambmovie",
+    "twitter_id": "LambMovie"
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/deYWtXTc56YdXyIuuMuA8dvBY16.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 181886,
+      "title": "Enemy",
+      "original_language": "en",
+      "original_title": "Enemy",
+      "overview": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
+      "popularity": 6.5779,
+      "poster_path": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "release_date": "2014-03-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.844,
+      "vote_count": 6491
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg",
+      "genre_ids": [
+        10752,
+        36
+      ],
+      "id": 853,
+      "title": "Enemy at the Gates",
+      "original_language": "en",
+      "original_title": "Enemy at the Gates",
+      "overview": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.",
+      "popularity": 5.524,
+      "poster_path": "/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+      "release_date": "2001-02-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.421,
+      "vote_count": 4084
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dMjNyPk3aBwXYYfAuSAwSRz1ewa.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 11864,
+      "title": "Enemy Mine",
+      "original_language": "en",
+      "original_title": "Enemy Mine",
+      "overview": "A soldier from Earth crashlands on an alien world after sustaining battle damage. Eventually he encounters another survivor, but from the enemy species he was fighting; they band together to survive on this hostile world. In the end the human finds himself caring for his enemy in a completely unexpected way.",
+      "popularity": 1.5411,
+      "poster_path": "/a3dr9L8VIjhEvivzQ2M12VQDere.jpg",
+      "release_date": "1985-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.969,
+      "vote_count": 1086
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lEdy2A62qCwJPffMLVyByRxUpfd.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53,
+        10752
+      ],
+      "id": 8007,
+      "title": "Behind Enemy Lines",
+      "original_language": "en",
+      "original_title": "Behind Enemy Lines",
+      "overview": "While flying a routine reconnaissance mission over Bosnia, fighter pilot Lt. Chris Burnett photographs something he wasn't supposed to see and gets shot down behind enemy lines, where he must outrun an army led by a ruthless Serbian general. With time running out and a deadly tracker on his trail, Burnett's commanding officer, Admiral Reigart, decides to risk his career and launch a renegade rescue mission to save his life.",
+      "popularity": 4.4143,
+      "poster_path": "/fZReMWU3zszvaktDUqOoWCzHssZ.jpg",
+      "release_date": "2001-11-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.44,
+      "vote_count": 1670
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/N4wnCPqeCMbqKskSwrlKWw5rhL.jpg",
+      "genre_ids": [
+        10752
+      ],
+      "id": 23592,
+      "title": "In Enemy Hands",
+      "original_language": "en",
+      "original_title": "In Enemy Hands",
+      "overview": "At the height of Hitler's infamous U-boat war, the crew of the U.S.S. Swordfish were heading home after months at sea. They never made it. Now prisoners of war aboard U-boat 429, a small group of American survivors will find their loyalties put to the ultimate test when they're forced to join their German captors to fight for their very lives.",
+      "popularity": 1.2363,
+      "poster_path": "/whFBBXjMlVZ8zzUSF0sRotzKWlr.jpg",
+      "release_date": "2004-02-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.858,
+      "vote_count": 113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/71s3mHz1rGGyzLWeTDUubafXFRC.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 49983,
+      "title": "Enemy Gold",
+      "original_language": "en",
+      "original_title": "Enemy Gold",
+      "overview": "Three Federal agents go in search of gold supposedly hidden by Quantrell during the Civil War after they are suspended by a corrupt official for excessive force during a drug raid. Meanwhile a drug lord hires a hit woman to kill the three for interfering with his operations.",
+      "popularity": 1.7002,
+      "poster_path": "/bW3wf5KncLoMolW55k1Uvrrrs9d.jpg",
+      "release_date": "1994-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lPLTLCBn39Wiy1RPQLB9xOKyF2v.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 9798,
+      "title": "Enemy of the State",
+      "original_language": "en",
+      "original_title": "Enemy of the State",
+      "overview": "When the videotape of the murder of a congressman unknowingly ends up in the hands of labor lawyer and dedicated family man Robert Clayton Dean, he is framed for the murder. With the help of the mysterious Brill, Dean attempts to throw the NSA off his trail and prove his innocence.",
+      "popularity": 5.4499,
+      "poster_path": "/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
+      "release_date": "1998-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.069,
+      "vote_count": 4295
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/apUbdi4nGrD5VGIaxErtpsn7ST8.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 7442,
+      "title": "Sleeping with the Enemy",
+      "original_language": "en",
+      "original_title": "Sleeping with the Enemy",
+      "overview": "A young woman fakes her own death in an attempt to escape her nightmarish marriage, but discovers it is impossible to elude her controlling husband.",
+      "popularity": 2.833,
+      "poster_path": "/zaUkndJP8IClB1gMsbw13PoVeLS.jpg",
+      "release_date": "1991-01-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.51,
+      "vote_count": 1237
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9mOlshHISZdjUcVoCVgk5FsFb3H.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 223895,
+      "title": "Class Enemy",
+      "original_language": "sl",
+      "original_title": "Razredni sovražnik",
+      "overview": "Relations between the students and the new teacher of German are extremely tense. When one female student commits suicide, her schoolmates blame the teacher for her death. An awareness that things are not quite so black and white comes too late.",
+      "popularity": 0.8744,
+      "poster_path": "/3N76HlJc6QtPkMakGyDtVBFoaQe.jpg",
+      "release_date": "2013-08-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.724,
+      "vote_count": 85
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e5LZqMmN1EkayBLHZyyMBdvqx5M.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 999393,
+      "title": "Enemy Alien",
+      "original_language": "en",
+      "original_title": "Enemy Alien",
+      "overview": "A poetic retelling of the experiences of Joseph Murakami, a fourteen-year-old boy from Darwin, who is summarily rounded up and interned by his government on the basis of his ethnicity, leaving wounds unhealed to this day.",
+      "popularity": 1.2212,
+      "poster_path": "/5iSwM7x7pkTpBplZfLj5STwpP3a.jpg",
+      "release_date": "2022-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zXR8VkWcMerjcX1ft9d7oPNXliG.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 798803,
+      "title": "Enemy",
+      "original_language": "ta",
+      "original_title": "எனிமி",
+      "overview": "Two childhood friends end up on opposite extremes of morality, and face each other in a good vs evil war.",
+      "popularity": 0.408,
+      "poster_path": "/38CrzUHlPk7QHsBcZigi5MiQLoD.jpg",
+      "release_date": "2021-11-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 280573,
+      "title": "Dark Enemy",
+      "original_language": "en",
+      "original_title": "Dark Enemy",
+      "overview": "After a nuclear war, a group of children at an isolated farmhouse debate what the outside world might be like. Soon one of them leaves the house to investigate, and finds out that things aren't the way they thought.",
+      "popularity": 1.0037,
+      "poster_path": "/xiL2iQcyFJIH2DgFMH9LWcO0vcR.jpg",
+      "release_date": "1984-07-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.75,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tVa0v0iX7ksdfHtYdTdJglZWy5N.jpg",
+      "genre_ids": [
+        10752,
+        18
+      ],
+      "id": 679796,
+      "title": "Enemy Lines",
+      "original_language": "en",
+      "original_title": "Enemy Lines",
+      "overview": "In the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.",
+      "popularity": 0.6484,
+      "poster_path": "/vG8qBkByy9naORB6zahcntIC2N.jpg",
+      "release_date": "2020-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hwGA0G51VXwEtlqqaUERXtQxHh.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 33171,
+      "title": "Public Enemy",
+      "original_language": "ko",
+      "original_title": "공공의 적",
+      "overview": "A notorious dirty cop makes an honest attempt to catch a serial killer who even murdered his own parents.",
+      "popularity": 0.8181,
+      "poster_path": "/7xNVM4UmFm27UUr52q7cxwYrrrW.jpg",
+      "release_date": "2002-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.143,
+      "vote_count": 70
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/npUnoVQU6TqXhIZt5JmrpLvoR2i.jpg",
+      "genre_ids": [
+        10752
+      ],
+      "id": 15876,
+      "title": "The Enemy Below",
+      "original_language": "en",
+      "original_title": "The Enemy Below",
+      "overview": "The crew of the American destroyer escort, the USS Haynes, detects a German U-Boat—resulting in a prolonged, deadly battle of wits.",
+      "popularity": 1.6822,
+      "poster_path": "/9IUUCfrEEkq92sCLznzSAjDPusk.jpg",
+      "release_date": "1957-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.144,
+      "vote_count": 215
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27,
+        18
+      ],
+      "id": 458002,
+      "title": "The Enemy",
+      "original_language": "en",
+      "original_title": "The Enemy",
+      "overview": "Christians Betsy and Tim grapple with demons who have possessed a pair of young brothers. Based on the novel by Jim Grant.",
+      "popularity": 0.5056,
+      "poster_path": "/fSobyeBJrS3AwpONE8gnZ8J5Vq3.jpg",
+      "release_date": "1974-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 483759,
+      "title": "Enemy",
+      "original_language": "en",
+      "original_title": "Enemy",
+      "overview": "Frightening events unfold that may or may not be figments of Marigold’s imagination.",
+      "popularity": 0.2772,
+      "poster_path": "/2JkrHVV9yL9I3hBsV79Ip4B9jDK.jpg",
+      "release_date": "1976-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aqFTuGs7edhecydHQBvc7PLsY9a.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 93898,
+      "title": "Dear Enemy",
+      "original_language": "zh",
+      "original_title": "亲密敌人",
+      "overview": "Hong Kong, the present day. With the lithium market in a dip, UA Capital Investment Banking, led by hotshot managing director Derek Lee (Stanley Huang), brokers a merger offer to Brandon Mining, one of the world's big three lithium producers along with Anchor Exploration and Clayton Global. Investigative journalist Henry Ma (Aarif Lee), who runs financial blog Golden Touch, gets wind of the plan and makes it public. UA';s client is believed to be Anchor, and Brandon';s CEO Owen (Michael Wong) considers it a hostile takeover. His financial advisor is Derek';s onetime lover, Amy Liang (Xu Jinglei), associate managing director of Global Alliance Investment Banking, who finally split up with Derek",
+      "popularity": 0.4637,
+      "poster_path": "/o7zgURZoHZvMMRCRlZaxRfmjyb.jpg",
+      "release_date": "2011-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 449691,
+      "title": "Unseen Enemy",
+      "original_language": "en",
+      "original_title": "Unseen Enemy",
+      "overview": "A documentary focused on infectious disease outbreaks.",
+      "popularity": 0.8516,
+      "poster_path": "/osmlm6xLiEoZYbYlxw0gFKgV6WB.jpg",
+      "release_date": "2017-12-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 352828,
+      "title": "Worst Enemy",
+      "original_language": "en",
+      "original_title": "Worst Enemy",
+      "overview": "Comedy short film following a curmudgeon (Michaela Watkins, \"SNL\") plagued by insecurity who's saved by her hero, a local doctor (Matt Walsh, \"UCB\").",
+      "popularity": 0.5849,
+      "poster_path": null,
+      "release_date": "2010-12-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 26,
+  "total_results": 506
+}

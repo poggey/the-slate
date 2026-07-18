@@ -1,0 +1,44 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/3eMxTkvHM6G1lHugBvFGVpcJFUa.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 122081,
+      "title": "Spring Breakers",
+      "original_language": "en",
+      "original_title": "Spring Breakers",
+      "overview": "After four college girls rob a restaurant to fund their spring break in Florida, they get entangled with a weird dude with his own criminal agenda.",
+      "popularity": 3.1652,
+      "poster_path": "/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+      "release_date": "2013-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.257,
+      "vote_count": 4052
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1032757,
+      "title": "\"Spring Breakers\" par Jean Douchet",
+      "original_language": "fr",
+      "original_title": "\"Spring Breakers\" par Jean Douchet",
+      "overview": "",
+      "popularity": 0.1537,
+      "poster_path": null,
+      "release_date": "2013-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uP1guP2SGUTZleJkvfKynWpSCS.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12,
+        10749
+      ],
+      "id": 248574,
+      "title": "Barely Lethal",
+      "original_language": "en",
+      "original_title": "Barely Lethal",
+      "overview": "A 16-year-old international assassin yearning for a \"normal\" adolescence fakes her own death and enrolls as a senior in a suburban high school. She quickly learns that being popular can be more painful than getting water-boarded.",
+      "popularity": 1.5562,
+      "poster_path": "/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg",
+      "release_date": "2015-04-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.709,
+      "vote_count": 1117
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

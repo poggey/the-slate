@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/3eMxTkvHM6G1lHugBvFGVpcJFUa.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 122081,
+      "title": "Spring Breakers",
+      "original_language": "en",
+      "original_title": "Spring Breakers",
+      "overview": "After four college girls rob a restaurant to fund their spring break in Florida, they get entangled with a weird dude with his own criminal agenda.",
+      "popularity": 3.1652,
+      "poster_path": "/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+      "release_date": "2013-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.257,
+      "vote_count": 4052
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 1480943,
+      "title": "Spring Breakers: Salvation Mountain",
+      "original_language": "en",
+      "original_title": "Spring Breakers: Salvation Mountain",
+      "overview": "A group of rebellious girls hit the road for spring break but when their trip explodes out of control, they're forced to outrun the chaos they've created.",
+      "popularity": 0.6109,
+      "poster_path": "/2SZoTEPt9xsWF9FRpejOABAAGzX.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1032757,
+      "title": "\"Spring Breakers\" par Jean Douchet",
+      "original_language": "fr",
+      "original_title": "\"Spring Breakers\" par Jean Douchet",
+      "overview": "",
+      "popularity": 0.1537,
+      "poster_path": null,
+      "release_date": "2013-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pBbZR5bTexROmi6Cjmf8qN7kwIg.jpg",
+      "genre_ids": [
+        28,
+        35,
+        27
+      ],
+      "id": 408211,
+      "title": "Ibiza Undead",
+      "original_language": "en",
+      "original_title": "Ibiza Undead",
+      "overview": "Three best friends - Alex, Az and Jim - head to Ibiza for their first lad's holiday. Unfortunately, tagging along is Alex's unimpressed ex-girlfriend Ellie. Arriving on the island, the lads dump Ellie with Alex's sister Liz, and her friend Zara, and head to San Antonio to start their week of sun, sea and debauchery. Soon they end up in a club, run by local gangster Karl, where the attractions aren't all alive - they're zombies! Due to Jim's drunken antics the zombies escape, and soon all hell breaks loose and no one on the party island is safe.",
+      "popularity": 0.6338,
+      "poster_path": "/lz1XXMrjGBTfqK4OvmNMPUhLnvr.jpg",
+      "release_date": "2016-08-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.6,
+      "vote_count": 31
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tFtqdDndzsQyymIR4fGbC77HVXJ.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        10749
+      ],
+      "id": 353066,
+      "title": "The Vanishing of Sidney Hall",
+      "original_language": "en",
+      "original_title": "The Vanishing of Sidney Hall",
+      "overview": "Over the course of 12 years, and three stages of life, Sidney Hall falls in love, writes the book of a generation and then disappears without a trace.",
+      "popularity": 0.8684,
+      "poster_path": "/e8SJJEliAK9g0EG5agPsbxWoWoI.jpg",
+      "release_date": "2018-03-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 285
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

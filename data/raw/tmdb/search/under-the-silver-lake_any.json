@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/44dgugY6wBUFfJdaVOhNfr6E5g3.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 396461,
+      "title": "Under the Silver Lake",
+      "original_language": "en",
+      "original_title": "Under the Silver Lake",
+      "overview": "Young and disenchanted Sam meets a mysterious and beautiful woman who's swimming in his building's pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.",
+      "popularity": 3.6558,
+      "poster_path": "/6sq6fOb02zjhguNpi5VOklq6Nj.jpg",
+      "release_date": "2018-08-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.334,
+      "vote_count": 1617
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "American Factory",
+  "Year": "2019",
+  "Rated": "TV-14",
+  "Released": "21 Aug 2019",
+  "Runtime": "110 min",
+  "Genre": "Documentary",
+  "Director": "Steven Bognar, Julia Reichert",
+  "Writer": "N/A",
+  "Actors": "Junming 'Jimmy' Wang, Robert Allen, Sherrod Brown",
+  "Plot": "In post-industrial Ohio, a Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class...",
+  "Language": "English, Mandarin",
+  "Country": "United States",
+  "Awards": "Won 1 Oscar. 19 wins & 49 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2I1ZWJmNDUtMzc5OC00YzVmLTliZWItNTczZDQ0YTNiOTZjXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "7.4",
+  "imdbVotes": "24,863",
+  "imdbID": "tt9351980",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

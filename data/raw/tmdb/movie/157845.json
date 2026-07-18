@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/wXI4ljoRVDBp2vHRoXKb2jPlmAj.jpg",
+  "belongs_to_collection": null,
+  "budget": 12250000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 157845,
+  "imdb_id": "tt2345737",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Rover",
+  "overview": "Ten years after a severe economic collapse in the western world, lawlessness reigns and life is cheap. Eric is a lone drifter, and his car is his only possession. When a gang steals it, Eric comes across the injured Rey, left behind by the car thieves. The pair form an unlikely and uneasy alliance.",
+  "popularity": 2.6303,
+  "poster_path": "/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
+  "production_companies": [
+    {
+      "id": 6237,
+      "logo_path": "/xfpb8Q8tVU0ZeQ6AUmi27jBRxra.png",
+      "name": "Porchlight Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 7584,
+      "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 10951,
+      "logo_path": "/jxfMNlkvI3GxnS41xCSOLD7goVb.png",
+      "name": "Screen NSW",
+      "origin_country": "AU"
+    },
+    {
+      "id": 32299,
+      "logo_path": "/yNphx07jCXygH1Zh73tSPHnNi82.png",
+      "name": "Blue-Tongue Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 32300,
+      "logo_path": null,
+      "name": "Lava Bear Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2806,
+      "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+      "name": "South Australian Film Corporation",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2014-06-04",
+  "revenue": 2510007,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fear the man with nothing left to lose.",
+  "title": "The Rover",
+  "video": false,
+  "vote_average": 6.264,
+  "vote_count": 1066,
+  "external_ids": {
+    "imdb_id": "tt2345737",
+    "wikidata_id": "Q5042347",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

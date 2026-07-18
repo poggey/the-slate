@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/dpaRhhMQe1l1mpTSw3OTUuIObG4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://a24films.com/docs/occupied-city",
+  "id": 573952,
+  "imdb_id": "tt9573150",
+  "origin_country": [
+    "NL",
+    "GB",
+    "US"
+  ],
+  "original_language": "nl",
+  "original_title": "De Bezette Stad",
+  "overview": "The past collides with the present in this excavation of the Nazi occupation of Amsterdam: a journey from World War II to recent years of pandemic and protest and a provocative, life-affirming reflection on memory, time and what's to come.",
+  "popularity": 0.9496,
+  "poster_path": "/tgIu31Szce1mmdEe2OO0cI8GW0J.jpg",
+  "production_companies": [
+    {
+      "id": 26389,
+      "logo_path": "/eZG7nmYHpVpp6jsOytILEmITHNf.png",
+      "name": "Family Affair Films",
+      "origin_country": "NL"
+    },
+    {
+      "id": 113380,
+      "logo_path": "/zrGRmk1b1EjYxHfign2DMMEuIsf.png",
+      "name": "Lammas Park",
+      "origin_country": "GB"
+    },
+    {
+      "id": 239,
+      "logo_path": "/96hCWEsfmTZQsoUap0CcG21qaA.png",
+      "name": "VPRO",
+      "origin_country": "NL"
+    },
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-30",
+  "revenue": 0,
+  "runtime": 266,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Occupied City",
+  "video": false,
+  "vote_average": 6.676,
+  "vote_count": 17,
+  "external_ids": {
+    "imdb_id": "tt9573150",
+    "wikidata_id": "Q117842597",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

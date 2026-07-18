@@ -1,0 +1,88 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/d4VKIhk1OCEGVsqyiDKBtGAeO7.jpg",
+      "genre_ids": [
+        28,
+        80,
+        9648
+      ],
+      "id": 334521,
+      "title": "Free Fire",
+      "original_language": "en",
+      "original_title": "Free Fire",
+      "overview": "Set in Boston in 1978, a meeting in a deserted warehouse between two gangs turns into a shoot-out and a game of survival.",
+      "popularity": 1.9449,
+      "poster_path": "/olpgs0OPE8sdBGcuuWhKYzxAwN4.jpg",
+      "release_date": "2017-03-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.263,
+      "vote_count": 1233
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5PR79s6mGhf03uKDB4cWAj4ekeY.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 804389,
+      "title": "Undefeated",
+      "original_language": "th",
+      "original_title": "UNDEFEATED - Garena Free Fire",
+      "overview": "Story of “UNDEFEATED\" — a live action mini-movie of the unbeaten team for the mobile online game, Garena Free Fire.",
+      "popularity": 0.3417,
+      "poster_path": "/lgDIgjGsoz0FZN3iEgS2nH9t0jm.jpg",
+      "release_date": "2021-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 121471,
+      "title": "Shouting Fire: Stories from the Edge of Free Speech",
+      "original_language": "en",
+      "original_title": "Shouting Fire: Stories from the Edge of Free Speech",
+      "overview": "A documentary look at the changing interpretations of the first amendment of the U.S. Constitution - laws and court cases that have alternatively broadened and narrowed the amendment's protection of free speech and assembly. The film's thesis is that post-9/11 the government has seized unprecedented license to surveil, intimidate, arrest, and detain citizens and foreigners alike. The film also looks back to the Pentagon Papers' case and compares it to cases since 9/11 dealing with high school students' speech and protesters marching in New York City during the 2004 Republican convention. Comment comes from a range of scholars, pundits, and advocates.",
+      "popularity": 0.2713,
+      "poster_path": "/nyHCUr2ITfzS26Q7WZvaoLNEi6e.jpg",
+      "release_date": "2009-01-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gnvX1sHRyOE7WVa6t32aJFSs1xU.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 545529,
+      "title": "Fire Music",
+      "original_language": "en",
+      "original_title": "Fire Music",
+      "overview": "Although the free jazz movement of the 1960s and '70s was much maligned in some jazz circles, its pioneers - brilliant talents like Ornette Coleman, Cecil Taylor, Sun Ra, Albert Ayler, and John Coltrane - are today acknowledged as central to the evolution of jazz as America's most innovative art form. FIRE MUSIC showcases the architects of a movement whose radical brand of improvisation pushed harmonic and rhythmic boundaries, and produced landmark albums like Coleman's Free Jazz: A Collective Inspiration and Coltrane's Ascension. A rich trove of archival footage conjures the 1960s jazz scene along with incisive reflections by critic Gary Giddins and a number of the movement's key players.",
+      "popularity": 0.9733,
+      "poster_path": "/90bTbPW0aIzvOvh16rJx23fFjSO.jpg",
+      "release_date": "2021-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

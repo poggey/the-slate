@@ -1,0 +1,36 @@
+{
+  "Title": "This Place Rules",
+  "Year": "2022",
+  "Rated": "TV-MA",
+  "Released": "30 Dec 2022",
+  "Runtime": "82 min",
+  "Genre": "Documentary, Crime, History",
+  "Director": "Andrew Callaghan",
+  "Writer": "Andrew Callaghan",
+  "Actors": "Andrew Callaghan, Joker Gang, Gum Gang",
+  "Plot": "Follows events and characters surrounding the January 6th, 2021 insurrection of the U.S. Capital Building in the days preceding the attack.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BM2U5MmJmYzItYjdmZC00YjE5LTk4ZjQtNTE4NjkzNDUxMDFmXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "100%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "7.2",
+  "imdbVotes": "6,753",
+  "imdbID": "tt23950956",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

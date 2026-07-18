@@ -1,0 +1,84 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tOfJuyfEbUMSSyBK24CAehphKwD.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        80
+      ],
+      "id": 603204,
+      "title": "Stars at Noon",
+      "original_language": "fr",
+      "original_title": "Stars at Noon",
+      "overview": "In present-day Nicaragua, a headstrong American journalist and a mysterious English businessman strike up a romance as they become embroiled in a dangerous labyrinth of lies and conspiracies and are forced to try and escape the country.",
+      "popularity": 1.2757,
+      "poster_path": "/viR50oQCs8ObciADFGWHUyChexZ.jpg",
+      "release_date": "2022-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.826,
+      "vote_count": 141
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s7xh6vtPGcblouAsHAYjS7cBY2Q.jpg",
+      "genre_ids": [
+        99,
+        12
+      ],
+      "id": 269264,
+      "title": "Stars at Noon",
+      "original_language": "fr",
+      "original_title": "Les Étoiles de Midi",
+      "overview": "Les Etoiles de Midi is an engaging docudrama about some of the more spectacular exploits of French mountain climbers over the last several decades. In one re-enacted story, there is a wartime escape through the mountains, and in another, a daring rescue of a pair of climbers who had been missing. The actors themselves are adept at the sport of climbing, and they give the scenes an immediacy and real daring that brings the stories alive. A combination of their acrobatics and skill and the outstanding episodes in the history of French climbing creates a winning 78 minutes.",
+      "popularity": 1.1082,
+      "poster_path": "/4DRMVf33rFOyllnVxslaLUeAiZJ.jpg",
+      "release_date": "1959-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4zSDfWH7BTVLqU44SGHxLJzEf9q.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1639724,
+      "title": "Stars at Noon",
+      "original_language": "hi",
+      "original_title": "ओझल सितारे",
+      "overview": "A family in the circus.",
+      "popularity": 0.0656,
+      "poster_path": "/cb1SAf9mpPZ0TcxQmwcD4FaO1Jm.jpg",
+      "release_date": "2026-01-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1207664,
+      "title": "I See The Stars At Noon",
+      "original_language": "en",
+      "original_title": "I See The Stars At Noon",
+      "overview": "In January of 2004, in the northern Moroccan city of Tangiers, documentary filmmaker Saeed Taji Farouky met a 26 year-old Moroccan named Abdelfattah. He was a clandestine, one of many Africans who try to cross the narrow Straits of Gibraltar and illegally enter Spain by stowing away on cargo ships or boarding inflatable rafts. By the end of their first meeting, Abdelfattah had agreed to let Saeed follow him to film every aspect of his journey.",
+      "popularity": 0.0886,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

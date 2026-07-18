@@ -1,0 +1,399 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        36,
+        10770
+      ],
+      "id": 388895,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "A tale of real-life British aviation pioneer Amy Johnson, the first woman to fly from Britain to Australia, who would later mysteriously disappear.",
+      "popularity": 0.2867,
+      "poster_path": "/bNTFjT71tMxbdOQDp2vMKjqIlRI.jpg",
+      "release_date": "1984-01-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.333,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9dsOweKYJ6XAJteBIKEGOI0T2bf.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 2255,
+      "title": "Chasing Amy",
+      "original_language": "en",
+      "original_title": "Chasing Amy",
+      "overview": "Holden and Banky are comic book artists. Everything is going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's a lesbian.",
+      "popularity": 1.4364,
+      "poster_path": "/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+      "release_date": "1997-04-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 1562
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8YiAnbmo8ARHNVt25Cp5fVt4rNd.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 331781,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "A documentary on the life of Amy Winehouse, the immensely talented yet doomed songstress. We see her from her teen years, where she already showed her singing abilities, to her finding success and then her downward spiral into alcoholism and drugs.",
+      "popularity": 1.7341,
+      "poster_path": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "release_date": "2015-07-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.573,
+      "vote_count": 1323
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bYYQW0zF4jzk3WlT5p8nVz39gg4.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 377080,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "A pair of ex-lovers spend a spontaneous afternoon together that could either lead to rekindled love or further heartbreak.",
+      "popularity": 1.0337,
+      "poster_path": "/qBUM1eatfS6ldhdGlDw8K5yi5hX.jpg",
+      "release_date": "2015-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1036701,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "At a residence, Amy cares for numerous sick and ailing guests, including the young Mary. Delivering refreshments to relieve her guests during the Summer heat, Amy warns Mary not to venture from her room at night, lest she disturb the other guests. Wracked with pain, Mary ignores the warning and leaves her room - discovering that her host has been keeping a dark, deadly secret from her guests.",
+      "popularity": 0.6587,
+      "poster_path": "/z8BQIiN0Q8BKrCqZEH3GY6oUnAM.jpg",
+      "release_date": "2017-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9OWMDKWPVEvdndVHVy7d6TpnUcv.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 544823,
+      "title": "Amy Said",
+      "original_language": "ja",
+      "original_title": "AMY SAID エイミー・セッド",
+      "overview": "Twenty years have passed since the sudden disappearance of Amy, who was the femme fatale in her film studies group. Something that Naoko said triggers emotions that were frozen in time for the group's members, who see each other for the first time after a long absence: Asada Iida,Naoko,Okamoto,Miho,Goto and Kizuka.",
+      "popularity": 0.1978,
+      "poster_path": "/eMUsIPxHu4CjnGZn9r53wCYSyuu.jpg",
+      "release_date": "2017-09-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q1UAGVskXlqL5CbzmXdSz64e2sD.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 31768,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "Amy's father, Franco, was a popular rock musician accidentally electrocuted while performing on stage. The psychological trauma leaves Amy mute and deaf. So the 8-year-old is brought by her mother, Tanya, to Melbourne to diagnose the reasons for her continued silence.",
+      "popularity": 0.4116,
+      "poster_path": "/w8s2BUyvDUWQbkm6xZ3gBWwGD9Z.jpg",
+      "release_date": "1998-08-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 218152,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "'Amy, is narrated by a model (Liisa Repo-Martell) who’s painfully uncomfortable with her own body and “old woman’s” face. Astonishing closing image is a tightly composed telephoto shot on the start of a marathon race among young schoolgirls, dashing toward and then across the screen in ultra-slo-mo, and accompanied by a girls’ chorus hauntingly singing Brian Wilson’s God Only Knows. Widely eclectic lensing and looks in various media and in color and black-and-white flow nicely from one section to the next, aided by gifted editor Mark Karbusicky.' ~ Robert Koehler, Variety - Part 7 of 7-part bio-feature Public Lighting (2004).",
+      "popularity": 0.7308,
+      "poster_path": null,
+      "release_date": "2004-08-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 937656,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "A soon to be a former police officer accuses a couple of killing her sister. Things are not what they seem. Vengeance comes with a price",
+      "popularity": 0.5356,
+      "poster_path": "/vIzXyE30ZCECnxshJbc6wQUQmI8.jpg",
+      "release_date": "2022-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kp9tp63Op9V7A6eih62H2VTTBBq.jpg",
+      "genre_ids": [
+        10751,
+        18
+      ],
+      "id": 217977,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "A woman leaves her husband after the death of her child to teach deaf children how to speak. Her own child was deaf and although she has no formal training she successfully teaches one boy.",
+      "popularity": 0.512,
+      "poster_path": "/5trg8FZd1Jd9gAPHeN2KVB9Y3S2.jpg",
+      "release_date": "1981-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/71xHXiVzar5WqQbBql9E1uNygkJ.jpg",
+      "genre_ids": [
+        27,
+        14,
+        53
+      ],
+      "id": 1319842,
+      "title": "AMY",
+      "original_language": "es",
+      "original_title": "AMY",
+      "overview": "",
+      "popularity": 0.5368,
+      "poster_path": "/cV60BLYLdkppVl3boSzgHYOpCRi.jpg",
+      "release_date": "2024-06-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uznHAHc2i154ltipmPqSJl9AGkC.jpg",
+      "genre_ids": [
+        99,
+        10402,
+        10770
+      ],
+      "id": 848985,
+      "title": "Reclaiming Amy",
+      "original_language": "en",
+      "original_title": "Reclaiming Amy",
+      "overview": "To mark the ten year anniversary of her death, Amy Winehouse's closest family and friends reveal the truth about the music icon and the impact that her loss has had on them. With access to never-before-seen family archives and rare musical performances, this highly personal and powerful account of the life and death of one of Britain’s best-loved musicians offers a new interpretation of her life, her loves and her legacy.",
+      "popularity": 1.1437,
+      "poster_path": "/yxYjjOsinvl8OKNDBhhlwlgZNwD.jpg",
+      "release_date": "2021-07-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10770
+      ],
+      "id": 122165,
+      "title": "Amy & Isabelle",
+      "original_language": "en",
+      "original_title": "Amy & Isabelle",
+      "overview": "In 1971, in the small town of Shirley Falls, in Maine, the odd and lonely secretary Isabelle Goodrow raises her teenager daughter Amy alone. She has only two friends in her job among her gossiper colleagues. When her overprotected daughter is seduced by her mathematic teacher Peter Robertson, the world of Isabelle falls apart. She becomes lost and loses her confidence on Amy, spoiling their relationship. Their bond gets tied again when Isabelle discloses her inner secrets from the past to Amy.",
+      "popularity": 0.6605,
+      "poster_path": "/wU5kKUcBnd5mJwCHjMQeYKmE17Q.jpg",
+      "release_date": "2001-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7sUEIQR5uVHrLVQL7Wiv0BkGBKk.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1463362,
+      "title": "Little Amy",
+      "original_language": "en",
+      "original_title": "Little Amy",
+      "overview": "Nine-year-old Amy has decided that klutzy neighbor Arthur is the one she's going to marry. However, Arthur is too busy trying, and failing miserably, to get a place on the football team to pay any attention to her. So she comes up with what she thinks are foolproof schemes to get him to succeed, which will give him more time to spend with her. Complications ensue.",
+      "popularity": 1.6876,
+      "poster_path": "/fIEvF9a9xJBNojO7bAZlplssZZ.jpg",
+      "release_date": "1962-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xafxRToF3AzUDEet6K0Xbn15DUk.jpg",
+      "genre_ids": [
+        99,
+        10749
+      ],
+      "id": 633383,
+      "title": "Chasing Chasing Amy",
+      "original_language": "en",
+      "original_title": "Chasing Chasing Amy",
+      "overview": "CHASING CHASING AMY explores the transformational impact of a ‘90s rom-com on a 12 year old kid from Kansas, coming of age and contending with queer identity. For young Sav Rodgers, the Kevin Smith cult classic, CHASING AMY, became a life raft. As Rodgers examines the film and its making as a cornerstone of LGBTQ+ cinema, he finds himself at a complicated crossroads.",
+      "popularity": 0.6774,
+      "poster_path": "/tr6sRxI1szqVRhk3ZlFjt9qZq2f.jpg",
+      "release_date": "2023-06-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1278730,
+      "title": "Amy, Wonderful Amy",
+      "original_language": "en",
+      "original_title": "Amy, Wonderful Amy",
+      "overview": "Barbara lives in a fantasy world of trying to become a great woman pilot like her heroine, the late Amy Johnson.",
+      "popularity": 0.5923,
+      "poster_path": null,
+      "release_date": "1974-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 189057,
+      "title": "Amy Muller",
+      "original_language": "xx",
+      "original_title": "Amy Muller",
+      "overview": "Vaudeville dancer Amy Muller performs a portion of her stage routine, which features dancing on her toes. She dances on one toe for part of the performance. Later, she also twirls and does cartwheels.",
+      "popularity": 1.1484,
+      "poster_path": null,
+      "release_date": "1896-03-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.75,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9tOBRy8ksfpoALhERQaFXt6oG7J.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 225671,
+      "title": "Amy",
+      "original_language": "en",
+      "original_title": "Amy",
+      "overview": "With the psychic power of clairvoyance, an extra-sensory perception, Amy starts witnessing haunting visions as her entire Amish village begins to fall into demonic control. An ominous funeral director, Christopher, uses Amy's special abilities to seek out the covert leader behind the possession. Amy and Christopher must stop the fall of their village before the Devil takes over Amy's soul-forcing them to perform a controversial exorcism",
+      "popularity": 0.218,
+      "poster_path": "/nCSMHZR94JyDCbjNxyxg0FIJZkY.jpg",
+      "release_date": "2013-09-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.7,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5HfEhV7GN1ReLCnHfDfqSYhRNnr.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 301571,
+      "title": "Amy!",
+      "original_language": "en",
+      "original_title": "Amy!",
+      "overview": "Amy Johnson was the first woman to fly solo from Great Britain to Australia. Mulvey and Wollen’s experimental documentary combines newsreel footage of the aviator’s arrival, dramatic recreations of events from her life and contemporary discussions by feminist groups on the subject of heroism in this most unconventional biopic.",
+      "popularity": 0.1725,
+      "poster_path": "/sTYMd2yBfQLLP9jOPDF7WCsqrLz.jpg",
+      "release_date": "1980-11-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.333,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lOFnFPMXwmCbdkYFOdcuJ1hOYDz.jpg",
+      "genre_ids": [
+        18,
+        27
+      ],
+      "id": 1042240,
+      "title": "Amy & I",
+      "original_language": "en",
+      "original_title": "Amy & I",
+      "overview": "When Amy and her boyfriend have a nice dinner in a restaurant where they first met, it turns out there's some pressure on their relationship.",
+      "popularity": 0.8995,
+      "poster_path": "/qmytNmd0txNUx77OWiN54YZbe0G.jpg",
+      "release_date": "2022-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 10,
+  "total_results": 189
+}

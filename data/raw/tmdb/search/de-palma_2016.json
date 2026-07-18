@@ -1,0 +1,96 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/grVKCMGxeQlungQskzxEWQq8VE9.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 355254,
+      "title": "De Palma",
+      "original_language": "en",
+      "original_title": "De Palma",
+      "overview": "An intimate conversation between filmmakers, chronicling De Palma’s 55-year career, his life, and his filmmaking process, with revealing anecdotes and, of course, a wealth of film clips.",
+      "popularity": 0.385,
+      "poster_path": "/uYYxSGwKWrnN86Uyuk0NyDzCLwh.jpg",
+      "release_date": "2016-06-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.029,
+      "vote_count": 174
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 429564,
+      "title": "Gérald de Palma - Live au Trianon 2016",
+      "original_language": "fr",
+      "original_title": "Gérald de Palma - Live au Trianon 2016",
+      "overview": "",
+      "popularity": 0.2344,
+      "poster_path": null,
+      "release_date": "2016-09-10",
+      "softcore": false,
+      "video": true,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 866138,
+      "title": "Pure Cinema: Joe Napolitano on Brian De Palma's Body Double",
+      "original_language": "en",
+      "original_title": "Pure Cinema: Joe Napolitano on Brian De Palma's Body Double",
+      "overview": "Joe Napolitano discusses his work as first assistant director on Brian De Palma's film BODY DOUBLE.",
+      "popularity": 0.1542,
+      "poster_path": "/v2DEqk4Sf2P89DWnEX4QSFtULQr.jpg",
+      "release_date": "2016-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 585463,
+      "title": "Gérald de Palmas - Alcaline le Concert",
+      "original_language": "fr",
+      "original_title": "Gérald de Palmas - Alcaline le Concert",
+      "overview": "",
+      "popularity": 0.5425,
+      "poster_path": "/dc1QiKGEoeZrXL7oxdr5ffUYNbV.jpg",
+      "release_date": "2016-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1GapErZI3YpICYEx2DynJ8NnzRH.jpg",
+      "genre_ids": [],
+      "id": 687680,
+      "title": "Acoustic - DE PALMAS, la beauté du geste !",
+      "original_language": "fr",
+      "original_title": "Acoustic - DE PALMAS, la beauté du geste !",
+      "overview": "",
+      "popularity": 0.0942,
+      "poster_path": "/g6QkMTQ9VMuUrZgPgnQTMtndcU3.jpg",
+      "release_date": "2016-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 5
+}

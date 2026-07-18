@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/50pCBBT0VKeyCqyw5tp9Jk3Jm6F.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.youtube.com/watch?v=-kRVr62Ee88",
+  "id": 1566595,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tame Impala: Sound Check at Cherry Lane Theatre",
+  "overview": "Tame Impala stops by Cherry Lane Theatre for Sound Check.",
+  "popularity": 0.152,
+  "poster_path": "/1rIqKKwhpZTP43J92wdFRLHCvia.jpg",
+  "production_companies": [
+    {
+      "id": 210095,
+      "logo_path": "/dg5UhH5UUhsk7fR6H3eymr96mJy.png",
+      "name": "SMUGGLER",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-21",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tame Impala: Sound Check at Cherry Lane Theatre",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

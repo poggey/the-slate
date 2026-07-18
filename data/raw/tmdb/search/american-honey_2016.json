@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fLvgZEMv012AHZk2PAxMyG8WROt.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 340485,
+      "title": "American Honey",
+      "original_language": "en",
+      "original_title": "American Honey",
+      "overview": "A restless teenager escapes her troubled home and joins a traveling crew of young drifters selling magazines across the American Midwest. Immersed in a world of reckless partying, risky hustles, and fleeting romances, she searches for freedom and belonging on the open road.",
+      "popularity": 0.9427,
+      "poster_path": "/41SVO0AElBAl7zks9dFhJ0OjHni.jpg",
+      "release_date": "2016-09-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.792,
+      "vote_count": 935
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

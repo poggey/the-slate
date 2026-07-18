@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5qef4Gl8hJcXvVLE0rsXSgEIbOj.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 489245,
+      "title": "The Kill Team",
+      "original_language": "en",
+      "original_title": "The Kill Team",
+      "overview": "When Andrew Briggman — a young soldier in the US Army during the invasion of Afghanistan — witnesses the murderous behavior of fellow soldiers, under the direction of a malevolent Sergeant, he faces a moral dilemma. His increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear for his safety. A fictionalized dramatization based on a true story.",
+      "popularity": 2.2971,
+      "poster_path": "/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg",
+      "release_date": "2019-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.463,
+      "vote_count": 428
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/w2kzNhdET87IrGA2ciRDQsNuEdV.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 962537,
+      "title": "Jerry Lee Lewis: Trouble in Mind",
+      "original_language": "en",
+      "original_title": "Jerry Lee Lewis: Trouble in Mind",
+      "overview": "An electrifying glimpse into the complex life and thrilling, unparalleled performances of rock and roll's first and wildest practitioner: Jerry Lee Lewis.",
+      "popularity": 0.5189,
+      "poster_path": "/A5rLX2MgUMAsdpT0Jbd7c1JiSM8.jpg",
+      "release_date": "2022-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.714,
+      "vote_count": 7
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

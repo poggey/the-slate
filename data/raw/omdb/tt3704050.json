@@ -1,0 +1,40 @@
+{
+  "Title": "Remember",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "17 Dec 2015",
+  "Runtime": "94 min",
+  "Genre": "Drama, Mystery, Thriller",
+  "Director": "Atom Egoyan",
+  "Writer": "Benjamin August",
+  "Actors": "Christopher Plummer, Kim Roberts, Amanda Smith",
+  "Plot": "With the aid of a fellow Auschwitz survivor and a hand-written letter, an elderly man with dementia goes in search of the person he believes to be responsible for the death of his family in the death camp to kill him himself.",
+  "Language": "English, German",
+  "Country": "Canada, Mexico, Germany, South Africa",
+  "Awards": "7 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3OTY3Njc1OV5BMl5BanBnXkFtZTgwNDY0MzE1NzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "7.5",
+  "imdbVotes": "29,430",
+  "imdbID": "tt3704050",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,184,564",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

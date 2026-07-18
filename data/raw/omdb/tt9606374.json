@@ -1,0 +1,40 @@
+{
+  "Title": "On the Rocks",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "23 Oct 2020",
+  "Runtime": "96 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Sofia Coppola",
+  "Writer": "Sofia Coppola",
+  "Actors": "Bill Murray, Rashida Jones, Marlon Wayans",
+  "Plot": "A young mother reconnects with her larger-than-life playboy father on an adventure through New York.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 39 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDVmMDI1MTMtMTAwYi00MzA2LWE2YmItOTBmNzVmMDk4MDE3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "6.4",
+  "imdbVotes": "39,373",
+  "imdbID": "tt9606374",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

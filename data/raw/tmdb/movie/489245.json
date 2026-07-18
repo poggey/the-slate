@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/5qef4Gl8hJcXvVLE0rsXSgEIbOj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 489245,
+  "imdb_id": "tt6196936",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Kill Team",
+  "overview": "When Andrew Briggman — a young soldier in the US Army during the invasion of Afghanistan — witnesses the murderous behavior of fellow soldiers, under the direction of a malevolent Sergeant, he faces a moral dilemma. His increasingly-violent platoon becomes suspicious that someone in their ranks has turned on them, and Andrew begins to fear for his safety. A fictionalized dramatization based on a true story.",
+  "popularity": 2.2971,
+  "poster_path": "/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg",
+  "production_companies": [
+    {
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 12292,
+      "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 127127,
+      "logo_path": null,
+      "name": "Marc Graue Recording Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-10-17",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Soldiers. Brothers. Enemies.",
+  "title": "The Kill Team",
+  "video": false,
+  "vote_average": 6.463,
+  "vote_count": 428,
+  "external_ids": {
+    "imdb_id": "tt6196936",
+    "wikidata_id": "Q62082323",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

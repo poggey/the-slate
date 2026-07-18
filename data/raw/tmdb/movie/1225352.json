@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/9dmX3Cc7J2TjMI5Ujmk9Y7cRHnd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://a24films.com/docs/open-wide",
+  "id": 1225352,
+  "imdb_id": "tt29649645",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Open Wide",
+  "overview": "John Mew thinks we're all ugly. And modern living is to blame. For decades he's waged a lonely war against orthodontics and that teenage rite of passage - braces. With his son now taking up the fight, Mew's fringe theories suddenly find an enthusiastic audience online.",
+  "popularity": 0.509,
+  "poster_path": "/ba0vZOv8Gv0MmsM0GkCGvFQp0Dr.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 47486,
+      "logo_path": "/t1DSCzt6msRgSvgvLPkMqINt9ZK.png",
+      "name": "Muck Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-23",
+  "revenue": 0,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Open Wide",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 5,
+  "external_ids": {
+    "imdb_id": "tt29649645",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

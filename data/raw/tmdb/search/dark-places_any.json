@@ -1,0 +1,224 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/usWzZFCKNBhVzD96ESLFEzETwPB.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        18,
+        80
+      ],
+      "id": 182560,
+      "title": "Dark Places",
+      "original_language": "en",
+      "original_title": "Dark Places",
+      "overview": "A woman who survived the brutal killing of her family as a child is forced to confront the events of that day.",
+      "popularity": 1.5091,
+      "poster_path": "/acJXtT4ZX7nWIhOaCfSAGBxFw71.jpg",
+      "release_date": "2015-04-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.942,
+      "vote_count": 1380
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xGyXNt6uI1rBl30NE3j854urOuJ.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 120632,
+      "title": "Dark Places",
+      "original_language": "en",
+      "original_title": "Dark Places",
+      "overview": "The heir of a mysterious estate must unveil its secrets and discover its treasures before a scheming doctor and his seductive sister can steal what is rightfully his.",
+      "popularity": 0.7867,
+      "poster_path": "/cdjzWGn8R2OsAyvgBM5KmqxoqFs.jpg",
+      "release_date": "1973-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.541,
+      "vote_count": 37
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rdpV1yQtIZ2eCCKtDYpuqXfOS0K.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1637574,
+      "title": "Dark Places",
+      "original_language": "en",
+      "original_title": "Dark Places",
+      "overview": "A troubled college student, Natalie Parker, befriends the mysterious Jason Evans, only to be pulled into a world of satanic murder, family trauma, and psychological unraveling",
+      "popularity": 2.3949,
+      "poster_path": "/qoBBlfFacqXz2SHeBw3QaozrqzC.jpg",
+      "release_date": "2026-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p8b5amV7zMWP45S8XV4HjsdyYTF.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 115374,
+      "title": "All Dark Places",
+      "original_language": "en",
+      "original_title": "All Dark Places",
+      "overview": "Jamie and Christian are giving their marriage one last shot for the sake of love and their young son, Dylan. But when Christian proves unable to hold up his end, forces both within and outside their relationship will decide their future.",
+      "popularity": 0.8159,
+      "poster_path": "/b8gdowqOLGOoB70ZIJ1CEFE8pgd.jpg",
+      "release_date": "2011-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.1,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nwfhQtLJdRQqIgoMnkhtFmz0Gc8.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 135402,
+      "title": "Dark Places",
+      "original_language": "en",
+      "original_title": "Dark Places",
+      "overview": "Keri Walker is a drug-addicted prostitute who ends up killing her latest john in self-defense. She finds shelter at a place run by a couple who find pleasure in others' pain. The haven house turns into a hell house and Keri must do whatever she can to stay alive.",
+      "popularity": 0.1994,
+      "poster_path": "/A4iSDKgMZCWSR4iCmss8kp0Oebz.jpg",
+      "release_date": "2005-05-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.6,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/69AYgJEGoLHdzHXOX6gb4kvxzjo.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 206185,
+      "title": "In Dark Places",
+      "original_language": "en",
+      "original_title": "In Dark Places",
+      "overview": "A vengeful woman lures her half brother into a game that may leave her the sole heir to their abusive father's fortune.",
+      "popularity": 0.4919,
+      "poster_path": "/16jM78khlGZ3SMVG76tduK1g1BU.jpg",
+      "release_date": "1997-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.833,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 539068,
+      "title": "In Dark Places",
+      "original_language": "en",
+      "original_title": "In Dark Places",
+      "overview": "In Dark Places is the gripping story of an innocent man, imprisoned for two decades for a crime he did not commit, and an ex-cop's heroic battle to win him his freedom.",
+      "popularity": 0.1989,
+      "poster_path": "/pC9wsjvKrDJyE42USPQPOSsiwex.jpg",
+      "release_date": "2018-07-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 633438,
+      "title": "Light in Dark Places",
+      "original_language": "en",
+      "original_title": "Light in Dark Places",
+      "overview": "A mother makes a shocking discovery when she's left to pack up her daughter's house after a tragic car accident.",
+      "popularity": 0.1396,
+      "poster_path": "/vEMpnjkEsMNe5VwaKuUseKZWPSc.jpg",
+      "release_date": "2019-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qzqdWDlYYbCAEtMn27ao7lndsKI.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1599866,
+      "title": "Bloody Things Lie in Dark Places: A Tale of Death and Despair",
+      "original_language": "en",
+      "original_title": "Bloody Things Lie in Dark Places: A Tale of Death and Despair",
+      "overview": "Blake Sullivan, a private investigator, is hunted by both the Chicago Mafia, and the FBI, in a thrilling journey to unveil the truth behind secretive government testing in this noir action adventure.",
+      "popularity": 0.5104,
+      "poster_path": "/hjyuMuqickhUO4Ha3ptLR4KoiNm.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fobnsE4NGLuQhVSI6lC2mPU8BLb.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 12119,
+      "title": "Das Wunder von Lengede",
+      "original_language": "de",
+      "original_title": "Das Wunder von Lengede",
+      "overview": "The film is based on the events surrounding the Lengede mining accident in 1963.",
+      "popularity": 0.2833,
+      "poster_path": "/8lAXIfOeQET5uYIJmOyZrk75Y5l.jpg",
+      "release_date": "2003-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.929,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6uKa5AIzq2MQ6HOJj7ycs3ln7bj.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 21794,
+      "title": "In a Dark Place",
+      "original_language": "en",
+      "original_title": "In a Dark Place",
+      "overview": "The disturbed arts teacher, Anna Veigh, is hired by Mr. Laing as a governess to raise Flora and her brother Miles. Anna believes that the ghosts of the former governess, Miss Jessel, and housekeeper, Peter Quint, are in the property haunting the children, and she decides to help them to face the spirits and get their souls free.",
+      "popularity": 0.6068,
+      "poster_path": "/xBjix0cL0SKr8TwnPIYL2Oz6osp.jpg",
+      "release_date": "2006-07-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.222,
+      "vote_count": 54
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 11
+}

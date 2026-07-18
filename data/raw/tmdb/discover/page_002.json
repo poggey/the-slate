@@ -1,0 +1,402 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/jQ06O9JAFN0VfDS4ezE09pfoj2h.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 533444,
+      "title": "Waves",
+      "original_language": "en",
+      "original_title": "Waves",
+      "overview": "A controlling father’s attempts to ensure that his two children succeed in high school backfire after his son experiences a career-ending sports injury. Their familial bonds are eventually placed under severe strain by an unexpected tragedy.",
+      "popularity": 1.5862,
+      "poster_path": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+      "release_date": "2019-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.363,
+      "vote_count": 818
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9O4qARYvsuCVTtw8ybLIQNTywTO.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        10402
+      ],
+      "id": 650073,
+      "title": "John Mulaney & The Sack Lunch Bunch",
+      "original_language": "en",
+      "original_title": "John Mulaney & The Sack Lunch Bunch",
+      "overview": "John Mulaney and his kid pals tackle existential topics for all ages with catchy songs, comedy sketches and special guests in a nostalgic variety special.",
+      "popularity": 1.0778,
+      "poster_path": "/rP8knLNDHN6VlUi89nWuqaWUdoo.jpg",
+      "release_date": "2019-12-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.022,
+      "vote_count": 113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nvbkAADScrPlybAEZhS4pzMFu45.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 851037,
+      "title": "Question & Answer",
+      "original_language": "en",
+      "original_title": "Question & Answer",
+      "overview": "The Safdie brothers go undercover to record an interview with Adam Sandler, the star of their film UNCUT GEMS.",
+      "popularity": 1.9365,
+      "poster_path": "/a19rfs9jUkEvK9wqJmk2o7W6S1X.jpg",
+      "release_date": "2020-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kefuspcTdazx5Dd5EHdl8wcnXBX.jpg",
+      "genre_ids": [
+        35,
+        99
+      ],
+      "id": 675929,
+      "title": "Whitmer Thomas: The Golden One",
+      "original_language": "en",
+      "original_title": "Whitmer Thomas: The Golden One",
+      "overview": "Thomas reflects on his Alabama childhood and his identity as an “aging emo kid” in LA through stories and songs on topics like dating, drinking, family and his mom’s legacy.",
+      "popularity": 0.4328,
+      "poster_path": "/wR9xAXKPKqPRpDGYV5imuqlUjbq.jpg",
+      "release_date": "2020-02-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1xZgkxH2Cwr0mN029htFghCQOEj.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 703754,
+      "title": "Eric Andre: Legalize Everything",
+      "original_language": "en",
+      "original_title": "Eric Andre: Legalize Everything",
+      "overview": "Comedian Eric Andre presents his very first Netflix original stand-up special. Taking the stage in New Orleans, Andre breaks the boundaries of comedy as he critiques the war on drugs, the war on sex, and the war on fart jokes!",
+      "popularity": 0.497,
+      "poster_path": "/epCjHq5yefl7h3cKaOJgexc0AMY.jpg",
+      "release_date": "2020-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 57
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xl1qwCGckM7lCYcCenYnuvZr2J1.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 722815,
+      "title": "Strasbourg 1518",
+      "original_language": "en",
+      "original_title": "Strasbourg 1518",
+      "overview": "Inspired by a powerful involuntary mania which took hold of citizens in the city of Strasbourg just over five hundred years ago, this film is a collaboration in isolation with some of the greatest dancers working today.",
+      "popularity": 0.4398,
+      "poster_path": "/uMKUZOtfjcWqOzWSJZoK24kctg.jpg",
+      "release_date": "2020-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.735,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8FHQFJGCuIuSQ8hC7Iyrd8fPdy7.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 591634,
+      "title": "False Positive",
+      "original_language": "en",
+      "original_title": "False Positive",
+      "overview": "After months of trying and failing to get pregnant, Lucy and Adrian finally find their dream fertility doctor in the illustrious Dr. Hindle. But after becoming pregnant with a healthy baby girl, Lucy begins to notice something sinister through Hindle's gleaming charm, and she sets out to uncover the unsettling truth about him.",
+      "popularity": 1.3076,
+      "poster_path": "/3HSov8EW2fI3oQbUJxOvnf684ej.jpg",
+      "release_date": "2021-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.57,
+      "vote_count": 194
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gV2wSIlNMIUxEArKYrTF2NX4tjb.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 834027,
+      "title": "Val",
+      "original_language": "en",
+      "original_title": "Val",
+      "overview": "For over 40 years Val Kilmer, one of Hollywood’s most mercurial and/or misunderstood actors has been documenting his own life and craft through film and video. He has amassed thousands of hours of footage, from 16mm home movies made with his brothers, to time spent in iconic roles for blockbuster movies like Top Gun, The Doors, Tombstone, and Batman Forever. This raw, wildly original and unflinching documentary reveals a life lived to extremes and a heart-filled, sometimes hilarious look at what it means to be an artist and a complex man.",
+      "popularity": 2.1991,
+      "poster_path": "/vWJKmfmjpkFeTbUGep6t7w5TexA.jpg",
+      "release_date": "2021-07-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.193,
+      "vote_count": 228
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kIQc0kkqIYTo65x5XjlKgqdDQ6a.jpg",
+      "genre_ids": [
+        12,
+        18,
+        14
+      ],
+      "id": 559907,
+      "title": "The Green Knight",
+      "original_language": "en",
+      "original_title": "The Green Knight",
+      "overview": "An epic fantasy adventure based on the timeless Arthurian legend, The Green Knight tells the story of Sir Gawain, King Arthur's reckless and headstrong nephew, who embarks on a daring quest to confront the eponymous Green Knight, a gigantic emerald-skinned stranger and tester of men.",
+      "popularity": 2.5563,
+      "poster_path": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "release_date": "2021-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 2228
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/TE9aucPjmfwpe55qz3ieuWzYFn.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 882292,
+      "title": "Phoebe Robinson: Sorry, Harriet Tubman",
+      "original_language": "en",
+      "original_title": "Phoebe Robinson: Sorry, Harriet Tubman",
+      "overview": "﻿After a truly trash year, actor, producer, and New York Times bestselling author Phoebe Robinson is finally out of quarantine and ready to get back onstage. Bringing her signature brand of authentic confessional humor to her first-ever solo stand-up special, Robinson gets real about therapy, interracial dating, reparations, hanging out with Michelle Obama, aging out of watching civil rights movies, and more in a no-holds-barred hour of comedy that’s both unflinchingly honest – and uniquely hilarious.",
+      "popularity": 0.2209,
+      "poster_path": "/gQu4J4Rt9KMaaVR9oxXSzvYD0WA.jpg",
+      "release_date": "2021-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zs1I3ZFUDEWa5rFyph7OrMH1aJ9.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 632617,
+      "title": "C'mon C'mon",
+      "original_language": "en",
+      "original_title": "C'mon C'mon",
+      "overview": "Johnny and his young nephew forge a tenuous but transformational relationship when they embark on a cross-country trip to see life away from Los Angeles.",
+      "popularity": 2.807,
+      "poster_path": "/1oOyJsdcJnnE7cl9bZdUQvBjKNH.jpg",
+      "release_date": "2021-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.16,
+      "vote_count": 776
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xVZijHBpoQCuH1RjLDmDHjwrCzM.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 588367,
+      "title": "The Humans",
+      "original_language": "en",
+      "original_title": "The Humans",
+      "overview": "Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter’s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group’s deepest fears are laid bare.",
+      "popularity": 1.1065,
+      "poster_path": "/gQsDWmkvzzJxlrc3HCqkfQRH11.jpg",
+      "release_date": "2021-11-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.054,
+      "vote_count": 224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/npgx0XRpFHrfqB6aGe20x4OF2d4.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 900742,
+      "title": "Mo Amer: Mohammed in Texas",
+      "original_language": "en",
+      "original_title": "Mo Amer: Mohammed in Texas",
+      "overview": "In his hometown of Houston, Mo Amer takes on pandemic panic, disappointing Bradley Cooper, hummus appropriation and the subtle art of cursing in Arabic.",
+      "popularity": 0.4487,
+      "poster_path": "/AoIrMhg7kMlntWpC6XIRNZIDPZg.jpg",
+      "release_date": "2021-11-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.727,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 591538,
+      "title": "The Tragedy of Macbeth",
+      "original_language": "en",
+      "original_title": "The Tragedy of Macbeth",
+      "overview": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+      "popularity": 4.7711,
+      "poster_path": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "release_date": "2021-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.927,
+      "vote_count": 883
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4V5EWfD7ydCF2sZlePaWar7zVOd.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        10402
+      ],
+      "id": 640265,
+      "title": "The Sky Is Everywhere",
+      "original_language": "en",
+      "original_title": "The Sky Is Everywhere",
+      "overview": "Lennie is a teen musical prodigy grieving the death of her sister when she finds herself caught between a new guy at school and her sister's devastated boyfriend. Through her vivid imagination and conflicted heart, Lennie navigates first love and first loss.",
+      "popularity": 1.5012,
+      "poster_path": "/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg",
+      "release_date": "2022-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.731,
+      "vote_count": 91
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rRJRRth2ZlYQtThM5lJ7pCX4I1n.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 933738,
+      "title": "Ali Wong: Don Wong",
+      "original_language": "en",
+      "original_title": "Ali Wong: Don Wong",
+      "overview": "In her third Netflix stand-up special, Ali Wong reveals her wildest fantasies, the challenges of monogamy and how she really feels about single people.",
+      "popularity": 0.7777,
+      "poster_path": "/rhwfoNRrTTLbdkkqjjC6yCDZXte.jpg",
+      "release_date": "2022-02-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.869,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y8ZholsWIn4jR3JoDWOSSFY87vf.jpg",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "id": 585378,
+      "title": "After Yang",
+      "original_language": "en",
+      "original_title": "After Yang",
+      "overview": "When his young daughter's beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn't know was there.",
+      "popularity": 1.6956,
+      "poster_path": "/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+      "release_date": "2022-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.421,
+      "vote_count": 525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 760104,
+      "title": "X",
+      "original_language": "en",
+      "original_title": "X",
+      "overview": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+      "popularity": 10.2185,
+      "poster_path": "/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "release_date": "2022-03-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.714,
+      "vote_count": 4025
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 545611,
+      "title": "Everything Everywhere All at Once",
+      "original_language": "en",
+      "original_title": "Everything Everywhere All at Once",
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "popularity": 17.0619,
+      "poster_path": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "release_date": "2022-03-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.717,
+      "vote_count": 8125
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4N2FuCTuqH3h4dw9XPFtsnDPSz7.jpg",
+      "genre_ids": [
+        27,
+        53,
+        14
+      ],
+      "id": 780609,
+      "title": "Men",
+      "original_language": "en",
+      "original_title": "Men",
+      "overview": "In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.",
+      "popularity": 3.7702,
+      "poster_path": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "release_date": "2022-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.074,
+      "vote_count": 1373
+    }
+  ],
+  "total_pages": 9,
+  "total_results": 172
+}

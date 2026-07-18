@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tOfJuyfEbUMSSyBK24CAehphKwD.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        80
+      ],
+      "id": 603204,
+      "title": "Stars at Noon",
+      "original_language": "fr",
+      "original_title": "Stars at Noon",
+      "overview": "In present-day Nicaragua, a headstrong American journalist and a mysterious English businessman strike up a romance as they become embroiled in a dangerous labyrinth of lies and conspiracies and are forced to try and escape the country.",
+      "popularity": 1.2757,
+      "poster_path": "/viR50oQCs8ObciADFGWHUyChexZ.jpg",
+      "release_date": "2022-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.826,
+      "vote_count": 141
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

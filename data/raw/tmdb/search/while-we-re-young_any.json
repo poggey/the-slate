@@ -1,0 +1,63 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/9JJJOq1YuhUpC3wRgeEYn85UPbi.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 252512,
+      "title": "While We're Young",
+      "original_language": "en",
+      "original_title": "While We're Young",
+      "overview": "An uptight documentary filmmaker and his wife find their lives loosened up a bit after befriending a free-spirited younger couple.",
+      "popularity": 1.5681,
+      "poster_path": "/rdYXGeK3OZjBrd2R8A1sSS0Kxcq.jpg",
+      "release_date": "2015-03-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.008,
+      "vote_count": 1207
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Qq38zzmMuka1X0LSGg5mverUy0.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 987924,
+      "title": "While We're Young",
+      "original_language": "es",
+      "original_title": "Congreso",
+      "overview": "Three friends invite three girls to a Mexican-themed party hoping to spend an unforgettable night. It ends up being just that: not only for the right reasons, but also for some bad news over the phone and finally, a betrayal.",
+      "popularity": 1.7697,
+      "poster_path": "/6a9HDYWtO6kLlvG1ry0ndLqf1bq.jpg",
+      "release_date": "2015-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.0,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1322672,
+      "title": "Making of While We're Young",
+      "original_language": "en",
+      "original_title": "Making of While We're Young",
+      "overview": "Director Noah Baumbach talks piecing together his all-star cast; Ben Stiller describes playing the \"old guy\" alongside his costars.",
+      "popularity": 0.0429,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}

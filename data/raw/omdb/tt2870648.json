@@ -1,0 +1,40 @@
+{
+  "Title": "Amy",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "10 Jul 2015",
+  "Runtime": "128 min",
+  "Genre": "Documentary, Biography, Music",
+  "Director": "Asif Kapadia",
+  "Writer": "N/A",
+  "Actors": "Amy Winehouse, Mitch Winehouse, Mark Ronson",
+  "Plot": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse.",
+  "Language": "English",
+  "Country": "United Kingdom",
+  "Awards": "Won 1 Oscar. 51 wins & 47 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MzE4MTE3OF5BMl5BanBnXkFtZTgwOTcyNDM3NTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "7.8",
+  "imdbVotes": "56,532",
+  "imdbID": "tt2870648",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$8,413,144",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

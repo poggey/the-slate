@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/hMdI1zx5x9qDy0gwVsWfU33OBub.jpg",
+      "genre_ids": [
+        99,
+        10751
+      ],
+      "id": 541572,
+      "title": "The Elephant Queen",
+      "original_language": "en",
+      "original_title": "The Elephant Queen",
+      "overview": "Embark on an epic journey of family, courage, and coming home in this feature-length documentary. Join Athena, the majestic matriarch, as she leads her elephant herd across an unforgiving African landscape filled with vibrant wildlife.",
+      "popularity": 1.6721,
+      "poster_path": "/26hkYwRR6VsdjoelsOLpB5Cx1HD.jpg",
+      "release_date": "2019-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.25,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 1273233,
+      "title": "The Elephant Queen",
+      "original_language": "zh",
+      "original_title": "野象小姐",
+      "overview": "Single mother Ye Xiang (played by Yan Ni) is a hospital cleaner who lives in the miscellaneous room with her autistic son Can (played by Peng Yuchang). Various characters such as Doctor Mili, Leader Zhao, Canned Friend Hongmao, and Canned Heartbeat Girl Cuicui have entered their lives and formed various emotional connections with them. These experiences, whether warm or sad, affect the growth of canned food and Ye Xiang's inner world, as well as bring ups and downs to their mother son relationship. After experiencing a thousand sails, Ye Xiang finally decided to let go of his grip on canned food for twenty years and run alone towards a broader sky",
+      "popularity": 0.5564,
+      "poster_path": "/8b8UplOsuC36PZQwiL2CUq8O9Cv.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

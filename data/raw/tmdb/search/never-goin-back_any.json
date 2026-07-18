@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/v3Iwpj92YUzOkVomZ2SpjpxEVMe.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 490005,
+      "title": "Never Goin' Back",
+      "original_language": "en",
+      "original_title": "Never Goin' Back",
+      "overview": "Angela and Jessie are best friends intent on taking a wild beach trip, but when their roommate loses all of their money in a drug scam, the girls -- blissfully stoned -- go to increasingly daring and absurd lengths to get it back.",
+      "popularity": 0.9925,
+      "poster_path": "/3ytp5pmHFVvAesnL2SJecxgV8W2.jpg",
+      "release_date": "2018-08-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.088,
+      "vote_count": 98
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "False Positive",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "25 Jun 2021",
+  "Runtime": "92 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "John Lee",
+  "Writer": "John Lee, Alissa Nutting, Ilana Glazer",
+  "Actors": "Ilana Glazer, Justin Theroux, Gretchen Mol",
+  "Plot": "As if getting pregnant weren't complicated enough, Lucy sets out to uncover the unsettling truth about her fertility doctor.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGYxY2E1MWMtNDc1Ny00ZTVmLTkyZGEtMjE0ZWVjYjVkZDM0XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "4.6",
+  "imdbVotes": "7,651",
+  "imdbID": "tt10096842",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

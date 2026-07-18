@@ -1,0 +1,80 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1100099,
+      "title": "We Live in Time",
+      "original_language": "en",
+      "original_title": "We Live in Time",
+      "overview": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+      "popularity": 4.2682,
+      "poster_path": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+      "release_date": "2024-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.217,
+      "vote_count": 1309
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 550886,
+      "title": "We live in interesting times",
+      "original_language": "en",
+      "original_title": "We live in interesting times",
+      "overview": "The piece is built on a framework of tracking down and up a parking garage staircase, with a carwash in the basement, (since demolished) the same take repeated a number of times, and therefore a different, but same repetition. A second strand of the work is formed by an ostensibly unconnected set of ideas and concerns, dealing with the gradual movement of our social system from a democratic, to an oligarchic global system. The gradual abstraction of the staircase into colour fields, text, the actress singing and repeating a dialog sequence to camera, make a shifting montage without narrative connection. There is no metaphor in this work.It‘s a loose bag of ideas, some connected, others just there as images, to be organized by the viewer, not really an essay, but thoughts on despair.",
+      "popularity": 0.0394,
+      "poster_path": "/g4KkzlhuDKIa3ObzQEvXTygjssy.jpg",
+      "release_date": "2015-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 475529,
+      "title": "The Times We Live In",
+      "original_language": "sk",
+      "original_title": "Čas, ktorý žijeme",
+      "overview": "Five young Czechoslovak directors make a documentary about the events of '68, the brutal end of the \"Prague Spring\" when Soviet tanks arrived.",
+      "popularity": 0.4206,
+      "poster_path": null,
+      "release_date": "1968-04-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 853820,
+      "title": "The Times We Live In",
+      "original_language": "kn",
+      "original_title": "Phala",
+      "overview": "A tale of two generations, dealing with the influence of the elder, on the actions, reactions and dreams of the younger.",
+      "popularity": 0.4397,
+      "poster_path": "/cMyIIX6qmYhhO9ZSdHAWYSmRnBs.jpg",
+      "release_date": "2020-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

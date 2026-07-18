@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+  "belongs_to_collection": null,
+  "budget": 1100000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://redrocket.movie",
+  "id": 763329,
+  "imdb_id": "tt13453006",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Red Rocket",
+  "overview": "After hitting rock bottom in Los Angeles, former porn star Mikey Saber returns to his hometown in Texas to stay with his estranged wife and mother-in-law. Just as tensions begin to ease, he becomes infatuated with a young doughnut shop worker named Strawberry.",
+  "popularity": 0.9953,
+  "poster_path": "/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+  "production_companies": [
+    {
+      "id": 7493,
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 88152,
+      "logo_path": "/zm1yRe17jzOgEzXrNj6hd8gl89O.png",
+      "name": "Cre Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-12-10",
+  "revenue": 2200000,
+  "runtime": 130,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everything's bigger in Texas.",
+  "title": "Red Rocket",
+  "video": false,
+  "vote_average": 6.797,
+  "vote_count": 640,
+  "external_ids": {
+    "imdb_id": "tt13453006",
+    "wikidata_id": "Q105657351",
+    "facebook_id": "redrocketmovie",
+    "instagram_id": "redrocketmovie",
+    "twitter_id": "redrocketmovie"
+  }
+}

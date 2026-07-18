@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xy5YazEiPb3Nij6TUEP9Dq3LDhp.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 157386,
+      "title": "The Spectacular Now",
+      "original_language": "en",
+      "original_title": "The Spectacular Now",
+      "overview": "Sutter, a popular party animal, unexpectedly meets the introverted Aimee after waking up on a stranger's lawn. As Sutter deals with the problems in his life and Aimee plans for her future beyond school, an unexpected romance blossoms between them.",
+      "popularity": 5.4355,
+      "poster_path": "/obDS8pTWVWZiNAaTyfIFWYZbRsZ.jpg",
+      "release_date": "2013-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.682,
+      "vote_count": 3039
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
+      "genre_ids": [
+        27,
+        80,
+        53
+      ],
+      "id": 313922,
+      "title": "Green Room",
+      "original_language": "en",
+      "original_title": "Green Room",
+      "overview": "A punk rock band is forced to fight for survival after witnessing an act of violence at a skinhead bar.",
+      "popularity": 2.0075,
+      "poster_path": "/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+      "release_date": "2016-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.716,
+      "vote_count": 2964
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

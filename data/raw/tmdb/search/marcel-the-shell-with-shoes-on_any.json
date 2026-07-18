@@ -1,0 +1,89 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xI5oKkOyu7H9Wm18C7U4oJYXIWo.jpg",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "id": 419474,
+      "title": "Marcel the Shell with Shoes On, Three",
+      "original_language": "en",
+      "original_title": "Marcel the Shell with Shoes On, Three",
+      "overview": "Marcel the shell gets locked outside.",
+      "popularity": 0.1424,
+      "poster_path": "/2cYCWXDnvDIc7PiCOpXIfOf2uyu.jpg",
+      "release_date": "2014-10-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+      "genre_ids": [
+        16,
+        35,
+        18,
+        10751
+      ],
+      "id": 869626,
+      "title": "Marcel the Shell with Shoes On",
+      "original_language": "en",
+      "original_title": "Marcel the Shell with Shoes On",
+      "overview": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+      "popularity": 2.0969,
+      "poster_path": "/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+      "release_date": "2022-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.622,
+      "vote_count": 710
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRTsmEfkRf2vOXGo0GPIVR4cDpY.jpg",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "id": 369800,
+      "title": "Marcel the Shell with Shoes On",
+      "original_language": "en",
+      "original_title": "Marcel the Shell with Shoes On",
+      "overview": "Marcel the shell gives an outline of his life.",
+      "popularity": 0.2483,
+      "poster_path": "/q6C6JLUm8Yb0oaFYJiic025AArR.jpg",
+      "release_date": "2010-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.663,
+      "vote_count": 40
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m1yqVPnpnfeS8yqDspHpu0I37hi.jpg",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "id": 419468,
+      "title": "Marcel the Shell with Shoes On, Two",
+      "original_language": "en",
+      "original_title": "Marcel the Shell with Shoes On, Two",
+      "overview": "Marcel the shell is out of sight.",
+      "popularity": 0.2634,
+      "poster_path": "/43DYs0mWeQAXXB1wilx5QBz2XrC.jpg",
+      "release_date": "2011-11-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 32
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

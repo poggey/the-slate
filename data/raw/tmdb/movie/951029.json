@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/crF6INgzwVsbuFqzszjntvCP3TC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 951029,
+  "imdb_id": "tt19121796",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Look into My Eyes",
+  "overview": "A group of New York City psychics conduct deeply intimate readings for their clients, revealing a kaleidoscope of loneliness, connection, and healing.",
+  "popularity": 0.707,
+  "poster_path": "/mp1UYL6Z8A5aMbQQKxyWPWwNJkU.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 191133,
+      "logo_path": "/toELTK9C3UbE95wmMUWIfucLK1L.png",
+      "name": "Drifting Cloud Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 66478,
+      "logo_path": "/u7WmMkfo9MqsqfD5cuDAbd0u1qY.png",
+      "name": "Artemis Rising",
+      "origin_country": "US"
+    },
+    {
+      "id": 75170,
+      "logo_path": "/mKw4pn8URnhzV5UDVpbovehWJ8d.png",
+      "name": "Chicken & Egg Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 151143,
+      "logo_path": "/uFw5BmCroQ1XFz2sz7UjK1SoYxB.png",
+      "name": "Secret Sauce Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-06",
+  "revenue": 0,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Look into My Eyes",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 20,
+  "external_ids": {
+    "imdb_id": "tt19121796",
+    "wikidata_id": "Q123738052",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

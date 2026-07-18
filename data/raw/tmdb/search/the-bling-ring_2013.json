@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/ouN0GyE7mtIT6wyJeilaggyvgNj.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 96936,
+      "title": "The Bling Ring",
+      "original_language": "en",
+      "original_title": "The Bling Ring",
+      "overview": "Lured by stardom, a crew of aimless teens breaks into celebrity homes for a string of high-profile robberies and fame by appropriation.",
+      "popularity": 3.0409,
+      "poster_path": "/6yh55qCcdgPRJweDWM2CiEubJCL.jpg",
+      "release_date": "2013-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.431,
+      "vote_count": 3157
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

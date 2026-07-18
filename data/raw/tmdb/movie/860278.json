@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/kffxjVKaxjFM6utstRUFKbB8DZk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://tv.apple.com/movie/umc.cmc.23v0wxaiwz60bjy1w4vg7npun",
+  "id": 860278,
+  "imdb_id": "tt15210256",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stephen Curry: Underrated",
+  "overview": "The remarkable coming-of-age story of Stephen Curry—one of the most influential, dynamic, and unexpected players in basketball history—and his rise from an undersized college player to a four-time NBA champion.",
+  "popularity": 0.9892,
+  "poster_path": "/mFpnGiDrY9Brz4FQLKBKX1uCbl.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 120524,
+      "logo_path": "/6G31NBE33avSwnSw9OGiFhCOpkS.png",
+      "name": "Unanimous Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 148495,
+      "logo_path": "/2fQRDickgp9vuDIxJTlDLEs7j0y.png",
+      "name": "Proximity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 4396,
+      "logo_path": "/g76GCLOncS4SKIYfhWT70Zo4ypv.png",
+      "name": "NBA Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-07-21",
+  "revenue": 0,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "From underdog to unstoppable.",
+  "title": "Stephen Curry: Underrated",
+  "video": false,
+  "vote_average": 7.452,
+  "vote_count": 105,
+  "external_ids": {
+    "imdb_id": "tt15210256",
+    "wikidata_id": "Q117148677",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

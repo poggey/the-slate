@@ -1,0 +1,237 @@
+{
+  "page": 9,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1147627,
+      "title": "Barney the Dinosaur",
+      "original_language": "en",
+      "original_title": "Barney the Dinosaur",
+      "overview": "Based on the 90s children show \"Barney.\" Plot TBA.",
+      "popularity": 0.863,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 1139422,
+      "title": "The Riders",
+      "original_language": "en",
+      "original_title": "The Riders",
+      "overview": "Scully, an Australian man traverses Europe, alongside his young daughter Billie, in search of the wife that abandoned them.",
+      "popularity": 0.6699,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1122096,
+      "title": "Untitled Julia Ducournau & A24 Project",
+      "original_language": "en",
+      "original_title": "Untitled Julia Ducournau & A24 Project",
+      "overview": "Plot TBA.",
+      "popularity": 0.2574,
+      "poster_path": "/sOmS7EMikR5Vg3S9s0SK0igKiWG.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        14,
+        9648
+      ],
+      "id": 1061741,
+      "title": "Death Stranding",
+      "original_language": "en",
+      "original_title": "Death Stranding",
+      "overview": "Uncover the mysteries surrounding the apocalyptic event called the \"Death Stranding,\" which blurred the lines between life and death, and brought forth nightmarish creatures into a world on the brink of collapse.",
+      "popularity": 0.361,
+      "poster_path": "/wWGRdTiGdLEEunKcDORmPpQJ0jo.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 982782,
+      "title": "Untitled Frank Ocean Project",
+      "original_language": "en",
+      "original_title": "Untitled Frank Ocean Project",
+      "overview": "Plot TBA.",
+      "popularity": 0.7215,
+      "poster_path": "/9PFYPsFqwin0EKcYIOlZytP8spl.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 976976,
+      "title": "Wizards!",
+      "original_language": "en",
+      "original_title": "Wizards!",
+      "overview": "The problems of two unlucky beach bar operators starts when they find stolen loot that they really should have left alone.",
+      "popularity": 0.2944,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 959548,
+      "title": "The Governesses",
+      "original_language": "en",
+      "original_title": "The Governesses",
+      "overview": "Three rebellious governesses upend the household they work in - inspiriting the minds of the males in their care, igniting the imaginations of the bohemian couple who employ them, and abandoning their charges for erotic adventures.",
+      "popularity": 0.4775,
+      "poster_path": "/cMf9ExBa96Z6rj2lEaKCy9e1j6d.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        14,
+        27
+      ],
+      "id": 953731,
+      "title": "Nekrokosm",
+      "original_language": "en",
+      "original_title": "Nekrokosm",
+      "overview": "A phantasmagorical fantasy nightmare set deep within a strange galaxy where two lovers are torn apart as they try to survive a malevolent invasion.",
+      "popularity": 0.9401,
+      "poster_path": "/nioR7B1qJUuViIVtp5lctxIstiT.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 778662,
+      "title": "On Earth We're Briefly Gorgeous",
+      "original_language": "en",
+      "original_title": "On Earth We're Briefly Gorgeous",
+      "overview": "A painful but extraordinary coming-of-age story about a young Vietnamese American writer whose fractured family was torn by their experiences during the Vietnam War.",
+      "popularity": 0.5043,
+      "poster_path": "/e175bsi18HZsWjmXIqDxSordkqv.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 751654,
+      "title": "Be My Baby",
+      "original_language": "en",
+      "original_title": "Be My Baby",
+      "overview": "Follows the life of singer Ronnie Spector who grew up in Spanish Harlem and started girl group the Ronettes and her tumultuous marriage with producer Phil Spector. Plot TBA.",
+      "popularity": 0.4164,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 605603,
+      "title": "Jonty",
+      "original_language": "en",
+      "original_title": "Jonty",
+      "overview": "A coddled kid takes off for NYC where he joins forces with an old friend to produce a terrible Broadway play.",
+      "popularity": 1.0602,
+      "poster_path": "/zB5nurbHFQJGVkelLuzjz9PrySh.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 600852,
+      "title": "Sour Hearts",
+      "original_language": "en",
+      "original_title": "Sour Hearts",
+      "overview": "The movie unfolds from the perspective of a girl growing up in the outer boroughs of New York in the ’90s. With parents newly arrived from Shanghai, the family works through the unique trials of ascending to the middle class. A coming-of-age tale told with insight and humor, the story offers a sweeping perspective on the humility and heartache of the immigrant experience, as told from the point of view of children and parents.",
+      "popularity": 0.3965,
+      "poster_path": "/goEtwgjiwgqteRgGS1mxKtDKnIK.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 9,
+  "total_results": 172
+}

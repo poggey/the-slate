@@ -1,0 +1,45 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/vzmUkbi07g2dKVL6YCr8FX3LFgn.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 565716,
+      "title": "American Factory",
+      "original_language": "en",
+      "original_title": "American Factory",
+      "overview": "In post-industrial Ohio, a Chinese billionaire opens a new factory in the husk of an abandoned General Motors plant, hiring two thousand blue-collar Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.",
+      "popularity": 0.5304,
+      "poster_path": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "release_date": "2019-08-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.194,
+      "vote_count": 516
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ohqVKA7K0xGIPCGr4giWB3io0J6.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 628756,
+      "title": "American Factory: A Conversation with the Obamas",
+      "original_language": "en",
+      "original_title": "American Factory: A Conversation with the Obamas",
+      "overview": "Barack and Michelle Obama talk with the directors of the documentary American Factory about the importance of storytelling and the impact of their film.",
+      "popularity": 0.1676,
+      "poster_path": "/rVoVRToKaxpdkUEJFIf46rWNVHR.jpg",
+      "release_date": "2019-09-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 21
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

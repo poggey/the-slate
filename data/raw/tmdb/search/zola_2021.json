@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zL7CozbpAbGSdhBsuTI847tu5Fo.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 539565,
+      "title": "Zola",
+      "original_language": "en",
+      "original_title": "Zola",
+      "overview": "A waitress agrees to accompany an exotic dancer, her put-upon boyfriend, and her mysterious and domineering roommate on a road trip to Florida to seek their fortune at a high-end strip club.",
+      "popularity": 2.4441,
+      "poster_path": "/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+      "release_date": "2021-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.177,
+      "vote_count": 286
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

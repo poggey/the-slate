@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/1gQG812Upijn2gGFUf6JVJGffjL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1284938,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cursed: The True Nature of Hereditary",
+  "overview": "A featurette that sheds light on the filmmaker’s approach, and how he turned a character-driven domestic drama into one of the 2018’s most harrowing cinematic experiences.",
+  "popularity": 0.362,
+  "poster_path": "/wnHey2fZFMWstkK0m6k841XKWA1.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-10-08",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cursed: The True Nature of Hereditary",
+  "video": false,
+  "vote_average": 8.8,
+  "vote_count": 5,
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

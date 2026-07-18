@@ -1,0 +1,286 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 310131,
+      "title": "The Witch",
+      "original_language": "en",
+      "original_title": "The Witch",
+      "overview": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.",
+      "popularity": 6.4147,
+      "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "release_date": "2016-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 7722
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zPzJ3DAUjpJoiBm4jODt50QEEr3.jpg",
+      "genre_ids": [
+        27,
+        35,
+        10749,
+        14
+      ],
+      "id": 374052,
+      "title": "The Love Witch",
+      "original_language": "en",
+      "original_title": "The Love Witch",
+      "overview": "A modern-day witch uses spells and magic to get men to fall in love with her, with deadly consequences.",
+      "popularity": 2.4128,
+      "poster_path": "/q6mZjCwGn9KCTrStTRM88pui0is.jpg",
+      "release_date": "2016-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.419,
+      "vote_count": 631
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6t6bPr0sWFuweLf6zLKxq7LGiiw.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 406427,
+      "title": "The Noonday Witch",
+      "original_language": "cs",
+      "original_title": "Polednice",
+      "overview": "A story of Eliska and her daughter, starting a new life in a remote house with the 'father away on business', as the mother claims. After the lie is disclosed, their relationship begins to wither. At that time, the mythical Noonday Witch begins to materialize. She is coming closer and closer and the question is poised: is the danger real or is it all in the mother's crumbling head?",
+      "popularity": 0.5184,
+      "poster_path": "/weMgWXYXIIpelh0waPPgUm8D0op.jpg",
+      "release_date": "2016-03-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.352,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1074244,
+      "title": "The Witch: A Primal Folktale",
+      "original_language": "en",
+      "original_title": "The Witch: A Primal Folktale",
+      "overview": "Documentary about The Witch (2015).",
+      "popularity": 0.0319,
+      "poster_path": "/Ft8lIgDE9gyix0nB3cAGCQT0rh.jpg",
+      "release_date": "2016-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 479139,
+      "title": "Paranormal Retreat 2-The Woods Witch",
+      "original_language": "en",
+      "original_title": "Paranormal Retreat 2-The Woods Witch",
+      "overview": "This sequel to Paranormal Retreat 1 is just as crazy and scary, will JB ever find his Team and Madam Della, I don't think so, what he encounters on this property and deep woods is horrifying! JB has been hospitalized on and off for over a year, the cops are out to get him, they think he is somewhat crazy or is he? Watch the horror unfold and ask yourself is it real or not?",
+      "popularity": 0.1621,
+      "poster_path": "/y48QnHMEJF845Jx6Yjunn4lyrVE.jpg",
+      "release_date": "2016-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 1.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/24NEwld29FGsRoq0dI6Z8l9jAhh.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 432015,
+      "title": "Bamse and the Witch's Daughter",
+      "original_language": "sv",
+      "original_title": "Bamse och häxans dotter",
+      "overview": "In Bamse and the Witch’s daughter Croesus Vole finds gold in the beavers' dam. To demolish the dam and get the gold he tricks the witch's daughter Lova to enchant Bamse. With Bamse gone, it's up to the children to help each other to stop Croesus - but to do that they have to be friends.",
+      "popularity": 0.5969,
+      "poster_path": "/m8YLdtemOxMGZ3voXadMhZbJysF.jpg",
+      "release_date": "2016-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lgLrGjSbHALjtIoZXHlLycnV0TH.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 424060,
+      "title": "The Witching",
+      "original_language": "en",
+      "original_title": "The Witching",
+      "overview": "With Halloween only hours away, the members of a popular podcast, The Witching Hour, gather to swap scary stories in the dark. But they bargain for more than just ratings when they venture to the site where the Woodland Valley Witch was brutally murdered.",
+      "popularity": 0.5499,
+      "poster_path": "/7wxj2bfXKrRohnWLow8MI5auINk.jpg",
+      "release_date": "2016-11-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.7,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 484479,
+      "title": "The House on the Witchpit",
+      "original_language": "en",
+      "original_title": "The House on the Witchpit",
+      "overview": "No details about this film (other than the name of the writer/director) were released prior to the sold-out premiere screening at Horror-on-Sea in 2016. No plot synopsis, cast list or trailer was issued. The only image released was the teaser poster. Subsequent to the screening, director Pat Higgins physically destroyed both the master copy and the only back-up live on the stage, effectively destroying that version of the film.  Higgins made a new version of the film available to rent through Vimeo On Demand--for only one day-- on Halloween 2017.",
+      "popularity": 0.3904,
+      "poster_path": "/6w7CkjhxG3njQ4k9isoWMzQPLrP.jpg",
+      "release_date": "2016-01-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ogqQ08pNoMYBWim1mUqTheiLbrP.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 408731,
+      "title": "The Other Side of the Witching Hour",
+      "original_language": "en",
+      "original_title": "The Other Side of the Witching Hour",
+      "overview": "A spellbinding journey into the mind of an insomniac, who spends each night haunted by strange and wonderful illusions from another world.",
+      "popularity": 0.2277,
+      "poster_path": "/h4AEgskGj18EDPOOS3nYEr6BbTP.jpg",
+      "release_date": "2016-11-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dQ25xnTF3n02UBd5xisSfiHc4yt.jpg",
+      "genre_ids": [
+        27,
+        10770
+      ],
+      "id": 424996,
+      "title": "Amish Witches: The True Story of Holmes County",
+      "original_language": "en",
+      "original_title": "Amish Witches: The True Story of Holmes County",
+      "overview": "A television reality crew has arrived in town to document facts about an isolated Amish sect. Filming is interrupted when the grandmother of their host family, a shunned witch, dies and is denied a Christian burial. When paranormal activities begin to plague the family, they ask the crew to document it. But they never foresee the dangers that the spirits have in store for them.",
+      "popularity": 0.4771,
+      "poster_path": "/3HdPola7PSGkKU4F8a0BGDsbgZY.jpg",
+      "release_date": "2016-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.5,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nnlO3xV0VL0WFDpXjTcNYrISfBC.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 455989,
+      "title": "The Witcher 3: Wild Hunt - Live Concert",
+      "original_language": "en",
+      "original_title": "The Witcher 3: Wild Hunt - Live Concert",
+      "overview": "Experience the award winning music of The Witcher III: Wild Hunt and both its expansions, Hearts of Stone & Blood Wine, in a never before seen way, performed live during Film Music Festival 2016 in Kraków, Poland.  Video Game Show — The Witcher III: Wild Hunt concert was organized by CD PROJEKT RED in cooperation with Kraków Festival Office.",
+      "popularity": 0.0993,
+      "poster_path": "/d0gAA3h5VIgDhGJ86NyyFRNktP6.jpg",
+      "release_date": "2016-05-30",
+      "softcore": false,
+      "video": true,
+      "vote_average": 9.3,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4I7avWhTCKBLh5s2QK6GUhnwSZZ.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1030663,
+      "title": "Guardian of the Witches",
+      "original_language": "pt",
+      "original_title": "Guardiã Das Bruxas",
+      "overview": "When someone knocks on your door, the question is, who can it be? Does he come? But on HALLOWEEN's night there is only one question. And she only has one chance to give the right answer: Trick or treat?",
+      "popularity": 0.0887,
+      "poster_path": "/oexthWDX9oVPpMSR3Pc66rF9Or9.jpg",
+      "release_date": "2016-10-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vFktlnv1cEKeyCuSLd02DVNUoRC.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 351211,
+      "title": "Blair Witch",
+      "original_language": "en",
+      "original_title": "Blair Witch",
+      "overview": "Students on a camping trip discover something sinister is lurking beyond the trees.",
+      "popularity": 1.6932,
+      "poster_path": "/Ai73frMEz68bibFGRlPKdWBaIaq.jpg",
+      "release_date": "2016-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.248,
+      "vote_count": 2062
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cRNRTxePsdUd6PlM9GoDupoMCOu.jpg",
+      "genre_ids": [
+        16,
+        14,
+        28,
+        35,
+        12,
+        10751
+      ],
+      "id": 445871,
+      "title": "Maho Girls Precure! the Movie: The Miraculous Transformation! Cure Mofurun!",
+      "original_language": "ja",
+      "original_title": "映画 魔法つかいプリキュア！奇跡の変身！キュアモフルン！",
+      "overview": "I'm, Asahina Mirai! Everyone, do you know about the \"Wishing Stone\"? It's a powerful stone that can grant any wish you want! Today is the day we're celebrating its revival, a huge magic festival that only occurs once a century♪ Together with Liko and Ha-chan, I wish upon this \"Wishing Stone\", but believe or not, it chose Mofurun's wish! This is truly exciting!! However...a mysterious bear・Dark Matter suddenly appears, and takes Mofurun with him!! I have to definitely save Mofurun! Even when we're separated, the wishes of all of us can bring about miracles!! Well that is what I thought, what~~~!! Mofurun became a Pretty Cure~!?",
+      "popularity": 0.7642,
+      "poster_path": "/aniQ4WzPfpnkrlv2CsNZ9MSI77m.jpg",
+      "release_date": "2016-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.667,
+      "vote_count": 9
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 14
+}

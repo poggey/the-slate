@@ -1,0 +1,40 @@
+{
+  "Title": "Red Rocket",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "24 Dec 2021",
+  "Runtime": "130 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Sean Baker",
+  "Writer": "Sean Baker, Chris Bergoch",
+  "Actors": "Simon Rex, Bree Elrod, Suzanna Son",
+  "Plot": "Washed-up porn star Mikey Saber returns to his small Texas hometown and decides if he wants to be with his ex-wife or the donut shop girl hes in love with.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "10 wins & 35 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0NmI0NjgtZjUxYS00ZjIyLTkxMjEtNzkyMWM1NjQ1ZDEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "7.1",
+  "imdbVotes": "42,073",
+  "imdbID": "tt13453006",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,023,086",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,43 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/kLzejJTaJvgCVaVvk6O0oVS06BL.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 493066,
+      "title": "Low Tide",
+      "original_language": "en",
+      "original_title": "Low Tide",
+      "overview": "In the long days of summer in a beach town on the New Jersey shore, high schooler Alan and his friends Red and Smitty break into vacation homes to steal valuables, funding dates at the boardwalk and lunches at the burger stand. When Alan and his younger brother Peter find a bag of gold coins, they try to hide them from the others — but Red, suspicious and violently unpredictable, seems willing to do anything to get the money.",
+      "popularity": 0.9105,
+      "poster_path": "/iEZrBPoWu4QYgOh594uCxDCEQDx.jpg",
+      "release_date": "2019-10-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.145,
+      "vote_count": 100
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 628792,
+      "title": "Low Tide",
+      "original_language": "en",
+      "original_title": "Low Tide",
+      "overview": "The Toronto islands are subject to flooding and erosion. The ebbs and flows of Lake Ontario / Lake Iroquois have created the islands and will one day take them away. The shoreline is natural and artificial, built up with concrete sidewalk ruins but always just an ever-shifting sandbar. Footage was captured in 16mm Kodak Ektachrome during a 5-week residency at Artscape Gibraltar Point in 2013.",
+      "popularity": 0.0118,
+      "poster_path": "/dG03nvZYDzr5smPQft1pdeeYKDc.jpg",
+      "release_date": "2019-04-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

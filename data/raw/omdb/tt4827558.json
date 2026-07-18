@@ -1,0 +1,40 @@
+{
+  "Title": "High Life",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "12 Apr 2019",
+  "Runtime": "113 min",
+  "Genre": "Drama, Sci-Fi, Thriller",
+  "Director": "Claire Denis",
+  "Writer": "Claire Denis, Jean-Pol Fargeau, Geoff Cox",
+  "Actors": "Robert Pattinson, Juliette Binoche, André 3000",
+  "Plot": "A father and his daughter struggle to survive in deep space where they live in isolation.",
+  "Language": "English",
+  "Country": "France, United Kingdom, Germany, Poland, United States",
+  "Awards": "5 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDRhYjdiMDEtN2UzZC00ZGQyLTk3OTQtMTFkZGQ0YmM5NDk4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "5.7",
+  "imdbVotes": "44,986",
+  "imdbID": "tt4827558",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,225,852",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

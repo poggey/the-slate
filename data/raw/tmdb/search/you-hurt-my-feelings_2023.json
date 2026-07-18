@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/9cnUiMidzgt2tsxUc2qhhlxU1bk.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 890215,
+      "title": "You Hurt My Feelings",
+      "original_language": "en",
+      "original_title": "You Hurt My Feelings",
+      "overview": "A novelist's longstanding marriage is suddenly upended when she overhears her husband giving his honest reaction to her latest book.",
+      "popularity": 1.5018,
+      "poster_path": "/do9UvkcDJeYbhYVoQPS00yOCYdc.jpg",
+      "release_date": "2023-05-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.313,
+      "vote_count": 192
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

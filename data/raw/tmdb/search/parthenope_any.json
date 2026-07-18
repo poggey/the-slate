@@ -1,0 +1,65 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fBUaeRfD2mu6T9vNZ1IR3yhccdP.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1109255,
+      "title": "Parthenope",
+      "original_language": "it",
+      "original_title": "Parthenope",
+      "overview": "Parthenope, born in the sea near Naples in 1950, is beautiful, enigmatic, and intelligent. She is shamelessly courted by many. However, beauty comes at a cost.",
+      "popularity": 2.1245,
+      "poster_path": "/k3BL39ca5pliALDTzUdC9ZIB9gk.jpg",
+      "release_date": "2024-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.684,
+      "vote_count": 767
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6G1EiiwH1kVStabdridih5oNjuu.jpg",
+      "genre_ids": [
+        53,
+        18
+      ],
+      "id": 981823,
+      "title": "Black Parthenope",
+      "original_language": "it",
+      "original_title": "Black Parthenope",
+      "overview": "",
+      "popularity": 0.1671,
+      "poster_path": "/v5TarX1w2tRD4pRIyLLBEcZpJu2.jpg",
+      "release_date": "2022-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1375934,
+      "title": "The Parthenope",
+      "original_language": "es",
+      "original_title": "La Parténope",
+      "overview": "The Parténope is a baroque opera directed by the prestigious opera and theatre director, Gustavo Tambascio. This documentary tells the story of the preparations and premieres in various cities of this production, which won the Campoamor prize for the best lyric production of the year.",
+      "popularity": 0.5428,
+      "poster_path": "/oIi9W24uoL9dwOrEaFGtvpbwHAN.jpg",
+      "release_date": "2009-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}

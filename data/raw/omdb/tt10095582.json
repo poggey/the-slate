@@ -1,0 +1,40 @@
+{
+  "Title": "The Tragedy of Macbeth",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "14 Jan 2022",
+  "Runtime": "105 min",
+  "Genre": "Drama, Fantasy, Mystery",
+  "Director": "Joel Coen",
+  "Writer": "Joel Coen, William Shakespeare",
+  "Actors": "Denzel Washington, Frances McDormand, Alex Hassell",
+  "Plot": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
+  "Language": "English, Persian",
+  "Country": "United States",
+  "Awards": "Nominated for 3 Oscars. 20 wins & 115 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWE0M2U3NzktZmVkOC00ZTkzLWI2NjEtODA3MmM5NjAyYWUwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "Metascore": "87",
+  "imdbRating": "7.1",
+  "imdbVotes": "43,103",
+  "imdbID": "tt10095582",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,401 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/21YsCNMub5455NQCn3jh9SmRFyG.jpg",
+      "genre_ids": [
+        12,
+        18
+      ],
+      "id": 87827,
+      "title": "Life of Pi",
+      "original_language": "en",
+      "original_title": "Life of Pi",
+      "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+      "popularity": 10.8544,
+      "poster_path": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+      "release_date": "2012-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.411,
+      "vote_count": 13848
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pVmCanXNPYqE74cJoL0U6C9ONf5.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        53
+      ],
+      "id": 473,
+      "title": "Pi",
+      "original_language": "en",
+      "original_title": "Pi",
+      "overview": "A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.",
+      "popularity": 1.9147,
+      "poster_path": "/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+      "release_date": "1998-07-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.114,
+      "vote_count": 2511
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v6OILfexPApwU5XfofdGB5O3lUh.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 251406,
+      "title": "Delta Pi",
+      "original_language": "en",
+      "original_title": "Delta Pi",
+      "overview": "A sorority house mother enters her girls in a mud-wrestling contest.",
+      "popularity": 0.4775,
+      "poster_path": "/qRRyUKot9e0VK8p0u79AP0Msva.jpg",
+      "release_date": "1984-04-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 733834,
+      "title": "Smashing the Coffin",
+      "original_language": "zh",
+      "original_title": "Da pi guan",
+      "overview": "Taiwanese horror.",
+      "popularity": 0.616,
+      "poster_path": "/asMt9W3DtkydOdvTXCY8Eofsr3b.jpg",
+      "release_date": "1989-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oJVZbo55AcwJEziT60jCR1rPyWV.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 68034,
+      "title": "Lullaby for Pi",
+      "original_language": "en",
+      "original_title": "Lullaby for Pi",
+      "overview": "A washed-up musician befriends a reclusive artist with an unusual name.",
+      "popularity": 0.7128,
+      "poster_path": "/hBVqG8KIua3N4a1gvYG2zkK3ysK.jpg",
+      "release_date": "2010-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1054656,
+      "title": "Pi Pong",
+      "original_language": "es",
+      "original_title": "Pi Pong",
+      "overview": "A friendly game of Ping Pong.",
+      "popularity": 0.0598,
+      "poster_path": null,
+      "release_date": "2022-01-12",
+      "softcore": false,
+      "video": true,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 767276,
+      "title": "Blood Pi",
+      "original_language": "en",
+      "original_title": "Blood Pi",
+      "overview": "Halloween season is in full spirit as River Falls University is having their best football season in over a decade and the students are celebrating. Jocks, nerds and sorority sisters alike flock to massive parties filled with music, drugs and sex but that's not all they'll find. There's a killer crashing parties. The school color's of RFU go from gold to red, as blood floods the campus grounds.",
+      "popularity": 0.1345,
+      "poster_path": "/inbdMUWMnS03NGDjYNe6P2pLgz.jpg",
+      "release_date": "2020-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 655175,
+      "title": "Lambda Pi",
+      "original_language": "el",
+      "original_title": "λπ",
+      "overview": "Lena Platonos, a major figure in the Greek music scene who has proven to be ahead of her time in terms of her groundbreaking work in electronica, is now receiving a surge of international attention, thanks to album re-issues and remixes. Both established and up-and-coming artist cite her as a key influence for her experimentations in sound, her eerie lyrics and her unique, uncompromising approach to creating music and art. With the help of collaborators, friends and international musicians of the electronic music scene such as Alexis Taylor of Hot Chip and the Red Axes, the film goes back to the time her revolutionary records were made.",
+      "popularity": 1.3581,
+      "poster_path": "/hLu6V3hP4SX388QRGA7n9dCczxP.jpg",
+      "release_date": "2018-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iRUK24hRqNk59B5LYvSrZD4vlxp.jpg",
+      "genre_ids": [
+        53,
+        18,
+        9648,
+        80
+      ],
+      "id": 250994,
+      "title": "Macabre Case of Prom Pi Ram",
+      "original_language": "th",
+      "original_title": "คืนบาป พรหมพิราม",
+      "overview": "A young woman's brutal murder near a rural train station in 1970s Thailand leads a rookie cop and his superior to uncover a disturbing local cover-up.",
+      "popularity": 0.4506,
+      "poster_path": "/kl4P1fM62YmcZK7TsdHesTK6wUc.jpg",
+      "release_date": "2003-07-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.25,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        35
+      ],
+      "id": 1621545,
+      "title": "Miami PI",
+      "original_language": "en",
+      "original_title": "Miami PI",
+      "overview": "A wayward private investigator and a volatile ex-model are pulled into a murder investigation during the chaos of Miami Swim Week. As they descend into a sun-drenched world of excess, deception, and danger, the unlikely duo must navigate criminal conspiracies — and an unexpected romantic connection — that threatens to derail them both.",
+      "popularity": 0.1076,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 1622533,
+      "title": "Pi Sonsuzluk",
+      "original_language": "tr",
+      "original_title": "Pi Sonsuzluk",
+      "overview": "",
+      "popularity": 0.2221,
+      "poster_path": "/suDQifrkyLcQX7qjjum7sEUVaA1.jpg",
+      "release_date": "2022-05-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jBfpZs6MxDKvKgl8cR9Z2j8GlfE.jpg",
+      "genre_ids": [
+        10770,
+        18,
+        80,
+        9648
+      ],
+      "id": 1006315,
+      "title": "Francesca Quinn, PI",
+      "original_language": "en",
+      "original_title": "Francesca Quinn, PI",
+      "overview": "When private investigator Francesca “Frankie” Quinn’s fiancé is murdered, his sister hires her to find the killer. Frankie must work with Wyn, the local detective assigned to the case…who also happens to be her ex. As the one-time couple joins forces to unravel a serpentine plot, the investigation strikes at their hearts.",
+      "popularity": 0.6611,
+      "poster_path": "/4Z1uaezAaQd1r8wUUepuh2jdVAE.jpg",
+      "release_date": "2022-09-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6qKaX7VKANKY9zwi98ofiw2SLh0.jpg",
+      "genre_ids": [
+        10751
+      ],
+      "id": 525208,
+      "title": "Paws P.I.",
+      "original_language": "en",
+      "original_title": "Paws P.I.",
+      "overview": "A boy determined to save his father's failing private detective business enlists the help of his pet dog and parrot...who talk. Together they will try to take down the town's tyrannical tycoon who's determined to stop a mansion from being turned into an animal rescue.",
+      "popularity": 0.7388,
+      "poster_path": "/xkf2frnikouflJfwSJbufizhQ0R.jpg",
+      "release_date": "2018-05-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1mtPBwJA5Hk4mTtd7JU1PnUGpJ5.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 495152,
+      "title": "Chi-n-pi-ra",
+      "original_language": "ja",
+      "original_title": "チ・ン・ピ・ラ",
+      "overview": "Shibuya, Tokyo. Yoichi and Michio are a pair of hoodlums who make their living as bookies at horse races. One day, Yoichi's companion commits a crime, which leads him to become a real yakuza. In this way Yoichi wishes to put an end to his hoodlum days, but on the other hand he has to leave his brother Michio behind...",
+      "popularity": 0.3331,
+      "poster_path": "/bL4TGn7kaBTH00gTHtYvsO0JG5M.jpg",
+      "release_date": "1984-11-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.875,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1446387,
+      "title": "Fuuto PI: THE STAGE",
+      "original_language": "ja",
+      "original_title": "風都探偵 The STAGE",
+      "overview": "",
+      "popularity": 0.2952,
+      "poster_path": "/ni9w0PHtUTtfVgu8tNxR5sK2qBI.jpg",
+      "release_date": "2022-12-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7BbPYGygBf9LSVf81YHhz7pkcTe.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 298967,
+      "title": "Die Die Delta Pi",
+      "original_language": "en",
+      "original_title": "Die Die Delta Pi",
+      "overview": "In late 1980s, when times were fun, technology was changing, clothes were Rad and girls were Bad; there was one thing that didn't change, traditions. Delta Pi, a long-lasting sorority institution in the heart of Tampa, Florida, keeps that tradition \"alive\"...until late 1986 Spring Break when a serial killer was just coming to light.",
+      "popularity": 0.458,
+      "poster_path": "/yLF2SDUkWkqCFM5B23rZHDgN3S8.jpg",
+      "release_date": "2013-06-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.7,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AwgmO9qXGTp9q1jyzWhgOTBDgrN.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        35
+      ],
+      "id": 1310672,
+      "title": "Fuuto PI: The Portrait of Kamen Rider Skull",
+      "original_language": "ja",
+      "original_title": "風都探偵 仮面ライダースカルの肖像",
+      "overview": "Shotaro tells Tokime all about his mentor, Shokichi Narumi, and the night he and Philip became Kamen Rider W.",
+      "popularity": 0.8483,
+      "poster_path": "/kMAMcVS7BZpd6WEK7NRCONcat9e.jpg",
+      "release_date": "2024-11-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 603669,
+      "title": "Pi pi pil… pilleri",
+      "original_language": "fi",
+      "original_title": "Pi pi pil… pilleri",
+      "overview": "A crackpot inventor tests his newest invention, a pill that removes all sexual inhibitions, on unsuspecting guests and staff members at a health spa.",
+      "popularity": 0.1124,
+      "poster_path": "/hRHh4uhcgjekLPYxbAOM7awsev.jpg",
+      "release_date": "1982-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.944,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1lwMWZFOtjiGqRwXvnkBgOMXH6S.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 47354,
+      "title": "K-9: P.I.",
+      "original_language": "en",
+      "original_title": "K-9: P.I.",
+      "overview": "Dooley and his K-9 partner Jerry Lee are ready to retire from the police force. But before he can retire with his pension he must work as a P.I. to find a set of high tech computer chips.",
+      "popularity": 1.2007,
+      "poster_path": "/2RdyzWbN3zTF1559GRnLbamy3V4.jpg",
+      "release_date": "2002-07-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.951,
+      "vote_count": 214
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zAFGqhV9gteJIx45IdfxA2K1LR2.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 257401,
+      "title": "Life After Pi",
+      "original_language": "en",
+      "original_title": "Life After Pi",
+      "overview": "“Life After Pi” is a short documentary about Rhythm &amp; Hues Studios, the L.A. based Visual Effects company that won an Academy Award for its groundbreaking work on “Life of Pi”– just two weeks after declaring bankruptcy. The film explores rapidly changing forces impacting the global VFX community, and the Film Industry as a whole.  This is only the first chapter of an upcoming feature-length documentary “Hollywood Ending,” that delves into the larger, complex challenges facing the US Film Industry and the many professionals working within it, whose fates and livelihood are intertwined.",
+      "popularity": 0.29,
+      "poster_path": "/u6vVVVGhHvcBcexNDBnAJK9pncL.jpg",
+      "release_date": "2014-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.25,
+      "vote_count": 16
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}

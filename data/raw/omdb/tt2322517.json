@@ -1,0 +1,36 @@
+{
+  "Title": "Mojave",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "03 Dec 2015",
+  "Runtime": "93 min",
+  "Genre": "Action, Adventure, Crime",
+  "Director": "William Monahan",
+  "Writer": "William Monahan",
+  "Actors": "Oscar Isaac, Garrett Hedlund, Louise Bourgoin",
+  "Plot": "A suicidal artist goes into the desert, where he finds his doppelgänger, a homicidal drifter.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTE1OTUwN15BMl5BanBnXkFtZTgwMjA3NTkzNzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "Metascore": "41",
+  "imdbRating": "5.2",
+  "imdbVotes": "5,763",
+  "imdbID": "tt2322517",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$8,253",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

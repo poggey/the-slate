@@ -1,0 +1,40 @@
+{
+  "Title": "Saint Maud",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "12 Feb 2021",
+  "Runtime": "84 min",
+  "Genre": "Drama, Horror, Mystery",
+  "Director": "Rose Glass",
+  "Writer": "Rose Glass",
+  "Actors": "Morfydd Clark, Caoilfhionn Dunne, Jennifer Ehle",
+  "Plot": "A pious nurse becomes dangerously obsessed with saving the soul of her dying patient.",
+  "Language": "English, Welsh",
+  "Country": "United Kingdom",
+  "Awards": "Nominated for 2 BAFTA 11 wins & 33 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzIwMjVlMWMtMGRiYi00OTQyLThhYjEtMDQxMThjMmQ2ODBiXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "6.6",
+  "imdbVotes": "55,151",
+  "imdbID": "tt7557108",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

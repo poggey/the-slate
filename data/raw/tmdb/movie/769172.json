@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 50000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "https://www.juliannedonelle.com/outlaws",
+  "id": 769172,
+  "imdb_id": "tt12030068",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Outlaws",
+  "overview": "In a robbery gone wrong, two women are forced to reckon with their values, livelihood, and relationship.",
+  "popularity": 0.0709,
+  "poster_path": "/cgW0LxywWhbuZNgTj2VXqC96fBk.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2020-03-05",
+  "revenue": 0,
+  "runtime": 6,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Outlaws",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "external_ids": {
+    "imdb_id": "tt12030068",
+    "wikidata_id": null,
+    "facebook_id": "outlawsfilm",
+    "instagram_id": "outlaws_film",
+    "twitter_id": null
+  }
+}

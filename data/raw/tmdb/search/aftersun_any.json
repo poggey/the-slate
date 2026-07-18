@@ -1,0 +1,82 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 965150,
+      "title": "Aftersun",
+      "original_language": "en",
+      "original_title": "Aftersun",
+      "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
+      "popularity": 4.893,
+      "poster_path": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+      "release_date": "2022-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.647,
+      "vote_count": 1889
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2KTCcvS7LkDh67KY7OvylhADM8V.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 969829,
+      "title": "Aftersun",
+      "original_language": "ca",
+      "original_title": "Aftersun",
+      "overview": "Summertime. In a camping, three little girls listen to an old mysterious story about a missing kid. They start to investigate.",
+      "popularity": 0.3496,
+      "poster_path": "/6zoDf55fbzR0pBRcFoTaY94RG14.jpg",
+      "release_date": "2022-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 1098585,
+      "title": "Aftersun",
+      "original_language": "en",
+      "original_title": "Aftersun",
+      "overview": "Jim and Sue married young and 20 years later find themselves on holiday in Spain - an anniversary present from their children - with very little to say to each other",
+      "popularity": 1.0723,
+      "poster_path": "/moSPIeULld5WnsNsjKVv6gvFYkj.jpg",
+      "release_date": "2006-09-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1624266,
+      "title": "Aftersun",
+      "original_language": "en",
+      "original_title": "Aftersun",
+      "overview": "Sometimes, it's about finding the unexpected beauty right beside us.",
+      "popularity": 0.2779,
+      "poster_path": "/9HdSZZYlDFFV86UoTDUQvidloFP.jpg",
+      "release_date": "2024-03-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}

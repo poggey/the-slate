@@ -1,0 +1,67 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/ouN0GyE7mtIT6wyJeilaggyvgNj.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 96936,
+      "title": "The Bling Ring",
+      "original_language": "en",
+      "original_title": "The Bling Ring",
+      "overview": "Lured by stardom, a crew of aimless teens breaks into celebrity homes for a string of high-profile robberies and fame by appropriation.",
+      "popularity": 3.3633,
+      "poster_path": "/6yh55qCcdgPRJweDWM2CiEubJCL.jpg",
+      "release_date": "2013-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.431,
+      "vote_count": 3157
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tOWjPR2PO8ujUhQxK4JPU0D0KmD.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 116853,
+      "title": "The Bling Ring",
+      "original_language": "en",
+      "original_title": "The Bling Ring",
+      "overview": "At the center of one of Hollywood's most notorious burglary rings in 2009 was a group of average, middle-class teens from a quiet suburb. This is the behind-the-scenes story of how Nick, a shy, awkward boy, lured by the promise of popularity and acceptance, found himself following his glamorous, charismatic best friend Rachel into breaking into celebrities' houses and robbing them of millions of dollars in clothes and jewelry.",
+      "popularity": 1.5939,
+      "poster_path": "/x3WmMVULbz2IZ75J3n5wWaatRml.jpg",
+      "release_date": "2011-09-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 53
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1uEkLbQmfs23HAqiYbCJGi98XII.jpg",
+      "genre_ids": [
+        99,
+        80
+      ],
+      "id": 1181623,
+      "title": "The Ringleader: The Case of the Bling Ring",
+      "original_language": "en",
+      "original_title": "The Ringleader: The Case of the Bling Ring",
+      "overview": "In a candid, first-time interview with Rachel Lee, the so-called teenage mastermind behind a string of high-profile celebrity robberies in 2008 and 2009, the film examines the motivations of Lee and a group of her friends who broke into celebrity homes in Hollywood to ransack and steal, exploring the possible reasons behind her actions including mental health issues and addictions, as well as the climate of celebrity excess that fueled the teens, recontextualizing the events behind the sensational headlines.",
+      "popularity": 0.2619,
+      "poster_path": "/hbIGYhxoFqsUFCPaAYbhqTQX4HL.jpg",
+      "release_date": "2023-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 6
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "The Humans",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "24 Nov 2021",
+  "Runtime": "108 min",
+  "Genre": "Drama",
+  "Director": "Stephen Karam",
+  "Writer": "Stephen Karam",
+  "Actors": "Richard Jenkins, Jayne Houdyshell, Amy Schumer",
+  "Plot": "During one evening, the Blake family gathers to celebrate Thanksgiving in a broken-down flat newly rented by the daughter and her new man. As the darkness falls, we find that all have less to be thankful about.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTIxYTVmNzctNGQ1ZS00NDk2LTllMDYtMzQ4ZTNjODBiYmU4XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "6.1",
+  "imdbVotes": "11,439",
+  "imdbID": "tt10023286",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

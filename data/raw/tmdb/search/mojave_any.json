@@ -1,0 +1,293 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/wnpd7yVf632G1RWB7OnSbx2Rpxw.jpg",
+      "genre_ids": [
+        53,
+        28,
+        12
+      ],
+      "id": 237584,
+      "title": "Mojave",
+      "original_language": "en",
+      "original_title": "Mojave",
+      "overview": "A suicidal artist goes into the desert, where he finds his doppelgänger, a homicidal drifter.",
+      "popularity": 0.9986,
+      "poster_path": "/eZLpBNG84wAI5c9XCQBa7w78ElX.jpg",
+      "release_date": "2016-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.023,
+      "vote_count": 150
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jA7ftN2onI7y6lFulhHE2eggeGE.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 41567,
+      "title": "Mojave",
+      "original_language": "en",
+      "original_title": "Mojave",
+      "overview": "Four friends head to the desert to attend a winter rave. Instead, it turns into the trip to hell when they meet up with a couple of bad locals.",
+      "popularity": 0.9447,
+      "poster_path": "/ojbXHLtqpCApI1K9j75asjKiBom.jpg",
+      "release_date": "2004-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.938,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p98VRomVosbv0xc5UIpM7HNvrQx.jpg",
+      "genre_ids": [
+        53,
+        35,
+        10749
+      ],
+      "id": 24275,
+      "title": "Mojave Moon",
+      "original_language": "en",
+      "original_title": "Mojave Moon",
+      "overview": "Al McCord is hanging out at his favourite restaurant when he meets an attractive young woman (Ellie) who is looking for a ride from the city out into the Mojave Desert, where her mother lives. Little does he know that while Ellie is falling in love with him, he is falling for her mother (Julie), despite the nearby presence of Julie's boyfriend who seems likely to go berzerk at any moment. Even more strange, hilarious events follow and it's up to Al to find some explanation. His life may never again be the same.",
+      "popularity": 0.885,
+      "poster_path": "/mUGMYmA11ZFnPqOJ4GdnZa2q6FU.jpg",
+      "release_date": "1996-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.949,
+      "vote_count": 55
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dPagCvFuFWKEoEcjTGwwrdpdTPp.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 983793,
+      "title": "Mojave Diamonds",
+      "original_language": "en",
+      "original_title": "Mojave Diamonds",
+      "overview": "A former MMA fighter and his brothers must rescue their kidnapped family from a dangerous crime syndicate after $50M of illegal diamonds gets stolen.",
+      "popularity": 0.5321,
+      "poster_path": "/8JagLPH3wc2BDvsUkJfie3mEodN.jpg",
+      "release_date": "2023-08-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.618,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 38841,
+      "title": "Mojave Phone Booth",
+      "original_language": "en",
+      "original_title": "Mojave Phone Booth",
+      "overview": "In the middle of the Mojave desert rests an abandoned phone booth, riddled with bullet holes, graffiti, its windows broken, but otherwise functioning. Its identity was born on the Internet and for years, travelers would make the trek down a lonely dirt road and camp next to the booth, in the hopes that it might suddenly ring, and they could connect with a stranger (often from another country) on the other end of the line. This is the story of four disparate people whose lives intersect with this mystical outpost, and the comfort they seek from a stranger's voice: There is Beth, a troubled woman facing dilemmas with her love-life and a recurring, baffling crime; Mary, a young South African, who is contemplating selling her body for the funds to escape her dreadful existence; Alex, a woman who is losing her lover, Glory, to the belief she is plagued by aliens, and Richard, driven into desperation by a separation from his wife, who happens upon the booth after his failed suicide attempt.",
+      "popularity": 0.6687,
+      "poster_path": "/64kOkIn7DhU9CPQmyTEctTew4au.jpg",
+      "release_date": "2006-07-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.75,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1012721,
+      "title": "Mojave",
+      "original_language": "en",
+      "original_title": "Mojave",
+      "overview": "A short film by Wilhelm Sasnal",
+      "popularity": 0.2955,
+      "poster_path": "/rXfDTa0BIGl4q1qp29xnjEv6ooa.jpg",
+      "release_date": "2006-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3KUWE4l7o6bNHgxylrBCY6fy7Mb.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 440593,
+      "title": "Mojave Firebrand",
+      "original_language": "en",
+      "original_title": "Mojave Firebrand",
+      "overview": "In this western, a crusty old sourdough finally finds the silver mine of his dreams only to find his mine threatened by vicious outlaws. Fortunately, a cowboy hero rides up to save him, but not until considerable rootin' tootin' action.",
+      "popularity": 0.2805,
+      "poster_path": "/zFwNtKj16ONVeGAuk2jDkakyUmf.jpg",
+      "release_date": "1944-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.667,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 552697,
+      "title": "Mojave Mirage",
+      "original_language": "en",
+      "original_title": "Mojave Mirage",
+      "overview": "Documentary short about a strange phenomenon where a phone booth that was in the middle of the Mojave Desert began to attract people around the world to call the number and also to travel to the desert to answer the phone.",
+      "popularity": 0.1768,
+      "poster_path": null,
+      "release_date": "2003-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1212543,
+      "title": "Lost Mojave",
+      "original_language": "en",
+      "original_title": "Lost Mojave",
+      "overview": "A BAFTA award nominated short feature.",
+      "popularity": 0.0497,
+      "poster_path": null,
+      "release_date": "1994-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 430929,
+      "title": "Mojave Junction",
+      "original_language": "en",
+      "original_title": "Mojave Junction",
+      "overview": "A Fistful of Dollars meets The Twilight Zone in this supernatural western. Set in 1899, Mojave Junction is the story of McTeague, a scoundrel who absconds with a treasure of stolen gold, and Marcus, a wiry ‘ole prospector whose impulsiveness far outweighs his intelligence. Meanwhile something sinister lurks among the dunes, waiting to render judgment on their greed.",
+      "popularity": 0.1747,
+      "poster_path": null,
+      "release_date": "2015-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        37
+      ],
+      "id": 904928,
+      "title": "The Mojave Kid",
+      "original_language": "en",
+      "original_title": "The Mojave Kid",
+      "overview": "A cowboy searchs for his mysteriously vanished father.",
+      "popularity": 0.1344,
+      "poster_path": "/qNMYQEaM4pOcx1z5lbl0a65uLAC.jpg",
+      "release_date": "1927-09-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aMgQr5Kj1jUDRU1VKr8cq9kNi61.jpg",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 1201317,
+      "title": "Reflections - Mojave Desert",
+      "original_language": "en",
+      "original_title": "Reflections - Mojave Desert",
+      "overview": "In late August 2016, the band of Floating Points travelled to the Mojave desert to rehearse and record before their tour of the Southern states of America. Whilst visiting Joshua Tree national park, they were struck not only by its physical beauty, but also of the sonic reflections from the rock formations. A unique sound of reverb, echo and phase shifting modulating the sound from its surroundings.They took advantage of this environment to write and record some new music at the base of some of these natural sculptures which was documented in this short film.",
+      "popularity": 0.1029,
+      "poster_path": "/fnvc4rdvuLkcDWP5LdUOITa8T9U.jpg",
+      "release_date": "2017-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l5gzFTovotGiIsieNsvPFF42ulz.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 788596,
+      "title": "From Bakersfield to Mojave",
+      "original_language": "en",
+      "original_title": "From Bakersfield to Mojave",
+      "overview": "A document of one of the most famous 66 miles of railroad track in the world including the Tehachapi Loop.",
+      "popularity": 0.1017,
+      "poster_path": "/reWK0uAfDH62xzGtv6H6Bpbhzw4.jpg",
+      "release_date": "2021-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1469595,
+      "title": "Outside the Mojave Outpost",
+      "original_language": "en",
+      "original_title": "Outside the Mojave Outpost",
+      "overview": "old vids",
+      "popularity": 0.0968,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": true,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zaKmqEq8TedeolMPWI0F2FTL1y.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 368771,
+      "title": "Tehran Without Permission",
+      "original_language": "en",
+      "original_title": "Tehran bedoune mojavez",
+      "overview": "Sepideh Farsi left Tehran in her teens, yet has always remained under the spell of Iran's lively capital. In 'Tehran Without Permission', Farsi creates a collage-style portrait of a city in flux. Via a mixture of characters and cityscapes, Farsi's covert filming reveals a city beset with social and political tensions, yet held aloft by the indomitable spirit and character of its population.",
+      "popularity": 0.1201,
+      "poster_path": "/q7p2t4k4RclT9piJk7HSzE2tIvJ.jpg",
+      "release_date": "2009-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 15
+}

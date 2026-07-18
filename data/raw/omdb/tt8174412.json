@@ -1,0 +1,40 @@
+{
+  "Title": "Funny Pages",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "26 Aug 2022",
+  "Runtime": "86 min",
+  "Genre": "Comedy",
+  "Director": "Owen Kline",
+  "Writer": "Owen Kline",
+  "Actors": "Daniel Zolghadri, Matthew Maher, Miles Emanuel",
+  "Plot": "A bitingly funny coming-of-age story of a teenage cartoonist who rejects the comforts of his suburban life in a misguided quest for soul.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 7 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWE1ZDc1NjMtOTRkMi00ODFiLThkM2QtMmZiYTllODFkYjYwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "6.2",
+  "imdbVotes": "4,215",
+  "imdbID": "tt8174412",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

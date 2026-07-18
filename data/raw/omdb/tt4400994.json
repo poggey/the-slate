@@ -1,0 +1,40 @@
+{
+  "Title": "The Ballad of Lefty Brown",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "15 Dec 2017",
+  "Runtime": "111 min",
+  "Genre": "Action, Drama, Western",
+  "Director": "Jared Moshe",
+  "Writer": "Jared Moshe",
+  "Actors": "Bill Pullman, Peter Fonda, Stephen Alan Seder",
+  "Plot": "A thrilling and action-packed Western, The Ballad of Lefty Brown is a story about loyalty, friendship, and the relentless pursuit of justice.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 1 nomination total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0Nzg0NzU0Ml5BMl5BanBnXkFtZTgwOTkwMjY5MzI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "6.3",
+  "imdbVotes": "8,468",
+  "imdbID": "tt4400994",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$7,856",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

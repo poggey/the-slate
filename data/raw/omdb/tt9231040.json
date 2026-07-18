@@ -1,0 +1,40 @@
+{
+  "Title": "First Cow",
+  "Year": "2019",
+  "Rated": "PG-13",
+  "Released": "10 Jul 2020",
+  "Runtime": "122 min",
+  "Genre": "Drama, Western",
+  "Director": "Kelly Reichardt",
+  "Writer": "Jonathan Raymond, Kelly Reichardt",
+  "Actors": "Alia Shawkat, John Magaro, Dylan Smith",
+  "Plot": "In 1820, a cook travels to Oregon, where he meets a Chinese immigrant who is also looking to make his fortune. Soon, they team up in a dangerous scheme to steal milk from a prized local cow, the first and only in the territory.",
+  "Language": "English, North American Indian, Russian, French, Hawaiian",
+  "Country": "United States",
+  "Awards": "21 wins & 141 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjNiZTA3MDYtYzRiZi00OTdiLWI5NjItMTllZDQxMWM5NTQyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "Metascore": "90",
+  "imdbRating": "7.1",
+  "imdbVotes": "24,258",
+  "imdbID": "tt9231040",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$101,068",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

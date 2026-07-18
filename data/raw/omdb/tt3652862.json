@@ -1,0 +1,40 @@
+{
+  "Title": "Morris from America",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "19 Aug 2016",
+  "Runtime": "91 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Chad Hartigan",
+  "Writer": "Chad Hartigan",
+  "Actors": "Markees Christmas, Craig Robinson, Carla Juri",
+  "Plot": "The romantic and coming-of-age misadventures of a 13-year-old American living in Germany.",
+  "Language": "English, German",
+  "Country": "Germany, United States",
+  "Awards": "3 wins & 12 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDgyMzU5MTc2Ml5BMl5BanBnXkFtZTgwMTYwNzcxOTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "6.3",
+  "imdbVotes": "5,722",
+  "imdbID": "tt3652862",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$91,151",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

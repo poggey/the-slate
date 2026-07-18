@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/GOwNU7Z9G3ORjNxdZnURfuIGS6.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 394117,
+      "title": "The Florida Project",
+      "original_language": "en",
+      "original_title": "The Florida Project",
+      "overview": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+      "popularity": 4.6094,
+      "poster_path": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "release_date": "2017-10-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.427,
+      "vote_count": 3121
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

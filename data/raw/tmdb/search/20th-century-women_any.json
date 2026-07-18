@@ -1,0 +1,115 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5eZ8kRSlD8P8a42y9GEGl1yAqOb.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 342737,
+      "title": "20th Century Women",
+      "original_language": "en",
+      "original_title": "20th Century Women",
+      "overview": "In 1979 Santa Barbara, California, Dorothea Fields is a determined single mother in her mid-50s who is raising her adolescent son, Jamie, at a moment brimming with cultural change and rebellion. Dorothea enlists the help of two younger women – Abbie, a free-spirited punk artist living as a boarder in the Fields' home and Julie, a savvy and provocative teenage neighbour – to help with Jamie's upbringing.",
+      "popularity": 2.2532,
+      "poster_path": "/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
+      "release_date": "2016-12-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.314,
+      "vote_count": 1242
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 653240,
+      "title": "Remarkable Women of the 20th Century",
+      "original_language": "en",
+      "original_title": "Remarkable Women of the 20th Century",
+      "overview": "Celebrate one hundred years of amazing progress made by remarkable women from all over the world in politics, sports, science, and the arts. Meet such heroic figures as Amelia Earhart, Eleanor Roosevelt, Katharine Hepburn, Edith Piaf, Rosa Parks, Golda Meir, Indira Gandhi, and Hilary Rodham Clinton. Truly an inspirational chronicle of extraordinary women achieving extraordinary things over the course of the 20th century.",
+      "popularity": 0.0783,
+      "poster_path": "/yt2jvb42281dtmfQy0XH9SDelBJ.jpg",
+      "release_date": "2001-01-01",
+      "softcore": false,
+      "video": true,
+      "vote_average": 6.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 1072871,
+      "title": "Great Women Singers of the 20th Century: Abbey Lincoln",
+      "original_language": "en",
+      "original_title": "Great Women Singers of the 20th Century: Abbey Lincoln",
+      "overview": "Abbey is seen a rare 1991 performance at the Promenade Theater in New York. She is at once beautiful, insightful and at the top of her musical gifts. The appearance represents the beginning of a great comeback that has since established her as a legendary jazz vocalist and composer.",
+      "popularity": 0.2244,
+      "poster_path": "/jRii7PvSlUHoc7nmjbjCT68DOxo.jpg",
+      "release_date": "2005-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1505604,
+      "title": "Great Women Singers of the 20th Century: Chaka Khan",
+      "original_language": "en",
+      "original_title": "Great Women Singers of the 20th Century: Chaka Khan",
+      "overview": "Chaka Khan is musically capable of stretching from funk and soul to jazz. A multi-GRAMMY winner, she is seen and heard moving into straight away jazz vocalizing in this performance taped in 1993 at the Blue Note in New York.",
+      "popularity": 0.1071,
+      "poster_path": "/2N3sCWmzJSAr0xPWyeVJWZgOLjE.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": true,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 312245,
+      "title": "Great Women Singers of the 20th Century: Sarah Vaughan",
+      "original_language": "en",
+      "original_title": "Great Women Singers of the 20th Century: Sarah Vaughan",
+      "overview": "This intimate concert series heralds the vocal talents of the great female singers of the 20th century, celebrating the uniqueness of the individual voices that helped inspire generations of younger performers. In this installment, the incomparable Sarah Vaughan -- a bebop singer with an impressive operatic range -- lends her signature voice to a selection of jazz standards as part of a memorable live performance filmed in the mid-1980s.",
+      "popularity": 0.1923,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1236050,
+      "title": "She's Nobody's Baby: American Women in the 20th Century",
+      "original_language": "en",
+      "original_title": "She's Nobody's Baby: American Women in the 20th Century",
+      "overview": "This documentary goes back to the turn of the century to show how women shaped the nation’s history.",
+      "popularity": 0.1262,
+      "poster_path": "/bSz1TCGL1esTzROgErdcAun5WMJ.jpg",
+      "release_date": "1981-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 6
+}

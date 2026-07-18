@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/xVZijHBpoQCuH1RjLDmDHjwrCzM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/the-humans",
+  "id": 588367,
+  "imdb_id": "tt10023286",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Humans",
+  "overview": "Erik Blake has gathered three generations of his Pennsylvania family to celebrate Thanksgiving at his daughter’s apartment in lower Manhattan. As darkness falls outside and eerie things start to go bump in the night, the group’s deepest fears are laid bare.",
+  "popularity": 1.0229,
+  "poster_path": "/gQsDWmkvzzJxlrc3HCqkfQRH11.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 93105,
+      "logo_path": "/ryjDQ04FlVYVW30Eok3t5V5Gx8T.png",
+      "name": "IAC Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-11-24",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Humans",
+  "video": false,
+  "vote_average": 6.054,
+  "vote_count": 224,
+  "external_ids": {
+    "imdb_id": "tt10023286",
+    "wikidata_id": "Q83948021",
+    "facebook_id": "thehumansmovie",
+    "instagram_id": "thehumansmovie",
+    "twitter_id": "thehumansmovie"
+  }
+}

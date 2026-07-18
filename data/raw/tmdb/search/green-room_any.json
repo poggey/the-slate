@@ -1,0 +1,215 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/vTG5rpUcNGl28iKsf6Pd3G312pp.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 8070,
+      "title": "The Green Room",
+      "original_language": "fr",
+      "original_title": "La Chambre verte",
+      "overview": "A widower maintains a memorial room filled with his late wife's belongings. When fire destroys it, he transforms a chapel into a new shrine to preserve her memory.",
+      "popularity": 0.6262,
+      "poster_path": "/8D2Oty3FpihcNoNowuYbzOaXKsv.jpg",
+      "release_date": "1978-04-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 88
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
+      "genre_ids": [
+        27,
+        80,
+        53
+      ],
+      "id": 313922,
+      "title": "Green Room",
+      "original_language": "en",
+      "original_title": "Green Room",
+      "overview": "A punk rock band is forced to fight for survival after witnessing an act of violence at a skinhead bar.",
+      "popularity": 1.5862,
+      "poster_path": "/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+      "release_date": "2016-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.716,
+      "vote_count": 2964
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 691224,
+      "title": "Green Room",
+      "original_language": "en",
+      "original_title": "Green Room",
+      "overview": "A rare opportunity for the parallels of queer youth and digital society to collide.",
+      "popularity": 0.0671,
+      "poster_path": "/3nPjPr6UV2HjjiLyUDTQ7Z2bj6P.jpg",
+      "release_date": "2005-10-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.25,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1460640,
+      "title": "Little Green Room",
+      "original_language": "en",
+      "original_title": "Little Green Room",
+      "overview": "A reclusive man refusing to mourn a personal tragedy is confronted by the depths of his mind.",
+      "popularity": 0.4483,
+      "poster_path": "/5jDE4SaljlyV1TEqIuMO3F1LkqB.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 892713,
+      "title": "Green Room: Thehrav",
+      "original_language": "hi",
+      "original_title": "Green Room: Thehrav",
+      "overview": "Two actors—one in his 20s, one in his 50s—rehearse their upcoming scene in a major motion picture. Before long, they begin to argue about a conflict of interests",
+      "popularity": 0.1859,
+      "poster_path": "/a8U3qvkmq6aUQmfeE1dX33C88kG.jpg",
+      "release_date": "2021-08-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4drTLFVK6z8Nlwuo6F8udgE1dz0.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 1586245,
+      "title": "The Green Room",
+      "original_language": "en",
+      "original_title": "The Green Room",
+      "overview": "Seth and Tommy are student vloggers at a film college. All is going well for them, except for their tutor Arthur refusing to let any students into the college green room. Tommy thinks nothing of it, but Seth suspects Arthur of keeping some type of secret from them, and ropes Tommy into an unorthodox investigation of the green room, which results in them discovering something truly horrifying...",
+      "popularity": 1.1475,
+      "poster_path": "/j8RAVmyiG77411dYDDBNdMPjc47.jpg",
+      "release_date": "2024-12-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10751
+      ],
+      "id": 1676134,
+      "title": "The Green Room",
+      "original_language": "en",
+      "original_title": "The Green Room",
+      "overview": "When a whimsical family moves to their grandparents for a time, the young siblings become fascinated with the magic in the Green Room.",
+      "popularity": 0.2972,
+      "poster_path": "/ujXQl7sEkO5aDuDkdLTg8egbcPa.jpg",
+      "release_date": "2026-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/723yzscaAPiVOTuZX6SRfbw16mo.jpg",
+      "genre_ids": [
+        10749,
+        14,
+        18
+      ],
+      "id": 648898,
+      "title": "The Ghosts of the Green Room",
+      "original_language": "ru",
+      "original_title": "Призраки зелёной комнаты",
+      "overview": "According to the story of JB Prestley \"Jenny Villiers.\" Actors of the London Theater gathered in the Green Room of Barton Spa, a kind of theater museum. The playwright Martin Civerell expresses his doubts that the theater is able to regain its former charm. Left alone in the Green Room, Civerell sees the actors of the last century and becomes a witness to the drama that happened here a hundred years ago...",
+      "popularity": 0.1251,
+      "poster_path": "/xT3gnRyrGcXD6FNm8AXQvUlm4TK.jpg",
+      "release_date": "1991-08-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 10.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "id": 1691140,
+      "title": "Rooms in the Green Collection",
+      "original_language": "en",
+      "original_title": "Zimmer im Grünen Filmreihe",
+      "overview": "Rooms in the Green",
+      "poster_path": null
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qyePa65qZVnuYWivTBXkHV9aI3A.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648,
+        18,
+        14
+      ],
+      "id": 1730,
+      "title": "Inland Empire",
+      "original_language": "en",
+      "original_title": "Inland Empire",
+      "overview": "When actress Nikki Grace gets the lead role in a cursed film, her world becomes more and more surreal, blending realities and ideas of infidelity, reincarnation, and supernatural forces.",
+      "popularity": 2.6006,
+      "poster_path": "/s5f0FbVAABEnJYKaApWORTxhiFC.jpg",
+      "release_date": "2006-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.996,
+      "vote_count": 1271
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ga4JUb1dGnpesuztsGeMGMjj0fz.jpg",
+      "genre_ids": [
+        878,
+        80,
+        9648
+      ],
+      "id": 12101,
+      "title": "Soylent Green",
+      "original_language": "en",
+      "original_title": "Soylent Green",
+      "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society’s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+      "popularity": 3.0867,
+      "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+      "release_date": "1973-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.931,
+      "vote_count": 1439
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 11
+}

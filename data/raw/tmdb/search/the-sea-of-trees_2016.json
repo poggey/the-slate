@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/f4lMXJZgCAlxazlERC3TBqc68vs.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 291351,
+      "title": "The Sea of Trees",
+      "original_language": "en",
+      "original_title": "The Sea of Trees",
+      "overview": "In Japan's Aokigahara Forest, a troubled teacher meets a mysterious lost stranger who takes him on a life-changing journey of love and redemption.",
+      "popularity": 1.807,
+      "poster_path": "/gmVGIEfzxupZUTer1Z5n80CHFnD.jpg",
+      "release_date": "2016-04-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.193,
+      "vote_count": 544
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "De Palma",
+  "Year": "2015",
+  "Rated": "R",
+  "Released": "23 Sep 2016",
+  "Runtime": "110 min",
+  "Genre": "Documentary, Biography",
+  "Director": "Noah Baumbach, Jake Paltrow",
+  "Writer": "N/A",
+  "Actors": "Brian De Palma, Mark Hamill, Amy Irving",
+  "Plot": "A documentary about writer and director Brian De Palma.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 4 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDNlYTgyNTItZWM4NC00YmNmLWEzYjEtZjFkN2ZhODgxNDE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.4",
+  "imdbVotes": "6,478",
+  "imdbID": "tt1683048",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$165,237",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/wnZIPnZHnHjdNuH4LEumkrDsuHr.jpg",
+      "genre_ids": [
+        53,
+        18,
+        36
+      ],
+      "id": 476678,
+      "title": "Backstabbing for Beginners",
+      "original_language": "en",
+      "original_title": "Backstabbing for Beginners",
+      "overview": "An idealistic young employee at the U.N. investigates the grisly murder of his predecessor – and uncovers a vast global conspiracy that may involve his own boss.",
+      "popularity": 1.8515,
+      "poster_path": "/WVaq7KNnittRDkgmb58DaDEnK3.jpg",
+      "release_date": "2018-01-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.171,
+      "vote_count": 219
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

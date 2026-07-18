@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/p65KvZIFrlYxB3LZU2e5WtYvmfZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/all-dirt-roads",
+  "id": 800227,
+  "imdb_id": "tt11534720",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "All Dirt Roads Taste of Salt",
+  "overview": "Tender caresses and enveloping embraces are portals into the life of Mack, a Black woman in Mississippi. Winding through the anticipation, love, and heartbreak she experiences from childhood to adulthood, the expressionist journey is an ode to connection — with loved ones and with place.",
+  "popularity": 1.2035,
+  "poster_path": "/m1Rap5zhPUBctPcX8h7TBFJQth4.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 103697,
+      "logo_path": "/9gsomzlpj1lLR7kupysQ7nSFcHh.png",
+      "name": "PASTEL",
+      "origin_country": "US"
+    },
+    {
+      "id": 206707,
+      "logo_path": null,
+      "name": "Tender",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-03",
+  "revenue": 41000,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Time is a tender embrace.",
+  "title": "All Dirt Roads Taste of Salt",
+  "video": false,
+  "vote_average": 5.615,
+  "vote_count": 26,
+  "external_ids": {
+    "imdb_id": "tt11534720",
+    "wikidata_id": "Q115633566",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

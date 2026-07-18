@@ -1,0 +1,143 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 493922,
+      "title": "Hereditary",
+      "original_language": "en",
+      "original_title": "Hereditary",
+      "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+      "popularity": 12.3784,
+      "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "release_date": "2018-06-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.296,
+      "vote_count": 8689
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1449641,
+      "title": "The Hereditary",
+      "original_language": "en",
+      "original_title": "The Hereditary",
+      "overview": "A woman returns to her childhood home, where she encounters the trauma of her past and the tragedy she suffered. Tragic and disturbing events bring to light dark inherited secrets.",
+      "popularity": 0.2199,
+      "poster_path": null,
+      "release_date": "2024-01-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 251809,
+      "title": "Hereditary Disease",
+      "original_language": "de",
+      "original_title": "Erbkrank",
+      "overview": "This Nazi propaganda film attempts to justify and extols the \"benefits\" of euthanasia.",
+      "popularity": 0.1083,
+      "poster_path": "/3nQVFZkubvD5azOxk7OOcGyODdL.jpg",
+      "release_date": "1936-02-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        27
+      ],
+      "id": 1421084,
+      "title": "Hereditary Trap",
+      "original_language": "jv",
+      "original_title": "Jerat Leluri",
+      "overview": "Abimanyu (41) and Linda (39) are a couple who have started a new life in a village. The village they have just moved to, is associated with a myth that neither Linda nor Abimanyu believes in. Eventually, they ended up violating this myth. So, what actions did they take due to the disturbances caused by this myth?",
+      "popularity": 0.653,
+      "poster_path": "/7SxgM12IYTGKY6fgMrW7ISAGIlF.jpg",
+      "release_date": "2024-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1gQG812Upijn2gGFUf6JVJGffjL.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1284938,
+      "title": "Cursed: The True Nature of Hereditary",
+      "original_language": "en",
+      "original_title": "Cursed: The True Nature of Hereditary",
+      "overview": "A featurette that sheds light on the filmmaker’s approach, and how he turned a character-driven domestic drama into one of the 2018’s most harrowing cinematic experiences.",
+      "popularity": 0.362,
+      "poster_path": "/wnHey2fZFMWstkK0m6k841XKWA1.jpg",
+      "release_date": "2018-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        80,
+        18,
+        28,
+        9648
+      ],
+      "id": 947389,
+      "title": "Black Market Emperor: Silver and Gold 5 - Hereditary Homicide",
+      "original_language": "ja",
+      "original_title": "闇金の帝王 銀と金5 相続殺人",
+      "overview": "A Kamui family who governs N prefecture and exerts its power on the central political and business world. The mighty power was only allowed to be inherited by the \"patriarch\". But now, over the patriarchal power, the current patriarch Hidemine and his four sons are in a fierce conflict. In the presence of his guardian, Kiyoshi Nakajo, Hidemine gathered his sons together. However, the discussion broke down. The sons seeking the extinction of the patriarchal power finally turned their muzzle to their father, Hidemine!",
+      "popularity": 0.1947,
+      "poster_path": "/3nD6dutxrR37VoAsJfEOQaaXYh7.jpg",
+      "release_date": "1996-04-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 364966,
+      "title": "Pink & Blue",
+      "original_language": "en",
+      "original_title": "Pink & Blue",
+      "overview": "A profound look into the BRCA world examining what it is and how this mutation puts both women and men at a higher risk of developing numerous cancers.",
+      "popularity": 0.1305,
+      "poster_path": "/h4206UCmIjsWTzmcZlashtx2hli.jpg",
+      "release_date": "2015-10-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 8
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/yf7OJzxWAg0LRFUMyp0Jpa2sRKY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://a24films.com/docs/andré-is-an-idiot",
+  "id": 1400731,
+  "imdb_id": "tt34963034",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "André Is an Idiot",
+  "overview": "André, a brilliant idiot, is dying because he didn’t get a colonoscopy. His sobering diagnosis, complete irreverence, and insatiable curiosity, send him on an unexpected journey learning how to die happily and ridiculously without losing his sense of humor.",
+  "popularity": 1.9536,
+  "poster_path": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 143062,
+      "logo_path": null,
+      "name": "Sandbox Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 25577,
+      "logo_path": "/2trboP7Exx3LEQqSHoo1sAmsC1i.png",
+      "name": "Safehouse Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-06",
+  "revenue": 3207,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "André Is an Idiot",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 8,
+  "external_ids": {
+    "imdb_id": "tt34963034",
+    "wikidata_id": "Q131893926",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

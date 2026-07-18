@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/gtvB8chF3kAANqmfFSB9Bv80jGY.jpg",
+      "genre_ids": [
+        99,
+        18,
+        36
+      ],
+      "id": 896639,
+      "title": "Elizabeth: A Portrait in Part(s)",
+      "original_language": "en",
+      "original_title": "Elizabeth: A Portrait in Part(s)",
+      "overview": "Elizabeth is an archive-based documentary film about the Queen. A celebration. A truly cinematic mystery-tour up and down the decades: poetic, funny, disobedient, ungovernable, affectionate, inappropriate, mischievous, in awe. Funny. Moving. Different. The Queen as never before.",
+      "popularity": 0.7521,
+      "poster_path": "/2DUtk0gpBdrRedlySBJldtI8VHa.jpg",
+      "release_date": "2022-04-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.632,
+      "vote_count": 19
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/ioYtzheqeyVvZE2P1Xw2gFvet4D.jpg",
+  "belongs_to_collection": null,
+  "budget": 2700000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 340103,
+  "imdb_id": "tt3976144",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Monster",
+  "overview": "Stranded on a desolate road at night, a troubled mother and her daughter are stalked by a terrifying woodland creature while confronting the trauma of their fractured relationship.",
+  "popularity": 1.6249,
+  "poster_path": "/daQg6pnZj10Ir25uMZ0lMacHKOP.jpg",
+  "production_companies": [
+    {
+      "id": 18239,
+      "logo_path": null,
+      "name": "Atlas Independent",
+      "origin_country": "US"
+    },
+    {
+      "id": 49724,
+      "logo_path": "/mMWXs0rCUqKrBaVR5OMuP7bGZTY.png",
+      "name": "Unbroken Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-11-11",
+  "revenue": 74000,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Stay in the light",
+  "title": "The Monster",
+  "video": false,
+  "vote_average": 5.508,
+  "vote_count": 607,
+  "external_ids": {
+    "imdb_id": "tt3976144",
+    "wikidata_id": "Q27959592",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

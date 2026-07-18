@@ -1,0 +1,48 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/kIu6aYaUxBUUfJ0l0sLNW1qh45u.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 473019,
+      "title": "The Souvenir",
+      "original_language": "en",
+      "original_title": "The Souvenir",
+      "overview": "A shy but ambitious film student falls into an intense, emotionally fraught relationship with a charismatic but untrustworthy older man.",
+      "popularity": 2.5641,
+      "poster_path": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "release_date": "2019-05-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.068,
+      "vote_count": 285
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fgUacNwfO5paHavroHtHeMHZMDB.jpg",
+      "genre_ids": [
+        18,
+        14,
+        16
+      ],
+      "id": 610892,
+      "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+      "original_language": "ja",
+      "original_title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+      "overview": "Violet Evergarden, a former soldier returned from war, comes to teach at a women's academy and changes a young girl's life.",
+      "popularity": 1.7026,
+      "poster_path": "/3BV1M10SuSi5jOJbSDQQtjX96ov.jpg",
+      "release_date": "2019-09-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 467
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

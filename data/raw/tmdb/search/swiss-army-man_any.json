@@ -1,0 +1,30 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xo6Sedrdj4DVnh4ZEzDM4D0QQYU.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749,
+        14,
+        12
+      ],
+      "id": 347031,
+      "title": "Swiss Army Man",
+      "original_language": "en",
+      "original_title": "Swiss Army Man",
+      "overview": "Alone on a tiny deserted island, Hank has given up all hope of ever making it home again. But one day everything changes when a dead body washes ashore, and he soon realizes it may be his last opportunity to escape certain death. Armed with his new “friend” and an unusual bag of tricks, the duo go on an epic adventure to bring Hank back to the woman of his dreams.",
+      "popularity": 2.0599,
+      "poster_path": "/xE2QfqvAGI8n8ckIiy9FzS9XF94.jpg",
+      "release_date": "2016-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.918,
+      "vote_count": 3840
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

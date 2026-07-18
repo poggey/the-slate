@@ -1,0 +1,29 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/jtYhUNYtx4LXdCUiFFjUL9yDzSd.jpg",
+      "genre_ids": [
+        35,
+        10402,
+        10749,
+        878
+      ],
+      "id": 341689,
+      "title": "How to Talk to Girls at Parties",
+      "original_language": "en",
+      "original_title": "How to Talk to Girls at Parties",
+      "overview": "In 1970s London, a teenage outsider named Enn falls in love with a rebellious alien girl named Zan, who has come to Earth for a party. Together, they navigate the complexities of intergalactic culture and the trials of first love.",
+      "popularity": 1.4503,
+      "poster_path": "/v6mPfyGshwXd1R6kQlMEyZ8Zu2s.jpg",
+      "release_date": "2017-10-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.993,
+      "vote_count": 430
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

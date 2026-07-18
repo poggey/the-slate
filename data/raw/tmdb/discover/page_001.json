@@ -1,0 +1,403 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fwlUVZM2io87cPeBh2pFmCuMODl.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 681606,
+      "title": "NYC, 1981",
+      "original_language": "en",
+      "original_title": "NYC, 1981",
+      "overview": "A24 and A MOST VIOLENT YEAR present NYC, 1981. An original short documentary featuring stories from one of the most dangerous years on record for New York City.  Featuring Guardian Angels founder Curtis Sliwa, performance artist and former Warhol Factory fixture Penny Arcade, actress Johnnie Mae, Harlem street-style legend Dapper Dan, auto body shop owner Nick Rosello, and trucking union rep Wayne Walsh.",
+      "popularity": 1.0329,
+      "poster_path": "/oOOUADaYXxuWRaN0ItwzyTgecvM.jpg",
+      "release_date": "2015-01-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 376867,
+      "title": "Moonlight",
+      "original_language": "en",
+      "original_title": "Moonlight",
+      "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality.",
+      "popularity": 7.0391,
+      "poster_path": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "release_date": "2016-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 7575
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/caLrzb3caYgvRuSa0RDwqiZMzO.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 429126,
+      "title": "Reggie Watts: Spatial",
+      "original_language": "en",
+      "original_title": "Reggie Watts: Spatial",
+      "overview": "The comic innovator delivers a surreal set blending experimental songs, jokes about grits, guns and drugs, and other improvised comedy adventures.",
+      "popularity": 0.896,
+      "poster_path": "/qijBsmr2rsP4Jad8IyDu1wtZ1ua.jpg",
+      "release_date": "2016-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.731,
+      "vote_count": 26
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878
+      ],
+      "id": 434501,
+      "title": "Toru",
+      "original_language": "en",
+      "original_title": "Toru",
+      "overview": "Toru centers on the story of a baby boy, named Toru, born with a fatal lung condition. As he only has a few days to live Toru’s parents sign him up for a trial experiment that would simulate a full life in a matter of days.  The film follows Toru’s dream-like life simulation as a boy named Todd growing up in a New England suburb, and concludes in futuristic Japan.",
+      "popularity": 0.667,
+      "poster_path": null,
+      "release_date": "2017-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/prBsnIJsDs6vGWVWFhOY5hPbxMm.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 443411,
+      "title": "Jerrod Carmichael: 8",
+      "original_language": "en",
+      "original_title": "Jerrod Carmichael: 8",
+      "overview": "Performing in the round and engaging audience members during his act, Carmichael addresses a wide range of subjects, including Trump’s victory, climate change, supporting the troops, animal rights, being a good boyfriend and his top four fears, as well as exploring larger themes like race, politics, love and family.",
+      "popularity": 0.7693,
+      "poster_path": "/8FQ9vcZyLe29Ja2LRYQhf5gHD3w.jpg",
+      "release_date": "2017-03-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.813,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3PezXrFmOQhGkDcsmRj9nlwKgFn.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 426253,
+      "title": "The Lovers",
+      "original_language": "en",
+      "original_title": "The Lovers",
+      "overview": "The separation of a long married couple goes awry when they fall for each other again.",
+      "popularity": 0.8993,
+      "poster_path": "/tRWza39fHyef12FvScIBduaHMi6.jpg",
+      "release_date": "2017-05-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.354,
+      "vote_count": 96
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6h9pjTsWzaUWuUszHHbeI1JWE1.jpg",
+      "genre_ids": [
+        18,
+        27,
+        9648
+      ],
+      "id": 418078,
+      "title": "It Comes at Night",
+      "original_language": "en",
+      "original_title": "It Comes at Night",
+      "overview": "Secure within a desolate home as an unnatural threat terrorizes the world, a man has established a tenuous domestic order with his wife and son, but this will soon be put to test when a desperate young family arrives seeking refuge.",
+      "popularity": 2.9473,
+      "poster_path": "/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg",
+      "release_date": "2017-06-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.872,
+      "vote_count": 2644
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 489925,
+      "title": "Eighth Grade",
+      "original_language": "en",
+      "original_title": "Eighth Grade",
+      "overview": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.",
+      "popularity": 2.1899,
+      "poster_path": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "release_date": "2018-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.15,
+      "vote_count": 1677
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/48XZdtsqsz5eeqnYJBZMwHijHko.jpg",
+      "genre_ids": [
+        35,
+        10770
+      ],
+      "id": 539985,
+      "title": "Drew Michael",
+      "original_language": "en",
+      "original_title": "Drew Michael",
+      "overview": "Comedian Drew Michael is taking the stage and is holding nothing back in his first HBO stand-up special, in which he navigates his fears, anxieties and insecurities in an unconventional stand-up setting. Michael’s darkly comic, stream-of-consciousness monologue raises questions of identity, narrative, self-awareness and the limits of the medium itself.",
+      "popularity": 0.3097,
+      "poster_path": "/3MrxmKU0qweUnf9G1Z4hpFDF0cj.jpg",
+      "release_date": "2018-08-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1gQG812Upijn2gGFUf6JVJGffjL.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1284938,
+      "title": "Cursed: The True Nature of Hereditary",
+      "original_language": "en",
+      "original_title": "Cursed: The True Nature of Hereditary",
+      "overview": "A featurette that sheds light on the filmmaker’s approach, and how he turned a character-driven domestic drama into one of the 2018’s most harrowing cinematic experiences.",
+      "popularity": 0.362,
+      "poster_path": "/wnHey2fZFMWstkK0m6k841XKWA1.jpg",
+      "release_date": "2018-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/BOeORWljjIPGuCwUgLls24ctF3.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 437586,
+      "title": "mid90s",
+      "original_language": "en",
+      "original_title": "mid90s",
+      "overview": "In 1990s Los Angeles, a 13-year-old spends his summer navigating between a troubled home life and a crew of new friends he meets at a skate shop.",
+      "popularity": 3.1579,
+      "poster_path": "/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+      "release_date": "2018-10-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.455,
+      "vote_count": 1814
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/owwCNrhbN97NIvwsqVlDxoLEHwM.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 510355,
+      "title": "Share",
+      "original_language": "en",
+      "original_title": "Share",
+      "overview": "After discovering a disturbing video from a night she doesn’t remember, sixteen-year-old Mandy must try to figure out what happened and how to navigate the escalating fallout.",
+      "popularity": 1.7136,
+      "poster_path": "/g3sdrWXD7GknI0e5OTIyH01Kxs9.jpg",
+      "release_date": "2019-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.247,
+      "vote_count": 91
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rdaHUEeRSKeeL7tHc7Ry6oV0wif.jpg",
+      "genre_ids": [
+        35,
+        99
+      ],
+      "id": 593489,
+      "title": "Anthony Jeselnik: Fire in the Maternity Ward",
+      "original_language": "en",
+      "original_title": "Anthony Jeselnik: Fire in the Maternity Ward",
+      "overview": "Forging his own comedic boundaries, Anthony Jeselnik revels in getting away with saying things others can't in this stand-up special shot in New York.",
+      "popularity": 0.627,
+      "poster_path": "/10EkzjVA0AWUArKnE53Nzf2pigj.jpg",
+      "release_date": "2019-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.028,
+      "vote_count": 109
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n0FzDpOvVhkj3uN7WHXXnAXOKFi.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 522039,
+      "title": "The Last Black Man in San Francisco",
+      "original_language": "en",
+      "original_title": "The Last Black Man in San Francisco",
+      "overview": "Jimmie Fails dreams of reclaiming the Victorian home his grandfather built in the heart of San Francisco. Joined on his quest by his best friend Mont, Jimmie searches for belonging in a rapidly changing city that seems to have left them behind.",
+      "popularity": 1.134,
+      "poster_path": "/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "release_date": "2019-06-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.982,
+      "vote_count": 367
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ikYI8Gh5E6x4T7mjnHORjyGXzIA.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 612413,
+      "title": "Ramy Youssef: Feelings",
+      "original_language": "en",
+      "original_title": "Ramy Youssef: Feelings",
+      "overview": "In his first HBO stand-up comedy special, Ramy Youssef shares candid anecdotes about his life as an Egyptian-American comedian, writer, actor and director.",
+      "popularity": 0.4874,
+      "poster_path": "/6KeiYGcYT9ordNslVvLJ9pMebXM.jpg",
+      "release_date": "2019-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.875,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fWBmMHi7ukR8pYmbBfPERjzdZwS.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 612701,
+      "title": "Frankenstein's Monster's Monster, Frankenstein",
+      "original_language": "en",
+      "original_title": "Frankenstein's Monster's Monster, Frankenstein",
+      "overview": "When actor David Harbour finds lost footage of his father's disastrous televised stage play of a literary classic, he uncovers shocking family secrets.",
+      "popularity": 0.2876,
+      "poster_path": "/aVrXQAk0lIRw123EghPfNlludjU.jpg",
+      "release_date": "2019-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.788,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dqXW5kXQeok9AOaAu6WzBW1DkB5.jpg",
+      "genre_ids": [
+        35,
+        10770
+      ],
+      "id": 612392,
+      "title": "My Favorite Shapes by Julio Torres",
+      "original_language": "en",
+      "original_title": "My Favorite Shapes by Julio Torres",
+      "overview": "In this multimedia comedy show, Torres explores his favorite shapes, which include a plexiglass square, a triangle, an oval that wishes he were a circle, a self-conscious cactus and a Ferrero Rocher chocolate that Julio is mad at because she left her little skirt at home. The objects are presented via an industrial conveyer belt and serve as a jumping-off point for fantastical stories, anecdotes and jokes.",
+      "popularity": 0.4618,
+      "poster_path": "/v1Bx5clsiLnAmHPOqRIMOnFmKrY.jpg",
+      "release_date": "2019-08-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.978,
+      "vote_count": 23
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+      "genre_ids": [
+        18,
+        53,
+        80
+      ],
+      "id": 473033,
+      "title": "Uncut Gems",
+      "original_language": "en",
+      "original_title": "Uncut Gems",
+      "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+      "popularity": 8.3745,
+      "poster_path": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "release_date": "2019-08-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.168,
+      "vote_count": 5440
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gTNCO9iTeOq9m4pyUZwNoMCvdGf.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 565383,
+      "title": "The Death of Dick Long",
+      "original_language": "en",
+      "original_title": "The Death of Dick Long",
+      "overview": "Dick died last night, and Zeke and Earl don’t want anybody finding out how. That’s too bad though, cause news travels fast in small-town Alabama.",
+      "popularity": 1.0955,
+      "poster_path": "/vURitOcmtcH8Dr1bWryTvfkeyJX.jpg",
+      "release_date": "2019-09-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.138,
+      "vote_count": 182
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
+      "genre_ids": [
+        18,
+        14,
+        53
+      ],
+      "id": 503919,
+      "title": "The Lighthouse",
+      "original_language": "en",
+      "original_title": "The Lighthouse",
+      "overview": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+      "popularity": 7.548,
+      "poster_path": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "release_date": "2019-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 5607
+    }
+  ],
+  "total_pages": 9,
+  "total_results": 172
+}

@@ -1,0 +1,51 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/1WKxsnrhLoKPHcTyph7lhZnAMjR.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 575776,
+      "title": "Saint Maud",
+      "original_language": "en",
+      "original_title": "Saint Maud",
+      "overview": "Having recently found God, self-effacing young nurse Maud arrives at a plush home to care for Amanda, a hedonistic dancer left frail from a chronic illness. When a chance encounter with a former colleague throws up hints of a dark past, it becomes clear there is more to sweet Maud than meets the eye.",
+      "popularity": 1.1801,
+      "poster_path": "/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+      "release_date": "2020-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.553,
+      "vote_count": 901
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iE35JcF7kAB8uX1FWgWPJDqmAk6.jpg",
+      "genre_ids": [
+        53,
+        18,
+        9648,
+        80,
+        10770
+      ],
+      "id": 1024409,
+      "title": "De miel et de sang",
+      "original_language": "fr",
+      "original_title": "De miel et de sang",
+      "overview": "After 20 years of absence, Captain Fred Carel returns to the small town of Provence where he grew up. With Sara, his former high school friend who became a lieutenant in the local Gendarmerie, he must investigate Antoine Bernier's death.",
+      "popularity": 0.2776,
+      "poster_path": "/nlONMTdc0clnx4gS1XdI9gWX0K0.jpg",
+      "release_date": "2022-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 15
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

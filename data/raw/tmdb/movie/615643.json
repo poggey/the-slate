@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/bKCpRjjTKcr3KAITmwjVMobbBYg.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/minari",
+  "id": 615643,
+  "imdb_id": "tt10633456",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Minari",
+  "overview": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+  "popularity": 1.7772,
+  "poster_path": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+  "production_companies": [
+    {
+      "id": 81,
+      "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+      "name": "Plan B Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-02-12",
+  "revenue": 12900000,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A timeless story of what roots us.",
+  "title": "Minari",
+  "video": false,
+  "vote_average": 7.325,
+  "vote_count": 1877,
+  "external_ids": {
+    "imdb_id": "tt10633456",
+    "wikidata_id": "Q65679599",
+    "facebook_id": "MinariMovie",
+    "instagram_id": "MinariMovie",
+    "twitter_id": "MinariMovie"
+  }
+}

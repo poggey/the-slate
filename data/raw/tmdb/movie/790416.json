@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/wFZ0b8r8pGLubLUFO2SoNGzyRbp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/showing-up",
+  "id": 790416,
+  "imdb_id": "tt13923216",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Showing Up",
+  "overview": "In the days leading up to a possibly career-changing exhibition, a sculptor navigates her relationships with family, friends, and colleagues.",
+  "popularity": 0.7575,
+  "poster_path": "/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 1976,
+      "logo_path": "/vuNHAl3LpcNtjtRx8Ml4gpUMO2G.png",
+      "name": "filmscience",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-04-07",
+  "revenue": 708854,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Showing Up",
+  "video": false,
+  "vote_average": 5.842,
+  "vote_count": 133,
+  "external_ids": {
+    "imdb_id": "tt13923216",
+    "wikidata_id": "Q107610545",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

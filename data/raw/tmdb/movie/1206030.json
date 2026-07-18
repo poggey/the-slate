@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/AdKp7mgM2VyEy3mv270ZuKYbP2w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://app.a24films.com/tabs/home/product/the-making-of-priscilla-a-film-by-liv-mcneil/324",
+  "id": 1206030,
+  "imdb_id": "tt31829513",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Making of Priscilla",
+  "overview": "An exclusive, behind-the-scenes look at Sofia Coppola’s Priscilla, Liv McNeil’s documentary sparkles with an infectious enthusiasm for the magic of cinema. From visual moodboards to the creation of Graceland, this engaging short reveals the extraordinary craft behind the making of a dark fairytale.",
+  "popularity": 0.3941,
+  "poster_path": "/M6l7c0dNShjIdg4jyKlH1p3Izf.jpg",
+  "production_companies": [
+    {
+      "id": 213665,
+      "logo_path": null,
+      "name": "Important Flowers",
+      "origin_country": "US"
+    },
+    {
+      "id": 70,
+      "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-16",
+  "revenue": 0,
+  "runtime": 28,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Making of Priscilla",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 5,
+  "external_ids": {
+    "imdb_id": "tt31829513",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

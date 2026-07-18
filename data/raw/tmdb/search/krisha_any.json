@@ -1,0 +1,138 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zmhNStGN7DIGaFHQ0wERqCULGfy.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 323929,
+      "title": "Krisha",
+      "original_language": "en",
+      "original_title": "Krisha",
+      "overview": "When Krisha returns to her estranged family for Thanksgiving dinner, past demons threaten to ruin the festivities.",
+      "popularity": 0.5472,
+      "poster_path": "/xN4xhl5HYhfO9W8Y1ZZEnqmQEip.jpg",
+      "release_date": "2016-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.786,
+      "vote_count": 220
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sRPYqp2N3zG5ocG1bLLXMGxftOF.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 259043,
+      "title": "Krisha",
+      "original_language": "en",
+      "original_title": "Krisha",
+      "overview": "When Krisha decides to join her estranged family for a holiday dinner, tensions escalate as she struggles to keep her demons at bay.",
+      "popularity": 0.411,
+      "poster_path": "/umZTjRJhY0WtoQrpZGxSPkXfbHD.jpg",
+      "release_date": "2014-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28
+      ],
+      "id": 1403820,
+      "title": "Untitled Krishand - Mohanlal Movie",
+      "original_language": "ml",
+      "original_title": "Untitled Krishand - Mohanlal Movie",
+      "overview": "",
+      "popularity": 0.3837,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28
+      ],
+      "id": 563775,
+      "title": "Krishan Avtaar",
+      "original_language": "hi",
+      "original_title": "Krishan Avtaar",
+      "overview": "Police officers Krishan and Avtaar are asked to investigate a case involving missing children. The inquiry leads them to some politicians and corrupt officials in their department.",
+      "popularity": 0.1734,
+      "poster_path": "/z4EhJOYIhGHNkdIrWpkvSRqwKu8.jpg",
+      "release_date": "1993-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1638761,
+      "title": "Untitled Krishand - Tovino Movie",
+      "original_language": "ml",
+      "original_title": "Untitled Krishand - Tovino Movie",
+      "overview": "",
+      "popularity": 0.4064,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 1403821,
+      "title": "Untitled Krishand - Mammootty Movie",
+      "original_language": "ml",
+      "original_title": "Untitled Krishand - Mammootty Movie",
+      "overview": "",
+      "popularity": 0.2346,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5PMq0Y40cuPdGiHg0eqQDlO6bar.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 1017173,
+      "title": "Mother Land",
+      "original_language": "ko",
+      "original_title": "엄마의 땅: 그리샤와 숲의 주인",
+      "overview": "Krisha is the daughter of the Yates who are the nomad tribe of the tundra. To save her sick mother, she follows the words of Shaman and takes off on her adventure to the end of Northern land to find the red bear she saw in her dreams. In the meanwhile, Captain Vladimir of the federal army and Bazak, the hunter, invades the forest to hunt the red bear. Krisha arrives at the forest where she hears the voice of the red bear.",
+      "popularity": 0.1585,
+      "poster_path": "/8ozRGY4nWIpWeLEco9wWG0I7gyd.jpg",
+      "release_date": "2023-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 3
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 7
+}

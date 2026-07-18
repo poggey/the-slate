@@ -1,0 +1,40 @@
+{
+  "Title": "Val",
+  "Year": "2021",
+  "Rated": "R",
+  "Released": "06 Aug 2021",
+  "Runtime": "109 min",
+  "Genre": "Documentary, Biography",
+  "Director": "Ting Poo, Leo Scott",
+  "Writer": "N/A",
+  "Actors": "Val Kilmer, Jack Kilmer, Mercedes Kilmer",
+  "Plot": "A documentary centering on the daily life of actor Val Kilmer, featuring never-before-seen footage spanning 40 years.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "4 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWUxMWFhYmQtOTdmOC00ODllLWJmYTItOTE1MzFjNTFlOGZmXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "7.5",
+  "imdbVotes": "14,820",
+  "imdbID": "tt14731254",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

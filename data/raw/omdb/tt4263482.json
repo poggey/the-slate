@@ -1,0 +1,40 @@
+{
+  "Title": "The Witch",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "19 Feb 2016",
+  "Runtime": "92 min",
+  "Genre": "Drama, Fantasy, Horror",
+  "Director": "Robert Eggers",
+  "Writer": "Robert Eggers",
+  "Actors": "Anya Taylor-Joy, Ralph Ineson, Kate Dickie",
+  "Plot": "An isolated Puritan family in 1630s New England comes unraveled by the forces of witchcraft and possession.",
+  "Language": "English",
+  "Country": "United Kingdom, Canada, United States",
+  "Awards": "43 wins & 72 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "Metascore": "84",
+  "imdbRating": "7.0",
+  "imdbVotes": "350,836",
+  "imdbID": "tt4263482",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,138,705",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

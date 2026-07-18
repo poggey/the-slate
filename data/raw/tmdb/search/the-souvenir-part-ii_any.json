@@ -1,0 +1,27 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/jyXmcVTExHdtAmil5nldFMGlJd0.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 473021,
+      "title": "The Souvenir: Part II",
+      "original_language": "en",
+      "original_title": "The Souvenir: Part II",
+      "overview": "In the aftermath of her tumultuous relationship with a charismatic and manipulative older man, Julie begins to untangle her fraught love for him in making her graduation film, sorting fact from his elaborately constructed fiction.",
+      "popularity": 1.9385,
+      "poster_path": "/fYNvmZ1vW7bNcUhrAzYjUBgKJWP.jpg",
+      "release_date": "2021-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.439,
+      "vote_count": 99
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 1
+}

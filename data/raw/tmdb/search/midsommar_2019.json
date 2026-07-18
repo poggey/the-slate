@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg",
+      "genre_ids": [
+        27,
+        18,
+        9648
+      ],
+      "id": 530385,
+      "title": "Midsommar",
+      "original_language": "en",
+      "original_title": "Midsommar",
+      "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+      "popularity": 7.2243,
+      "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "release_date": "2019-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.148,
+      "vote_count": 8191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tLF57KOkfkpuQvXDwjxUXD18kDl.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1284571,
+      "title": "Let the Festivities Begin: Manifesting Midsommar",
+      "original_language": "en",
+      "original_title": "Let the Festivities Begin: Manifesting Midsommar",
+      "overview": "A featurette where Ari Aster and the cast break down the story and give us a behind the scenes look at the making of the film. It gives a fascinating look inside Ari Aster’s mind, and the detail put into production.",
+      "popularity": 0.293,
+      "poster_path": "/pKT8XwEWVa4j5xTJKRQu5LvOmlE.jpg",
+      "release_date": "2019-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 4
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

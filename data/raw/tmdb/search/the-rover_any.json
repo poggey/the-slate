@@ -1,0 +1,385 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/wXI4ljoRVDBp2vHRoXKb2jPlmAj.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 157845,
+      "title": "The Rover",
+      "original_language": "en",
+      "original_title": "The Rover",
+      "overview": "Ten years after a severe economic collapse in the western world, lawlessness reigns and life is cheap. Eric is a lone drifter, and his car is his only possession. When a gang steals it, Eric comes across the injured Rey, left behind by the car thieves. The pair form an unlikely and uneasy alliance.",
+      "popularity": 3.0974,
+      "poster_path": "/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
+      "release_date": "2014-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.264,
+      "vote_count": 1066
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/HiJ7a5i5tsmj7LybAJWSEJ30HF.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 224393,
+      "title": "The Rover",
+      "original_language": "it",
+      "original_title": "L'avventuriero",
+      "overview": "A former counterrevolutionary pirate befriends a mentally ill young woman and this in turn leads to tragedy when she falls in love with a French naval officer.",
+      "popularity": 0.4961,
+      "poster_path": "/l3TEWHUPRbU9sdlP5sDuOsm0quj.jpg",
+      "release_date": "1967-09-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ofmDmcQafGldnWZa4zp6alaUL4H.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1517584,
+      "title": "The Rover",
+      "original_language": "zh",
+      "original_title": "高山遊民",
+      "overview": "Once a rising star in Taiwan's mountaineering boom, A-Gong fell into debt and went on the run, hiding on Yushan before surrendering. After prison, he returned to the mountains, rebuilding his life step by step. Now, he's a living legend among Taiwan's high-altitude trails.",
+      "popularity": 0.1419,
+      "poster_path": "/n0S5O601xICgHAreCtxdpodPCTR.jpg",
+      "release_date": "2026-01-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2HAbnhVv6a9lvhwRqsSaY6aXvgr.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 920574,
+      "title": "The Western Rover",
+      "original_language": "en",
+      "original_title": "The Western Rover",
+      "overview": "Returning to the family ranch after a spell as a circus performer, Art Hayes finds that a crooked ranch foreman has forced his father into bankruptcy.",
+      "popularity": 0.2862,
+      "poster_path": "/k6yXE5p3r8c4OCo6vOuXyqnaScO.jpg",
+      "release_date": "1927-06-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 547597,
+      "title": "The Star Rover",
+      "original_language": "en",
+      "original_title": "The Star Rover",
+      "overview": "Based on the novel The Star Rover by Jack London (New York, 1915).",
+      "popularity": 0.2585,
+      "poster_path": "/tAXftoy5MNs7VEl6VVq6Ofv55NR.jpg",
+      "release_date": "1920-11-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 641617,
+      "title": "Something Elemental: Making 'The Rover'",
+      "original_language": "en",
+      "original_title": "Something Elemental: Making 'The Rover'",
+      "overview": "Behind the scenes look at David Michôd's 2014 film 'The Rover'.",
+      "popularity": 0.501,
+      "poster_path": "/9aSUfObaiLjChJgZGjUA1uv4CY2.jpg",
+      "release_date": "2014-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1355056,
+      "title": "The Bushwick Rover",
+      "original_language": "en",
+      "original_title": "The Bushwick Rover",
+      "overview": "A disillusioned former fratboy moves from New Jersey to Bushwick to reinvent himself as a hipster, in search of meaning and identity. His  journey of self-actualization is both heartfelt and bleak, and culminates in his inevitable tragic cosmic fate.",
+      "popularity": 0.0577,
+      "poster_path": "/s1XyOnmWQggFz8ZdSgp26hZnAOY.jpg",
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1265406,
+      "title": "The Rover Imperial",
+      "original_language": "en",
+      "original_title": "The Rover Imperial",
+      "overview": "Silent movie showing the manufacture of a Rover Imperial motorcycle, ca 1910's",
+      "popularity": 0.0379,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 750846,
+      "title": "The Rover Story",
+      "original_language": "en",
+      "original_title": "The Rover Story",
+      "overview": "From the Rover Safety Bicycle in 1885 to the last Rover cars in 2005, this documentary traces the turbulent history of this famous British motor manufacturer. Many ex-Rover engineers are interviewed to help tell  the story and also to get those historic anecdotes that can only be revealed by the people who were present at the time. In addition to the Rover personnel, owners of significant Rover models relate the history, before Rover historian James Taylor, concludes to tell the final collapse of MG Rover.",
+      "popularity": 0.0727,
+      "poster_path": "/6t7kAdO0crxTBa6wJERWIgEjSJy.jpg",
+      "release_date": "2017-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 830994,
+      "title": "The Rover of Tobruk",
+      "original_language": "en",
+      "original_title": "The Rover of Tobruk",
+      "overview": "A documentary written by Kane McKay, a returned military serviceman, about Bob Quinn, a recipient of the Military Medal for his heroic actions in World War II in Tobruk, 1941, and also champion player for a number of years at the Port Adelaide Football Club.",
+      "popularity": 0.1596,
+      "poster_path": "/cY7DgW5LM3sEiDUrXqU7L1Lva5i.jpg",
+      "release_date": "2021-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 804638,
+      "title": "McGlusky the Sea Rover",
+      "original_language": "en",
+      "original_title": "McGlusky the Sea Rover",
+      "overview": "",
+      "popularity": 0.1955,
+      "poster_path": "/2u1qKMoktVEkPH51fK9CF5SZvCJ.jpg",
+      "release_date": "1935-07-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.75,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/huPmqKoziAkJ8MDVpbXe7I2B0bW.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 799040,
+      "title": "Built for Mars: The Perseverance Rover",
+      "original_language": "en",
+      "original_title": "Built for Mars: The Perseverance Rover",
+      "overview": "BUILT FOR MARS: THE PERSEVERANCE ROVER goes behind the scenes at NASA’s Jet Propulsion Laboratory to follow the birth of the Perseverance rover.",
+      "popularity": 0.1987,
+      "poster_path": "/joFZTKsvSqjJ0XbEqmlqyuZpaWJ.jpg",
+      "release_date": "2021-02-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 463582,
+      "title": "Vica, the Free Rover",
+      "original_language": "hu",
+      "original_title": "Vica, a vadevezős",
+      "overview": "",
+      "popularity": 1.1144,
+      "poster_path": "/fUXvhjfGIfFORMiAmYjZ6d9AptQ.jpg",
+      "release_date": "1933-05-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGqlWxTJRPeCcLKBub7oCZFVh9Q.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 79503,
+      "title": "Camel Trophy - The Land Rover Years",
+      "original_language": "en",
+      "original_title": "Camel Trophy - The Land Rover Years",
+      "overview": "Land Rover Years Land Rover Years combines a decade of great adventure, skillful 4WD action and stunning scenery. The Camel Trophy, the world's greatest amateur expedition, was the original testing ground for teamwork, sportsmanship and human endurance. Teams from around the world were invited to embark on remarkable and challenging 4x4 adventures, and asked to survive using their wits, bare knuckles and the capable power of the Land Rover.",
+      "popularity": 0.0586,
+      "poster_path": "/2dMgLW6QYZaJKkju9I8iqxnjpaF.jpg",
+      "release_date": "2007-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 251005,
+      "title": "Rover (or Beyond Human: The Venusian Future and the Return of the Next Level)",
+      "original_language": "en",
+      "original_title": "Rover (or Beyond Human: The Venusian Future and the Return of the Next Level)",
+      "overview": "In their dilapidated church headquarters, a dispirited cult awaits the sign to off themselves. Their hapless leader, Dave, concocts a plan: to quell infighting and give them purpose in life, he fakes a prophecy instructing them to make a movie and share their story with the world. They don't know the first thing about film production, but in making the movie the cult members find a uniting purpose. Then, just as they hit their stride, Dave receives a true prophecy. It's time for them to \"exit.\"",
+      "popularity": 0.1731,
+      "poster_path": "/p2T0ttF3nPXcN04rDofW4l0UFcr.jpg",
+      "release_date": "2014-01-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 2.0,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16
+      ],
+      "id": 1296737,
+      "title": "Accidents Resulting from Unfamiliarity in Aircraft, or: The Rover Boys in Peril",
+      "original_language": "en",
+      "original_title": "Accidents Resulting from Unfamiliarity in Aircraft, or: The Rover Boys in Peril",
+      "overview": "Part of the Flight Safety series of PSAs produced by United Productions of America for the U.S. Navy. Three stalwart brothers learn the importance of familiarizing themselves with aircraft before attempting to fly them.",
+      "popularity": 0.0716,
+      "poster_path": "/d9LVppk068NidJzEfrsjKN01H1Z.jpg",
+      "release_date": "1948-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1372030,
+      "title": "The Rovers",
+      "original_language": "en",
+      "original_title": "The Rovers",
+      "overview": "Documentary which looks at a period of the last few months of 1982 in the fortunes of Tranmere Rovers FC, a football club fighting for survival in the fourth division",
+      "popularity": 0.8393,
+      "poster_path": "/b8bCuLj1bZv8I3W4hZMebs2cUmx.jpg",
+      "release_date": "1983-02-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 823153,
+      "title": "The Irish Rovers Christmas",
+      "original_language": "en",
+      "original_title": "The Irish Rovers Christmas",
+      "overview": "Join The Irish Rovers for their rollicking Christmas concert, then come along as the lads kick up their heels in the mountains and pubs of Banff National Park. They are joined onstage by old friends and guest musicians Gerry O’Connor, Patrick Davey, Morris Crum, Irish tenor John McDermott, and guitarist Jason Fowler.",
+      "popularity": 0.0372,
+      "poster_path": "/maOWs7dreR9d0qk37xYXVjNRWG9.jpg",
+      "release_date": "2012-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10402
+      ],
+      "id": 823151,
+      "title": "The Irish Rovers Home In Ireland",
+      "original_language": "en",
+      "original_title": "The Irish Rovers Home In Ireland",
+      "overview": "The Irish Rovers celebrate the beauty of their homeland in Northern Ireland, performing on location at Carnlough Harbour, Dunluce Castle, The Giant’s Causeway, Slemish Mountain, Glenarm and Galgorm Manor near Ballymena.",
+      "popularity": 0.0602,
+      "poster_path": "/83Wcya8l2lz7buijQ9NmH56Lpkv.jpg",
+      "release_date": "2011-01-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 617514,
+      "title": "The Rambling Rovers",
+      "original_language": "fr",
+      "original_title": "Dog-Song",
+      "overview": "The story of a dog, passionated by pop music.",
+      "popularity": 0.0479,
+      "poster_path": null,
+      "release_date": "",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 35
+}

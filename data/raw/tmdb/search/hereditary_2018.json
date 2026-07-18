@@ -1,0 +1,47 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 493922,
+      "title": "Hereditary",
+      "original_language": "en",
+      "original_title": "Hereditary",
+      "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+      "popularity": 12.3784,
+      "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "release_date": "2018-06-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.296,
+      "vote_count": 8689
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1gQG812Upijn2gGFUf6JVJGffjL.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 1284938,
+      "title": "Cursed: The True Nature of Hereditary",
+      "original_language": "en",
+      "original_title": "Cursed: The True Nature of Hereditary",
+      "overview": "A featurette that sheds light on the filmmaker’s approach, and how he turned a character-driven domestic drama into one of the 2018’s most harrowing cinematic experiences.",
+      "popularity": 0.362,
+      "poster_path": "/wnHey2fZFMWstkK0m6k841XKWA1.jpg",
+      "release_date": "2018-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.8,
+      "vote_count": 5
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 2
+}

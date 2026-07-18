@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/f2sHokGVEOcJI1Fkgdf21XYhok.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1082938,
+  "imdb_id": "tt32083311",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "On Becoming a Guinea Fowl",
+  "overview": "On an empty road in the middle of the night, Shula stumbles across the body of her uncle. As funeral proceedings begin around them, she and her cousins bring to light the buried secrets of their middle-class Zambian family.",
+  "popularity": 0.5051,
+  "poster_path": "/6lMOpD8XVLKaB5uCsJXt1Fo7XNh.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 239839,
+      "logo_path": "/2ZzqmXCXNvdGi5lkCCORKFYH2T5.png",
+      "name": "Fremantle",
+      "origin_country": "GB"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3353,
+      "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+      "name": "Element Pictures",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-12-06",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Chichewa; Nyanja",
+      "iso_639_1": "ny",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "On Becoming a Guinea Fowl",
+  "video": false,
+  "vote_average": 7.634,
+  "vote_count": 41,
+  "external_ids": {
+    "imdb_id": "tt32083311",
+    "wikidata_id": "Q125457216",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

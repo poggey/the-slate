@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/nGYncNCfeAccyhhdGRgj3sbexPn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://theblackcoatsdaughter-movie.com",
+  "id": 334536,
+  "imdb_id": "tt3286052",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Blackcoat's Daughter",
+  "overview": "Two young women at a prestigious prep school are assailed by an evil, invisible power when they're stranded over winter break.",
+  "popularity": 1.7689,
+  "poster_path": "/jO2aHAiWgQSlpAIPGZikiMDdMXx.jpg",
+  "production_companies": [
+    {
+      "id": 4080,
+      "logo_path": "/ilixMe6cYiJYozxjiZnbWqpv6aO.png",
+      "name": "Zed Filmworks",
+      "origin_country": "CA"
+    },
+    {
+      "id": 49724,
+      "logo_path": "/mMWXs0rCUqKrBaVR5OMuP7bGZTY.png",
+      "name": "Unbroken Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 79563,
+      "logo_path": null,
+      "name": "Go Insane Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 39043,
+      "logo_path": null,
+      "name": "Traveling Picture Show Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 5113,
+      "logo_path": "/qd5ru3vUvGb6dhXSzkHn7EQoX2D.png",
+      "name": "120dB Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 106859,
+      "logo_path": null,
+      "name": "Paris Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-03-31",
+  "revenue": 143545,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Abandoned as a child. Raised by the dark.",
+  "title": "The Blackcoat's Daughter",
+  "video": false,
+  "vote_average": 5.879,
+  "vote_count": 792,
+  "external_ids": {
+    "imdb_id": "tt3286052",
+    "wikidata_id": "Q19427405",
+    "facebook_id": "TheBlackcoatsDaughter",
+    "instagram_id": null,
+    "twitter_id": "BlackcoatsMovie"
+  }
+}

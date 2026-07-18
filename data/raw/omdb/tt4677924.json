@@ -1,0 +1,40 @@
+{
+  "Title": "Woodshock",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "08 Nov 2017",
+  "Runtime": "100 min",
+  "Genre": "Drama, Fantasy, Mystery",
+  "Director": "Kate Mulleavy, Laura Mulleavy",
+  "Writer": "Kate Mulleavy, Laura Mulleavy",
+  "Actors": "Kirsten Dunst, Joe Cole, Pilou Asbæk",
+  "Plot": "A woman, consumed by profound grief after a personal loss, aided by a potent drug meant for the terminally ill, delves into her psyche for solace set in the hauntingly beautiful redwood forests.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNTU0MzQ0Ml5BMl5BanBnXkFtZTgwNjA0NTc5MjI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "27%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "Metascore": "39",
+  "imdbRating": "4.2",
+  "imdbVotes": "2,510",
+  "imdbID": "tt4677924",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$42,603",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,2974 @@
+{
+  "meta": {
+    "generated_at": "2026-07-18T19:04:04.205160+00:00",
+    "n_films": 58,
+    "date_range": [
+      "2013",
+      "2025"
+    ],
+    "base_year_cpi": 2025,
+    "assumptions": {
+      "k_wide": 1.0,
+      "k_platform": 0.5,
+      "r_dom": 0.5,
+      "r_intl": 0.4,
+      "a": 0.5
+    }
+  },
+  "films": [
+    {
+      "title": "A Glimpse Inside the Mind of Charles Swan III",
+      "year": 2013,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 16583690.9871,
+      "cost_real": 24875536.4807,
+      "studio_revenue_real": 183998.1245,
+      "profit_real": -24691538.3562,
+      "roi": -0.9926,
+      "revenue_multiple": 0.0074,
+      "metascore": 28.0,
+      "rt_critics": 16.0,
+      "imdb_rating": 4.6,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Spring Breakers",
+      "year": 2013,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6909871.2446,
+      "cost_real": 10364806.867,
+      "studio_revenue_real": 29475187.3545,
+      "profit_real": 19110380.4876,
+      "roi": 1.8438,
+      "revenue_multiple": 2.8438,
+      "metascore": 63.0,
+      "rt_critics": 67.0,
+      "imdb_rating": 5.3,
+      "quadrant": "cashcow",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Bling Ring",
+      "year": 2013,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 20729613.7339,
+      "cost_real": 41459227.4678,
+      "studio_revenue_real": 17087142.824,
+      "profit_real": -24372084.6438,
+      "roi": -0.5879,
+      "revenue_multiple": 0.4121,
+      "metascore": 66.0,
+      "rt_critics": 59.0,
+      "imdb_rating": 5.6,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Spectacular Now",
+      "year": 2013,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3454935.6223,
+      "cost_real": 5182403.4335,
+      "studio_revenue_real": 7104671.9163,
+      "profit_real": 1922268.4828,
+      "roi": 0.3709,
+      "revenue_multiple": 1.3709,
+      "metascore": 82.0,
+      "rt_critics": 92.0,
+      "imdb_rating": 7.0,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Enemy",
+      "year": 2014,
+      "primary_genre": "Thriller",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 4761301.2252,
+      "cost_real": 7141951.8378,
+      "studio_revenue_real": 2978322.4715,
+      "profit_real": -4163629.3663,
+      "roi": -0.583,
+      "revenue_multiple": 0.417,
+      "metascore": 61.0,
+      "rt_critics": 73.0,
+      "imdb_rating": 6.9,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Under the Skin",
+      "year": 2014,
+      "primary_genre": "Thriller",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 18092944.6557,
+      "cost_real": 27139416.9835,
+      "studio_revenue_real": 6434691.0811,
+      "profit_real": -20704725.9024,
+      "roi": -0.7629,
+      "revenue_multiple": 0.2371,
+      "metascore": 83.0,
+      "rt_critics": 83.0,
+      "imdb_rating": 6.3,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Locke",
+      "year": 2014,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2720743.5572,
+      "cost_real": 4081115.3359,
+      "studio_revenue_real": 4064172.3815,
+      "profit_real": -16942.9544,
+      "roi": -0.0042,
+      "revenue_multiple": 0.9958,
+      "metascore": 83.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Rover",
+      "year": 2014,
+      "primary_genre": "Crime",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 16664554.2881,
+      "cost_real": 24996831.4322,
+      "studio_revenue_real": 2276130.052,
+      "profit_real": -22720701.3802,
+      "roi": -0.9089,
+      "revenue_multiple": 0.0911,
+      "metascore": 64.0,
+      "rt_critics": 67.0,
+      "imdb_rating": 6.4,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Obvious Child",
+      "year": 2014,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 1360371.7786,
+      "cost_real": 2040557.6679,
+      "studio_revenue_real": 3187313.327,
+      "profit_real": 1146755.6591,
+      "roi": 0.562,
+      "revenue_multiple": 1.562,
+      "metascore": 76.0,
+      "rt_critics": 90.0,
+      "imdb_rating": 6.7,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Life After Beth",
+      "year": 2014,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3264892.2687,
+      "cost_real": 4897338.403,
+      "studio_revenue_real": 90063.0735,
+      "profit_real": -4807275.3295,
+      "roi": -0.9816,
+      "revenue_multiple": 0.0184,
+      "metascore": 50.0,
+      "rt_critics": 46.0,
+      "imdb_rating": 5.7,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Tusk",
+      "year": 2014,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 4081115.3359,
+      "cost_real": 6121673.0038,
+      "studio_revenue_real": 1908941.9024,
+      "profit_real": -4212731.1014,
+      "roi": -0.6882,
+      "revenue_multiple": 0.3118,
+      "metascore": 55.0,
+      "rt_critics": 45.0,
+      "imdb_rating": 5.4,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Laggies",
+      "year": 2014,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6801858.8931,
+      "cost_real": 10202788.3397,
+      "studio_revenue_real": 2159644.0013,
+      "profit_real": -8043144.3384,
+      "roi": -0.7883,
+      "revenue_multiple": 0.2117,
+      "metascore": 63.0,
+      "rt_critics": 64.0,
+      "imdb_rating": 6.4,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Cut Bank",
+      "year": 2014,
+      "primary_genre": "Crime",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6801858.8931,
+      "cost_real": 10202788.3397,
+      "studio_revenue_real": 264998.9601,
+      "profit_real": -9937789.3796,
+      "roi": -0.974,
+      "revenue_multiple": 0.026,
+      "metascore": 44.0,
+      "rt_critics": 39.0,
+      "imdb_rating": 6.1,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Son of a Gun",
+      "year": 2014,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 16324461.3435,
+      "cost_real": 24486692.0152,
+      "studio_revenue_real": 606266.9259,
+      "profit_real": -23880425.0894,
+      "roi": -0.9752,
+      "revenue_multiple": 0.0248,
+      "metascore": 49.0,
+      "rt_critics": 63.0,
+      "imdb_rating": 6.4,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Revenge of the Green Dragons",
+      "year": 2014,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6801858.8931,
+      "cost_real": 10202788.3397,
+      "studio_revenue_real": 98631.1711,
+      "profit_real": -10104157.1686,
+      "roi": -0.9903,
+      "revenue_multiple": 0.0097,
+      "metascore": 36.0,
+      "rt_critics": 16.0,
+      "imdb_rating": 5.3,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "A Most Violent Year",
+      "year": 2014,
+      "primary_genre": "Crime",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 27207435.5725,
+      "cost_real": 54414871.1449,
+      "studio_revenue_real": 10973591.4499,
+      "profit_real": -43441279.695,
+      "roi": -0.7983,
+      "revenue_multiple": 0.2017,
+      "metascore": 79.0,
+      "rt_critics": 89.0,
+      "imdb_rating": 6.9,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2015,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 20379746.8354,
+      "cost_real": 40759493.6709,
+      "studio_revenue_real": 35240783.3595,
+      "profit_real": -5518710.3114,
+      "roi": -0.1354,
+      "revenue_multiple": 0.8646,
+      "metascore": 78.0,
+      "rt_critics": 92.0,
+      "imdb_rating": 7.7,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "While We're Young",
+      "year": 2015,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 13586497.8903,
+      "cost_real": 20379746.8354,
+      "studio_revenue_real": 15638749.4696,
+      "profit_real": -4740997.3658,
+      "roi": -0.2326,
+      "revenue_multiple": 0.7674,
+      "metascore": 77.0,
+      "rt_critics": 84.0,
+      "imdb_rating": 6.3,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Dark Places",
+      "year": 2015,
+      "primary_genre": "Thriller",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 27172995.7806,
+      "cost_real": 54345991.5612,
+      "studio_revenue_real": 4192520.7038,
+      "profit_real": -50153470.8574,
+      "roi": -0.9229,
+      "revenue_multiple": 0.0771,
+      "metascore": 39.0,
+      "rt_critics": 23.0,
+      "imdb_rating": 6.2,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Barely Lethal",
+      "year": 2015,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 20379746.8354,
+      "cost_real": 40759493.6709,
+      "studio_revenue_real": 762500.6873,
+      "profit_real": -39996992.9835,
+      "roi": -0.9813,
+      "revenue_multiple": 0.0187,
+      "metascore": 44.0,
+      "rt_critics": 26.0,
+      "imdb_rating": 5.4,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Slow West",
+      "year": 2015,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2717299.5781,
+      "cost_real": 4075949.3671,
+      "studio_revenue_real": 1365276.3316,
+      "profit_real": -2710673.0354,
+      "roi": -0.665,
+      "revenue_multiple": 0.335,
+      "metascore": 72.0,
+      "rt_critics": 92.0,
+      "imdb_rating": 6.9,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Mississippi Grind",
+      "year": 2015,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 9646413.5021,
+      "cost_real": 14469620.2532,
+      "studio_revenue_real": 133019.6266,
+      "profit_real": -14336600.6266,
+      "roi": -0.9908,
+      "revenue_multiple": 0.0092,
+      "metascore": 77.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 6.4,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Equals",
+      "year": 2015,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 21738396.6245,
+      "cost_real": 43476793.2489,
+      "studio_revenue_real": 1706145.5316,
+      "profit_real": -41770647.7173,
+      "roi": -0.9608,
+      "revenue_multiple": 0.0392,
+      "metascore": 43.0,
+      "rt_critics": 36.0,
+      "imdb_rating": 6.0,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Lobster",
+      "year": 2015,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 5434599.1561,
+      "cost_real": 8151898.7342,
+      "studio_revenue_real": 14648400.5633,
+      "profit_real": 6496501.8291,
+      "roi": 0.7969,
+      "revenue_multiple": 1.7969,
+      "metascore": 82.0,
+      "rt_critics": 87.0,
+      "imdb_rating": 7.1,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Room",
+      "year": 2015,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 17662447.2574,
+      "cost_real": 26493670.8861,
+      "studio_revenue_real": 31850423.3494,
+      "profit_real": 5356752.4633,
+      "roi": 0.2022,
+      "revenue_multiple": 1.2022,
+      "metascore": 86.0,
+      "rt_critics": 93.0,
+      "imdb_rating": 8.1,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Remember",
+      "year": 2015,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 13043037.9747,
+      "cost_real": 19564556.962,
+      "studio_revenue_real": 1860879.5747,
+      "profit_real": -17703677.3873,
+      "roi": -0.9049,
+      "revenue_multiple": 0.0951,
+      "metascore": 52.0,
+      "rt_critics": 68.0,
+      "imdb_rating": 7.5,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Witch",
+      "year": 2016,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 5366666.6667,
+      "cost_real": 8050000.0,
+      "studio_revenue_real": 37600440.1062,
+      "profit_real": 29550440.1062,
+      "roi": 3.6709,
+      "revenue_multiple": 4.6709,
+      "metascore": 84.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 7.0,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Krisha",
+      "year": 2016,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 40250.0,
+      "cost_real": 60375.0,
+      "studio_revenue_real": 145727.1375,
+      "profit_real": 85352.1375,
+      "roi": 1.4137,
+      "revenue_multiple": 2.4137,
+      "metascore": 86.0,
+      "rt_critics": 95.0,
+      "imdb_rating": 7.1,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Green Room",
+      "year": 2016,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6708333.3333,
+      "cost_real": 10062500.0,
+      "studio_revenue_real": 3707099.6638,
+      "profit_real": -6355400.3362,
+      "roi": -0.6316,
+      "revenue_multiple": 0.3684,
+      "metascore": 79.0,
+      "rt_critics": 90.0,
+      "imdb_rating": 7.0,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Sea of Trees",
+      "year": 2016,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 33541666.6667,
+      "cost_real": 67083333.3333,
+      "studio_revenue_real": 735859.355,
+      "profit_real": -66347473.9783,
+      "roi": -0.989,
+      "revenue_multiple": 0.011,
+      "metascore": 23.0,
+      "rt_critics": 19.0,
+      "imdb_rating": 6.1,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Swiss Army Man",
+      "year": 2016,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 4025000.0,
+      "cost_real": 6037500.0,
+      "studio_revenue_real": 5516353.8675,
+      "profit_real": -521146.1325,
+      "roi": -0.0863,
+      "revenue_multiple": 0.9137,
+      "metascore": 64.0,
+      "rt_critics": 73.0,
+      "imdb_rating": 6.9,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "American Honey",
+      "year": 2016,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 4695833.3333,
+      "cost_real": 7043750.0,
+      "studio_revenue_real": 1977450.7025,
+      "profit_real": -5066299.2975,
+      "roi": -0.7193,
+      "revenue_multiple": 0.2807,
+      "metascore": 80.0,
+      "rt_critics": 79.0,
+      "imdb_rating": 7.0,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Moonlight",
+      "year": 2016,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 5366666.6667,
+      "cost_real": 8050000.0,
+      "studio_revenue_real": 57968388.1,
+      "profit_real": 49918388.1,
+      "roi": 6.201,
+      "revenue_multiple": 7.201,
+      "metascore": 99.0,
+      "rt_critics": 98.0,
+      "imdb_rating": 7.4,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Monster",
+      "year": 2016,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3622500.0,
+      "cost_real": 5433750.0,
+      "studio_revenue_real": 62094.48,
+      "profit_real": -5371655.52,
+      "roi": -0.9886,
+      "revenue_multiple": 0.0114,
+      "metascore": 69.0,
+      "rt_critics": 81.0,
+      "imdb_rating": 5.4,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "20th Century Women",
+      "year": 2016,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 9391666.6667,
+      "cost_real": 14087500.0,
+      "studio_revenue_real": 5700168.775,
+      "profit_real": -8387331.225,
+      "roi": -0.5954,
+      "revenue_multiple": 0.4046,
+      "metascore": 83.0,
+      "rt_critics": 88.0,
+      "imdb_rating": 7.3,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Disaster Artist",
+      "year": 2017,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 13137494.9,
+      "cost_real": 19706242.3501,
+      "studio_revenue_real": 27668171.2118,
+      "profit_real": 7961928.8617,
+      "roi": 0.404,
+      "revenue_multiple": 1.404,
+      "metascore": 76.0,
+      "rt_critics": 90.0,
+      "imdb_rating": 7.3,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Free Fire",
+      "year": 2017,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 9196246.43,
+      "cost_real": 13794369.645,
+      "studio_revenue_real": 3286379.295,
+      "profit_real": -10507990.3501,
+      "roi": -0.7618,
+      "revenue_multiple": 0.2382,
+      "metascore": 63.0,
+      "rt_critics": 69.0,
+      "imdb_rating": 6.3,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "A Ghost Story",
+      "year": 2017,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 131374.949,
+      "cost_real": 197062.4235,
+      "studio_revenue_real": 1835637.8543,
+      "profit_real": 1638575.4308,
+      "roi": 8.315,
+      "revenue_multiple": 9.315,
+      "metascore": 84.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 6.8,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "It Comes at Night",
+      "year": 2017,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6568747.45,
+      "cost_real": 9853121.175,
+      "studio_revenue_real": 17954129.0098,
+      "profit_real": 8101007.8348,
+      "roi": 0.8222,
+      "revenue_multiple": 1.8222,
+      "metascore": 78.0,
+      "rt_critics": 88.0,
+      "imdb_rating": 6.1,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Good Time",
+      "year": 2017,
+      "primary_genre": "Crime",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2627498.98,
+      "cost_real": 3941248.47,
+      "studio_revenue_real": 2987461.4137,
+      "profit_real": -953787.0563,
+      "roi": -0.242,
+      "revenue_multiple": 0.758,
+      "metascore": 80.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 7.3,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Lady Bird",
+      "year": 2017,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 13137494.9,
+      "cost_real": 19706242.3501,
+      "studio_revenue_real": 71919561.754,
+      "profit_real": 52213319.4039,
+      "roi": 2.6496,
+      "revenue_multiple": 3.6496,
+      "metascore": 93.0,
+      "rt_critics": 99.0,
+      "imdb_rating": 7.4,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Woodshock",
+      "year": 2017,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6568747.45,
+      "cost_real": 9853121.175,
+      "studio_revenue_real": 42827.7736,
+      "profit_real": -9810293.4015,
+      "roi": -0.9957,
+      "revenue_multiple": 0.0043,
+      "metascore": 39.0,
+      "rt_critics": 27.0,
+      "imdb_rating": 4.2,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Florida Project",
+      "year": 2017,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2627498.98,
+      "cost_real": 3941248.47,
+      "studio_revenue_real": 10073146.4945,
+      "profit_real": 6131898.0245,
+      "roi": 1.5558,
+      "revenue_multiple": 2.5558,
+      "metascore": 92.0,
+      "rt_critics": 96.0,
+      "imdb_rating": 7.6,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3941248.47,
+      "cost_real": 5911872.705,
+      "studio_revenue_real": 8885919.2913,
+      "profit_real": 2974046.5863,
+      "roi": 0.5031,
+      "revenue_multiple": 1.5031,
+      "metascore": 73.0,
+      "rt_critics": 79.0,
+      "imdb_rating": 7.0,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Ballad of Lefty Brown",
+      "year": 2017,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10509995.92,
+      "cost_real": 15764993.88,
+      "studio_revenue_real": 7740.612,
+      "profit_real": -15757253.2681,
+      "roi": -0.9995,
+      "revenue_multiple": 0.0005,
+      "metascore": 64.0,
+      "rt_critics": 79.0,
+      "imdb_rating": 6.3,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Eighth Grade",
+      "year": 2018,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2564715.2529,
+      "cost_real": 3847072.8793,
+      "studio_revenue_real": 13022061.822,
+      "profit_real": 9174988.9427,
+      "roi": 2.3849,
+      "revenue_multiple": 3.3849,
+      "metascore": 85.0,
+      "rt_critics": 99.0,
+      "imdb_rating": 7.3,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Lean on Pete",
+      "year": 2018,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10258861.0115,
+      "cost_real": 15388291.5173,
+      "studio_revenue_real": 2070313.0418,
+      "profit_real": -13317978.4755,
+      "roi": -0.8655,
+      "revenue_multiple": 0.1345,
+      "metascore": 80.0,
+      "rt_critics": 90.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "First Reformed",
+      "year": 2018,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 4488251.6926,
+      "cost_real": 6732377.5388,
+      "studio_revenue_real": 3732180.8172,
+      "profit_real": -3000196.7216,
+      "roi": -0.4456,
+      "revenue_multiple": 0.5544,
+      "metascore": 86.0,
+      "rt_critics": 94.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 12823576.2644,
+      "cost_real": 19235364.3967,
+      "studio_revenue_real": 76028599.5125,
+      "profit_real": 56793235.1159,
+      "roi": 2.9525,
+      "revenue_multiple": 3.9525,
+      "metascore": 87.0,
+      "rt_critics": 90.0,
+      "imdb_rating": 7.3,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Under the Silver Lake",
+      "year": 2018,
+      "primary_genre": "Crime",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10900039.8248,
+      "cost_real": 16350059.7372,
+      "studio_revenue_real": 1588833.2127,
+      "profit_real": -14761226.5245,
+      "roi": -0.9028,
+      "revenue_multiple": 0.0972,
+      "metascore": 60.0,
+      "rt_critics": 58.0,
+      "imdb_rating": 6.5,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Climax",
+      "year": 2018,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3718837.1167,
+      "cost_real": 5578255.675,
+      "studio_revenue_real": 1462202.9618,
+      "profit_real": -4116052.7133,
+      "roi": -0.7379,
+      "revenue_multiple": 0.2621,
+      "metascore": 69.0,
+      "rt_critics": 69.0,
+      "imdb_rating": 6.9,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "High Life",
+      "year": 2018,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 11455813.6201,
+      "cost_real": 17183720.4301,
+      "studio_revenue_real": 1876983.7802,
+      "profit_real": -15306736.6499,
+      "roi": -0.8908,
+      "revenue_multiple": 0.1092,
+      "metascore": 78.0,
+      "rt_critics": 83.0,
+      "imdb_rating": 5.7,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "mid90s",
+      "year": 2018,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2180007.965,
+      "cost_real": 3270011.9474,
+      "studio_revenue_real": 8574072.6965,
+      "profit_real": 5304060.7491,
+      "roi": 1.622,
+      "revenue_multiple": 2.622,
+      "metascore": 66.0,
+      "rt_critics": 81.0,
+      "imdb_rating": 7.4,
+      "quadrant": "cashcow",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Midsommar",
+      "year": 2019,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 11333594.0555,
+      "cost_real": 17000391.0833,
+      "studio_revenue_real": 41824738.6074,
+      "profit_real": 24824347.5241,
+      "roi": 1.4602,
+      "revenue_multiple": 2.4602,
+      "metascore": 72.0,
+      "rt_critics": 83.0,
+      "imdb_rating": 7.1,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Farewell",
+      "year": 2019,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 315199.8436,
+      "cost_real": 472799.7654,
+      "studio_revenue_real": 20778710.8123,
+      "profit_real": 20305911.0469,
+      "roi": 42.9482,
+      "revenue_multiple": 43.9482,
+      "metascore": 89.0,
+      "rt_critics": 97.0,
+      "imdb_rating": 7.5,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Uncut Gems",
+      "year": 2019,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 23926476.3395,
+      "cost_real": 47852952.6789,
+      "studio_revenue_real": 47245767.9703,
+      "profit_real": -607184.7086,
+      "roi": -0.0127,
+      "revenue_multiple": 0.9873,
+      "metascore": 93.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 7.4,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 13852170.5123,
+      "cost_real": 20778255.7685,
+      "studio_revenue_real": 15851345.9836,
+      "profit_real": -4926909.7849,
+      "roi": -0.2371,
+      "revenue_multiple": 0.7629,
+      "metascore": 83.0,
+      "rt_critics": 90.0,
+      "imdb_rating": 7.4,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Waves",
+      "year": 2019,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 7555729.3704,
+      "cost_real": 11333594.0555,
+      "studio_revenue_real": 2260438.1111,
+      "profit_real": -9073155.9445,
+      "roi": -0.8006,
+      "revenue_multiple": 0.1994,
+      "metascore": 80.0,
+      "rt_critics": 84.0,
+      "imdb_rating": 7.5,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "First Cow",
+      "year": 2020,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2488408.0371,
+      "cost_real": 3732612.0556,
+      "studio_revenue_real": 94311.9088,
+      "profit_real": -3638300.1468,
+      "roi": -0.9747,
+      "revenue_multiple": 0.0253,
+      "metascore": 90.0,
+      "rt_critics": 96.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Minari",
+      "year": 2021,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2376383.7638,
+      "cost_real": 3564575.6458,
+      "studio_revenue_real": 9751000.0517,
+      "profit_real": 6186424.4059,
+      "roi": 1.7355,
+      "revenue_multiple": 2.7355,
+      "metascore": 89.0,
+      "rt_critics": 98.0,
+      "imdb_rating": 7.4,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Zola",
+      "year": 2021,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 5940959.4096,
+      "cost_real": 8911439.1144,
+      "studio_revenue_real": 4317056.6734,
+      "profit_real": -4594382.441,
+      "roi": -0.5156,
+      "revenue_multiple": 0.4844,
+      "metascore": 76.0,
+      "rt_critics": 88.0,
+      "imdb_rating": 6.4,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Green Knight",
+      "year": 2021,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 17822878.2288,
+      "cost_real": 35645756.4576,
+      "studio_revenue_real": 16526287.5421,
+      "profit_real": -19119468.9155,
+      "roi": -0.5364,
+      "revenue_multiple": 0.4636,
+      "metascore": 85.0,
+      "rt_critics": 89.0,
+      "imdb_rating": 6.6,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Lamb",
+      "year": 2021,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 5940959.4096,
+      "cost_real": 8911439.1144,
+      "studio_revenue_real": 2758341.7085,
+      "profit_real": -6153097.4059,
+      "roi": -0.6905,
+      "revenue_multiple": 0.3095,
+      "metascore": 68.0,
+      "rt_critics": 86.0,
+      "imdb_rating": 6.3,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "C'mon C'mon",
+      "year": 2021,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 9861992.6199,
+      "cost_real": 14792988.9299,
+      "studio_revenue_real": 3397695.403,
+      "profit_real": -11395293.5269,
+      "roi": -0.7703,
+      "revenue_multiple": 0.2297,
+      "metascore": 82.0,
+      "rt_critics": null,
+      "imdb_rating": 7.3,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Red Rocket",
+      "year": 2021,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 1307011.0701,
+      "cost_real": 1960516.6052,
+      "studio_revenue_real": 1750756.6561,
+      "profit_real": -209759.9491,
+      "roi": -0.107,
+      "revenue_multiple": 0.893,
+      "metascore": 76.0,
+      "rt_critics": 90.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "X",
+      "year": 2022,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 1100102.494,
+      "cost_real": 1650153.741,
+      "studio_revenue_real": 11674782.4376,
+      "profit_real": 10024628.6966,
+      "roi": 6.075,
+      "revenue_multiple": 7.075,
+      "metascore": 80.0,
+      "rt_critics": 94.0,
+      "imdb_rating": 6.5,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 27502562.3505,
+      "cost_real": 55005124.7011,
+      "studio_revenue_real": 104618391.5801,
+      "profit_real": 49613266.8791,
+      "roi": 0.902,
+      "revenue_multiple": 1.902,
+      "metascore": 81.0,
+      "rt_critics": 93.0,
+      "imdb_rating": 7.7,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Men",
+      "year": 2022,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 7150666.2111,
+      "cost_real": 10725999.3167,
+      "studio_revenue_real": 8613165.0738,
+      "profit_real": -2112834.2429,
+      "roi": -0.197,
+      "revenue_multiple": 0.803,
+      "metascore": 65.0,
+      "rt_critics": 69.0,
+      "imdb_rating": 6.0,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Marcel the Shell with Shoes On",
+      "year": 2022,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 6600614.9641,
+      "cost_real": 9900922.4462,
+      "studio_revenue_real": 5605661.0366,
+      "profit_real": -4295261.4096,
+      "roi": -0.4338,
+      "revenue_multiple": 0.5662,
+      "metascore": 80.0,
+      "rt_critics": 98.0,
+      "imdb_rating": 7.6,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Bodies Bodies Bodies",
+      "year": 2022,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3300307.4821,
+      "cost_real": 4950461.2231,
+      "studio_revenue_real": 11083304.136,
+      "profit_real": 6132842.9129,
+      "roi": 1.2388,
+      "revenue_multiple": 2.2388,
+      "metascore": 69.0,
+      "rt_critics": 85.0,
+      "imdb_rating": 6.2,
+      "quadrant": "cashcow",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Pearl",
+      "year": 2022,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 1100102.494,
+      "cost_real": 1650153.741,
+      "studio_revenue_real": 8054962.2873,
+      "profit_real": 6404808.5463,
+      "roi": 3.8813,
+      "revenue_multiple": 4.8813,
+      "metascore": 76.0,
+      "rt_critics": 93.0,
+      "imdb_rating": 7.0,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "White Noise",
+      "year": 2022,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 110010249.4021,
+      "cost_real": 220020498.8042,
+      "studio_revenue_real": 53075.875,
+      "profit_real": -219967422.9293,
+      "roi": -0.9998,
+      "revenue_multiple": 0.0002,
+      "metascore": 66.0,
+      "rt_critics": 64.0,
+      "imdb_rating": 5.7,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Whale",
+      "year": 2022,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3300307.4821,
+      "cost_real": 4950461.2231,
+      "studio_revenue_real": 40911629.6925,
+      "profit_real": 35961168.4694,
+      "roi": 7.2642,
+      "revenue_multiple": 8.2642,
+      "metascore": 60.0,
+      "rt_critics": 64.0,
+      "imdb_rating": 7.6,
+      "quadrant": "cashcow",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Beau Is Afraid",
+      "year": 2023,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 36987200.5251,
+      "cost_real": 73974401.0502,
+      "studio_revenue_real": 9118836.1477,
+      "profit_real": -64855564.9025,
+      "roi": -0.8767,
+      "revenue_multiple": 0.1233,
+      "metascore": 63.0,
+      "rt_critics": 67.0,
+      "imdb_rating": 6.6,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Past Lives",
+      "year": 2023,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 12681325.8943,
+      "cost_real": 19021988.8415,
+      "studio_revenue_real": 19630465.3302,
+      "profit_real": 608476.4887,
+      "roi": 0.032,
+      "revenue_multiple": 1.032,
+      "metascore": 94.0,
+      "rt_critics": 95.0,
+      "imdb_rating": 7.8,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Talk to Me",
+      "year": 2023,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 4755497.2104,
+      "cost_real": 7133245.8156,
+      "studio_revenue_real": 65964482.7056,
+      "profit_real": 58831236.8901,
+      "roi": 8.2475,
+      "revenue_multiple": 9.2475,
+      "metascore": 76.0,
+      "rt_critics": null,
+      "imdb_rating": 7.1,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Dicks: The Musical",
+      "year": 2023,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 8454217.2629,
+      "cost_real": 12681325.8943,
+      "studio_revenue_real": 1163744.3531,
+      "profit_real": -11517581.5412,
+      "roi": -0.9082,
+      "revenue_multiple": 0.0918,
+      "metascore": null,
+      "rt_critics": 68.0,
+      "imdb_rating": 5.3,
+      "quadrant": null,
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Priscilla",
+      "year": 2023,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 21135543.1572,
+      "cost_real": 42271086.3144,
+      "studio_revenue_real": 22433988.8182,
+      "profit_real": -19837097.4962,
+      "roi": -0.4693,
+      "revenue_multiple": 0.5307,
+      "metascore": 79.0,
+      "rt_critics": 84.0,
+      "imdb_rating": 6.5,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Dream Scenario",
+      "year": 2023,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10567771.5786,
+      "cost_real": 15851657.3679,
+      "studio_revenue_real": 9859707.5809,
+      "profit_real": -5991949.787,
+      "roi": -0.378,
+      "revenue_multiple": 0.622,
+      "metascore": 74.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 6.8,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Zone of Interest",
+      "year": 2023,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 15851657.3679,
+      "cost_real": 31703314.7358,
+      "studio_revenue_real": 34744772.235,
+      "profit_real": 3041457.4992,
+      "roi": 0.0959,
+      "revenue_multiple": 1.0959,
+      "metascore": 92.0,
+      "rt_critics": 93.0,
+      "imdb_rating": 7.3,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Iron Claw",
+      "year": 2023,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 16802756.81,
+      "cost_real": 33605513.62,
+      "studio_revenue_real": 31004450.6702,
+      "profit_real": -2601062.9498,
+      "roi": -0.0774,
+      "revenue_multiple": 0.9226,
+      "metascore": 73.0,
+      "rt_critics": 89.0,
+      "imdb_rating": 7.6,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Problemista",
+      "year": 2024,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 12317500.7969,
+      "cost_real": 18476251.1954,
+      "studio_revenue_real": 1927037.5869,
+      "profit_real": -16549213.6085,
+      "roi": -0.8957,
+      "revenue_multiple": 0.1043,
+      "metascore": 68.0,
+      "rt_critics": 85.0,
+      "imdb_rating": 6.7,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Love Lies Bleeding",
+      "year": 2024,
+      "primary_genre": "Crime",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10264583.9974,
+      "cost_real": 15396875.9962,
+      "studio_revenue_real": 9153242.1584,
+      "profit_real": -6243633.8377,
+      "roi": -0.4055,
+      "revenue_multiple": 0.5945,
+      "metascore": 77.0,
+      "rt_critics": 94.0,
+      "imdb_rating": 6.6,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Civil War",
+      "year": 2024,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 51322919.9872,
+      "cost_real": 102645839.9745,
+      "studio_revenue_real": 88520499.7909,
+      "profit_real": -14125340.1836,
+      "roi": -0.1376,
+      "revenue_multiple": 0.8624,
+      "metascore": 75.0,
+      "rt_critics": 81.0,
+      "imdb_rating": 7.0,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "I Saw the TV Glow",
+      "year": 2024,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10264583.9974,
+      "cost_real": 15396875.9962,
+      "studio_revenue_real": 4103187.5432,
+      "profit_real": -11293688.453,
+      "roi": -0.7335,
+      "revenue_multiple": 0.2665,
+      "metascore": 86.0,
+      "rt_critics": 85.0,
+      "imdb_rating": 5.8,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "MaXXXine",
+      "year": 2024,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10264583.9974,
+      "cost_real": 15396875.9962,
+      "studio_revenue_real": 15909017.9713,
+      "profit_real": 512141.9751,
+      "roi": 0.0333,
+      "revenue_multiple": 1.0333,
+      "metascore": 64.0,
+      "rt_critics": 73.0,
+      "imdb_rating": 6.2,
+      "quadrant": "cashcow",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Sing Sing",
+      "year": 2024,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2052916.7995,
+      "cost_real": 3079375.1992,
+      "studio_revenue_real": 2573993.0685,
+      "profit_real": -505382.1307,
+      "roi": -0.1641,
+      "revenue_multiple": 0.8359,
+      "metascore": 83.0,
+      "rt_critics": 97.0,
+      "imdb_rating": 7.6,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "The Front Room",
+      "year": 2024,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3592604.3991,
+      "cost_real": 5388906.5987,
+      "studio_revenue_real": 2425579.6554,
+      "profit_real": -2963326.9433,
+      "roi": -0.5499,
+      "revenue_multiple": 0.4501,
+      "metascore": 49.0,
+      "rt_critics": 40.0,
+      "imdb_rating": 4.6,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "We Live in Time",
+      "year": 2024,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 20529167.9949,
+      "cost_real": 41058335.9898,
+      "studio_revenue_real": 26701905.942,
+      "profit_real": -14356430.0478,
+      "roi": -0.3497,
+      "revenue_multiple": 0.6503,
+      "metascore": 59.0,
+      "rt_critics": 79.0,
+      "imdb_rating": 7.0,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Parthenope",
+      "year": 2024,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 32846668.7918,
+      "cost_real": 65693337.5837,
+      "studio_revenue_real": 6425692.6583,
+      "profit_real": -59267644.9254,
+      "roi": -0.9022,
+      "revenue_multiple": 0.0978,
+      "metascore": 52.0,
+      "rt_critics": 47.0,
+      "imdb_rating": 6.6,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Heretic",
+      "year": 2024,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10264583.9974,
+      "cost_real": 15396875.9962,
+      "studio_revenue_real": 36281191.8228,
+      "profit_real": 20884315.8266,
+      "roi": 1.3564,
+      "revenue_multiple": 2.3564,
+      "metascore": 71.0,
+      "rt_critics": 89.0,
+      "imdb_rating": 7.0,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Queer",
+      "year": 2024,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 54812878.5464,
+      "cost_real": 109625757.0928,
+      "studio_revenue_real": 3932311.7816,
+      "profit_real": -105693445.3111,
+      "roi": -0.9641,
+      "revenue_multiple": 0.0359,
+      "metascore": 72.0,
+      "rt_critics": 77.0,
+      "imdb_rating": 6.4,
+      "quadrant": "subsidised",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Y2K",
+      "year": 2024,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 15396875.9962,
+      "cost_real": 30793751.9923,
+      "studio_revenue_real": 3444664.2346,
+      "profit_real": -27349087.7577,
+      "roi": -0.8881,
+      "revenue_multiple": 0.1119,
+      "metascore": 49.0,
+      "rt_critics": 43.0,
+      "imdb_rating": 4.7,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Brutalist",
+      "year": 2024,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 9854000.6376,
+      "cost_real": 14781000.9563,
+      "studio_revenue_real": 33389670.9821,
+      "profit_real": 18608670.0258,
+      "roi": 1.259,
+      "revenue_multiple": 2.259,
+      "metascore": 91.0,
+      "rt_critics": 93.0,
+      "imdb_rating": 7.2,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Babygirl",
+      "year": 2024,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 20529167.9949,
+      "cost_real": 41058335.9898,
+      "studio_revenue_real": 41869696.1313,
+      "profit_real": 811360.1415,
+      "roi": 0.0198,
+      "revenue_multiple": 1.0198,
+      "metascore": 79.0,
+      "rt_critics": 76.0,
+      "imdb_rating": 5.8,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Ne Zha 2",
+      "year": 2025,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 80000000.0,
+      "cost_real": 160000000.0,
+      "studio_revenue_real": 1359389676.6,
+      "profit_real": 1199389676.6,
+      "roi": 7.4962,
+      "revenue_multiple": 8.4962,
+      "metascore": 68.0,
+      "rt_critics": 91.0,
+      "imdb_rating": 7.9,
+      "quadrant": "cashcow",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Opus",
+      "year": 2025,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10000000.0,
+      "cost_real": 15000000.0,
+      "studio_revenue_real": 1609132.95,
+      "profit_real": -13390867.05,
+      "roi": -0.8927,
+      "revenue_multiple": 0.1073,
+      "metascore": 42.0,
+      "rt_critics": 39.0,
+      "imdb_rating": 5.7,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Death of a Unicorn",
+      "year": 2025,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 15000000.0,
+      "cost_real": 30000000.0,
+      "studio_revenue_real": 11788738.8,
+      "profit_real": -18211261.2,
+      "roi": -0.607,
+      "revenue_multiple": 0.393,
+      "metascore": 51.0,
+      "rt_critics": 52.0,
+      "imdb_rating": 5.8,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Warfare",
+      "year": 2025,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 20000000.0,
+      "cost_real": 40000000.0,
+      "studio_revenue_real": 24841607.55,
+      "profit_real": -15158392.45,
+      "roi": -0.379,
+      "revenue_multiple": 0.621,
+      "metascore": 78.0,
+      "rt_critics": 92.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Legend of Ochi",
+      "year": 2025,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 10000000.0,
+      "cost_real": 15000000.0,
+      "studio_revenue_real": 3294739.35,
+      "profit_real": -11705260.65,
+      "roi": -0.7804,
+      "revenue_multiple": 0.2196,
+      "metascore": 67.0,
+      "rt_critics": 75.0,
+      "imdb_rating": 5.8,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Friendship",
+      "year": 2025,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 2000000.0,
+      "cost_real": 3000000.0,
+      "studio_revenue_real": 12625522.8,
+      "profit_real": 9625522.8,
+      "roi": 3.2085,
+      "revenue_multiple": 4.2085,
+      "metascore": 72.0,
+      "rt_critics": 88.0,
+      "imdb_rating": 6.6,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Bring Her Back",
+      "year": 2025,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 15000000.0,
+      "cost_real": 30000000.0,
+      "studio_revenue_real": 26546128.95,
+      "profit_real": -3453871.05,
+      "roi": -0.1151,
+      "revenue_multiple": 0.8849,
+      "metascore": 75.0,
+      "rt_critics": 89.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Materialists",
+      "year": 2025,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 20000000.0,
+      "cost_real": 40000000.0,
+      "studio_revenue_real": 70247729.55,
+      "profit_real": 30247729.55,
+      "roi": 0.7562,
+      "revenue_multiple": 1.7562,
+      "metascore": 70.0,
+      "rt_critics": 77.0,
+      "imdb_rating": 6.2,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Sorry, Baby",
+      "year": 2025,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 1500000.0,
+      "cost_real": 2250000.0,
+      "studio_revenue_real": 1813710.0,
+      "profit_real": -436290.0,
+      "roi": -0.1939,
+      "revenue_multiple": 0.8061,
+      "metascore": 90.0,
+      "rt_critics": 97.0,
+      "imdb_rating": 7.1,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Eddington",
+      "year": 2025,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 25000000.0,
+      "cost_real": 50000000.0,
+      "studio_revenue_real": 9776427.75,
+      "profit_real": -40223572.25,
+      "roi": -0.8045,
+      "revenue_multiple": 0.1955,
+      "metascore": 65.0,
+      "rt_critics": 69.0,
+      "imdb_rating": 6.6,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Highest 2 Lowest",
+      "year": 2025,
+      "primary_genre": "Thriller",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 25000000.0,
+      "cost_real": 50000000.0,
+      "studio_revenue_real": 1125000.0,
+      "profit_real": -48875000.0,
+      "roi": -0.9775,
+      "revenue_multiple": 0.0225,
+      "metascore": 74.0,
+      "rt_critics": 83.0,
+      "imdb_rating": 5.5,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Smashing Machine",
+      "year": 2025,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 50000000.0,
+      "cost_real": 100000000.0,
+      "studio_revenue_real": 14391796.8,
+      "profit_real": -85608203.2,
+      "roi": -0.8561,
+      "revenue_multiple": 0.1439,
+      "metascore": 65.0,
+      "rt_critics": 71.0,
+      "imdb_rating": 6.3,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "If I Had Legs I'd Kick You",
+      "year": 2025,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 1500000.0,
+      "cost_real": 2250000.0,
+      "studio_revenue_real": 1189495.8,
+      "profit_real": -1060504.2,
+      "roi": -0.4713,
+      "revenue_multiple": 0.5287,
+      "metascore": 78.0,
+      "rt_critics": 92.0,
+      "imdb_rating": 6.6,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Eternity",
+      "year": 2025,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 12000000.0,
+      "cost_real": 18000000.0,
+      "studio_revenue_real": 22152245.4,
+      "profit_real": 4152245.4,
+      "roi": 0.2307,
+      "revenue_multiple": 1.2307,
+      "metascore": 58.0,
+      "rt_critics": 76.0,
+      "imdb_rating": 6.9,
+      "quadrant": "cashcow",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "Pillion",
+      "year": 2025,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 1000000.0,
+      "cost_real": 1500000.0,
+      "studio_revenue_real": 4555934.85,
+      "profit_real": 3055934.85,
+      "roi": 2.0373,
+      "revenue_multiple": 3.0373,
+      "metascore": 85.0,
+      "rt_critics": 99.0,
+      "imdb_rating": 6.9,
+      "quadrant": "dream",
+      "in_core": false,
+      "flags": [
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "Marty Supreme",
+      "year": 2025,
+      "primary_genre": "Drama",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 65000000.0,
+      "cost_real": 130000000.0,
+      "studio_revenue_real": 129187854.0,
+      "profit_real": -812146.0,
+      "roi": -0.0062,
+      "revenue_multiple": 0.9938,
+      "metascore": 89.0,
+      "rt_critics": 93.0,
+      "imdb_rating": 7.7,
+      "quadrant": "subsidised",
+      "in_core": true,
+      "flags": []
+    },
+    {
+      "title": "The Moment",
+      "year": 2026,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 3914893.617,
+      "cost_real": 5872340.4255,
+      "studio_revenue_real": 3610015.1106,
+      "profit_real": -2262325.3149,
+      "roi": -0.3853,
+      "revenue_multiple": 0.6147,
+      "metascore": 53.0,
+      "rt_critics": null,
+      "imdb_rating": 6.1,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": [
+        "still_in_release"
+      ]
+    },
+    {
+      "title": "How to Make a Killing",
+      "year": 2026,
+      "primary_genre": "Comedy",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 14680851.0638,
+      "cost_real": 29361702.1277,
+      "studio_revenue_real": 13836099.6255,
+      "profit_real": -15525602.5021,
+      "roi": -0.5288,
+      "revenue_multiple": 0.4712,
+      "metascore": 49.0,
+      "rt_critics": null,
+      "imdb_rating": 6.5,
+      "quadrant": "miss",
+      "in_core": false,
+      "flags": [
+        "still_in_release",
+        "distribution_only"
+      ]
+    },
+    {
+      "title": "undertone",
+      "year": 2026,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 489361.7021,
+      "cost_real": 734042.5532,
+      "studio_revenue_real": 15267960.1723,
+      "profit_real": 14533917.6191,
+      "roi": 19.7998,
+      "revenue_multiple": 20.7998,
+      "metascore": 65.0,
+      "rt_critics": 74.0,
+      "imdb_rating": 6.1,
+      "quadrant": "cashcow",
+      "in_core": true,
+      "flags": [
+        "still_in_release"
+      ]
+    },
+    {
+      "title": "The Drama",
+      "year": 2026,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 27404255.3191,
+      "cost_real": 54808510.6383,
+      "studio_revenue_real": 84704572.9404,
+      "profit_real": 29896062.3021,
+      "roi": 0.5455,
+      "revenue_multiple": 1.5455,
+      "metascore": 59.0,
+      "rt_critics": null,
+      "imdb_rating": 7.2,
+      "quadrant": "cashcow",
+      "in_core": true,
+      "flags": [
+        "still_in_release"
+      ]
+    },
+    {
+      "title": "Mother Mary",
+      "year": 2026,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 19574468.0851,
+      "cost_real": 39148936.1702,
+      "studio_revenue_real": 1968950.5277,
+      "profit_real": -37179985.6426,
+      "roi": -0.9497,
+      "revenue_multiple": 0.0503,
+      "metascore": 60.0,
+      "rt_critics": null,
+      "imdb_rating": 4.0,
+      "quadrant": "miss",
+      "in_core": true,
+      "flags": [
+        "still_in_release"
+      ]
+    },
+    {
+      "title": "Backrooms",
+      "year": 2026,
+      "primary_genre": "Horror",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 9787234.0426,
+      "cost_real": 14680851.0638,
+      "studio_revenue_real": 248116004.0745,
+      "profit_real": 233435153.0106,
+      "roi": 15.9007,
+      "revenue_multiple": 16.9007,
+      "metascore": 77.0,
+      "rt_critics": null,
+      "imdb_rating": 7.0,
+      "quadrant": "dream",
+      "in_core": true,
+      "flags": [
+        "still_in_release"
+      ]
+    },
+    {
+      "title": "The Death of Robin Hood",
+      "year": 2026,
+      "primary_genre": "Other",
+      "is_original": null,
+      "festival_premiere": null,
+      "budget_real": 24468085.1064,
+      "cost_real": 48936170.2128,
+      "studio_revenue_real": 2114042.5532,
+      "profit_real": -46822127.6596,
+      "roi": -0.9568,
+      "revenue_multiple": 0.0432,
+      "metascore": null,
+      "rt_critics": null,
+      "imdb_rating": 7.4,
+      "quadrant": null,
+      "in_core": false,
+      "flags": [
+        "still_in_release",
+        "distribution_only"
+      ]
+    }
+  ],
+  "distribution": {
+    "mean_roi": 1.9107,
+    "median_roi": -0.1007,
+    "std_roi": 6.6738,
+    "skewness": 4.6194,
+    "excess_kurtosis": 23.8289,
+    "gini_profit": 0.6315,
+    "top_decile_profit_share": 0.6493,
+    "lorenz": [
+      [
+        0.0172,
+        -0.3231
+      ],
+      [
+        0.0345,
+        -0.4489
+      ],
+      [
+        0.0517,
+        -0.5442
+      ],
+      [
+        0.069,
+        -0.616
+      ],
+      [
+        0.0862,
+        -0.6751
+      ],
+      [
+        0.1034,
+        -0.7297
+      ],
+      [
+        0.1207,
+        -0.7699
+      ],
+      [
+        0.1379,
+        -0.7979
+      ],
+      [
+        0.1552,
+        -0.8247
+      ],
+      [
+        0.1724,
+        -0.849
+      ],
+      [
+        0.1897,
+        -0.8713
+      ],
+      [
+        0.2069,
+        -0.892
+      ],
+      [
+        0.2241,
+        -0.9117
+      ],
+      [
+        0.2414,
+        -0.9289
+      ],
+      [
+        0.2586,
+        -0.9458
+      ],
+      [
+        0.2759,
+        -0.9626
+      ],
+      [
+        0.2931,
+        -0.9791
+      ],
+      [
+        0.3103,
+        -0.9925
+      ],
+      [
+        0.3276,
+        -1.0016
+      ],
+      [
+        0.3448,
+        -1.0105
+      ],
+      [
+        0.3621,
+        -1.0177
+      ],
+      [
+        0.3793,
+        -1.0244
+      ],
+      [
+        0.3966,
+        -1.0298
+      ],
+      [
+        0.4138,
+        -1.0349
+      ],
+      [
+        0.431,
+        -1.0392
+      ],
+      [
+        0.4483,
+        -1.043
+      ],
+      [
+        0.4655,
+        -1.0464
+      ],
+      [
+        0.4828,
+        -1.0495
+      ],
+      [
+        0.5,
+        -1.051
+      ],
+      [
+        0.5172,
+        -1.0522
+      ],
+      [
+        0.5345,
+        -1.0531
+      ],
+      [
+        0.5517,
+        -1.0539
+      ],
+      [
+        0.569,
+        -1.0545
+      ],
+      [
+        0.5862,
+        -1.0538
+      ],
+      [
+        0.6034,
+        -1.0529
+      ],
+      [
+        0.6207,
+        -1.0517
+      ],
+      [
+        0.6379,
+        -1.0493
+      ],
+      [
+        0.6552,
+        -1.0448
+      ],
+      [
+        0.6724,
+        -1.0387
+      ],
+      [
+        0.6897,
+        -1.0309
+      ],
+      [
+        0.7069,
+        -1.0219
+      ],
+      [
+        0.7241,
+        -1.0128
+      ],
+      [
+        0.7414,
+        -1.0034
+      ],
+      [
+        0.7586,
+        -0.9915
+      ],
+      [
+        0.7759,
+        -0.978
+      ],
+      [
+        0.7931,
+        -0.9633
+      ],
+      [
+        0.8103,
+        -0.9419
+      ],
+      [
+        0.8276,
+        -0.9121
+      ],
+      [
+        0.8448,
+        -0.8814
+      ],
+      [
+        0.8621,
+        -0.845
+      ],
+      [
+        0.8793,
+        -0.801
+      ],
+      [
+        0.8966,
+        -0.7566
+      ],
+      [
+        0.9138,
+        -0.7038
+      ],
+      [
+        0.931,
+        -0.6309
+      ],
+      [
+        0.9483,
+        -0.5576
+      ],
+      [
+        0.9655,
+        -0.4809
+      ],
+      [
+        0.9828,
+        -0.3974
+      ],
+      [
+        1.0,
+        -0.0545
+      ]
+    ]
+  },
+  "portfolio": {
+    "sharpe_analogue_film": 0.2863,
+    "sharpe_timeseries_year": 0.364,
+    "sortino": 3.9209,
+    "var_5pct_roi": -0.9535,
+    "max_drawdown": 0.9977,
+    "by_genre": [
+      {
+        "genre": "Comedy",
+        "mean_roi": 5.2,
+        "std_roi": 15.29,
+        "n": 8
+      },
+      {
+        "genre": "Crime",
+        "mean_roi": -0.41,
+        "std_roi": null,
+        "n": 1
+      },
+      {
+        "genre": "Drama",
+        "mean_roi": 1.43,
+        "std_roi": 2.97,
+        "n": 17
+      },
+      {
+        "genre": "Horror",
+        "mean_roi": 2.91,
+        "std_roi": 5.97,
+        "n": 17
+      },
+      {
+        "genre": "Other",
+        "mean_roi": -0.23,
+        "std_roi": 0.63,
+        "n": 14
+      },
+      {
+        "genre": "Thriller",
+        "mean_roi": -0.98,
+        "std_roi": null,
+        "n": 1
+      }
+    ],
+    "by_budget_band": [
+      {
+        "band": "<$5M",
+        "mean_roi": 5.79,
+        "std_roi": 11.22,
+        "n": 16
+      },
+      {
+        "band": "$5-15M",
+        "mean_roi": 0.98,
+        "std_roi": 3.58,
+        "n": 24
+      },
+      {
+        "band": ">$15M",
+        "mean_roi": -0.29,
+        "std_roi": 0.62,
+        "n": 18
+      }
+    ]
+  },
+  "slate_timeseries": [
+    {
+      "year": 2016,
+      "n": 2,
+      "capital": 14087500.0,
+      "profit": 49397241.9675,
+      "slate_return": 3.5065,
+      "cumulative_fund_value": 4.5065
+    },
+    {
+      "year": 2017,
+      "n": 3,
+      "capital": 29756425.9486,
+      "profit": 61952902.6695,
+      "slate_return": 2.082,
+      "cumulative_fund_value": 13.8889
+    },
+    {
+      "year": 2018,
+      "n": 3,
+      "capital": 26352449.2234,
+      "profit": 71272284.8076,
+      "slate_return": 2.7046,
+      "cumulative_fund_value": 51.4526
+    },
+    {
+      "year": 2019,
+      "n": 5,
+      "capital": 97437993.3516,
+      "profit": 30523008.133,
+      "slate_return": 0.3133,
+      "cumulative_fund_value": 67.5704
+    },
+    {
+      "year": 2020,
+      "n": 1,
+      "capital": 3732612.0556,
+      "profit": -3638300.1468,
+      "slate_return": -0.9747,
+      "cumulative_fund_value": 1.7073
+    },
+    {
+      "year": 2021,
+      "n": 4,
+      "capital": 62914760.1476,
+      "profit": -28922720.4775,
+      "slate_return": -0.4597,
+      "cumulative_fund_value": 0.9224
+    },
+    {
+      "year": 2022,
+      "n": 7,
+      "capital": 298952852.7503,
+      "profit": -113943541.6679,
+      "slate_return": -0.3811,
+      "cumulative_fund_value": 0.5709
+    },
+    {
+      "year": 2023,
+      "n": 6,
+      "capital": 186838201.5097,
+      "profit": -81316225.1926,
+      "slate_return": -0.4352,
+      "cumulative_fund_value": 0.3224
+    },
+    {
+      "year": 2024,
+      "n": 9,
+      "capital": 259950589.7354,
+      "profit": -56316472.8406,
+      "slate_return": -0.2166,
+      "cumulative_fund_value": 0.2526
+    },
+    {
+      "year": 2025,
+      "n": 13,
+      "capital": 522500000.0,
+      "profit": -204535393.1,
+      "slate_return": -0.3915,
+      "cumulative_fund_value": 0.1537
+    }
+  ],
+  "regression": {
+    "dependent": "log_multiple",
+    "n": 57,
+    "r_squared": 0.4641,
+    "terms": [
+      {
+        "name": "const",
+        "coef": 7.2095,
+        "robust_se": 3.2106,
+        "p_value": 0.0247,
+        "std_beta": null
+      },
+      {
+        "name": "ln_budget",
+        "coef": -0.7422,
+        "robust_se": 0.2169,
+        "p_value": 0.0006,
+        "std_beta": -0.5027
+      },
+      {
+        "name": "metascore",
+        "coef": 0.0468,
+        "robust_se": 0.0176,
+        "p_value": 0.0077,
+        "std_beta": 0.3164
+      },
+      {
+        "name": "g_Crime",
+        "coef": 0.6509,
+        "robust_se": 0.781,
+        "p_value": 0.4046,
+        "std_beta": 0.0452
+      },
+      {
+        "name": "g_Drama",
+        "coef": 0.5766,
+        "robust_se": 0.8366,
+        "p_value": 0.4906,
+        "std_beta": 0.1396
+      },
+      {
+        "name": "g_Horror",
+        "coef": 1.5571,
+        "robust_se": 0.7841,
+        "p_value": 0.047,
+        "std_beta": 0.377
+      },
+      {
+        "name": "g_Other",
+        "coef": 1.2754,
+        "robust_se": 0.939,
+        "p_value": 0.1744,
+        "std_beta": 0.2832
+      },
+      {
+        "name": "g_Thriller",
+        "coef": -1.8223,
+        "robust_se": 0.918,
+        "p_value": 0.0471,
+        "std_beta": -0.1266
+      }
+    ],
+    "spearman_acclaim_roi": {
+      "rho": 0.3158,
+      "p_value": 0.0167
+    },
+    "pearson_acclaim_roi": {
+      "r": 0.1837,
+      "p_value": 0.1714
+    }
+  },
+  "sensitivity": [
+    {
+      "assumption": "base",
+      "value": null,
+      "mean_roi": 1.911,
+      "sharpe": 0.286,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.65
+    },
+    {
+      "assumption": "k_wide",
+      "value": 0.5,
+      "mean_roi": 1.992,
+      "sharpe": 0.299,
+      "beta_metascore": 0.046,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.576
+    },
+    {
+      "assumption": "k_wide",
+      "value": 1.5,
+      "mean_roi": 1.862,
+      "sharpe": 0.278,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.007,
+      "top_decile_share": 0.674
+    },
+    {
+      "assumption": "k_platform",
+      "value": 0.3,
+      "mean_roi": 2.321,
+      "sharpe": 0.301,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.007,
+      "top_decile_share": 0.639
+    },
+    {
+      "assumption": "k_platform",
+      "value": 0.8,
+      "mean_roi": 1.466,
+      "sharpe": 0.264,
+      "beta_metascore": 0.046,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.662
+    },
+    {
+      "assumption": "r_dom",
+      "value": 0.45,
+      "mean_roi": 1.702,
+      "sharpe": 0.277,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.659
+    },
+    {
+      "assumption": "r_dom",
+      "value": 0.55,
+      "mean_roi": 2.119,
+      "sharpe": 0.295,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.007,
+      "top_decile_share": 0.631
+    },
+    {
+      "assumption": "r_intl",
+      "value": 0.35,
+      "mean_roi": 1.807,
+      "sharpe": 0.278,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.007,
+      "top_decile_share": 0.664
+    },
+    {
+      "assumption": "r_intl",
+      "value": 0.45,
+      "mean_roi": 2.014,
+      "sharpe": 0.294,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.63
+    },
+    {
+      "assumption": "a",
+      "value": 0.0,
+      "mean_roi": 0.94,
+      "sharpe": 0.211,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.75
+    },
+    {
+      "assumption": "a",
+      "value": 1.0,
+      "mean_roi": 2.881,
+      "sharpe": 0.324,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.559
+    },
+    {
+      "assumption": "conservative",
+      "value": null,
+      "mean_roi": 1.025,
+      "sharpe": 0.224,
+      "beta_metascore": 0.046,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.702
+    },
+    {
+      "assumption": "generous",
+      "value": null,
+      "mean_roi": 3.297,
+      "sharpe": 0.335,
+      "beta_metascore": 0.047,
+      "p_metascore": 0.008,
+      "top_decile_share": 0.536
+    }
+  ]
+}

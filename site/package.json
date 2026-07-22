@@ -1,0 +1,19 @@
+{
+  "name": "the-slate",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The Slate — a portfolio study of A24, told as one unbroken take.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lenis": "^1.1.14"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0"
+  }
+}

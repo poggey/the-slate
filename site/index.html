@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Slate — A Portfolio Study of A24, in Three Acts</title>
+  <meta name="description" content="118 films. $1.6B wagered. One question: does making good films pay? A24's filmography, analysed as a venture portfolio and told in three acts." />
+  <meta property="og:title" content="The Slate — Does Good Pay?" />
+  <meta property="og:description" content="A24's filmography as a venture portfolio. Five films paid for everything. The answer will surprise the cynics." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23141310'/%3E%3Crect x='6' y='18' width='4' height='8' fill='%23f4f2ec'/%3E%3Crect x='12' y='12' width='4' height='14' fill='%23f4f2ec'/%3E%3Crect x='18' y='20' width='4' height='6' fill='%23f4f2ec'/%3E%3Crect x='24' y='6' width='4' height='20' fill='%23e8b45a'/%3E%3C/svg%3E" />
+  <link rel="preload" href="/fonts/SpaceGrotesk.woff2" as="font" type="font/woff2" crossorigin />
+  <script defer src="/vendor/gsap.min.js"></script>
+  <script defer src="/vendor/ScrollTrigger.min.js"></script>
+  <script defer src="/vendor/ScrollToPlugin.min.js"></script>
+  <script defer src="/vendor/CustomEase.min.js"></script>
+  <script defer src="/vendor/SplitText.min.js"></script>
+  <script defer src="/vendor/DrawSVGPlugin.min.js"></script>
+</head>
+<body data-zone="dark">
+  <a class="skip-link" href="#verdict">Skip to the verdict</a>
+
+  <noscript>
+    <p class="noscript-note">THE SLATE is a scroll-driven story about A24's portfolio. It needs JavaScript to project.
+    The findings, in brief: 58 core films, $1.6B deployed, five films earned ~65% of all profit ever made;
+    critical acclaim is a statistically robust return factor (β = +0.047 per Metascore point, p = 0.008);
+    budget scale is the strongest negative factor. Good pays. Big doesn't.</p>
+  </noscript>
+
+  <!-- Persistent layers -->
+  <div id="grain" aria-hidden="true"></div>
+
+  <nav id="rail" aria-label="Chapters"><!-- built by main.ts --></nav>
+
+  <div id="ticker" role="status" aria-label="Film progress ticker">
+    <span class="num">TC <span id="tick-tc">00:00:00:00</span></span>
+    <span class="tick-sep" aria-hidden="true">·</span>
+    <span id="tick-act">COLD OPEN</span>
+    <span class="tick-context"><span id="tick-context"></span></span>
+  </div>
+
+  <main id="film">
+
+    <!-- ============ SCENE 0 · COLD OPEN — THE DARK THEATRE ============ -->
+    <section id="hero" class="scene--full" data-scene="hero" aria-label="Title frame">
+      <div class="hero-media" aria-hidden="true">
+        <div class="hero-media-img"></div>
+        <div class="hero-media-scrim"></div>
+      </div>
+      <div class="hero-grid">
+        <header class="hero-billing mono-label">
+          <span>A portfolio study</span>
+          <span class="hero-no">Nº A24</span>
+          <span>In three acts</span>
+        </header>
+        <div class="hero-center">
+          <p class="hero-kicker kicker">Does making good films pay?</p>
+          <h1 class="hero-title display">The Slate<span class="hero-dot">.</span></h1>
+          <p class="hero-sub serif">Twelve years of A24, read the way an investor would:
+            <span class="num">118</span> films, <span class="num">$1.6B</span> wagered, one continuous argument about money and art.</p>
+        </div>
+        <div class="hero-foot mono-label">
+          <span>Directed by the data</span>
+          <a class="hero-scrollcue" href="#act1">Roll film ↓</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ ACT I · THE BET ============ -->
+    <section id="act1" class="scene theme-paper" data-scene="act1" aria-label="Act one: the bet">
+      <p class="slugline"><span class="scene-no">SC. 01</span> INT. THE MARKET — DAY</p>
+      <div class="fragments" id="thesis-fragments">
+        <p class="fragment">A film studio does not make films.</p>
+        <p class="fragment">It allocates capital across a portfolio of risky, illiquid bets — <strong>every film is a position.</strong></p>
+        <p class="fragment">A24 has wagered <strong class="num" data-bind="capital"></strong> across <strong class="num" data-bind="nCore"></strong> productions since 2016.</p>
+        <p class="fragment">This is its fund prospectus, <em>run backwards.</em></p>
+      </div>
+    </section>
+
+    <!-- The stakes: every film as a stack of chips -->
+    <section id="wall" class="scene theme-paper" data-scene="wall" aria-label="The stakes: every film's capital at risk as a stack of chips">
+      <p class="slugline"><span class="scene-no">SC. 02</span> INT. THE TABLE — THE STAKES RISE</p>
+      <div class="wall-head">
+        <h2 class="headline wall-title">Every film<br />is a <em>bet.</em></h2>
+        <p class="wall-sub serif">Each stack is one film; each chip is <strong class="num">$10M</strong> of capital at risk.
+          <span class="key-profit">Green came back with a profit</span> — <span class="key-loss">red didn't</span>.
+          Tap any stack.</p>
+        <div class="wall-sort" role="group" aria-label="Arrange the stacks">
+          <span class="mono-label">Arrange by</span>
+          <button class="wall-sort-btn mono-label is-active" data-sort="year">Year</button>
+          <button class="wall-sort-btn mono-label" data-sort="roi">Return</button>
+        </div>
+      </div>
+      <div class="stakes-chart" id="stakes-chart"><!-- chip stacks injected --></div>
+      <p class="stakes-note serif" id="stakes-note"></p>
+      <div class="film-card" id="film-card" hidden></div>
+    </section>
+
+    <div class="act-divider" data-label="ACT II — THE HOUSE TAKES HALF" aria-hidden="true"></div>
+
+    <!-- ============ ACT II · THE HOUSE TAKES HALF ============ -->
+    <section id="cut" data-scene="cut" aria-label="Act two: where the money goes">
+      <div class="cut-viewport">
+        <p class="slugline"><span class="scene-no">SC. 03</span> INT. THE ACCOUNTS — NIGHT</p>
+        <h2 class="headline cut-head">The house<br />takes <em>half</em></h2>
+        <p class="cut-intro serif">Follow <strong class="num">$100M</strong> of ticket money to the studio's bottom line.</p>
+        <div class="cut-stage" id="cut-stage"><!-- built by act2-cut.ts --></div>
+      </div>
+    </section>
+
+    <!-- The tail: one frame, all the skew -->
+    <section id="tail" class="scene" data-scene="tail" aria-label="The distribution of returns">
+      <p class="slugline"><span class="scene-no">SC. 04</span> EXT. THE LONG TAIL — LATER</p>
+      <div class="tail-head">
+        <h2 class="headline tail-title">Most bets<br /><em class="is-loss">lose.</em></h2>
+        <p class="tail-sub serif" id="tail-sub"></p>
+      </div>
+      <div class="tail-chart" id="tail-chart" role="img"
+        aria-label="Histogram of film returns: every film as a dot stacked in its return bin. Most films cluster at or below break-even; a handful sit far to the right, and one outlier sits beyond an axis break."></div>
+      <p class="tail-caption micro" id="tail-caption"></p>
+    </section>
+
+    <!-- The landing: who pays for all of it -->
+    <section id="tail-landing" class="scene" data-scene="tail-landing" aria-label="Five films paid for everything">
+      <div class="tail-landing">
+        <p class="tail-stat-lead mono-label">The whole portfolio, carried by five films</p>
+        <canvas id="five-canvas" class="five-canvas" role="img"
+          aria-label="65 percent, assembled from hundreds of particles: the share of every dollar of profit earned by the top five films"></canvas>
+        <p class="tail-stat serif" id="tail-stat"></p>
+        <div class="five-bars" id="five-bars" role="img"
+          aria-label="Profit bars: the five winners in gold against one large red bar for the combined loss of the other fifty-three films."></div>
+      </div>
+    </section>
+
+    <div class="act-divider" data-label="ACT III — DOES GOOD PAY?" aria-hidden="true"></div>
+
+    <!-- ============ ACT III · DOES GOOD PAY? ============ -->
+    <section id="drawline" class="theme-paper" data-scene="drawline" aria-label="Draw the line: acclaim versus profit">
+      <p class="slugline"><span class="scene-no">SC. 05</span> INT. THE VERDICT ROOM — MIDNIGHT</p>
+      <div class="dl-head-wrap">
+        <h2 class="headline dl-head">Does good<br /><em>pay?</em></h2>
+        <p class="dl-sub serif"><span class="num">58</span> scattered films find their places as you scroll — winners first.<br />
+          <strong>Then draw the relationship you expect.</strong></p>
+      </div>
+      <div class="dl-chart-wrap">
+        <svg id="dl-chart" role="img" aria-label="Scatter plot of Metascore against revenue multiple for each core film. Interactive: draw your expected trend line, then compare with the fitted regression."></svg>
+        <div class="dl-prompt mono-label" id="dl-prompt">Drag across the chart ✏</div>
+        <div class="dl-controls">
+          <button class="dl-btn mono-label" id="dl-skip">Just show me</button>
+          <button class="dl-btn mono-label" id="dl-retry" hidden>Draw again</button>
+        </div>
+      </div>
+      <div class="dl-verdict" id="dl-verdict" hidden></div>
+    </section>
+
+    <!-- The counter-punch: budget -->
+    <section id="budget" class="scene" data-scene="budget" aria-label="The real villain: budget scale">
+      <p class="slugline"><span class="scene-no">SC. 06</span> INT. THE VERDICT ROOM — MOMENTS LATER</p>
+      <p class="budget-kicker kicker">Acclaim was never the problem. <strong>The villain has five letters.</strong></p>
+      <div class="budget-chart" id="budget-chart"><!-- knockout plate injected --></div>
+      <div class="budget-cert" id="budget-cert"><!-- band ledger injected --></div>
+      <p class="budget-note" id="budget-note"></p>
+    </section>
+
+    <!-- The fund track record -->
+    <section id="fund" class="scene" data-scene="fund" aria-label="The fund's track record">
+      <p class="slugline"><span class="scene-no">SC. 07</span> INT. THE FUND — YEARS LATER</p>
+      <div class="fund-wrap">
+        <svg id="fund-chart" role="img" aria-label="Cumulative fund value of A24's annual slates, 2016 to 2025, log scale. Peaks at 67.6 times in 2019, then draws down 99.8 percent."></svg>
+        <div class="fund-callout" id="fund-callout"></div>
+      </div>
+    </section>
+
+    <div class="act-divider" data-label="THE FINAL FRAME" aria-hidden="true"></div>
+
+    <!-- ============ THE FINAL FRAME ============ -->
+    <section id="verdict" data-scene="verdict" aria-label="The final frame: every film in its quadrant, and the verdict">
+      <div class="ff-stage" id="ff-stage">
+        <div class="ff-axes" aria-hidden="true">
+          <span class="ff-ax ff-ax-v"></span>
+          <span class="ff-ax ff-ax-h"></span>
+        </div>
+        <div class="ff-dots" id="ff-dots" role="img"
+          aria-label="Every core film placed by profit and acclaim: the dream (acclaimed and profitable), subsidised prestige, the cash cow, and the miss."></div>
+        <p class="ff-corner ff-tl micro" id="ff-tl"></p>
+        <p class="ff-corner ff-tr micro" id="ff-tr"></p>
+        <p class="ff-corner ff-bl micro" id="ff-bl"></p>
+        <p class="ff-corner ff-br micro" id="ff-br"></p>
+        <h2 class="ff-line" id="verdict-line"></h2>
+        <p class="ff-caption micro" id="ff-caption"></p>
+      </div>
+    </section>
+
+    <!-- ============ CREDITS ============ -->
+    <section id="credits" class="scene" data-scene="credits" aria-label="Credits: methodology, assumptions, sources">
+      <p class="slugline"><span class="scene-no">SC. 09</span> CREDITS — ROLL</p>
+      <div class="credits-roll" id="credits-roll"><!-- built by credits.ts --></div>
+      <footer class="credits-foot">
+        <p class="micro">No numbers were harmed. All of them are reproducible.</p>
+        <p class="micro credits-meta" id="credits-meta"></p>
+      </footer>
+    </section>
+
+  </main>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

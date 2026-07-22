@@ -1,0 +1,569 @@
+/* ============================================================
+   SCENES — set-piece styles, in scroll order
+   ============================================================ */
+
+/* ---------- ACT I · THESIS ---------- */
+.sl-line { display: block; overflow: hidden; }
+
+/* ---------- ACT I · THE STAKES (chip stacks) ----------
+   A poster, not a page: one full frame, the table edge sitting on the
+   very floor of the viewport, the bet spelled large across the top. */
+#wall {
+  justify-content: flex-start;
+  padding-bottom: 2.8rem; /* the chips own the floor; the ticker rides over it */
+}
+.wall-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: var(--space-2) var(--space-4);
+  align-items: end;
+  margin-bottom: var(--space-3);
+}
+.wall-title { font-size: var(--text-head); grid-row: span 2; }
+.wall-sub { color: var(--ink-60); font-size: var(--text-base); max-width: 30em; }
+.wall-sub strong { color: var(--ink); font-weight: 600; }
+.wall-sub .key-profit { color: var(--profit); font-weight: 500; }
+.wall-sub .key-loss { color: var(--loss); font-weight: 500; }
+.wall-sort { display: flex; align-items: baseline; gap: 0.9rem; }
+.wall-sort .mono-label { color: var(--ink-60); }
+.wall-sort-btn {
+  padding: 0.4rem 0.9rem;
+  border: var(--rule) solid var(--ink-35);
+  border-radius: 999px;
+  transition: border-color var(--dur-fast) ease, color var(--dur-fast) ease, background-color var(--dur-fast) ease;
+}
+.wall-sort-btn:hover { border-color: var(--ink); }
+.wall-sort-btn.is-active { background: var(--ink); color: var(--base); border-color: var(--ink); }
+
+.stakes-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: clamp(3px, 0.55vw, 9px);
+  flex: 1;
+  min-height: 42vh;
+  border-bottom: var(--rule) solid var(--ink-35);
+  padding-bottom: 0;
+  /* the table runs nearly edge to edge — the frame is the room */
+  margin-inline: calc(2vw - var(--frame));
+}
+.stack {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 26px;
+  transition: filter var(--dur-fast) ease;
+}
+.stack-chips { display: flex; flex-direction: column-reverse; gap: 2px; }
+.stack .chip {
+  height: clamp(4px, 0.85vh, 8px);
+  border-radius: 2px;
+  width: 100%;
+}
+.stack.is-profit .chip { background: var(--profit); box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25); }
+.stack.is-loss .chip { background: var(--loss); box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25); }
+.stack:hover .chip, .stack:focus-visible .chip { filter: brightness(1.18); }
+.stack.is-pinned { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
+.stack-year {
+  position: absolute; bottom: 0; left: 0;
+  color: var(--ink-60); white-space: nowrap;
+}
+.is-sorted-roi .stack-year { opacity: 0; }
+.stack-star {
+  position: absolute; top: -1.35rem; left: 50%; transform: translateX(-50%);
+  color: var(--gold); font-size: 0.8rem;
+}
+/* the caption reads before the table; the chips get the floor */
+.stakes-chart { order: 2; }
+.stakes-note { margin: 0 0 var(--space-3); color: var(--ink-60); max-width: 34em; font-size: var(--text-base); }
+.stakes-note strong { color: var(--ink); font-weight: 600; }
+
+@media (max-width: 720px) {
+  .stakes-chart { overflow-x: auto; padding-bottom: 4px; }
+  .stack { min-width: 9px; flex: none; width: 12px; }
+}
+
+/* the pinned detail card */
+.film-card {
+  position: fixed;
+  right: var(--frame); bottom: 3.6rem;
+  width: min(340px, calc(100vw - 2 * var(--frame)));
+  z-index: 30;
+  background: var(--ink);
+  color: var(--base);
+  padding: 1.1rem 1.2rem 1.2rem;
+  border-radius: 4px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+}
+.film-card-close {
+  position: absolute; top: 0.4rem; right: 0.7rem;
+  font-size: 1.2rem; line-height: 1; opacity: 0.6;
+}
+.film-card-close:hover { opacity: 1; }
+.fc-quad { color: var(--accent); margin-bottom: 0.5rem; }
+.fc-title { font-size: 1.35rem; margin-bottom: 0.3rem; }
+.fc-meta { opacity: 0.65; margin-bottom: 0.9rem; }
+.fc-rows { display: grid; gap: 0.45rem; font-size: var(--text-small); letter-spacing: 0.06em; text-transform: uppercase; }
+.fc-row { display: flex; align-items: baseline; gap: 0.75ch; }
+.fc-row .leader { flex: 1; border-bottom: var(--rule) dotted color-mix(in srgb, var(--base) 40%, transparent); transform: translateY(-0.3em); }
+.fc-roi.is-profit .num { color: var(--profit); font-weight: 700; }
+.fc-roi.is-loss .num { color: #e08a70; font-weight: 700; }
+
+@media (max-width: 720px) {
+  .wall-head { grid-template-columns: 1fr; align-items: start; }
+  .wall-grid { grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); gap: 7px; }
+  .film-card { right: var(--frame); left: var(--frame); width: auto; }
+}
+
+/* ---------- ACT II · THE CUT ---------- */
+#cut { padding: 0; }
+.cut-viewport {
+  height: 100svh; /* the pin holds exactly one frame — everything must fit */
+  padding: calc(var(--frame) * 0.6 + 2.6rem) var(--frame) 3rem;
+  display: flex; flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+.cut-head { font-size: var(--text-head); margin-bottom: var(--space-2); }
+.cut-intro { max-width: 30em; margin-bottom: var(--space-3); color: var(--ink-60); font-size: var(--text-lead); }
+
+.cut-stage { flex: 1; min-height: 0; display: flex; flex-direction: column; gap: var(--space-2); position: relative; }
+/* height comes from the flex track, not the viewBox aspect — the whole
+   waterfall (and the punch line after it) must fit the pinned frame */
+.wf-wrap { flex: 1; min-height: 0; }
+#cut-waterfall { width: 100%; height: 100%; display: block; }
+
+.wf-bar { fill: var(--ink-12); stroke: var(--ink-35); stroke-width: 1; }
+.wf-in .wf-bar { fill: color-mix(in srgb, var(--ink) 16%, transparent); }
+.wf-down .wf-bar { fill: color-mix(in srgb, var(--loss) 32%, transparent); stroke: var(--loss); }
+.wf-up .wf-bar { fill: color-mix(in srgb, var(--profit) 30%, transparent); stroke: var(--profit); }
+.wf-out .wf-bar { fill: color-mix(in srgb, var(--profit) 55%, transparent); stroke: var(--profit); stroke-width: 1.5; }
+.wf-arrow { stroke: var(--ink); stroke-width: 1.5; opacity: 0.8; }
+.wf-arrow-head { fill: none; stroke: var(--ink); stroke-width: 1.5; }
+.wf-value { font-family: var(--font-sans); font-size: 19px; font-weight: 600; letter-spacing: 0.02em; fill: var(--ink); }
+.wf-down .wf-value { fill: var(--loss); }
+.wf-up .wf-value { fill: var(--profit); }
+.wf-out .wf-value { fill: var(--profit); }
+.wf-name { font-family: var(--font-sans); font-size: 12px; font-weight: 550; letter-spacing: 0.16em; fill: var(--ink); }
+.wf-sub { font-family: var(--font-sans); font-size: 11.5px; font-weight: 400; letter-spacing: 0.04em; fill: var(--ink-60); }
+.wf-connector { stroke: var(--ink-60); stroke-width: 1; stroke-dasharray: 4 4; }
+.wf-base { stroke: var(--ink-35); stroke-width: 1; }
+.wf-ref { stroke: var(--ink-12); stroke-width: 1; }
+.wf-ref--profit { stroke: color-mix(in srgb, var(--profit) 45%, transparent); }
+.wf-ref-label { font-family: var(--font-sans); font-size: 12px; font-weight: 500; letter-spacing: 0.08em; fill: var(--ink-60); }
+
+.cut-punch {
+  flex: none;
+  font-size: var(--text-lead);
+  max-width: 34em;
+  padding-bottom: 1.6rem;
+}
+.cut-punch em { font-style: normal; color: var(--accent); }
+.cut-punch .num { font-weight: 600; }
+.cut-punch-2 { display: block; margin-top: 0.4em; color: var(--ink-60); font-size: var(--text-base); }
+.cut-punch-2 strong { color: var(--loss); }
+
+@media (max-width: 720px) {
+  #cut-waterfall { min-height: 46vh; }
+  .wf-sub { display: none; }
+  .wf-name { font-size: 15px; }
+  .wf-value { font-size: 24px; }
+}
+
+/* ---------- ACT II→III · THE TAIL (one frame) ---------- */
+#tail { min-height: 100svh; display: flex; flex-direction: column; }
+.tail-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: var(--space-3);
+  align-items: end;
+  margin-bottom: var(--space-4);
+}
+.tail-title { font-size: var(--text-head); }
+.tail-sub { color: var(--ink-60); font-size: var(--text-lead); line-height: 1.55; max-width: 26em; }
+.tail-sub strong { color: var(--ink); font-weight: 640; }
+.tail-sub .num { font-family: var(--font-sans); font-weight: 600; font-size: 0.92em; }
+.tail-sub em { color: var(--accent); }
+
+.tail-chart {
+  position: relative; /* the markers/gap band anchor to the chart, not the section */
+  flex: 1;
+  min-height: 40vh;
+  display: flex;
+  align-items: flex-end;
+  gap: clamp(4px, 0.8vw, 12px);
+  border-bottom: var(--rule) solid var(--ink-35);
+  padding-bottom: 0;
+  margin-bottom: 0.6rem;
+}
+.tbin { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; position: relative; min-width: 0; }
+.tbin-dots { display: flex; flex-direction: column-reverse; align-items: center; gap: 3px; padding-bottom: 6px; }
+.tbin-dots { position: relative; }
+.tbin-count {
+  position: absolute; left: 50%; transform: translateX(-50%);
+  bottom: calc(100% + 8px);
+  white-space: nowrap;
+  color: var(--ink-60);
+  font-size: var(--text-micro);
+  letter-spacing: 0.12em;
+}
+.tdot { /* a chip, same language as Act I */
+  width: var(--dot, 10px);
+  height: calc(var(--dot, 10px) * 0.72);
+  border-radius: 2px;
+  flex: none;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.3);
+}
+.tdot.is-profit { background: var(--profit); }
+.tdot.is-loss { background: var(--loss); }
+
+/* the argument drawn into the chart */
+.tail-marker {
+  position: absolute; top: 8%; bottom: 0;
+  width: 1px;
+  background: var(--ink-60);
+  pointer-events: none;
+}
+.tail-marker.is-mean { background: var(--accent); }
+.tail-marker-label {
+  position: absolute; top: -0.2rem; left: 0.5rem;
+  white-space: nowrap; color: var(--ink-60);
+}
+.tail-marker.is-mean .tail-marker-label { color: var(--accent); }
+.tail-gap {
+  position: absolute; top: 8%; bottom: 0;
+  background: color-mix(in srgb, var(--accent) 7%, transparent);
+  pointer-events: none;
+}
+.tbin-label {
+  position: absolute; top: 100%; left: 50%;
+  transform: translateX(-50%);
+  padding-top: 0.5rem;
+  color: var(--ink-60);
+  white-space: nowrap;
+}
+.tbin.has-breakeven { border-left: var(--rule) dashed var(--ink-60); }
+.tbin.has-breakeven::before {
+  content: 'BREAK-EVEN';
+  position: absolute; top: calc(100% + 2.3rem); left: 0;
+  font-size: var(--text-micro); letter-spacing: 0.12em;
+  color: var(--ink-60);
+}
+.tbin.is-outlier .tdot { outline: 2px solid var(--accent); outline-offset: 2px; }
+.tbin-name {
+  position: absolute; bottom: calc(100% + 0.4rem); left: 50%;
+  transform: translateX(-50%);
+  color: var(--accent);
+  white-space: nowrap;
+}
+.tbreak {
+  flex: 0 0 clamp(20px, 3vw, 44px);
+  align-self: stretch;
+  position: relative;
+}
+.tbreak span {
+  position: absolute; bottom: -1px; width: 55%; height: 8px;
+  border-bottom: var(--rule) solid var(--ink-35);
+}
+.tbreak span:first-child { left: 0; transform: skewY(-18deg); }
+.tbreak span:last-child { right: 0; transform: skewY(-18deg); }
+.tail-caption { color: var(--ink-60); padding-top: 3.6rem; }
+
+@media (max-width: 720px) {
+  .tail-head { grid-template-columns: 1fr; }
+  .tbin-label { font-size: 0.5rem; }
+  .tbin:nth-child(even) .tbin-label { display: none; }
+}
+
+/* ---------- The landing ---------- */
+.tail-landing { max-width: 56rem; }
+.tail-stat-lead { color: var(--ink-60); margin-bottom: var(--space-2); }
+.five-canvas {
+  display: block;
+  width: min(620px, 88vw);
+  height: clamp(9rem, 22vw, 14rem);
+  margin: var(--space-2) 0;
+}
+.tail-stat { font-size: var(--text-lead); max-width: 27em; margin: var(--space-3) 0; line-height: 1.55; }
+.tail-stat .tail-share { color: var(--accent); font-family: var(--font-sans); font-weight: 700; }
+.tail-stat .num { font-family: var(--font-sans); font-weight: 600; font-size: 0.92em; }
+/* five gold bars against one long red one */
+.five-bars { display: grid; gap: 0.7rem; max-width: 46rem; }
+.fb-row {
+  display: grid;
+  grid-template-columns: minmax(150px, 15rem) 1fr auto;
+  align-items: center;
+  gap: var(--space-2);
+}
+.fb-title { letter-spacing: 0.1em; }
+.fb-rank { color: var(--ink-60); margin-right: 0.7ch; }
+.fb-track { position: relative; height: 14px; }
+.fb-bar {
+  position: absolute; inset: 0 auto 0 0;
+  width: var(--w);
+  border-radius: 2px;
+}
+.fb-row.is-win .fb-bar { background: var(--gold); }
+.fb-row.is-win .fb-amount { color: var(--gold); font-weight: 600; }
+.fb-row.is-rest .fb-bar { background: var(--loss); }
+.fb-row.is-rest .fb-amount { color: var(--loss); font-weight: 700; }
+.fb-row.is-rest .fb-title { color: var(--loss); font-weight: 600; }
+.fb-amount { font-size: var(--text-small); letter-spacing: 0.06em; }
+@media (max-width: 720px) {
+  .fb-row { grid-template-columns: minmax(110px, 34%) 1fr auto; }
+}
+
+/* ---------- ACT III · DRAW THE LINE ---------- */
+#drawline {
+  position: relative;
+  min-height: 100svh;
+  padding: calc(var(--frame) * 0.7 + 2.8rem) var(--frame) var(--space-5);
+}
+.dl-head-wrap { display: flex; flex-wrap: wrap; align-items: flex-end; gap: var(--space-3); margin-bottom: var(--space-2); }
+.dl-head { font-size: var(--text-head); }
+.dl-sub { max-width: 26em; color: var(--ink-60); font-size: var(--text-base); line-height: 1.65; }
+.dl-sub strong { color: var(--ink); font-weight: 600; }
+.dl-sub .num { font-weight: 600; }
+
+/* sized so head + chart + controls share one screen; clean paper, thin lines */
+.dl-chart-wrap {
+  position: relative;
+  max-width: min(980px, 92vw);
+}
+#dl-chart { width: 100%; height: auto; touch-action: none; cursor: crosshair; }
+.dl-grid { stroke: color-mix(in srgb, var(--ink) 9%, transparent); stroke-width: 1; }
+.dl-breakeven { stroke: var(--ink-35); stroke-dasharray: 6 6; }
+.dl-tick, .dl-axis-label {
+  font-family: var(--font-sans); font-size: 13px; font-weight: 430;
+  fill: var(--ink-60); letter-spacing: 0.14em;
+}
+.dl-dot { opacity: 0.85; }
+.dl-dot.is-profit { fill: var(--profit); }
+.dl-dot.is-loss { fill: var(--loss); }
+/* the reader's guess is pencil on the ledger; the truth is drawn in brick */
+.dl-user-line { stroke: var(--ink); opacity: 0.45; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 10 8; }
+.dl-fit-line { stroke: var(--brick); stroke-width: 2.2; stroke-linecap: round; }
+.dl-band { fill: var(--ink); opacity: 0.07 !important; }
+.dl-band[opacity='0'] { opacity: 0 !important; }
+
+.dl-prompt {
+  position: absolute; top: 9%; right: 5%;
+  color: var(--accent);
+  border: var(--rule) solid color-mix(in srgb, var(--accent) 45%, transparent);
+  border-radius: 999px;
+  padding: 0.55rem 1.1rem;
+  background: color-mix(in srgb, var(--base) 72%, transparent);
+  backdrop-filter: blur(4px);
+  animation: dl-nudge 2.2s var(--ease-out) infinite;
+  transition: opacity var(--dur-base) ease;
+}
+@keyframes dl-nudge { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+
+.dl-controls { display: flex; gap: var(--space-2); margin-top: var(--space-2); }
+.dl-btn {
+  border: var(--rule) solid var(--ink-35);
+  border-radius: 999px;
+  padding: 0.5rem 1.1rem;
+  transition: border-color var(--dur-fast) ease, color var(--dur-fast) ease;
+}
+.dl-btn:hover, .dl-btn:focus-visible { border-color: var(--accent); color: var(--accent); }
+
+.dl-verdict { margin-top: var(--space-4); }
+.dl-personal {
+  font-family: var(--font-serif);
+  font-size: var(--text-lead);
+  max-width: 25em; margin-bottom: var(--space-3);
+  line-height: 1.5;
+}
+.dl-personal em { font-style: italic; color: var(--accent); }
+.dl-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3); margin-bottom: var(--space-3); }
+.dl-stat { display: grid; gap: 0.5rem; border-top: var(--rule) solid var(--ink-35); padding-top: 0.8rem; }
+.dl-stat .giant-num { font-size: clamp(2.2rem, 4.5vw, 3.6rem); color: var(--accent); }
+.dl-stat .micro { color: var(--ink-60); }
+.dl-robust { max-width: 40em; color: var(--ink-60); font-size: var(--text-small); letter-spacing: 0.02em; line-height: 1.8; }
+.dl-robust .num { color: var(--ink); font-weight: 600; }
+
+/* ---------- ACT III · SCALE (the knockout plate) ----------
+   The villain's name cut out of the frame: every core film's budget
+   rises inside the letterforms of the word itself, greens giving way
+   to red as the bets grow. The word is the chart. */
+#budget { min-height: 100svh; display: flex; flex-direction: column; justify-content: center; }
+.budget-kicker {
+  font-size: calc(var(--text-lead) * 1.3);
+  color: var(--ink-60);
+  margin-bottom: var(--space-3);
+}
+.budget-kicker strong { color: var(--ink); font-weight: 500; font-style: italic; }
+.budget-chart { margin-bottom: var(--space-4); }
+.budget-chart svg { width: 100%; height: auto; display: block; }
+.sp-ghost { /* the word's faint outline, there before the money arrives */
+  fill: none;
+  stroke: var(--ink-35);
+  stroke-width: 1;
+}
+.sp-bar.is-profit { fill: var(--profit); }
+.sp-bar.is-loss { fill: var(--loss); }
+.sp-caption { font-family: var(--font-sans); font-size: 13px; font-weight: 460; letter-spacing: 0.18em; fill: var(--ink-60); }
+/* the honest ledger under the theatre: three bands, dot-leader rows */
+.budget-cert { display: grid; gap: 0.85rem; max-width: 44rem; margin-bottom: var(--space-3); }
+.budget-cert .cert-row .value.is-profit { color: var(--profit); }
+.budget-cert .cert-row .value.is-loss { color: var(--loss); }
+.budget-note { max-width: 40em; color: var(--ink-60); line-height: 1.75; font-size: var(--text-base); }
+.budget-note strong, .budget-note .num { color: var(--ink); font-weight: 600; }
+@media (max-width: 720px) {
+  .sp-caption { display: none; } /* unreadable at phone scale; the ledger carries it */
+}
+
+/* ---------- ACT III · THE FUND ---------- */
+#fund { min-height: 100svh; display: flex; flex-direction: column; justify-content: center; }
+/* full-bleed chart; the callout lives inside the chart's empty
+   upper-right (everything after the 2019 crash is air) */
+.fund-wrap { position: relative; }
+#fund-chart { width: 100%; height: auto; }
+.fund-callout {
+  position: absolute;
+  top: 4%;
+  right: 1%;
+  width: min(360px, 38%);
+}
+@media (max-width: 900px) {
+  .fund-callout { position: static; width: auto; margin-top: var(--space-3); }
+}
+.fund-path { fill: none; stroke: var(--gold); stroke-width: 1.8; }
+.fund-area { fill: url(#fund-area-grad); stroke: none; }
+.fund-drawdown-zone { fill: color-mix(in srgb, var(--loss) 6%, transparent); }
+.fund-era { font-family: var(--font-sans); font-size: 12px; font-weight: 600; letter-spacing: 0.2em; fill: var(--loss); opacity: 0.85; }
+.fund-flag-line { stroke: var(--loss); stroke-width: 1; stroke-dasharray: 3 3; }
+.fund-dot { fill: var(--ink); r: 4; }
+.fund-ann { font-family: var(--font-sans); font-size: 13px; font-weight: 460; letter-spacing: 0.1em; fill: var(--ink); }
+.fund-ann--loss { fill: var(--loss); }
+.fund-drawdown { display: grid; gap: 0.4rem; margin-bottom: var(--space-3); }
+.fund-drawdown .giant-num { font-size: clamp(2.4rem, 5vw, 4rem); color: var(--loss); }
+.fund-stats { list-style: none; display: grid; gap: 0.55rem; margin-bottom: var(--space-3); font-size: var(--text-small); letter-spacing: 0.06em; text-transform: uppercase; }
+.fund-stats li { display: flex; align-items: baseline; gap: 0.75ch; }
+.fund-stats .leader { flex: 1; border-bottom: var(--rule) dotted var(--ink-35); transform: translateY(-0.3em); }
+.fund-caption { color: var(--ink-60); font-size: var(--text-small); letter-spacing: 0.02em; line-height: 1.7; }
+.fund-caption strong { color: var(--ink); }
+.fund-caption .num { font-weight: 600; }
+
+/* ---------- THE FINAL FRAME ---------- */
+#verdict { position: relative; padding: 0; }
+.ff-stage {
+  position: relative;
+  height: 100svh;
+  overflow: hidden;
+  /* the split frame: exact corner-to-corner, bottom-left to top-right */
+  background: #0d0a08;
+}
+.ff-stage::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: #f0ebe0;
+  clip-path: polygon(100% 0, 100% 100%, 0 100%);
+}
+.ff-ax { position: absolute; pointer-events: none; }
+.ff-ax-v {
+  top: 6%; bottom: 6%; width: 0;
+  border-left: 1px dashed rgba(139, 132, 116, 0.5);
+}
+.ff-ax-h {
+  left: 4%; right: 4%; height: 0;
+  border-top: 1px dashed rgba(139, 132, 116, 0.5);
+}
+.ff-dots { position: absolute; inset: 0; }
+.ff-dot {
+  position: absolute;
+  width: clamp(6px, 0.62vw, 9px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+.ff-corner {
+  position: absolute;
+  letter-spacing: 0.26em;
+  font-weight: 460;
+  font-size: var(--text-small);
+  text-transform: uppercase;
+}
+.ff-tl { top: 6vh; left: var(--frame); color: rgba(244, 239, 230, 0.8); }
+.ff-tr { top: 6vh; right: var(--frame); color: #e8b45a; }
+.ff-bl { bottom: 7vh; left: var(--frame); color: rgba(244, 239, 230, 0.65); }
+.ff-br { bottom: 7vh; right: var(--frame); color: #6e6754; }
+
+.ff-line {
+  position: absolute;
+  left: 50%; top: 50%;
+  transform: translate(-50%, -50%);
+  width: min(30ch, 90vw);
+  text-align: center;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(2.1rem, 1rem + 4vw, 4.9rem);
+  line-height: 1.14;
+  letter-spacing: 0.002em;
+  color: #1a1712; /* the cream side reads dark… */
+  margin: 0;
+}
+/* …and an identical copy, clipped to the black triangle, reads white */
+.ff-line-clip {
+  position: absolute;
+  inset: 0;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+  pointer-events: none;
+}
+.ff-line-clip .ff-line { color: #f0ebe0; }
+.ff-caption {
+  position: absolute;
+  left: 50%; bottom: 7vh;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  color: rgba(128, 122, 110, 0.9);
+}
+.ff-caption sub { font-size: 0.7em; }
+@media (max-width: 720px) {
+  .ff-caption { white-space: normal; text-align: center; width: 80vw; }
+  .ff-bl { bottom: 12vh; }
+  .ff-br { bottom: 12vh; }
+}
+
+/* ---------- CREDITS ---------- */
+#credits { padding-bottom: 12rem; }
+.credits-roll { max-width: 44rem; margin: 0 auto; display: grid; gap: var(--space-5); }
+.credits-h { color: var(--accent); margin-bottom: var(--space-2); }
+.credits-note { color: var(--ink-60); line-height: 1.8; font-size: var(--text-small); letter-spacing: 0.02em; }
+.credits-note a { color: var(--ink); }
+
+.credits-register { display: grid; }
+.cr-row { border-top: var(--rule) solid var(--ink-35); }
+.cr-row:last-child { border-bottom: var(--rule) solid var(--ink-35); }
+.cr-row summary {
+  display: flex; align-items: baseline; gap: 0.75ch;
+  padding: 0.8rem 0; cursor: pointer; list-style: none;
+  font-size: var(--text-small); letter-spacing: 0.08em; text-transform: uppercase;
+  transition: color var(--dur-fast) ease;
+}
+.cr-row summary::-webkit-details-marker { display: none; }
+.cr-row summary:hover { color: var(--accent); }
+.cr-row-id { color: var(--accent); font-weight: 600; }
+.cr-row summary .leader { flex: 1; border-bottom: var(--rule) dotted var(--ink-35); transform: translateY(-0.3em); }
+.cr-row-body { padding: 0 0 1rem 2.6rem; font-size: var(--text-small); letter-spacing: 0.02em; color: var(--ink-60); display: grid; gap: 0.5rem; line-height: 1.7; }
+.cr-row-body strong { color: var(--profit); }
+.cr-row-body .num, .cr-row-sens .num { color: var(--ink); }
+
+.credits-limits { list-style: none; display: grid; gap: 0.7rem; font-size: var(--text-small); letter-spacing: 0.02em; color: var(--ink-60); line-height: 1.65; }
+.credits-limits li { padding-left: 1.4rem; position: relative; }
+.credits-limits li::before { content: '—'; position: absolute; left: 0; color: var(--accent); }
+
+.credits-studio { text-align: center; padding-top: var(--space-4); }
+.credits-studio-mark { font-size: clamp(1.4rem, 3.6vw, 2.6rem); margin-bottom: var(--space-2); }
+.credits-repo { color: var(--accent) !important; }
+
+.credits-foot {
+  margin-top: var(--space-5); padding-top: var(--space-2);
+  border-top: var(--rule) solid var(--ink-35);
+  display: flex; justify-content: space-between; gap: var(--space-2); flex-wrap: wrap;
+  color: var(--ink-60);
+}

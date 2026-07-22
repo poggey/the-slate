@@ -8,3 +8,14 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Node / site build
+node_modules/
+site/dist/
+
+# Claude tooling & working stash
+.claude/
+.agents/
+.playwright-mcp/
+skills-lock.json
+assets-stash/

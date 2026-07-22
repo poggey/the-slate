@@ -1,0 +1,361 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Slate — Hero Concepts</title>
+  <meta name="robots" content="noindex" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23141310'/%3E%3Crect x='24' y='6' width='4' height='20' fill='%23ff4b33'/%3E%3C/svg%3E" />
+  <style>
+    @font-face {
+      font-family: 'Space Grotesk';
+      src: url('/fonts/SpaceGrotesk.woff2') format('woff2');
+      font-weight: 300 700; font-display: swap;
+    }
+    @font-face {
+      font-family: 'Newsreader';
+      src: url('/fonts/Newsreader.woff2') format('woff2');
+      font-weight: 200 800; font-display: swap;
+    }
+    :root {
+      --dark: #0d0a08; --paper: #f2eee5; --ink: #f0ebe1;
+      --red: #ff4b33; --gold: #d9a441; --grey: #8b8474;
+      --sans: 'Space Grotesk', sans-serif; --serif: 'Newsreader', Georgia, serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--dark); color: var(--ink); font-family: var(--sans); -webkit-font-smoothing: antialiased; }
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 8vh 5vw 16vh; }
+    .kicker { font-size: 0.6875rem; letter-spacing: 0.26em; text-transform: uppercase; color: var(--grey); margin-bottom: 1.2rem; }
+    h1 { font-family: var(--serif); font-weight: 420; font-size: clamp(2.2rem, 5vw, 3.6rem); line-height: 1.1; margin-bottom: 1rem; }
+    .intro { color: var(--grey); max-width: 46em; line-height: 1.7; font-size: 0.9375rem; margin-bottom: 7rem; }
+    .idea { margin-bottom: 9rem; }
+    .idea-no { font-size: 0.6875rem; letter-spacing: 0.26em; color: var(--red); margin-bottom: 0.8rem; }
+    .idea h2 { font-family: var(--serif); font-weight: 440; font-size: clamp(1.6rem, 3.4vw, 2.4rem); margin-bottom: 0.7rem; }
+    .idea .pitch { color: var(--grey); max-width: 44em; line-height: 1.7; font-size: 0.9375rem; margin-bottom: 2rem; }
+    .idea .pitch strong { color: var(--ink); font-weight: 550; }
+    .demo {
+      position: relative; width: 100%; aspect-ratio: 16 / 8.2;
+      background: #0b0806; border: 1px solid rgba(240, 235, 225, 0.1);
+      overflow: hidden; margin-bottom: 1.2rem;
+    }
+    .demo canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+    .why { font-size: 0.75rem; letter-spacing: 0.06em; color: var(--grey); line-height: 1.7; max-width: 46em; }
+    .why b { color: var(--gold); font-weight: 550; letter-spacing: 0.14em; }
+
+    /* demo 1 + 2 overlay type */
+    .d-title {
+      position: absolute; left: 6%; bottom: 12%; z-index: 2;
+      font-weight: 700; letter-spacing: -0.02em; line-height: 0.95;
+      font-size: clamp(2rem, 6.4vw, 4.6rem); color: var(--ink);
+      text-transform: uppercase; pointer-events: none;
+    }
+    .d-title span { color: var(--red); }
+    .d-kicker {
+      position: absolute; left: 6%; bottom: calc(12% + clamp(2rem, 6.4vw, 4.6rem) + 12px);
+      z-index: 2; font-family: var(--serif); font-style: italic; font-weight: 430;
+      font-size: clamp(0.85rem, 1.6vw, 1.15rem); color: rgba(240, 235, 225, 0.75);
+      pointer-events: none;
+    }
+
+    /* demo 4: the marquee ledger */
+    .ledger { position: absolute; inset: 0; display: flex; gap: 4%; padding: 0 6%; }
+    .ledger-col { flex: 1; overflow: hidden; position: relative; }
+    .ledger-roll {
+      display: flex; flex-direction: column; gap: 0.9em;
+      font-size: 0.5rem; letter-spacing: 0.22em; text-transform: uppercase;
+      color: rgba(240, 235, 225, 0.22); white-space: nowrap;
+      animation: roll 36s linear infinite;
+    }
+    .ledger-col:nth-child(2) .ledger-roll { animation-duration: 46s; }
+    .ledger-col:nth-child(3) .ledger-roll { animation-duration: 40s; }
+    .ledger-roll b { color: var(--gold); font-weight: 550; }
+    @keyframes roll { from { transform: translateY(0); } to { transform: translateY(-50%); } }
+    .ledger-fade {
+      position: absolute; inset: 0; z-index: 1; pointer-events: none;
+      background: linear-gradient(180deg, #0b0806 0%, transparent 22%, transparent 62%, #0b0806 100%);
+    }
+    a.back { color: var(--grey); font-size: 0.6875rem; letter-spacing: 0.2em; text-transform: uppercase; text-decoration: none; }
+    a.back:hover { color: var(--ink); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <p class="kicker">The Slate — side studio · not linked from the site</p>
+    <h1>Four ways to open the film.</h1>
+    <p class="intro">The current hero stays until you say otherwise. These are the four directions I'd actually defend —
+      each one code-drawn (no photograph to license or generate), each one alive, and each one tied to the story
+      rather than decoration. Scroll, watch each demo, and green-light / kill them by number.</p>
+
+    <!-- ============ 01 ============ -->
+    <div class="idea">
+      <p class="idea-no">CONCEPT 01</p>
+      <h2>The beam, drawn live</h2>
+      <p class="pitch">The exact composition you already like — but the photograph is replaced by a <strong>code-drawn projector beam</strong>:
+        volumetric light, drifting dust, a breath of flicker. It answers to the cursor — the beam leans a degree or two as you move,
+        like someone shifted in the projection booth. Infinitely crisp at any screen size, ~2KB instead of an image.</p>
+      <div class="demo" id="demo1">
+        <canvas></canvas>
+        <p class="d-kicker">Does making good films pay?</p>
+        <p class="d-title">The Slate<span>.</span></p>
+      </div>
+      <p class="why"><b>WHY IT WINS</b> — judges notice generated-not-sourced. The subtle interactivity (light follows you) is the
+        "missing movement" without adding a single element to the composition.</p>
+    </div>
+
+    <!-- ============ 02 ============ -->
+    <div class="idea">
+      <p class="idea-no">CONCEPT 02</p>
+      <h2>Dust becomes the title</h2>
+      <p class="pitch">The beam's dust motes drift idly — then once, on load, they <strong>gather into THE SLATE</strong>, hold for a beat,
+        and release back into drift. The particles never leave; they're the same grammar as the 65% number and the final-frame dots.
+        The site's thesis in one gesture: chaos, briefly organised, then chaos again.</p>
+      <div class="demo" id="demo2">
+        <canvas></canvas>
+      </div>
+      <p class="why"><b>WHY IT WINS</b> — a single memorable beat ("did you see the dust spell the title?") that visitors describe
+        to other people. That's the shareable moment criterion, on the first frame.</p>
+    </div>
+
+    <!-- ============ 03 ============ -->
+    <div class="idea">
+      <p class="idea-no">CONCEPT 03</p>
+      <h2>The countdown leader</h2>
+      <p class="pitch">A true cold open: the <strong>Academy leader</strong> — thin sweep arc, serif numeral, grain — counts
+        5 · 4 · 3 · 2, then hard-cuts to the title frame. Three and a half seconds, once per session, any scroll or click skips it.
+        The most cinematic possible first impression, and the timecode ticker picks up exactly where the leader leaves off.</p>
+      <div class="demo" id="demo3">
+        <canvas></canvas>
+      </div>
+      <p class="why"><b>WHY IT WINS</b> — restraint plus theatre. Nobody else opens a data story with a projection leader;
+        it commits fully to the conceit and costs the visitor almost nothing.</p>
+    </div>
+
+    <!-- ============ 04 ============ -->
+    <div class="idea">
+      <p class="idea-no">CONCEPT 04</p>
+      <h2>The marquee ledger</h2>
+      <p class="pitch">No image at all: the hero is the <strong>slate itself</strong> — all 58 films rolling as quiet micro-type
+        columns, like end credits played before the film. The five that paid for everything glow gold as they pass.
+        The title sits still over the motion. Typography as image; the dataset as texture.</p>
+      <div class="demo" id="demo4">
+        <div class="ledger" id="ledger"></div>
+        <div class="ledger-fade"></div>
+        <p class="d-kicker">Does making good films pay?</p>
+        <p class="d-title">The Slate<span>.</span></p>
+      </div>
+      <p class="why"><b>WHY IT WINS</b> — the data-as-material idea judges reward, and the gold winners plant the whole
+        argument subliminally before a single chart appears.</p>
+    </div>
+
+    <a class="back" href="/">← Back to the site</a>
+  </div>
+
+  <script type="module">
+    /* ---------- shared: sized canvas ---------- */
+    const fit = (c) => {
+      const r = c.getBoundingClientRect()
+      const dpr = Math.min(2, devicePixelRatio || 1)
+      c.width = r.width * dpr; c.height = r.height * dpr
+      c.getContext('2d').setTransform(dpr, 0, 0, dpr, 0, 0)
+      return [r.width, r.height]
+    }
+
+    /* ---------- 01 · the beam, drawn live ---------- */
+    {
+      const c = document.querySelector('#demo1 canvas')
+      let [W, H] = fit(c)
+      const ctx = c.getContext('2d')
+      let tilt = 0, targetTilt = 0, t = 0
+      const motes = Array.from({ length: 60 }, () => ({
+        x: Math.random(), y: Math.random(), r: 0.4 + Math.random() * 1.3,
+        vx: 0.0001 + Math.random() * 0.00025, vy: (Math.random() - 0.5) * 0.00012,
+        a: 0.1 + Math.random() * 0.5,
+      }))
+      c.parentElement.addEventListener('pointermove', (e) => {
+        const b = c.getBoundingClientRect()
+        targetTilt = ((e.clientY - b.top) / b.height - 0.45) * 0.14
+      })
+      const beamY = (x) => 0.30 + x * (0.34 + tilt) // beam centreline
+      const draw = () => {
+        t += 0.016
+        tilt += (targetTilt - tilt) * 0.04
+        ;[W, H] = [c.clientWidth, c.clientHeight]
+        ctx.clearRect(0, 0, W, H)
+        const flicker = 1 + Math.sin(t * 9) * 0.012 + Math.sin(t * 23) * 0.008
+        // the source
+        const sx = W * 0.985, sy = H * 0.30
+        // layered cone, right → left
+        for (let i = 0; i < 3; i++) {
+          const spread = [0.055, 0.11, 0.19][i]
+          const alpha = [0.16, 0.075, 0.035][i] * flicker
+          const g = ctx.createLinearGradient(sx, 0, 0, 0)
+          g.addColorStop(0, `rgba(255, 118, 74, ${alpha * 1.6})`)
+          g.addColorStop(0.45, `rgba(255, 96, 56, ${alpha})`)
+          g.addColorStop(1, 'rgba(255, 75, 51, 0)')
+          ctx.fillStyle = g
+          ctx.beginPath()
+          ctx.moveTo(sx, sy)
+          ctx.lineTo(-W * 0.05, H * (beamY(0) - spread))
+          ctx.lineTo(-W * 0.05, H * (beamY(0) + spread * 1.4))
+          ctx.closePath()
+          ctx.fill()
+        }
+        // hot lens point
+        const lg = ctx.createRadialGradient(sx, sy, 0, sx, sy, 26)
+        lg.addColorStop(0, `rgba(255, 236, 214, ${0.95 * flicker})`)
+        lg.addColorStop(1, 'rgba(255, 120, 60, 0)')
+        ctx.fillStyle = lg
+        ctx.fillRect(sx - 30, sy - 30, 60, 60)
+        // dust in the beam
+        for (const m of motes) {
+          m.x -= m.vx; m.y += m.vy
+          if (m.x < -0.02) { m.x = 1.02; m.y = Math.random() }
+          const d = Math.abs(m.y - beamY(m.x))
+          const glow = Math.max(0, 1 - d * 9)
+          if (glow > 0.02) {
+            ctx.fillStyle = `rgba(255, 214, 178, ${(m.a * glow * 0.85).toFixed(3)})`
+            ctx.fillRect(m.x * W, m.y * H, m.r, m.r)
+          }
+        }
+        requestAnimationFrame(draw)
+      }
+      draw()
+    }
+
+    /* ---------- 02 · dust becomes the title ---------- */
+    {
+      const c = document.querySelector('#demo2 canvas')
+      fit(c)
+      const ctx = c.getContext('2d')
+      let W = c.clientWidth, H = c.clientHeight
+      // sample "THE SLATE"
+      const off = document.createElement('canvas')
+      off.width = W; off.height = H
+      const o = off.getContext('2d')
+      const size = Math.min(H * 0.42, W / 5.2)
+      o.font = `700 ${size}px 'Space Grotesk', sans-serif`
+      o.textAlign = 'center'; o.textBaseline = 'middle'
+      o.fillText('THE SLATE', W / 2, H / 2)
+      const img = o.getImageData(0, 0, W, H).data
+      const targets = []
+      for (let y = 0; y < H; y += 4) for (let x = 0; x < W; x += 4)
+        if (img[(y * W + x) * 4 + 3] > 120 && Math.random() < 0.5) targets.push([x, y])
+      const parts = targets.map(([tx, ty]) => ({
+        tx, ty,
+        x: Math.random() * W, y: Math.random() * H,
+        dx: Math.random() * W, dy: Math.random() * H,
+        vx: (Math.random() - 0.5) * 0.16, vy: (Math.random() - 0.5) * 0.1,
+        a: 0.25 + Math.random() * 0.6, s: 1 + Math.random() * 1.6,
+        lag: Math.random() * 0.18,
+      }))
+      let t0 = performance.now()
+      const CYCLE = 9000
+      const ease = (u) => u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2
+      const draw = (now) => {
+        const t = ((now - t0) % CYCLE) / CYCLE
+        // phases: 0–.18 drift · .18–.42 gather · .42–.68 hold · .68–.9 release · .9–1 drift
+        ctx.clearRect(0, 0, W, H)
+        for (const p of parts) {
+          let gx, gy
+          const gatherT = Math.min(1, Math.max(0, (t - 0.18 - p.lag * 0.2) / 0.22))
+          const releaseT = Math.min(1, Math.max(0, (t - 0.68 - p.lag * 0.2) / 0.2))
+          p.dx += p.vx; p.dy += p.vy
+          if (p.dx < 0 || p.dx > W) p.vx *= -1
+          if (p.dy < 0 || p.dy > H) p.vy *= -1
+          const g = ease(gatherT) * (1 - ease(releaseT))
+          gx = p.dx + (p.tx - p.dx) * g
+          gy = p.dy + (p.ty - p.dy) * g
+          ctx.fillStyle = `rgba(240, 226, 202, ${(p.a * (0.35 + 0.65 * g)).toFixed(3)})`
+          ctx.fillRect(gx, gy, p.s, p.s)
+        }
+        requestAnimationFrame(draw)
+      }
+      requestAnimationFrame(draw)
+    }
+
+    /* ---------- 03 · the countdown leader ---------- */
+    {
+      const c = document.querySelector('#demo3 canvas')
+      fit(c)
+      const ctx = c.getContext('2d')
+      const W = c.clientWidth, H = c.clientHeight
+      const cx = W / 2, cy = H / 2, R = Math.min(W, H) * 0.34
+      let t0 = performance.now()
+      const draw = (now) => {
+        const total = 4200
+        const t = ((now - t0) % (total + 1400))
+        ctx.clearRect(0, 0, W, H)
+        ctx.fillStyle = '#0b0806'
+        ctx.fillRect(0, 0, W, H)
+        if (t < total) {
+          const sec = 1050
+          const n = 5 - Math.floor(t / sec)
+          const frac = (t % sec) / sec
+          // crosshair
+          ctx.strokeStyle = 'rgba(240, 235, 225, 0.14)'
+          ctx.lineWidth = 1
+          ctx.beginPath(); ctx.moveTo(cx, 0); ctx.lineTo(cx, H); ctx.stroke()
+          ctx.beginPath(); ctx.moveTo(0, cy); ctx.lineTo(W, cy); ctx.stroke()
+          // rings
+          ctx.strokeStyle = 'rgba(240, 235, 225, 0.3)'
+          ctx.beginPath(); ctx.arc(cx, cy, R, 0, Math.PI * 2); ctx.stroke()
+          ctx.beginPath(); ctx.arc(cx, cy, R * 0.82, 0, Math.PI * 2); ctx.stroke()
+          // the sweep
+          ctx.fillStyle = 'rgba(240, 235, 225, 0.08)'
+          ctx.beginPath()
+          ctx.moveTo(cx, cy)
+          ctx.arc(cx, cy, R * 1.5, -Math.PI / 2, -Math.PI / 2 + frac * Math.PI * 2)
+          ctx.closePath(); ctx.fill()
+          // numeral
+          ctx.fillStyle = 'rgba(240, 235, 225, 0.92)'
+          ctx.font = `430 ${R * 1.15}px 'Newsreader', serif`
+          ctx.textAlign = 'center'; ctx.textBaseline = 'middle'
+          ctx.fillText(String(n), cx, cy + R * 0.05)
+          // grain flecks
+          for (let i = 0; i < 26; i++) {
+            ctx.fillStyle = `rgba(240, 235, 225, ${Math.random() * 0.05})`
+            ctx.fillRect(Math.random() * W, Math.random() * H, 1.4, 1.4)
+          }
+        } else {
+          // the cut: title card
+          ctx.fillStyle = '#f0ebe1'
+          ctx.font = `700 ${Math.min(H * 0.24, W / 8)}px 'Space Grotesk', sans-serif`
+          ctx.textAlign = 'center'; ctx.textBaseline = 'middle'
+          ctx.fillText('THE SLATE', cx, cy)
+          ctx.fillStyle = '#ff4b33'
+          const w = ctx.measureText('THE SLATE').width
+          ctx.fillText('.', cx + w / 2 + Math.min(H * 0.03, 12), cy)
+        }
+        requestAnimationFrame(draw)
+      }
+      requestAnimationFrame(draw)
+    }
+
+    /* ---------- 04 · the marquee ledger ---------- */
+    {
+      const films = [
+        'Moonlight ’16', 'Swiss Army Man ’16', 'A Ghost Story ’17', 'It Comes at Night ’17',
+        '<b>Lady Bird ’17</b>', 'Eighth Grade ’18', '<b>Hereditary ’18</b>', 'Mid90s ’18',
+        'Midsommar ’19', 'The Farewell ’19', 'The Lighthouse ’19', 'Uncut Gems ’19',
+        'First Cow ’20', 'Minari ’21', 'The Green Knight ’21', 'Zola ’21',
+        '<b>Everything Everywhere All at Once ’22</b>', 'X ’22', 'Pearl ’22', 'Aftersun ’22',
+        'The Whale ’22', 'Bodies Bodies Bodies ’22', 'Past Lives ’23', 'Talk to Me ’23',
+        'Beau Is Afraid ’23', 'Priscilla ’23', 'Civil War ’24', 'Heretic ’24',
+        'Love Lies Bleeding ’24', 'Sing Sing ’24', 'The Brutalist ’24', 'Queer ’24',
+        'Materialists ’25', 'Warfare ’25', '<b>Backrooms ’26</b>', 'Death of a Unicorn ’25',
+      ]
+      const ledger = document.getElementById('ledger')
+      for (let col = 0; col < 3; col++) {
+        const el = document.createElement('div')
+        el.className = 'ledger-col'
+        const roll = document.createElement('div')
+        roll.className = 'ledger-roll'
+        const slice = films.filter((_, i) => i % 3 === col)
+        roll.innerHTML = [...slice, ...slice, ...slice, ...slice].map((f) => `<span>${f}</span>`).join('')
+        el.appendChild(roll)
+        ledger.appendChild(el)
+      }
+    }
+  </script>
+</body>
+</html>

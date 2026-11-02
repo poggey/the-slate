@@ -17,7 +17,7 @@ Accents: vermilion `#FF4B33` · amber `#F2A93B` · arc-blue `#5B8CFF` · gold `#
 > Interior of a vast dark cinema, a single projector beam cutting diagonally through haze from the upper right toward the lower left, seen from inside the auditorium. Deep near-black shadows (#0E0B09) with a warm red-orange tint in the beam (#FF4B33) and fine dust motes suspended in it. The projector lens is a small hot point of light at the right edge. The bottom third of the frame is almost pure black, with only the faintest suggestion of seat backs. Photorealistic, cinematic, moody, high contrast, atmospheric haze. Exclude: people, readable text, logos, blue tones, bright walls.
 
 ### 2. `empty-cinema-golden.webp` — the Verdict backdrop
-- **Slot:** behind the GOOD PAYS. BIG DOESN'T. act at 12% opacity. **Spec:** 16:9, 3840×2160, keep overall luminance LOW.
+- **Slot:** behind the GOOD FILMS EARNED MORE. BIG ONES DIDN'T. act at 12% opacity. **Spec:** 16:9, 3840×2160, keep overall luminance LOW.
 
 > An empty cinema auditorium at golden hour, photographed from the movie screen's point of view looking out over rows of empty seats. Warm low-angle golden light (#E8B45A) streams from a high side opening, cutting a visible beam through gentle haze; dust motes hang in the light. Seats and walls fall into rich dark amber-and-honey shadow on a near-black base (#1A130E). Wide symmetrical composition, generous negative space in the upper third. Mood: dawn after the argument — melancholy, resolved. Photorealistic. Exclude: people, text, logos, screen content, saturated reds or blues, daylight-white light.
 

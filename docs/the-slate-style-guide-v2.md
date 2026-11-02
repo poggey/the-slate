@@ -10,7 +10,7 @@ The whole site is **one unbroken take**.
 
 A single continuous line — call it **the Reel** — enters the screen in the first frame and never leaves. It travels with the scroll and *becomes* everything: the timeline of A24's releases, the outline of the return histogram, the Lorenz curve, the regression line, the drawdown chart, and finally the signature on the closing verdict. One line, no cuts, start to finish. Like a film shot in a single take.
 
-Why: the analysis is one continuous argument — every film is a bet, a few bets pay for everything, and acclaim may not pay at all. The Reel makes the reader *feel* that continuity. They're not reading sections; they're following a thread through a story about money and art.
+Why: the analysis is one continuous argument — every film is a bet, a few bets pay for everything, and acclaim may not track returns at all. The Reel makes the reader *feel* that continuity. They're not reading sections; they're following a thread through a story about money and art.
 
 Everything else in this document serves that one idea.
 
@@ -78,7 +78,7 @@ The house-takes-half mechanics as a physical animation: a dollar (or a £100M gr
 The Reel rises into the return histogram outline, drawn bar by bar under scroll... and then the page keeps scrolling *sideways or down* far longer than expected to reach the last outlier bar — the reader physically travels the long tail. Distance as data. When they finally reach it, the stat lands: "**X films paid for all the rest.**" with the top-5 profit share counter.
 
 ### 5. DRAW THE LINE (Act III — the centrepiece interaction)
-The acclaim-vs-profit scatter appears in MIDNIGHT grade — but with no trend line. A prompt: **"Draw the relationship you expect."** The reader drags a line across the chart with finger/cursor. Release → their line ghosts in blue, and the *real* regression line draws in vermilion beside it, with β, its confidence band, and the verdict. Nothing communicates "acclaim doesn't pay" (or "does!") like being personally wrong on the record. This is the moment people share.
+The acclaim-vs-profit scatter appears in MIDNIGHT grade — but with no trend line. A prompt: **"Draw the relationship you expect."** The reader drags a line across the chart with finger/cursor. Release → their line ghosts in blue, and the *real* regression line draws in vermilion beside it, with β, its confidence band, and the verdict. Nothing communicates "acclaim doesn't track returns" (or "does!") like being personally wrong on the record. This is the moment people share.
 
 ### 6. THE VERDICT (Golden Hour)
 Full-frame. The 2×2 quadrant (dream / subsidised prestige / cash cow / miss) assembles as the four corners of the screen, films drifting home to their quadrants like end-of-film character cards. The Reel draws the final one-line verdict as if hand-signed. One enormous sentence answers the thesis — written from the real numbers, whichever way they fell.

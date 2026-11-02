@@ -92,7 +92,7 @@ export function initBudget() {
     `Every log-dollar of budget is associated with a lower expected multiple: β =<strong class="num">${fmtNum(budgetTerm.coef, 2)}</strong> ` +
     `(p = ${fmtNum(budgetTerm.p_value, 4)}) — the strongest coefficient in the model.` +
     (horrorTerm && horrorTerm.p_value < 0.05
-      ? ` The quiet engine paying for it all: horror (β = +${fmtNum(horrorTerm.coef, 2)}, p = ${fmtNum(horrorTerm.p_value, 3)}).`
+      ? ` The quiet outperformer: horror (β = +${fmtNum(horrorTerm.coef, 2)}, p = ${fmtNum(horrorTerm.p_value, 3)}).`
       : '')
 
   if (REDUCED) return

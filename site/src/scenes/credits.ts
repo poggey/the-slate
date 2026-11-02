@@ -4,7 +4,7 @@
  * the conclusion survived (it did — the ranges come straight from
  * the sensitivity array in slate.json).
  */
-import { meta, sensitivity, regression, distribution, fmtNum } from '../core/data'
+import { meta, sensitivity, regression, distribution, core, fmtNum } from '../core/data'
 import { REDUCED } from '../core/motion'
 import { setTickerContext } from '../core/ticker'
 
@@ -31,7 +31,7 @@ const LIMITATIONS = [
   'Budgets are endogenous — studios set them on expected returns. The regression is associational, not causal.',
   'Survivorship: only greenlit films are observed, never the projects killed in development.',
   'Awards follow success, so they are treated as an outcome, never a predictor.',
-  'N = 58 core films with several dummies: confidence intervals over confidence.',
+  `N = ${regression.n} films with several dummies: confidence intervals over confidence.`,
   'Crowd-sourced budgets and grosses; modelled P&A and ancillary. The sensitivity sweep is the mitigation.',
   'A24’s 2013–15 slate was largely distribution-only (no production risk) and sits outside the core sample; the fund clock starts in 2016.',
 ]
@@ -50,6 +50,7 @@ function sensSummary(key?: string): string {
 
 export function initCredits() {
   const roll = document.getElementById('credits-roll')!
+  const noMeta = core.filter((f) => f.metascore == null)
 
   roll.innerHTML = `
     <div class="credits-block">
@@ -75,7 +76,7 @@ export function initCredits() {
     <div class="credits-block">
       <h3 class="mono-label credits-h">THE MODEL</h3>
       <p class="credits-note num">
-        OLS on ln(revenue multiple), White-robust SEs · N = ${regression.n} · R² = ${fmtNum(regression.r_squared, 2)}<br/>
+        OLS on ln(revenue multiple), White-robust SEs · N = ${regression.n} of ${core.length} core films (${noMeta.map((f) => f.title).join(', ')} ${noMeta.length === 1 ? 'has' : 'have'} no Metascore) · R² = ${fmtNum(regression.r_squared, 2)}<br/>
         Controls: ln(budget), genre, originality, festival premiere, year<br/>
         Distribution: skew ${fmtNum(distribution.skewness, 1)} · kurtosis ${fmtNum(distribution.excess_kurtosis, 1)} · Gini(profit) ${fmtNum(distribution.gini_profit, 2)}
       </p>

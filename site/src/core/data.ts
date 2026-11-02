@@ -191,6 +191,7 @@ export function bindAll(root: ParentNode = document) {
   const values: Record<string, string> = {
     nFilms: String(films.length),
     nCore: String(core.length),
+    nScatter: String(scatterFilms.length),
     capital: fmtMoney(capitalCore),
     netProfit: fmtMoney(profitCore),
   }

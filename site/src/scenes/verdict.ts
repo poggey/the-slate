@@ -72,9 +72,9 @@ export function initVerdict() {
   const line = document.getElementById('verdict-line')!
   const budgetHurts = budgetTerm.coef < 0 && budgetTerm.p_value < 0.05
   let text: string
-  if (acclaimPays && budgetHurts) text = 'Good films pay. Cheap good films pay for everything else.'
-  else if (acclaimPays) text = 'Good films pay. The data signs off on taste.'
-  else if (budgetHurts) text = 'Acclaim is free. Scale is what costs.'
+  if (acclaimPays && budgetHurts) text = 'Good films earned more. Cheap good films paid for everything else.'
+  else if (acclaimPays) text = 'Good films earned more. The data signs off on taste.'
+  else if (budgetHurts) text = 'Acclaim is free. Scale is where the losses are.'
   else text = 'The hits pay for everything. Everything else is the price of finding them.'
   line.textContent = text
 

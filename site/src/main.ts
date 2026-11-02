@@ -130,7 +130,7 @@ fontsReady.then(() => {
     ['tail', 'EVERY DOT IS A FILM'],
     ['tail-landing', 'FIVE FILMS PAID FOR EVERYTHING'],
     ['drawline', 'DRAW THE RELATIONSHIP YOU EXPECT'],
-    ['budget', 'THE VILLAIN IS SCALE'],
+    ['budget', 'BIGGER BETS, LOWER RETURNS'],
     ['fund', 'THE TRACK RECORD'],
     ['verdict', 'THE VERDICT'],
   ]

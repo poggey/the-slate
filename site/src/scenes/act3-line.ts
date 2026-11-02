@@ -161,11 +161,11 @@ export function initDrawLine() {
       ? 'No guess on the record. The line rises anyway.'
       : 'No guess on the record. The line falls.'
     else if (userSlope > 0 === realRises) personal = realRises
-      ? 'You called it. Almost nobody does: acclaim <em>pays</em>.'
-      : 'You called it: acclaim doesn’t pay.'
+      ? 'You called it. Almost nobody does: acclaimed films <em>earned&nbsp;more</em>.'
+      : 'You called it: acclaimed films didn’t earn more.'
     else personal = realRises
       ? 'You drew art losing money. <em>The data disagrees.</em>'
-      : 'You drew acclaim paying. The data disagrees.'
+      : 'You drew acclaimed films earning more. The data disagrees.'
 
     verdictEl.innerHTML = `
       <p class="dl-personal">${personal}</p>
@@ -176,7 +176,7 @@ export function initDrawLine() {
         <div class="dl-stat"><span class="micro">SPEARMAN ρ · ACCLAIM ↔ ROI</span>
           <span class="giant-num num">${regression.spearman_acclaim_roi.rho > 0 ? '+' : '−'}${fmtNum(Math.abs(regression.spearman_acclaim_roi.rho), 2)}</span>
           <span class="micro">p = ${fmtNum(regression.spearman_acclaim_roi.p_value, 3)} · N = ${regression.n}</span></div>
-        <div class="dl-stat"><span class="micro">TEN METASCORE POINTS BUY</span>
+        <div class="dl-stat"><span class="micro">TEN METASCORE POINTS ≈</span>
           <span class="giant-num num">×${fmtNum(upliftPerTenMeta, 2)}</span>
           <span class="micro">ON THE REVENUE MULTIPLE</span></div>
       </div>

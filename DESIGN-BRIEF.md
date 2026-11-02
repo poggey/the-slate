@@ -36,16 +36,16 @@ Utility pair in every grade: profit `#2FA36B`, loss `#E04E39` — data only, nev
 
 ## 2. The story the data actually tells (this is the site's script)
 
-The whitepaper predicted acclaim wouldn't pay (H2). **The data rejected that.** The guide says to write the verdict whichever way the numbers fell — so the site's third act is a *twist*, and the interactive centrepiece (Draw the Line) is built for it: most visitors will draw the cynical flat line, and the real line rises.
+The whitepaper predicted acclaim wouldn't track returns (H2). **The data rejected that.** The guide says to write the verdict whichever way the numbers fell — so the site's third act is a *twist*, and the interactive centrepiece (Draw the Line) is built for it: most visitors will draw the cynical flat line, and the real line rises.
 
 All figures from `output/slate.json` (base-case assumptions, core sample n=58, real 2025 USD):
 
 - **The portfolio:** 118 films tracked, 58 in the core sample. **$1.62B deployed. Net profit: −$37M.** The whole studio, one rounding error from break-even.
 - **H1 — confirmed, violently.** Mean ROI **+191%**, median **−10%**. Skew 4.62, excess kurtosis 23.8. Gini 0.63. **Five films — Backrooms, Hereditary, Lady Bird, Moonlight, Everything Everywhere All at Once — account for ~65% of every dollar of profit ever made.** Only 43% of films made money. This is a venture fund wearing a film studio's clothes.
-- **H2 — rejected. Acclaim pays.** Metascore β = **+0.047** (robust SE 0.018, **p = 0.008**, std β 0.32): ten Metascore points ≈ +60% on the revenue multiple. Spearman ρ = **0.32** (p = 0.017). And it survives *all 13 sensitivity runs* (β 0.046–0.047, p ≤ 0.008 in every one).
-- **H3 — the real villain is scale.** ln(budget) β = **−0.74, p = 0.0006** — the strongest factor in the model (std β −0.50). Budget bands: **<$5M → +579%**, $5–15M → +98%, **>$15M → −29%**. Horror over-indexes (+1.56, p = 0.047; mean ROI +291%).
+- **H2 — rejected. Acclaim is associated with higher returns.** Metascore β = **+0.047** (robust SE 0.018, **p = 0.008**, std β 0.32): ten Metascore points ≈ +60% on the revenue multiple. Spearman ρ = **0.32** (p = 0.017). And it survives *all 13 sensitivity runs* (β 0.046–0.047, p ≤ 0.008 in every one).
+- **H3 — scale is associated with lower returns.** ln(budget) β = **−0.74, p = 0.0006** — the strongest association in the model (std β −0.50). Budget bands: **<$5M → +579%**, $5–15M → +98%, **>$15M → −29%**. Horror over-indexes (+1.56, p = 0.047; mean ROI +291%).
 - **The fund story:** the slate-year fund value peaks at **67.6×** in 2019, then the scale-up era (White Noise −$220M, Beau Is Afraid −$65M) produces a **−99.8% drawdown** to 0.15× by 2025. Sharpe-analogue 0.29 (film), 0.36 (year). Sortino 3.92. VaR(5%) −95%.
-- **The verdict in one line:** **GOOD PAYS. BIG DOESN'T.** A24's crisis isn't that it makes art — art is a measurable, robust return factor. It's that it started making *expensive* art.
+- **The verdict in one line:** **GOOD FILMS EARNED MORE. BIG ONES DIDN'T.** A24's crisis isn't that it makes art — acclaim is robustly associated with higher returns. It's that it started making *expensive* art.
 
 The quadrant epilogue: dream 18 / subsidised prestige 18 / cash cow 7 / miss 14 — art and commerce coexist more than the cynics expect, but the misses got dearer.
 
@@ -74,7 +74,7 @@ Nothing here is unclear enough to stop for; direction is obvious from the guide.
 | 2 | **INT. THE ACCOUNTS — NIGHT** (Act II) | G2 | **The Cut**: a $100M gross bar sliced under scroll — exhibitors' half falls away, marketing burns, the sliver remains. Camera-report cards cite the real formula + assumption IDs. |
 | 3 | **EXT. THE LONG TAIL — LATER** (Act II→III bridge) | G2→G3 | **The Tail**: Reel rises into the ROI histogram; the page travels an uncomfortably long distance to the outlier. Knockout word: **SKEW**. Landing stat: five films paid for everything. |
 | 4 | **INT. THE VERDICT ROOM — MIDNIGHT** (Act III) | G3 | **Draw the Line** — the centrepiece. Reader draws their expected acclaim→profit line; the real vermilion regression rises against their ghost. β, band, robustness. Then the counter-punch: **the budget chart** (+579% / +98% / −29%). |
-| 5 | **THE VERDICT** | G4 | 2×2 quadrant assembles from the four corners; films drift home. The Reel signs the enormous closing line: **GOOD PAYS. BIG DOESN'T.** 2.39:1 letterbox moment. |
+| 5 | **THE VERDICT** | G4 | 2×2 quadrant assembles from the four corners; films drift home. The Reel signs the enormous closing line: **GOOD FILMS EARNED MORE. BIG ONES DIDN'T.** 2.39:1 letterbox moment. |
 | 6 | **CREDITS** | G4 | Rolling credits: interactive assumptions register A1–A7 (each row expands to its tested range + "conclusion survived"), limitations, sources, repo card. "No numbers were harmed." |
 
 **Persistent layer:** the Reel (one SVG path, morphed via GSAP); the timecode ticker strip (`TC 00:01:42:18` · act · running portfolio value); cigarette-burn cue dots at act breaks; grain + vignette on dark grades; grade cross-fade driven by scroll.
